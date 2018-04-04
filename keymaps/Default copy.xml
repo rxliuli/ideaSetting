@@ -1,10 +1,20 @@
 <keymap version="1" name="Default copy" parent="$default">
-  <action id="$ChooseTranslatorAction" />
-  <action id="$EditorTranslateAction" />
-  <action id="$ShowTranslationDialogAction" />
-  <action id="$TranslateAndReplaceAction" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="ECTranslation">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="control alt button1" />
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
+  <action id="GotoTypeDeclaration">
+    <mouse-shortcut keystroke="shift control button1" />
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
+  <action id="IgnoreChoicesGroup">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
