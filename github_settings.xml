@@ -1,5 +1,6 @@
 <application>
   <component name="GithubSettings">
     <option name="AUTH_TYPE" value="TOKEN" />
+    <option name="ANONYMOUS_GIST" value="true" />
   </component>
 </application>
