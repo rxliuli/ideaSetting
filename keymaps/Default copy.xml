@@ -25,4 +25,6 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
+  <action id="action.DialogTranslateAction" />
+  <action id="action.impl.Translator" />
 </keymap>
