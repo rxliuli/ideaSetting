@@ -17,6 +17,5 @@
     <EXCLUDED_PACKAGE NAME="org.elasticsearch.index.mapper.object.ObjectMapper" />
     <EXCLUDED_PACKAGE NAME="org.elasticsearch.indices.recovery.RecoveryState.File" />
     <EXCLUDED_PACKAGE NAME="org.springframework.util.StringUtils" />
-    <EXCLUDED_PACKAGE NAME="sun.*" />
   </component>
 </application>
