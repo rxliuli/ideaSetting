@@ -1,5 +1,21 @@
 <application>
   <component name="CodeInsightSettings">
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="com.alibaba.druid.support.logging.LogFactory" />
+    <EXCLUDED_PACKAGE NAME="com.alibaba.druid.util.StringUtils" />
+    <EXCLUDED_PACKAGE NAME="com.sun.*" />
+    <EXCLUDED_PACKAGE NAME="com.sun.tools.javac.util.List" />
+    <EXCLUDED_PACKAGE NAME="java.sql.Date" />
+    <EXCLUDED_PACKAGE NAME="microsoft.exchange.webservices.data.core.ExchangeService" />
+    <EXCLUDED_PACKAGE NAME="microsoft.exchange.webservices.data.property.complex.Attachment" />
+    <EXCLUDED_PACKAGE NAME="org.apache.commons.lang.*" />
+    <EXCLUDED_PACKAGE NAME="org.apache.ibatis.logging.LogFactory" />
+    <EXCLUDED_PACKAGE NAME="org.apache.lucene.index.IndexNotFoundException" />
+    <EXCLUDED_PACKAGE NAME="org.apache.poi.hmef.Attachment" />
+    <EXCLUDED_PACKAGE NAME="org.elasticsearch.action.fieldstats.FieldStats.Date" />
+    <EXCLUDED_PACKAGE NAME="org.elasticsearch.gateway.AsyncShardFetch.List" />
+    <EXCLUDED_PACKAGE NAME="org.elasticsearch.index.mapper.object.ObjectMapper" />
+    <EXCLUDED_PACKAGE NAME="org.elasticsearch.indices.recovery.RecoveryState.File" />
+    <EXCLUDED_PACKAGE NAME="org.springframework.util.StringUtils" />
   </component>
 </application>
