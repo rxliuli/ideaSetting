@@ -20,7 +20,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="loggerError" value="$loggerInstance$.error(&quot;$errorMessage$&quot;, e);" toReformat="false" toShortenFQNames="true">
+  <template name="loggerError" value="$loggerInstance$.error(&quot;$errorMessage$&quot;, e);" description="" toReformat="false" toShortenFQNames="true">
     <variable name="loggerInstance" expression="" defaultValue="&quot;logger&quot;" alwaysStopAt="true" />
     <variable name="errorMessage" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
