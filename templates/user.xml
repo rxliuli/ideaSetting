@@ -9,4 +9,22 @@
       <option name="XML_TEXT" value="true" />
     </context>
   </template>
+  <template name="loggerPSF" value="private static final Logger LOGGER = LoggerFactory.getLogger($className$.class);&#10;" description="private static slf4j logger instance" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="loggerPF" value="private final Logger logger = LoggerFactory.getLogger(getClass());&#10;" description="private static slf4j logger instance" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="loggerError" value="$loggerInstance$.error(&quot;$errorMessage$&quot;, e);" toReformat="false" toShortenFQNames="true">
+    <variable name="loggerInstance" expression="" defaultValue="&quot;logger&quot;" alwaysStopAt="true" />
+    <variable name="errorMessage" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
