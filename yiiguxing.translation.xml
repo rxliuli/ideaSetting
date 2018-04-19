@@ -3,6 +3,26 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Optional Data Exception" />
+      <item value="format. Note that there is a * significant difference between writing a String into the stream as" />
+      <item value="&lt;a href=&quot;DataInput.html#modified-utf-8&quot;&gt;modified UTF-8&lt;/a&gt;" />
+      <item value="Primitive data write of this String in" />
+      <item value="test Deserialization Dat" />
+      <item value="test Derialization Dat" />
+      <item value="test Derialization" />
+      <item value="test Derializab" />
+      <item value="XML Encoder" />
+      <item value="XML Decoder" />
+      <item value="test Deserialization XML" />
+      <item value="反序列化" />
+      <item value="test Serializable" />
+      <item value="test Serial" />
+      <item value="test Seria" />
+      <item value="java.lang.InstantiationException: java.util.Arrays$ArrayList" />
+      <item value="java.lang.Exception: XMLEncoder: discarding statement XMLEncoder.writeObject(Arrays$ArrayList); Continuing ..." />
+      <item value="XMLEncoder: discarding statement XMLEncoder.writeObject(Arrays$ArrayList);" />
+      <item value="use serialVersionUID from JDK 1.0.2 for interoperability" />
+      <item value="版本" />
       <item value="Password Digest Util" />
       <item value="rd Digest Util" />
       <item value="Adds an intention to allow the conversion of '+' into Logger.info formats with '{}'." />
