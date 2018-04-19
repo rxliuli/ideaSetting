@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="serialization Dat" />
+      <item value="deserialization Dat" />
+      <item value="derialization Dat" />
       <item value="serialization" />
       <item value="Optional Data Exception" />
       <item value="format. Note that there is a * significant difference between writing a String into the stream as" />
