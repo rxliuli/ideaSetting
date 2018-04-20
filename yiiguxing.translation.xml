@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="instance representing the primitive type" />
       <item value="AUDIT STATE SUCCESS" />
       <item value="AUDIT STATE FAILURE" />
       <item value="net.sourceforge.tess4j.TesseractException: java.lang.RuntimeException: com/sun/jna/Function$PointerArray" />
@@ -52,7 +53,6 @@
       <item value="XML Encoder" />
       <item value="XML Decoder" />
       <item value="test Deserialization XML" />
-      <item value="反序列化" />
     </histories>
   </component>
 </application>
