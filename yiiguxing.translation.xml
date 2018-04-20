@@ -3,6 +3,45 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Failed" />
+      <item value="/** * Retrieves, but does not remove, the head of this queue, * or returns {@code null} if this queue is empty." />
+      <item value="Retrieves and removes the head of this queue, * or returns {@code null} if this queue is empty." />
+      <item value="Retrieves and removes the head of this queue. This method differs * from {@link #poll poll} only in that it throws an exception if this * queue is empty." />
+      <item value="* Returns the number of additional elements that this queue can ideally * (in the absence of memory or resource constraints) accept without * blocking, or {@code Integer.MAX_VALUE} if there is no intrinsic" />
+      <item value="Retrieves and removes the head of this queue, waiting up to the * specified wait time if necessary for an element to become available." />
+      <item value="Removes a single instance of the specified element from this queue, * if it is present. More formally, removes an element {@code e} such * that {@code o.equals(e)}, if this queue contains one or more such * elements." />
+      <item value="* Returns the number of additional elements that this queue can ideally * (in the absence of memory or resource constraints) accept without * blocking, or {@code Integer.MAX_VALUE} if there is no intrinsic * limit." />
+      <item value="Returns the number of additional elements that this queue can ideally * (in the absence of memory or resource constraints) accept without * blocking, or {@code Integer.MAX_VALUE} if there is no intrinsic * limit." />
+      <item value="Returns the number of additional elements that this queue can ideally * (in the absence of memory or resource constraints) accept without" />
+      <item value="Removes a single instance of the specified element from this queue, * if it is present. More formally, removes an element {@code e} such * that {@code o.equals(e)}, if this queue contains one or more such" />
+      <item value="Returns the number of additional elements that this queue can ideally" />
+      <item value="Retrieves and removes the head of this queue, waiting if necessary * until an element becomes available." />
+      <item value="/** * Inserts the specified element into this queue if it is possible to do * so immediately without violating capacity restrictions, returning * {@code true} upon success and {@code false} if no space is currently * available. When using a capacity-restricted queue, this method is * generally preferable to {@link #add}, which can fail to insert an * element only by throwing an exception. * * @param e the element to add * @return {@code true} if the element was added to this queue, else * {@code false} * @throws ClassCastException if the class of the specified element * prevents it from being added to this queue * @throws NullPointerException if the specified element is null * @throws IllegalArgumentException if some property of the specified * element prevents it from being added to this queue" />
+      <item value="Not Serializable Exception" />
+      <item value="status haveread" />
+      <item value="DB Structure" />
+      <item value="forward" />
+      <item value="Spring Java Injection Points Autowiring Inspection" />
+      <item value="instance representing the primitive type" />
+      <item value="AUDIT STATE SUCCESS" />
+      <item value="AUDIT STATE FAILURE" />
+      <item value="net.sourceforge.tess4j.TesseractException: java.lang.RuntimeException: com/sun/jna/Function$PointerArray" />
+      <item value="Could not initialize class com.zx.edse.common.config.structure.DBStructure" />
+      <item value="Failed to invoke public com.zx.edse.common.system.entity.SysUsers() with no args" />
+      <item value="No Class Def Found Error" />
+      <item value="serialization Queue" />
+      <item value="deserialization Queue" />
+      <item value="结束" />
+      <item value="delete Directory" />
+      <item value="Deletes a file, never throwing an exception. If file is a directory, delete it and all sub-directories." />
+      <item value="delete Quietly" />
+      <item value="force Delete" />
+      <item value="gson From" />
+      <item value="${ gson . version }" />
+      <item value="serialization Dat" />
+      <item value="com . zx . edse . ds . taskrepository . entity . Doc Personal Publish Task" />
+      <item value="Array Deque" />
+      <item value="dependencies" />
       <item value="declares multiple JSON fields named type" />
       <item value="this specifies which animal it is" />
       <item value="Define location with sdk.dir in the local.properties file or with an ANDROID_HOME environment variable." />
@@ -14,44 +53,6 @@
       <item value="Employee" />
       <item value="Emp" />
       <item value="* distributed under the License is distributed on an &quot;AS IS&quot; BASIS, * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. * See the License for the specific language governing permissions and * limitations under the License." />
-      <item value="Unless required by applicable law or agreed to in writing, software" />
-      <item value="test Deserialization From File" />
-      <item value="Represents a supplier of results." />
-      <item value="using" />
-      <item value="serialization Dat" />
-      <item value="deserialization Dat" />
-      <item value="derialization Dat" />
-      <item value="serialization" />
-      <item value="Optional Data Exception" />
-      <item value="format. Note that there is a * significant difference between writing a String into the stream as" />
-      <item value="&lt;a href=&quot;DataInput.html#modified-utf-8&quot;&gt;modified UTF-8&lt;/a&gt;" />
-      <item value="Primitive data write of this String in" />
-      <item value="test Deserialization Dat" />
-      <item value="test Derialization Dat" />
-      <item value="test Derialization" />
-      <item value="test Derializab" />
-      <item value="XML Encoder" />
-      <item value="XML Decoder" />
-      <item value="test Deserialization XML" />
-      <item value="反序列化" />
-      <item value="test Serializable" />
-      <item value="test Serial" />
-      <item value="test Seria" />
-      <item value="java.lang.InstantiationException: java.util.Arrays$ArrayList" />
-      <item value="java.lang.Exception: XMLEncoder: discarding statement XMLEncoder.writeObject(Arrays$ArrayList); Continuing ..." />
-      <item value="XMLEncoder: discarding statement XMLEncoder.writeObject(Arrays$ArrayList);" />
-      <item value="use serialVersionUID from JDK 1.0.2 for interoperability" />
-      <item value="版本" />
-      <item value="Password Digest Util" />
-      <item value="rd Digest Util" />
-      <item value="Adds an intention to allow the conversion of '+' into Logger.info formats with '{}'." />
-      <item value="Full featured forked version of plugin &quot;Log Support&quot; which is not maintained for a long time. This plugin supports creating and managing log calls. Once installed the plugin makes using log frameworks as painless as printing to stdout. This is achieved with the addition of intentions, live templates and code inspections that support the most important aspects of the configured log framework. Whenever you'd attempt to write to stdout using &quot;sout + TAB&quot; you can now use &quot;logd + TAB&quot; to write a debug log line instead (other log levels are accessible via similarly named live templates). The plugin is aware of loggers that are currently reachable from the context and can also add new loggers if none are reachable. Creating log output remains the same no matter what log framework is used as all operations inside the bundled live templates are performed using the framework that was previously defined for the current project scope. Log calls are validated and optionally wrapped in conditional expressions if this is desired. On top of the basic feature set, enterprise class features like log ID and log review generation are available to help improving the overall quality of the generated log." />
-      <item value="context Birth" />
-      <item value="File Appender" />
-      <item value="appender" />
-      <item value="Birth" />
-      <item value="provided" />
-      <item value="get Parameter" />
     </histories>
   </component>
 </application>
