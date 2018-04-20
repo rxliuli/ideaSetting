@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="ENGLISH" />
+    <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="serialization Queue" />
+      <item value="deserialization Queue" />
       <item value="结束" />
       <item value="delete Directory" />
       <item value="Deletes a file, never throwing an exception. If file is a directory, delete it and all sub-directories." />
@@ -51,8 +53,6 @@
       <item value="java.lang.InstantiationException: java.util.Arrays$ArrayList" />
       <item value="java.lang.Exception: XMLEncoder: discarding statement XMLEncoder.writeObject(Arrays$ArrayList); Continuing ..." />
       <item value="XMLEncoder: discarding statement XMLEncoder.writeObject(Arrays$ArrayList);" />
-      <item value="use serialVersionUID from JDK 1.0.2 for interoperability" />
-      <item value="版本" />
     </histories>
   </component>
 </application>
