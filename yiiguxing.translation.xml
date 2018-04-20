@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Could not initialize class com.zx.edse.common.config.structure.DBStructure" />
+      <item value="Failed to invoke public com.zx.edse.common.system.entity.SysUsers() with no args" />
+      <item value="No Class Def Found Error" />
       <item value="serialization Queue" />
       <item value="deserialization Queue" />
       <item value="结束" />
@@ -50,9 +53,6 @@
       <item value="test Serializable" />
       <item value="test Serial" />
       <item value="test Seria" />
-      <item value="java.lang.InstantiationException: java.util.Arrays$ArrayList" />
-      <item value="java.lang.Exception: XMLEncoder: discarding statement XMLEncoder.writeObject(Arrays$ArrayList); Continuing ..." />
-      <item value="XMLEncoder: discarding statement XMLEncoder.writeObject(Arrays$ArrayList);" />
     </histories>
   </component>
 </application>
