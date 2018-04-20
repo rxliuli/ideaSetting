@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Not Serializable Exception" />
       <item value="status haveread" />
       <item value="DB Structure" />
       <item value="forward" />
@@ -23,7 +24,6 @@
       <item value="force Delete" />
       <item value="gson From" />
       <item value="${ gson . version }" />
-      <item value="Not Serializable Exception" />
       <item value="serialization Dat" />
       <item value="com . zx . edse . ds . taskrepository . entity . Doc Personal Publish Task" />
       <item value="Array Deque" />
