@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="AUDIT STATE SUCCESS" />
+      <item value="AUDIT STATE FAILURE" />
       <item value="net.sourceforge.tess4j.TesseractException: java.lang.RuntimeException: com/sun/jna/Function$PointerArray" />
       <item value="Could not initialize class com.zx.edse.common.config.structure.DBStructure" />
       <item value="Failed to invoke public com.zx.edse.common.system.entity.SysUsers() with no args" />
@@ -51,8 +53,6 @@
       <item value="XML Decoder" />
       <item value="test Deserialization XML" />
       <item value="反序列化" />
-      <item value="test Serializable" />
-      <item value="test Serial" />
     </histories>
   </component>
 </application>
