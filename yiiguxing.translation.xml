@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Failed" />
       <item value="/** * Retrieves, but does not remove, the head of this queue, * or returns {@code null} if this queue is empty." />
       <item value="Retrieves and removes the head of this queue, * or returns {@code null} if this queue is empty." />
       <item value="Retrieves and removes the head of this queue. This method differs * from {@link #poll poll} only in that it throws an exception if this * queue is empty." />
@@ -52,7 +53,6 @@
       <item value="Employee" />
       <item value="Emp" />
       <item value="* distributed under the License is distributed on an &quot;AS IS&quot; BASIS, * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. * See the License for the specific language governing permissions and * limitations under the License." />
-      <item value="Unless required by applicable law or agreed to in writing, software" />
     </histories>
   </component>
 </application>
