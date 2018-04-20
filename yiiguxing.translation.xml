@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Not Serializable Exception" />
+      <item value="serialization Dat" />
+      <item value="com . zx . edse . ds . taskrepository . entity . Doc Personal Publish Task" />
       <item value="Array Deque" />
       <item value="dependencies" />
       <item value="declares multiple JSON fields named type" />
@@ -20,7 +23,6 @@
       <item value="test Deserialization From File" />
       <item value="Represents a supplier of results." />
       <item value="using" />
-      <item value="serialization Dat" />
       <item value="deserialization Dat" />
       <item value="derialization Dat" />
       <item value="serialization" />
@@ -51,8 +53,6 @@
       <item value="context Birth" />
       <item value="File Appender" />
       <item value="appender" />
-      <item value="Birth" />
-      <item value="provided" />
     </histories>
   </component>
 </application>
