@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="status haveread" />
       <item value="DB Structure" />
       <item value="forward" />
       <item value="Spring Java Injection Points Autowiring Inspection" />
@@ -52,7 +53,6 @@
       <item value="test Deserialization Dat" />
       <item value="test Derialization Dat" />
       <item value="test Derialization" />
-      <item value="test Derializab" />
     </histories>
   </component>
 </application>
