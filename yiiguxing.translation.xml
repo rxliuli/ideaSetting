@@ -3,6 +3,14 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="do Get Authentication Info" />
+      <item value="explicitly" />
+      <item value="Realms have been explicitly" />
+      <item value="get Credentials" />
+      <item value="Authentication token of type [class org.apache.shiro.authc.UsernamePasswordToken] could not be authenticated by any configured realms. Please ensure that at least one realm can authenticate these tokens." />
+      <item value="org.apache.shiro.authc.AuthenticationException: Authentication token of type [class org.apache.shiro.authc.UsernamePasswordToken] could not be authenticated by any configured realms. Please ensure that at least one realm can authenticate these tokens." />
+      <item value="Please ensure that at least one realm can authenticate these tokens." />
+      <item value="Authentication Exception" />
       <item value="My Realm Secondly" />
       <item value="singleton" />
       <item value="single" />
@@ -45,14 +53,6 @@
       <item value="force Delete" />
       <item value="gson From" />
       <item value="${ gson . version }" />
-      <item value="serialization Dat" />
-      <item value="com . zx . edse . ds . taskrepository . entity . Doc Personal Publish Task" />
-      <item value="Array Deque" />
-      <item value="dependencies" />
-      <item value="declares multiple JSON fields named type" />
-      <item value="this specifies which animal it is" />
-      <item value="Define location with sdk.dir in the local.properties file or with an ANDROID_HOME environment variable." />
-      <item value="com.google.gson.JsonParseException: cannot deserialize class com.rxliuli.demo.common.example.entity.Person subtype named rxliuli; did you forget to register a subtype?" />
     </histories>
   </component>
 </application>
