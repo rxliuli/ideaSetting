@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="singleton" />
+      <item value="single" />
       <item value="test Single Realm" />
       <item value="test Singlet Realm" />
       <item value="test Singleton Realm" />
@@ -51,8 +53,6 @@
       <item value="Define location with sdk.dir in the local.properties file or with an ANDROID_HOME environment variable." />
       <item value="com.google.gson.JsonParseException: cannot deserialize class com.rxliuli.demo.common.example.entity.Person subtype named rxliuli; did you forget to register a subtype?" />
       <item value="subtype named rxliuli; did you forget to register a subtype?" />
-      <item value="because it does not define a field named type" />
-      <item value="cannot deserialize class com.rxliuli.demo.common.serializable.Person" />
     </histories>
   </component>
 </application>
