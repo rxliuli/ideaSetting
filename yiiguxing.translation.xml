@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="without" />
+      <item value="Security Manager" />
       <item value="do Get Authentication Info" />
       <item value="explicitly" />
       <item value="Realms have been explicitly" />
@@ -51,8 +53,6 @@
       <item value="Deletes a file, never throwing an exception. If file is a directory, delete it and all sub-directories." />
       <item value="delete Quietly" />
       <item value="force Delete" />
-      <item value="gson From" />
-      <item value="${ gson . version }" />
     </histories>
   </component>
 </application>
