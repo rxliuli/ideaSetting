@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="[22001][1292] Data truncation: Truncated incorrect DOUBLE value: '2018-04-23 18:45:00'" />
       <item value="user Trd Phase Time" />
       <item value="diff" />
       <item value="datediff" />
@@ -52,7 +53,6 @@
       <item value="No Class Def Found Error" />
       <item value="serialization Queue" />
       <item value="deserialization Queue" />
-      <item value="结束" />
     </histories>
   </component>
 </application>
