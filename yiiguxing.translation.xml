@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="DEFAULT ENCODE" />
       <item value="increase Integral" />
       <item value="shop User" />
       <item value="platform Income Amount" />
@@ -52,7 +53,6 @@
       <item value="Array Deque" />
       <item value="dependencies" />
       <item value="declares multiple JSON fields named type" />
-      <item value="this specifies which animal it is" />
     </histories>
   </component>
 </application>
