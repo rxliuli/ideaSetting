@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Audit Failure Pass Auth" />
       <item value="DEFAULT ENCODE" />
       <item value="increase Integral" />
       <item value="shop User" />
@@ -52,7 +53,6 @@
       <item value="com . zx . edse . ds . taskrepository . entity . Doc Personal Publish Task" />
       <item value="Array Deque" />
       <item value="dependencies" />
-      <item value="declares multiple JSON fields named type" />
     </histories>
   </component>
 </application>
