@@ -20,6 +20,28 @@
       <item value="test Singlet Realm" />
       <item value="test Singleton Realm" />
       <item value="Enabling session validation scheduler..." />
+      <item value="[22001][1292] Data truncation: Truncated incorrect DOUBLE value: '2018-04-23 18:45:00'" />
+      <item value="user Trd Phase Time" />
+      <item value="diff" />
+      <item value="datediff" />
+      <item value="date sub" />
+      <item value="Null ModelAndView returned to DispatcherServlet with name 'springServlet': assuming HandlerAdapter completed request handling" />
+      <item value="DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Written [com.yh.ss.common.entites.OperationResult@488b6e3] as &quot;application/json;charset=UTF-8&quot; using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@70ee516a]" />
+      <item value="read Back End Msg" />
+      <item value="business" />
+      <item value="business Shop" />
+      <item value="set Is Freeze" />
+      <item value="Audit Failure Pass Auth" />
+      <item value="DEFAULT ENCODE" />
+      <item value="increase Integral" />
+      <item value="shop User" />
+      <item value="platform Income Amount" />
+      <item value="integral" />
+      <item value="increase Balance" />
+      <item value="increase Freeze Balance" />
+      <item value="shop Return Money" />
+      <item value="cal Shall Actually Return Diff" />
+      <item value="took" />
       <item value="Failed" />
       <item value="/** * Retrieves, but does not remove, the head of this queue, * or returns {@code null} if this queue is empty." />
       <item value="Retrieves and removes the head of this queue, * or returns {@code null} if this queue is empty." />
@@ -53,6 +75,23 @@
       <item value="Deletes a file, never throwing an exception. If file is a directory, delete it and all sub-directories." />
       <item value="delete Quietly" />
       <item value="force Delete" />
+      <item value="gson From" />
+      <item value="${ gson . version }" />
+      <item value="serialization Dat" />
+      <item value="com . zx . edse . ds . taskrepository . entity . Doc Personal Publish Task" />
+      <item value="Array Deque" />
+      <item value="dependencies" />
+      <item value="declares multiple JSON fields named type" />
+      <item value="this specifies which animal it is" />
+      <item value="Define location with sdk.dir in the local.properties file or with an ANDROID_HOME environment variable." />
+      <item value="com.google.gson.JsonParseException: cannot deserialize class com.rxliuli.demo.common.example.entity.Person subtype named rxliuli; did you forget to register a subtype?" />
+      <item value="subtype named rxliuli; did you forget to register a subtype?" />
+      <item value="because it does not define a field named type" />
+      <item value="cannot deserialize class com.rxliuli.demo.common.serializable.Person" />
+      <item value="Not a JSON Object:" />
+      <item value="Employee" />
+      <item value="Emp" />
+      <item value="* distributed under the License is distributed on an &quot;AS IS&quot; BASIS, * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. * See the License for the specific language governing permissions and * limitations under the License." />
     </histories>
   </component>
 </application>
