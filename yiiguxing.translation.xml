@@ -3,6 +3,12 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="integral" />
+      <item value="increase Balance" />
+      <item value="increase Integral" />
+      <item value="increase Freeze Balance" />
+      <item value="shop Return Money" />
+      <item value="cal Shall Actually Return Diff" />
       <item value="took" />
       <item value="Failed" />
       <item value="/** * Retrieves, but does not remove, the head of this queue, * or returns {@code null} if this queue is empty." />
@@ -47,12 +53,6 @@
       <item value="this specifies which animal it is" />
       <item value="Define location with sdk.dir in the local.properties file or with an ANDROID_HOME environment variable." />
       <item value="com.google.gson.JsonParseException: cannot deserialize class com.rxliuli.demo.common.example.entity.Person subtype named rxliuli; did you forget to register a subtype?" />
-      <item value="subtype named rxliuli; did you forget to register a subtype?" />
-      <item value="because it does not define a field named type" />
-      <item value="cannot deserialize class com.rxliuli.demo.common.serializable.Person" />
-      <item value="Not a JSON Object:" />
-      <item value="Employee" />
-      <item value="Emp" />
     </histories>
   </component>
 </application>
