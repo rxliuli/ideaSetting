@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="took" />
       <item value="Failed" />
       <item value="/** * Retrieves, but does not remove, the head of this queue, * or returns {@code null} if this queue is empty." />
       <item value="Retrieves and removes the head of this queue, * or returns {@code null} if this queue is empty." />
@@ -52,7 +53,6 @@
       <item value="Not a JSON Object:" />
       <item value="Employee" />
       <item value="Emp" />
-      <item value="* distributed under the License is distributed on an &quot;AS IS&quot; BASIS, * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. * See the License for the specific language governing permissions and * limitations under the License." />
     </histories>
   </component>
 </application>
