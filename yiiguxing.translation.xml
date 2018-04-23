@@ -3,6 +3,10 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="read Back End Msg" />
+      <item value="business" />
+      <item value="business Shop" />
+      <item value="set Is Freeze" />
       <item value="Audit Failure Pass Auth" />
       <item value="DEFAULT ENCODE" />
       <item value="increase Integral" />
@@ -49,10 +53,6 @@
       <item value="force Delete" />
       <item value="gson From" />
       <item value="${ gson . version }" />
-      <item value="serialization Dat" />
-      <item value="com . zx . edse . ds . taskrepository . entity . Doc Personal Publish Task" />
-      <item value="Array Deque" />
-      <item value="dependencies" />
     </histories>
   </component>
 </application>
