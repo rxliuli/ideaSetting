@@ -3,6 +3,12 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="INFO org.apache.shiro.session.mgt.AbstractValidatingSessionManager - Enabling session validation schedul" />
+      <item value="authenticator Strategy" />
+      <item value="AuthenticationToken} instance, &lt;tt&gt;false&lt;/tt&gt; otherwise." />
+      <item value="Returns &lt;tt&gt;true&lt;/tt&gt; if this realm wishes to authenticate the Subject represented by the given" />
+      <item value="supports" />
+      <item value="All Successful Strategy" />
       <item value="[22001][1292] Data truncation: Truncated incorrect DOUBLE value: '2018-04-23 18:45:00'" />
       <item value="user Trd Phase Time" />
       <item value="diff" />
@@ -47,12 +53,6 @@
       <item value="instance representing the primitive type" />
       <item value="AUDIT STATE SUCCESS" />
       <item value="AUDIT STATE FAILURE" />
-      <item value="net.sourceforge.tess4j.TesseractException: java.lang.RuntimeException: com/sun/jna/Function$PointerArray" />
-      <item value="Could not initialize class com.zx.edse.common.config.structure.DBStructure" />
-      <item value="Failed to invoke public com.zx.edse.common.system.entity.SysUsers() with no args" />
-      <item value="No Class Def Found Error" />
-      <item value="serialization Queue" />
-      <item value="deserialization Queue" />
     </histories>
   </component>
 </application>
