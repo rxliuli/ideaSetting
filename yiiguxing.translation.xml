@@ -53,20 +53,6 @@
       <item value="Returns the number of additional elements that this queue can ideally" />
       <item value="Retrieves and removes the head of this queue, waiting if necessary * until an element becomes available." />
       <item value="/** * Inserts the specified element into this queue if it is possible to do * so immediately without violating capacity restrictions, returning * {@code true} upon success and {@code false} if no space is currently * available. When using a capacity-restricted queue, this method is * generally preferable to {@link #add}, which can fail to insert an * element only by throwing an exception. * * @param e the element to add * @return {@code true} if the element was added to this queue, else * {@code false} * @throws ClassCastException if the class of the specified element * prevents it from being added to this queue * @throws NullPointerException if the specified element is null * @throws IllegalArgumentException if some property of the specified * element prevents it from being added to this queue" />
-      <item value="Not Serializable Exception" />
-      <item value="status haveread" />
-      <item value="DB Structure" />
-      <item value="forward" />
-      <item value="Spring Java Injection Points Autowiring Inspection" />
-      <item value="instance representing the primitive type" />
-      <item value="AUDIT STATE SUCCESS" />
-      <item value="AUDIT STATE FAILURE" />
-      <item value="net.sourceforge.tess4j.TesseractException: java.lang.RuntimeException: com/sun/jna/Function$PointerArray" />
-      <item value="Could not initialize class com.zx.edse.common.config.structure.DBStructure" />
-      <item value="Failed to invoke public com.zx.edse.common.system.entity.SysUsers() with no args" />
-      <item value="No Class Def Found Error" />
-      <item value="serialization Queue" />
-      <item value="deserialization Queue" />
     </histories>
   </component>
 </application>
