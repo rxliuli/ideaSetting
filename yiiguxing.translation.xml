@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="section" />
+      <item value="transition" />
       <item value="get Page Sys Message" />
       <item value="INFO org.apache.shiro.session.mgt.AbstractValidatingSessionManager - Enabling session validation schedul" />
       <item value="authenticator Strategy" />
@@ -51,8 +53,6 @@
       <item value="DB Structure" />
       <item value="forward" />
       <item value="Spring Java Injection Points Autowiring Inspection" />
-      <item value="instance representing the primitive type" />
-      <item value="AUDIT STATE SUCCESS" />
     </histories>
   </component>
 </application>
