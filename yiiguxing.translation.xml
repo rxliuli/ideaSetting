@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="ENGLISH" />
     <histories>
+      <item value="拼接" />
+      <item value="parameters" />
       <item value="设置消息的状态为已读" />
       <item value="renderer" />
       <item value="docFileUI is not defined" />
@@ -51,8 +53,6 @@
       <item value="read Back End Msg" />
       <item value="business" />
       <item value="business Shop" />
-      <item value="set Is Freeze" />
-      <item value="Audit Failure Pass Auth" />
     </histories>
   </component>
 </application>
