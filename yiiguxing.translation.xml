@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Unauthorized Exception" />
       <item value="test Authentication" />
       <item value="loading" />
       <item value="loadding" />
@@ -52,7 +53,6 @@
       <item value="Returns the number of additional elements that this queue can ideally * (in the absence of memory or resource constraints) accept without" />
       <item value="Removes a single instance of the specified element from this queue, * if it is present. More formally, removes an element {@code e} such * that {@code o.equals(e)}, if this queue contains one or more such" />
       <item value="Returns the number of additional elements that this queue can ideally" />
-      <item value="Retrieves and removes the head of this queue, waiting if necessary * until an element becomes available." />
     </histories>
   </component>
 </application>
