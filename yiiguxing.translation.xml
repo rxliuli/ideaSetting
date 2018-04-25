@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="is Same Day" />
+      <item value="同一天" />
+      <item value="to Locale Date String" />
       <item value="test Is Permission" />
       <item value="has All Roles" />
       <item value="org.apache.shiro.config.ConfigurationException: Unable to instantiate class [123456,role1,role2] for object named 'rxliuli'. Please ensure you've specified the fully qualified class name correctly." />
@@ -50,9 +53,6 @@
       <item value="* Returns the number of additional elements that this queue can ideally * (in the absence of memory or resource constraints) accept without * blocking, or {@code Integer.MAX_VALUE} if there is no intrinsic" />
       <item value="Retrieves and removes the head of this queue, waiting up to the * specified wait time if necessary for an element to become available." />
       <item value="Removes a single instance of the specified element from this queue, * if it is present. More formally, removes an element {@code e} such * that {@code o.equals(e)}, if this queue contains one or more such * elements." />
-      <item value="* Returns the number of additional elements that this queue can ideally * (in the absence of memory or resource constraints) accept without * blocking, or {@code Integer.MAX_VALUE} if there is no intrinsic * limit." />
-      <item value="Returns the number of additional elements that this queue can ideally * (in the absence of memory or resource constraints) accept without * blocking, or {@code Integer.MAX_VALUE} if there is no intrinsic * limit." />
-      <item value="Returns the number of additional elements that this queue can ideally * (in the absence of memory or resource constraints) accept without" />
     </histories>
   </component>
 </application>
