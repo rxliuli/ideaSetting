@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="has All Roles" />
+      <item value="org.apache.shiro.config.ConfigurationException: Unable to instantiate class [123456,role1,role2] for object named 'rxliuli'. Please ensure you've specified the fully qualified class name correctly." />
+      <item value="subject" />
       <item value="loading" />
       <item value="loadding" />
       <item value="callback Function" />
@@ -50,9 +53,6 @@
       <item value="Returns the number of additional elements that this queue can ideally * (in the absence of memory or resource constraints) accept without * blocking, or {@code Integer.MAX_VALUE} if there is no intrinsic * limit." />
       <item value="Returns the number of additional elements that this queue can ideally * (in the absence of memory or resource constraints) accept without" />
       <item value="Removes a single instance of the specified element from this queue, * if it is present. More formally, removes an element {@code e} such * that {@code o.equals(e)}, if this queue contains one or more such" />
-      <item value="Returns the number of additional elements that this queue can ideally" />
-      <item value="Retrieves and removes the head of this queue, waiting if necessary * until an element becomes available." />
-      <item value="/** * Inserts the specified element into this queue if it is possible to do * so immediately without violating capacity restrictions, returning * {@code true} upon success and {@code false} if no space is currently * available. When using a capacity-restricted queue, this method is * generally preferable to {@link #add}, which can fail to insert an * element only by throwing an exception. * * @param e the element to add * @return {@code true} if the element was added to this queue, else * {@code false} * @throws ClassCastException if the class of the specified element * prevents it from being added to this queue * @throws NullPointerException if the specified element is null * @throws IllegalArgumentException if some property of the specified * element prevents it from being added to this queue" />
     </histories>
   </component>
 </application>
