@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check" />
+      <item value="on the main thread is deprecated because of its detrimental effects to the end user's experience." />
+      <item value="sysMessage.createTime.format is not a function" />
       <item value="is Same Day" />
       <item value="同一天" />
       <item value="to Locale Date String" />
@@ -50,9 +53,6 @@
       <item value="/** * Retrieves, but does not remove, the head of this queue, * or returns {@code null} if this queue is empty." />
       <item value="Retrieves and removes the head of this queue, * or returns {@code null} if this queue is empty." />
       <item value="Retrieves and removes the head of this queue. This method differs * from {@link #poll poll} only in that it throws an exception if this * queue is empty." />
-      <item value="* Returns the number of additional elements that this queue can ideally * (in the absence of memory or resource constraints) accept without * blocking, or {@code Integer.MAX_VALUE} if there is no intrinsic" />
-      <item value="Retrieves and removes the head of this queue, waiting up to the * specified wait time if necessary for an element to become available." />
-      <item value="Removes a single instance of the specified element from this queue, * if it is present. More formally, removes an element {@code e} such * that {@code o.equals(e)}, if this queue contains one or more such * elements." />
     </histories>
   </component>
 </application>
