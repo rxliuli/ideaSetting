@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="lastTargetLanguage" value="ENGLISH" />
     <histories>
+      <item value="设置消息的状态为已读" />
       <item value="renderer" />
       <item value="docFileUI is not defined" />
       <item value="Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more" />
@@ -52,7 +53,6 @@
       <item value="business Shop" />
       <item value="set Is Freeze" />
       <item value="Audit Failure Pass Auth" />
-      <item value="DEFAULT ENCODE" />
     </histories>
   </component>
 </application>
