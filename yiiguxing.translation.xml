@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="ENGLISH" />
+    <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="beta" />
       <item value="拼接" />
       <item value="parameters" />
       <item value="设置消息的状态为已读" />
@@ -52,7 +53,6 @@
       <item value="DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Written [com.yh.ss.common.entites.OperationResult@488b6e3] as &quot;application/json;charset=UTF-8&quot; using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@70ee516a]" />
       <item value="read Back End Msg" />
       <item value="business" />
-      <item value="business Shop" />
     </histories>
   </component>
 </application>
