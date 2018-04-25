@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="max Page Prompt" />
       <item value="XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check" />
       <item value="on the main thread is deprecated because of its detrimental effects to the end user's experience." />
       <item value="sysMessage.createTime.format is not a function" />
@@ -52,7 +53,6 @@
       <item value="Failed" />
       <item value="/** * Retrieves, but does not remove, the head of this queue, * or returns {@code null} if this queue is empty." />
       <item value="Retrieves and removes the head of this queue, * or returns {@code null} if this queue is empty." />
-      <item value="Retrieves and removes the head of this queue. This method differs * from {@link #poll poll} only in that it throws an exception if this * queue is empty." />
     </histories>
   </component>
 </application>
