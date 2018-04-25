@@ -3,6 +3,12 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@495d3dc6] 10:51:16.075 [Thread-32] DEBUG o.s.j.d.DataSourceUtils - Returning J" />
+      <item value="Returning JDBC Connection to DataSource" />
+      <item value="Releasing JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@32bb014b] after transaction" />
+      <item value="Committing JDBC transaction on Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@32bb014b] 10" />
+      <item value="Initiating transaction commit" />
+      <item value="Closing non transactional SqlSession" />
       <item value="max Page Prompt" />
       <item value="XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check" />
       <item value="on the main thread is deprecated because of its detrimental effects to the end user's experience." />
@@ -47,12 +53,6 @@
       <item value="integral" />
       <item value="increase Balance" />
       <item value="increase Freeze Balance" />
-      <item value="shop Return Money" />
-      <item value="cal Shall Actually Return Diff" />
-      <item value="took" />
-      <item value="Failed" />
-      <item value="/** * Retrieves, but does not remove, the head of this queue, * or returns {@code null} if this queue is empty." />
-      <item value="Retrieves and removes the head of this queue, * or returns {@code null} if this queue is empty." />
     </histories>
   </component>
 </application>
