@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="audit" />
+      <item value="get Needaudit" />
       <item value="Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@495d3dc6] 10:51:16.075 [Thread-32] DEBUG o.s.j.d.DataSourceUtils - Returning J" />
       <item value="Returning JDBC Connection to DataSource" />
       <item value="Releasing JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@32bb014b] after transaction" />
@@ -51,8 +53,6 @@
       <item value="shop User" />
       <item value="platform Income Amount" />
       <item value="integral" />
-      <item value="increase Balance" />
-      <item value="increase Freeze Balance" />
     </histories>
   </component>
 </application>
