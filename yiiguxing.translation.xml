@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="renderer" />
       <item value="docFileUI is not defined" />
       <item value="Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more" />
       <item value="substring After Last" />
@@ -52,7 +53,6 @@
       <item value="set Is Freeze" />
       <item value="Audit Failure Pass Auth" />
       <item value="DEFAULT ENCODE" />
-      <item value="increase Integral" />
     </histories>
   </component>
 </application>
