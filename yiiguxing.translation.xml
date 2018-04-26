@@ -3,6 +3,10 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Constructor threw exception; nested exception is java.lang.NoClassDefFoundError: org/aspectj/lang/annotation/Around" />
+      <item value="Failed to instantiate [org.springframework.aop.aspectj.annotation.AnnotationAwareAspectJAutoProxyCreator]: Constructor threw exception; nested exception is java.lang.NoClassDefFoundError: org/aspectj/lang/annotation/Around" />
+      <item value="Instantiation of bean failed" />
+      <item value="Exception encountered during context" />
       <item value="java . lang . No Class Def Found Error" />
       <item value="Error creating bean with name 'org.springframework.aop.config.internalAutoProxyCreator': Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.aop.aspectj.annotation.AnnotationAwareAspectJAutoProxyCreator]: Constructor threw exception; nested exception is java.lang.NoClassDefFoundError: org/aspectj/lang/annotation/Around" />
       <item value="ERROR o.s.w.c.ContextLoader - Context initialization failed" />
@@ -49,10 +53,6 @@
       <item value="XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check" />
       <item value="on the main thread is deprecated because of its detrimental effects to the end user's experience." />
       <item value="sysMessage.createTime.format is not a function" />
-      <item value="is Same Day" />
-      <item value="同一天" />
-      <item value="to Locale Date String" />
-      <item value="test Is Permission" />
     </histories>
   </component>
 </application>
