@@ -3,6 +3,17 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Sets the CrendialsMatcher used during an authentication attempt to verify submitted credentials with those * stored in the system. The implementation of this matcher can be switched via configuration to * support any number of schemes, including plain text comparisons, hashing comparisons, and others." />
+      <item value="* Sets the CrendialsMatcher used during an authentication attempt to verify submitted credentials with those * stored in the system. The implementation of this matcher can be switched via configuration to * support any number of schemes, including plain text comparisons, hashing comparisons, and others. * &lt;p/&gt; * &lt;p&gt;Unless overridden by this method, the default value is a" />
+      <item value="a" />
+      <item value="Sets the CrendialsMatcher used during an authentication attempt to verify submitted credentials with those * stored in the system. The implementation of this matcher can be switched via configuration to * support any number of schemes, including plain text comparisons, hashing comparisons, and others. * &lt;p/&gt; * &lt;p&gt;Unless overridden by this method, the default value is a" />
+      <item value="Sets the CrendialsMatcher used during an authentication attempt to verify submitted credentials with those" />
+      <item value="org.apache.shiro.authc.UnknownAccountException: Realm [com.rxliuli.demo.shiro.course.study.x00.video.realm.CustomCodeRealm@56ef9176] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - rxliuli, rememberMe=false]." />
+      <item value="Realm [com.rxliuli.demo.shiro.course.study.x00.video.realm.CustomCodeRealm@1ed4004b] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - rxliuli, rememberMe=false]." />
+      <item value="Unknown Account Exception" />
+      <item value="Submitted credentials for token [org.apache.shiro.authc.UsernamePasswordToken - rxliuli, rememberMe=false] did not match the expected credentials." />
+      <item value="Incorrect Credentials Exception" />
+      <item value="constructor" />
       <item value="Subject does not have permission [user:delete2]" />
       <item value="Principal" />
       <item value="get Primary Principal" />
@@ -42,17 +53,6 @@
       <item value="read Back End Msg" />
       <item value="business" />
       <item value="business Shop" />
-      <item value="set Is Freeze" />
-      <item value="Audit Failure Pass Auth" />
-      <item value="DEFAULT ENCODE" />
-      <item value="increase Integral" />
-      <item value="shop User" />
-      <item value="platform Income Amount" />
-      <item value="integral" />
-      <item value="increase Balance" />
-      <item value="increase Freeze Balance" />
-      <item value="shop Return Money" />
-      <item value="cal Shall Actually Return Diff" />
     </histories>
   </component>
 </application>
