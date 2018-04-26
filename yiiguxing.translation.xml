@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="shiro permission" />
       <item value="Unknown Account Exception" />
       <item value="自定义" />
       <item value="set Permissions Lookup Enabled" />
@@ -52,7 +53,6 @@
       <item value="supports" />
       <item value="All Successful Strategy" />
       <item value="[22001][1292] Data truncation: Truncated incorrect DOUBLE value: '2018-04-23 18:45:00'" />
-      <item value="user Trd Phase Time" />
     </histories>
   </component>
 </application>
