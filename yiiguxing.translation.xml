@@ -3,6 +3,18 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Subject does not have permission [user:delete2]" />
+      <item value="Principal" />
+      <item value="get Primary Principal" />
+      <item value="[main] WARN org.apache.shiro.authc.AbstractAuthenticator - Authentication failed for token submission [org.apache.shiro.authc.UsernamePasswordToken - rxliuli, rememberMe=false]. Possible unexpected error? (Typical or expected login exceptions should extend from AuthenticationException)." />
+      <item value="get Credentials" />
+      <item value="org.apache.shiro.authc.UnknownAccountException: Realm [com.rxliuli.demo.shiro.course.study.x00.video.realm.CustomRealm@55d56113] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - rxliuli, rememberMe=false]." />
+      <item value="test Authenticatino" />
+      <item value="test Autheticatino" />
+      <item value="authentication Token" />
+      <item value="Subject" />
+      <item value="principal Collection" />
+      <item value="Authorization Info" />
       <item value="{dataSource-1} inited" />
       <item value="The driver has not received any packets from the" />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago." />
@@ -41,18 +53,6 @@
       <item value="increase Freeze Balance" />
       <item value="shop Return Money" />
       <item value="cal Shall Actually Return Diff" />
-      <item value="took" />
-      <item value="Failed" />
-      <item value="/** * Retrieves, but does not remove, the head of this queue, * or returns {@code null} if this queue is empty." />
-      <item value="Retrieves and removes the head of this queue, * or returns {@code null} if this queue is empty." />
-      <item value="Retrieves and removes the head of this queue. This method differs * from {@link #poll poll} only in that it throws an exception if this * queue is empty." />
-      <item value="* Returns the number of additional elements that this queue can ideally * (in the absence of memory or resource constraints) accept without * blocking, or {@code Integer.MAX_VALUE} if there is no intrinsic" />
-      <item value="Retrieves and removes the head of this queue, waiting up to the * specified wait time if necessary for an element to become available." />
-      <item value="Removes a single instance of the specified element from this queue, * if it is present. More formally, removes an element {@code e} such * that {@code o.equals(e)}, if this queue contains one or more such * elements." />
-      <item value="* Returns the number of additional elements that this queue can ideally * (in the absence of memory or resource constraints) accept without * blocking, or {@code Integer.MAX_VALUE} if there is no intrinsic * limit." />
-      <item value="Returns the number of additional elements that this queue can ideally * (in the absence of memory or resource constraints) accept without * blocking, or {@code Integer.MAX_VALUE} if there is no intrinsic * limit." />
-      <item value="Returns the number of additional elements that this queue can ideally * (in the absence of memory or resource constraints) accept without" />
-      <item value="Removes a single instance of the specified element from this queue, * if it is present. More formally, removes an element {@code e} such * that {@code o.equals(e)}, if this queue contains one or more such" />
     </histories>
   </component>
 </application>
