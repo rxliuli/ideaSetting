@@ -3,6 +3,12 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="reject" />
+      <item value="pass" />
+      <item value="save Db Connect" />
+      <item value="pass Db Save" />
+      <item value="Doc Repository Cate" />
+      <item value="get Index" />
       <item value="Doc Asyn Job Controller" />
       <item value="get User Favorite Doc" />
       <item value="Doc Favorite Cate" />
@@ -47,12 +53,6 @@
       <item value="LOG TYPE OTHRE" />
       <item value="org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time." />
       <item value="org.apache.catalina.core.StandardContext.startInternal Context [] startup failed due to previous errors" />
-      <item value="Error during artifact deployment. See server log for details." />
-      <item value="description" />
-      <item value="描述" />
-      <item value="There is no getter for property named 'STATUS' in 'class com.zx.edse.ds.document.sysmessage.entity.SysMessage'" />
-      <item value="beta" />
-      <item value="拼接" />
     </histories>
   </component>
 </application>
