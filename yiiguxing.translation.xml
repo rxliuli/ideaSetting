@@ -3,6 +3,10 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="save" />
+      <item value="activate Sccess Page" />
+      <item value="activate Page" />
+      <item value="Activate Controller" />
       <item value="create Prefix List" />
       <item value="create Suffix List" />
       <item value="log Type Other List" />
@@ -49,10 +53,6 @@
       <item value="docFileUI is not defined" />
       <item value="Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more" />
       <item value="substring After Last" />
-      <item value="audit" />
-      <item value="get Needaudit" />
-      <item value="Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@495d3dc6] 10:51:16.075 [Thread-32] DEBUG o.s.j.d.DataSourceUtils - Returning J" />
-      <item value="Returning JDBC Connection to DataSource" />
     </histories>
   </component>
 </application>
