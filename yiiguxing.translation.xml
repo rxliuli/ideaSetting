@@ -3,6 +3,12 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Doc Asyn Job Controller" />
+      <item value="get User Favorite Doc" />
+      <item value="Doc Favorite Cate" />
+      <item value="load All Not Son" />
+      <item value="load All Parent" />
+      <item value="get User Root Node" />
       <item value="save" />
       <item value="activate Sccess Page" />
       <item value="activate Page" />
@@ -47,12 +53,6 @@
       <item value="There is no getter for property named 'STATUS' in 'class com.zx.edse.ds.document.sysmessage.entity.SysMessage'" />
       <item value="beta" />
       <item value="拼接" />
-      <item value="parameters" />
-      <item value="设置消息的状态为已读" />
-      <item value="renderer" />
-      <item value="docFileUI is not defined" />
-      <item value="Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more" />
-      <item value="substring After Last" />
     </histories>
   </component>
 </application>
