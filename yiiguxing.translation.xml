@@ -3,6 +3,10 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="ailed to class-load type while reading annotation metadata. This is a non-fatal error, but certain annotation metadata may be unavailable. java.lang.ClassNotFoundException: org.aspectj.lang.annotation.Aspect" />
+      <item value="Aspect" />
+      <item value="java.lang.ClassNotFoundException: org.aspectj.lang.annotation.Aspect" />
+      <item value="Failed to class-load type while reading annotation metadata. This is a non-fatal error, but certain annotation metadata may be unavailable." />
       <item value="Constructor threw exception; nested exception is java.lang.NoClassDefFoundError: org/aspectj/lang/annotation/Around" />
       <item value="Failed to instantiate [org.springframework.aop.aspectj.annotation.AnnotationAwareAspectJAutoProxyCreator]: Constructor threw exception; nested exception is java.lang.NoClassDefFoundError: org/aspectj/lang/annotation/Around" />
       <item value="Instantiation of bean failed" />
@@ -49,10 +53,6 @@
       <item value="Committing JDBC transaction on Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@32bb014b] 10" />
       <item value="Initiating transaction commit" />
       <item value="Closing non transactional SqlSession" />
-      <item value="max Page Prompt" />
-      <item value="XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check" />
-      <item value="on the main thread is deprecated because of its detrimental effects to the end user's experience." />
-      <item value="sysMessage.createTime.format is not a function" />
     </histories>
   </component>
 </application>
