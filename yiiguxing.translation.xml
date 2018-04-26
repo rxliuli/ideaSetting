@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="There is no getter for property named 'itle' in 'class com.zx.edse.ds.system.entity.SysLog'" />
       <item value="ailed to class-load type while reading annotation metadata. This is a non-fatal error, but certain annotation metadata may be unavailable. java.lang.ClassNotFoundException: org.aspectj.lang.annotation.Aspect" />
       <item value="Aspect" />
       <item value="java.lang.ClassNotFoundException: org.aspectj.lang.annotation.Aspect" />
@@ -52,7 +53,6 @@
       <item value="Releasing JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@32bb014b] after transaction" />
       <item value="Committing JDBC transaction on Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@32bb014b] 10" />
       <item value="Initiating transaction commit" />
-      <item value="Closing non transactional SqlSession" />
     </histories>
   </component>
 </application>
