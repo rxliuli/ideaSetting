@@ -3,6 +3,23 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="at" />
+      <item value="Over the last 30 days JRebel prevented" />
+      <item value="JRebel Agent 7.1.7 (201802271049)" />
+      <item value="(c) Copyright ZeroTurnaround AS, Estonia, Tartu." />
+      <item value="Licensed to RXLiuli rx (using myJRebel)." />
+      <item value="at least 274 redeploys/restarts saving you about 4.6 hours." />
+      <item value="Returning cached instance of singleton bean 'org.springframework.transaction.config.internalTransactionAdvisor'" />
+      <item value="org . aspectj . apache . bcel . classfile . Class Format Exception" />
+      <item value="Invalid byte tag in constant pool: 18" />
+      <item value="org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file" />
+      <item value="nested exception is org.aspectj.apache.bcel.classfile.ClassFormatException: File: 'com.zx.edse.ds.taskrepository.task.OCRTaskRepositoryQueue': Invalid byte tag in constant pool: 18" />
+      <item value="LOG TYPE DELETE" />
+      <item value="LOG TYPE CREATE" />
+      <item value="LOG TYPE OTHER" />
+      <item value="OTHRE" />
+      <item value="DOWNLOAD" />
+      <item value="LOG TYPE OTHRE" />
       <item value="org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time." />
       <item value="org.apache.catalina.core.StandardContext.startInternal Context [] startup failed due to previous errors" />
       <item value="Error during artifact deployment. See server log for details." />
@@ -36,23 +53,6 @@
       <item value="has All Roles" />
       <item value="org.apache.shiro.config.ConfigurationException: Unable to instantiate class [123456,role1,role2] for object named 'rxliuli'. Please ensure you've specified the fully qualified class name correctly." />
       <item value="subject" />
-      <item value="loading" />
-      <item value="loadding" />
-      <item value="callback Function" />
-      <item value="loadiing" />
-      <item value="record Time Array" />
-      <item value="section" />
-      <item value="transition" />
-      <item value="get Page Sys Message" />
-      <item value="INFO org.apache.shiro.session.mgt.AbstractValidatingSessionManager - Enabling session validation schedul" />
-      <item value="authenticator Strategy" />
-      <item value="AuthenticationToken} instance, &lt;tt&gt;false&lt;/tt&gt; otherwise." />
-      <item value="Returns &lt;tt&gt;true&lt;/tt&gt; if this realm wishes to authenticate the Subject represented by the given" />
-      <item value="supports" />
-      <item value="All Successful Strategy" />
-      <item value="[22001][1292] Data truncation: Truncated incorrect DOUBLE value: '2018-04-23 18:45:00'" />
-      <item value="user Trd Phase Time" />
-      <item value="diff" />
     </histories>
   </component>
 </application>
