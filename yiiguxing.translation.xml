@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="description" />
+      <item value="描述" />
       <item value="There is no getter for property named 'STATUS' in 'class com.zx.edse.ds.document.sysmessage.entity.SysMessage'" />
       <item value="beta" />
       <item value="拼接" />
@@ -51,8 +53,6 @@
       <item value="datediff" />
       <item value="date sub" />
       <item value="Null ModelAndView returned to DispatcherServlet with name 'springServlet': assuming HandlerAdapter completed request handling" />
-      <item value="DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Written [com.yh.ss.common.entites.OperationResult@488b6e3] as &quot;application/json;charset=UTF-8&quot; using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@70ee516a]" />
-      <item value="read Back End Msg" />
     </histories>
   </component>
 </application>
