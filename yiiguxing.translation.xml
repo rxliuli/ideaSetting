@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Error during artifact deployment. See server log for details." />
       <item value="description" />
       <item value="描述" />
       <item value="There is no getter for property named 'STATUS' in 'class com.zx.edse.ds.document.sysmessage.entity.SysMessage'" />
@@ -52,7 +53,6 @@
       <item value="diff" />
       <item value="datediff" />
       <item value="date sub" />
-      <item value="Null ModelAndView returned to DispatcherServlet with name 'springServlet': assuming HandlerAdapter completed request handling" />
     </histories>
   </component>
 </application>
