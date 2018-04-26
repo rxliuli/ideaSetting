@@ -3,14 +3,6 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
-      <item value="shiro permission" />
-      <item value="Unknown Account Exception" />
-      <item value="自定义" />
-      <item value="set Permissions Lookup Enabled" />
-      <item value="org.apache.shiro.authz.UnauthorizedException: Subject does not have permission [user:delete]" />
-      <item value="Enabling session validation scheduler..." />
-      <item value="Subject does not have role [admin]" />
-      <item value="Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification." />
       <item value="beta" />
       <item value="拼接" />
       <item value="parameters" />
@@ -53,6 +45,14 @@
       <item value="supports" />
       <item value="All Successful Strategy" />
       <item value="[22001][1292] Data truncation: Truncated incorrect DOUBLE value: '2018-04-23 18:45:00'" />
+      <item value="user Trd Phase Time" />
+      <item value="diff" />
+      <item value="datediff" />
+      <item value="date sub" />
+      <item value="Null ModelAndView returned to DispatcherServlet with name 'springServlet': assuming HandlerAdapter completed request handling" />
+      <item value="DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Written [com.yh.ss.common.entites.OperationResult@488b6e3] as &quot;application/json;charset=UTF-8&quot; using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@70ee516a]" />
+      <item value="read Back End Msg" />
+      <item value="business" />
     </histories>
   </component>
 </application>
