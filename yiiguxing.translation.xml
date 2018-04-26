@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time." />
+      <item value="org.apache.catalina.core.StandardContext.startInternal Context [] startup failed due to previous errors" />
       <item value="Error during artifact deployment. See server log for details." />
       <item value="description" />
       <item value="描述" />
@@ -51,8 +53,6 @@
       <item value="[22001][1292] Data truncation: Truncated incorrect DOUBLE value: '2018-04-23 18:45:00'" />
       <item value="user Trd Phase Time" />
       <item value="diff" />
-      <item value="datediff" />
-      <item value="date sub" />
     </histories>
   </component>
 </application>
