@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="salt" />
+      <item value="Realm [com.rxliuli.demo.shiro.course.study.x00.video.realm.CustomCodeRealm@3754a4bf] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - rxliuli, rememberMe=false]." />
+      <item value="Unknown Account Exception" />
       <item value="reject" />
       <item value="pass" />
       <item value="save Db Connect" />
@@ -50,9 +53,6 @@
       <item value="LOG TYPE OTHER" />
       <item value="OTHRE" />
       <item value="DOWNLOAD" />
-      <item value="LOG TYPE OTHRE" />
-      <item value="org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time." />
-      <item value="org.apache.catalina.core.StandardContext.startInternal Context [] startup failed due to previous errors" />
     </histories>
   </component>
 </application>
