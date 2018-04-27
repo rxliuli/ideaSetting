@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="safe Delete" />
+      <item value="sefe" />
+      <item value="sefe Delete" />
       <item value="org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'esIndex' in 'class com.zx.edse.ds.document.recycle.param.DocRecycleParam'" />
       <item value="cate" />
       <item value="rendered" />
@@ -50,9 +53,6 @@
       <item value="java . lang . No Class Def Found Error" />
       <item value="Error creating bean with name 'org.springframework.aop.config.internalAutoProxyCreator': Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.aop.aspectj.annotation.AnnotationAwareAspectJAutoProxyCreator]: Constructor threw exception; nested exception is java.lang.NoClassDefFoundError: org/aspectj/lang/annotation/Around" />
       <item value="ERROR o.s.w.c.ContextLoader - Context initialization failed" />
-      <item value="at" />
-      <item value="Over the last 30 days JRebel prevented" />
-      <item value="JRebel Agent 7.1.7 (201802271049)" />
     </histories>
   </component>
 </application>
