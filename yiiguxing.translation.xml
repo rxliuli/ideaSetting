@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
       <item value="Cate" />
+      <item value="list Cate By Param" />
       <item value="doc Repository Cate" />
       <item value="Catename" />
       <item value="safe Delete" />
@@ -52,7 +53,6 @@
       <item value="Constructor threw exception; nested exception is java.lang.NoClassDefFoundError: org/aspectj/lang/annotation/Around" />
       <item value="Failed to instantiate [org.springframework.aop.aspectj.annotation.AnnotationAwareAspectJAutoProxyCreator]: Constructor threw exception; nested exception is java.lang.NoClassDefFoundError: org/aspectj/lang/annotation/Around" />
       <item value="Instantiation of bean failed" />
-      <item value="Exception encountered during context" />
     </histories>
   </component>
 </application>
