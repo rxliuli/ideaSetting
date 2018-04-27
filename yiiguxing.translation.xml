@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="cate" />
       <item value="rendered" />
       <item value="Reduce of empty array with no initial value" />
       <item value="Input elements should have autocomplete attributes" />
@@ -52,7 +53,6 @@
       <item value="Over the last 30 days JRebel prevented" />
       <item value="JRebel Agent 7.1.7 (201802271049)" />
       <item value="(c) Copyright ZeroTurnaround AS, Estonia, Tartu." />
-      <item value="Licensed to RXLiuli rx (using myJRebel)." />
     </histories>
   </component>
 </application>
