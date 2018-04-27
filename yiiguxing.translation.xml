@@ -3,6 +3,14 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="rendered" />
+      <item value="Reduce of empty array with no initial value" />
+      <item value="Input elements should have autocomplete attributes" />
+      <item value="get Audit Users" />
+      <item value="get Manager By List" />
+      <item value="get Group Manager By User" />
+      <item value="get Company Manager By User" />
+      <item value="set Auditusername" />
       <item value="cateid" />
       <item value="check Bootstrap Tree Node Available" />
       <item value="check Is Child Node" />
@@ -45,14 +53,6 @@
       <item value="JRebel Agent 7.1.7 (201802271049)" />
       <item value="(c) Copyright ZeroTurnaround AS, Estonia, Tartu." />
       <item value="Licensed to RXLiuli rx (using myJRebel)." />
-      <item value="at least 274 redeploys/restarts saving you about 4.6 hours." />
-      <item value="Returning cached instance of singleton bean 'org.springframework.transaction.config.internalTransactionAdvisor'" />
-      <item value="org . aspectj . apache . bcel . classfile . Class Format Exception" />
-      <item value="Invalid byte tag in constant pool: 18" />
-      <item value="org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file" />
-      <item value="nested exception is org.aspectj.apache.bcel.classfile.ClassFormatException: File: 'com.zx.edse.ds.taskrepository.task.OCRTaskRepositoryQueue': Invalid byte tag in constant pool: 18" />
-      <item value="LOG TYPE DELETE" />
-      <item value="LOG TYPE CREATE" />
     </histories>
   </component>
 </application>
