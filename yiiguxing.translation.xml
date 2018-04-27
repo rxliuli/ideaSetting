@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="lastTargetLanguage" value="ENGLISH" />
     <histories>
+      <item value="存在" />
       <item value="set Del Flag" />
       <item value="Cate" />
       <item value="list Cate By Param" />
@@ -52,7 +53,6 @@
       <item value="java.lang.ClassNotFoundException: org.aspectj.lang.annotation.Aspect" />
       <item value="Failed to class-load type while reading annotation metadata. This is a non-fatal error, but certain annotation metadata may be unavailable." />
       <item value="Constructor threw exception; nested exception is java.lang.NoClassDefFoundError: org/aspectj/lang/annotation/Around" />
-      <item value="Failed to instantiate [org.springframework.aop.aspectj.annotation.AnnotationAwareAspectJAutoProxyCreator]: Constructor threw exception; nested exception is java.lang.NoClassDefFoundError: org/aspectj/lang/annotation/Around" />
     </histories>
   </component>
 </application>
