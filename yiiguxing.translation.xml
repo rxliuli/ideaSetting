@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Cate" />
+      <item value="doc Repository Cate" />
+      <item value="Catename" />
       <item value="safe Delete" />
       <item value="sefe" />
       <item value="sefe Delete" />
@@ -50,9 +53,6 @@
       <item value="Failed to instantiate [org.springframework.aop.aspectj.annotation.AnnotationAwareAspectJAutoProxyCreator]: Constructor threw exception; nested exception is java.lang.NoClassDefFoundError: org/aspectj/lang/annotation/Around" />
       <item value="Instantiation of bean failed" />
       <item value="Exception encountered during context" />
-      <item value="java . lang . No Class Def Found Error" />
-      <item value="Error creating bean with name 'org.springframework.aop.config.internalAutoProxyCreator': Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.aop.aspectj.annotation.AnnotationAwareAspectJAutoProxyCreator]: Constructor threw exception; nested exception is java.lang.NoClassDefFoundError: org/aspectj/lang/annotation/Around" />
-      <item value="ERROR o.s.w.c.ContextLoader - Context initialization failed" />
     </histories>
   </component>
 </application>
