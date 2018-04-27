@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="cateid" />
+      <item value="check Bootstrap Tree Node Available" />
+      <item value="check Is Child Node" />
       <item value="salt" />
       <item value="Realm [com.rxliuli.demo.shiro.course.study.x00.video.realm.CustomCodeRealm@3754a4bf] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - rxliuli, rememberMe=false]." />
       <item value="Unknown Account Exception" />
@@ -50,9 +53,6 @@
       <item value="nested exception is org.aspectj.apache.bcel.classfile.ClassFormatException: File: 'com.zx.edse.ds.taskrepository.task.OCRTaskRepositoryQueue': Invalid byte tag in constant pool: 18" />
       <item value="LOG TYPE DELETE" />
       <item value="LOG TYPE CREATE" />
-      <item value="LOG TYPE OTHER" />
-      <item value="OTHRE" />
-      <item value="DOWNLOAD" />
     </histories>
   </component>
 </application>
