@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="set Current User Id" />
+      <item value="set Department Id" />
+      <item value="set Company Id" />
       <item value="token Hashed Credentials" />
       <item value="account Credentials" />
       <item value="stored Bytes" />
@@ -50,9 +53,6 @@
       <item value="user Trd Phase Time" />
       <item value="diff" />
       <item value="datediff" />
-      <item value="date sub" />
-      <item value="Null ModelAndView returned to DispatcherServlet with name 'springServlet': assuming HandlerAdapter completed request handling" />
-      <item value="DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Written [com.yh.ss.common.entites.OperationResult@488b6e3] as &quot;application/json;charset=UTF-8&quot; using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@70ee516a]" />
     </histories>
   </component>
 </application>
