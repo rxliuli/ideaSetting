@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="STATUS AUDIT" />
+      <item value="STATUS HAVEREAD" />
       <item value="activity Invite" />
       <item value="activity" />
       <item value="invite" />
@@ -51,8 +53,6 @@
       <item value="set Current User Id" />
       <item value="set Department Id" />
       <item value="set Company Id" />
-      <item value="token Hashed Credentials" />
-      <item value="account Credentials" />
     </histories>
   </component>
 </application>
