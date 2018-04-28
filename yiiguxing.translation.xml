@@ -3,6 +3,10 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="send Push Extras" />
+      <item value="send Activity Contact Me" />
+      <item value="Biz Activity" />
+      <item value="update Invite Message Status" />
       <item value="Causes the next filter in the chain to be invoked, or if the calling filter is the last filter * in the chain, causes the resource at the end of the chain to be invoked." />
       <item value="time To Idle Seconds" />
       <item value="name" />
@@ -49,10 +53,6 @@
       <item value="Sets the CrendialsMatcher used during an authentication attempt to verify submitted credentials with those * stored in the system. The implementation of this matcher can be switched via configuration to * support any number of schemes, including plain text comparisons, hashing comparisons, and others." />
       <item value="* Sets the CrendialsMatcher used during an authentication attempt to verify submitted credentials with those * stored in the system. The implementation of this matcher can be switched via configuration to * support any number of schemes, including plain text comparisons, hashing comparisons, and others. * &lt;p/&gt; * &lt;p&gt;Unless overridden by this method, the default value is a" />
       <item value="a" />
-      <item value="Sets the CrendialsMatcher used during an authentication attempt to verify submitted credentials with those * stored in the system. The implementation of this matcher can be switched via configuration to * support any number of schemes, including plain text comparisons, hashing comparisons, and others. * &lt;p/&gt; * &lt;p&gt;Unless overridden by this method, the default value is a" />
-      <item value="Sets the CrendialsMatcher used during an authentication attempt to verify submitted credentials with those" />
-      <item value="org.apache.shiro.authc.UnknownAccountException: Realm [com.rxliuli.demo.shiro.course.study.x00.video.realm.CustomCodeRealm@56ef9176] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - rxliuli, rememberMe=false]." />
-      <item value="Realm [com.rxliuli.demo.shiro.course.study.x00.video.realm.CustomCodeRealm@1ed4004b] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - rxliuli, rememberMe=false]." />
     </histories>
   </component>
 </application>
