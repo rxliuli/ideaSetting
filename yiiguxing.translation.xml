@@ -3,56 +3,56 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
-      <item value="org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\Program\apache-tomcat-8.5.29\webapps\manager] has finished in [173] ms" />
-      <item value="org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\Program\apache-tomcat-8.5.29\webapps\manager]" />
-      <item value="27-Apr-2018 18:37:21.153 严重 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.StandardContext.startInternal Context [] startup failed due to previous errors" />
-      <item value="27-Apr-2018 18:37:21.152 严重 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file" />
-      <item value="org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time." />
-      <item value="nested exception is org.springframework.beans.factory.CannotLoadBeanClassException: Cannot find class [org.apache.shiro.spring.web.ShiroFilterFactoryBean] for bean with name 'shiroFilter' defined in file" />
-      <item value="存在" />
-      <item value="set Del Flag" />
-      <item value="Cate" />
-      <item value="list Cate By Param" />
-      <item value="doc Repository Cate" />
-      <item value="Catename" />
-      <item value="safe Delete" />
-      <item value="sefe" />
-      <item value="sefe Delete" />
-      <item value="org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'esIndex' in 'class com.zx.edse.ds.document.recycle.param.DocRecycleParam'" />
-      <item value="cate" />
-      <item value="rendered" />
-      <item value="Reduce of empty array with no initial value" />
-      <item value="Input elements should have autocomplete attributes" />
-      <item value="get Audit Users" />
-      <item value="get Manager By List" />
-      <item value="get Group Manager By User" />
-      <item value="get Company Manager By User" />
-      <item value="set Auditusername" />
-      <item value="cateid" />
-      <item value="check Bootstrap Tree Node Available" />
-      <item value="check Is Child Node" />
-      <item value="salt" />
-      <item value="Realm [com.rxliuli.demo.shiro.course.study.x00.video.realm.CustomCodeRealm@3754a4bf] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - rxliuli, rememberMe=false]." />
+      <item value="token Hashed Credentials" />
+      <item value="account Credentials" />
+      <item value="stored Bytes" />
+      <item value="Sets the CrendialsMatcher used during an authentication attempt to verify submitted credentials with those * stored in the system. The implementation of this matcher can be switched via configuration to * support any number of schemes, including plain text comparisons, hashing comparisons, and others." />
+      <item value="* Sets the CrendialsMatcher used during an authentication attempt to verify submitted credentials with those * stored in the system. The implementation of this matcher can be switched via configuration to * support any number of schemes, including plain text comparisons, hashing comparisons, and others. * &lt;p/&gt; * &lt;p&gt;Unless overridden by this method, the default value is a" />
+      <item value="a" />
+      <item value="Sets the CrendialsMatcher used during an authentication attempt to verify submitted credentials with those * stored in the system. The implementation of this matcher can be switched via configuration to * support any number of schemes, including plain text comparisons, hashing comparisons, and others. * &lt;p/&gt; * &lt;p&gt;Unless overridden by this method, the default value is a" />
+      <item value="Sets the CrendialsMatcher used during an authentication attempt to verify submitted credentials with those" />
+      <item value="org.apache.shiro.authc.UnknownAccountException: Realm [com.rxliuli.demo.shiro.course.study.x00.video.realm.CustomCodeRealm@56ef9176] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - rxliuli, rememberMe=false]." />
+      <item value="Realm [com.rxliuli.demo.shiro.course.study.x00.video.realm.CustomCodeRealm@1ed4004b] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - rxliuli, rememberMe=false]." />
       <item value="Unknown Account Exception" />
-      <item value="reject" />
-      <item value="pass" />
-      <item value="save Db Connect" />
-      <item value="pass Db Save" />
-      <item value="Doc Repository Cate" />
-      <item value="get Index" />
-      <item value="Doc Asyn Job Controller" />
-      <item value="get User Favorite Doc" />
-      <item value="Doc Favorite Cate" />
-      <item value="load All Not Son" />
-      <item value="load All Parent" />
-      <item value="get User Root Node" />
-      <item value="save" />
-      <item value="activate Sccess Page" />
-      <item value="activate Page" />
-      <item value="Activate Controller" />
-      <item value="create Prefix List" />
-      <item value="create Suffix List" />
-      <item value="log Type Other List" />
+      <item value="Submitted credentials for token [org.apache.shiro.authc.UsernamePasswordToken - rxliuli, rememberMe=false] did not match the expected credentials." />
+      <item value="Incorrect Credentials Exception" />
+      <item value="constructor" />
+      <item value="Subject does not have permission [user:delete2]" />
+      <item value="Principal" />
+      <item value="get Primary Principal" />
+      <item value="[main] WARN org.apache.shiro.authc.AbstractAuthenticator - Authentication failed for token submission [org.apache.shiro.authc.UsernamePasswordToken - rxliuli, rememberMe=false]. Possible unexpected error? (Typical or expected login exceptions should extend from AuthenticationException)." />
+      <item value="get Credentials" />
+      <item value="org.apache.shiro.authc.UnknownAccountException: Realm [com.rxliuli.demo.shiro.course.study.x00.video.realm.CustomRealm@55d56113] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - rxliuli, rememberMe=false]." />
+      <item value="test Authenticatino" />
+      <item value="test Autheticatino" />
+      <item value="authentication Token" />
+      <item value="Subject" />
+      <item value="principal Collection" />
+      <item value="Authorization Info" />
+      <item value="{dataSource-1} inited" />
+      <item value="The driver has not received any packets from the" />
+      <item value="The last packet sent successfully to the server was 0 milliseconds ago." />
+      <item value="loading" />
+      <item value="loadding" />
+      <item value="callback Function" />
+      <item value="loadiing" />
+      <item value="record Time Array" />
+      <item value="section" />
+      <item value="transition" />
+      <item value="get Page Sys Message" />
+      <item value="INFO org.apache.shiro.session.mgt.AbstractValidatingSessionManager - Enabling session validation schedul" />
+      <item value="authenticator Strategy" />
+      <item value="AuthenticationToken} instance, &lt;tt&gt;false&lt;/tt&gt; otherwise." />
+      <item value="Returns &lt;tt&gt;true&lt;/tt&gt; if this realm wishes to authenticate the Subject represented by the given" />
+      <item value="supports" />
+      <item value="All Successful Strategy" />
+      <item value="[22001][1292] Data truncation: Truncated incorrect DOUBLE value: '2018-04-23 18:45:00'" />
+      <item value="user Trd Phase Time" />
+      <item value="diff" />
+      <item value="datediff" />
+      <item value="date sub" />
+      <item value="Null ModelAndView returned to DispatcherServlet with name 'springServlet': assuming HandlerAdapter completed request handling" />
+      <item value="DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Written [com.yh.ss.common.entites.OperationResult@488b6e3] as &quot;application/json;charset=UTF-8&quot; using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@70ee516a]" />
     </histories>
   </component>
 </application>
