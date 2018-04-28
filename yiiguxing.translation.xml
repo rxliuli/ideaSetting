@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="atta" />
+      <item value="attach" />
       <item value="manual" />
       <item value="manually" />
       <item value="手动" />
@@ -51,8 +53,6 @@
       <item value="org.apache.shiro.authc.UnknownAccountException: Realm [com.rxliuli.demo.shiro.course.study.x00.video.realm.CustomRealm@55d56113] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - rxliuli, rememberMe=false]." />
       <item value="test Authenticatino" />
       <item value="test Autheticatino" />
-      <item value="authentication Token" />
-      <item value="Subject" />
     </histories>
   </component>
 </application>
