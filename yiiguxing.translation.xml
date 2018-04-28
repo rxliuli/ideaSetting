@@ -3,6 +3,14 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="time To Idle Seconds" />
+      <item value="name" />
+      <item value="time To Live Seconds" />
+      <item value="max Entries Local Heap" />
+      <item value="overflow To Disk" />
+      <item value="eternal" />
+      <item value="300" />
+      <item value="max Entries Local Disk" />
       <item value="Entry" />
       <item value="tree Entry" />
       <item value="rendered" />
@@ -45,14 +53,6 @@
       <item value="org.apache.shiro.authc.UnknownAccountException: Realm [com.rxliuli.demo.shiro.course.study.x00.video.realm.CustomCodeRealm@56ef9176] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - rxliuli, rememberMe=false]." />
       <item value="Realm [com.rxliuli.demo.shiro.course.study.x00.video.realm.CustomCodeRealm@1ed4004b] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - rxliuli, rememberMe=false]." />
       <item value="Unknown Account Exception" />
-      <item value="Submitted credentials for token [org.apache.shiro.authc.UsernamePasswordToken - rxliuli, rememberMe=false] did not match the expected credentials." />
-      <item value="Incorrect Credentials Exception" />
-      <item value="constructor" />
-      <item value="Subject does not have permission [user:delete2]" />
-      <item value="Principal" />
-      <item value="get Primary Principal" />
-      <item value="[main] WARN org.apache.shiro.authc.AbstractAuthenticator - Authentication failed for token submission [org.apache.shiro.authc.UsernamePasswordToken - rxliuli, rememberMe=false]. Possible unexpected error? (Typical or expected login exceptions should extend from AuthenticationException)." />
-      <item value="get Credentials" />
     </histories>
   </component>
 </application>
