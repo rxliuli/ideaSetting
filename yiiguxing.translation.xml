@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Entry" />
+      <item value="tree Entry" />
+      <item value="rendered" />
       <item value="atta" />
       <item value="attach" />
       <item value="manual" />
@@ -50,9 +53,6 @@
       <item value="get Primary Principal" />
       <item value="[main] WARN org.apache.shiro.authc.AbstractAuthenticator - Authentication failed for token submission [org.apache.shiro.authc.UsernamePasswordToken - rxliuli, rememberMe=false]. Possible unexpected error? (Typical or expected login exceptions should extend from AuthenticationException)." />
       <item value="get Credentials" />
-      <item value="org.apache.shiro.authc.UnknownAccountException: Realm [com.rxliuli.demo.shiro.course.study.x00.video.realm.CustomRealm@55d56113] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - rxliuli, rememberMe=false]." />
-      <item value="test Authenticatino" />
-      <item value="test Autheticatino" />
     </histories>
   </component>
 </application>
