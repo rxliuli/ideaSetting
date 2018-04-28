@@ -3,6 +3,22 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Returns a single Subject's principals retrieved from the specified Realm &lt;em&gt;only&lt;/em&gt; as a Collection, or an empty * Collection if there are not any principals from that realm." />
+      <item value="Sys Form Authentication Filter" />
+      <item value="Custom Credentials Matcher" />
+      <item value="lifecycle Bean Post Processor" />
+      <item value="Bean post processor for Spring that automatically calls the &lt;tt&gt;init()&lt;/tt&gt; and/or" />
+      <item value="lifecycle" />
+      <item value="cache Manager" />
+      <item value="Eh Cache Manager Factory Bean" />
+      <item value="{@link FactoryBean} that exposes an EhCache {@link net.sf.ehcache.CacheManager} * instance (independent or shared), configured from a specified config location." />
+      <item value="Returns {@code true} if this Subject is permitted to perform an action or access a resource summarized by the * specified permission string." />
+      <item value="Returns &lt;code&gt;true&lt;/code&gt; if the request is allowed to proceed through the filter normally, or &lt;code&gt;false&lt;/code&gt;" />
+      <item value="Allowed" />
+      <item value="Access" />
+      <item value="is Access Allowed" />
+      <item value="is Permitted" />
+      <item value="Permissions Authorization Filter" />
       <item value="Ldap" />
       <item value="那么就用 ldap 的方式验证" />
       <item value="perm" />
@@ -37,22 +53,6 @@
       <item value="principal Collection" />
       <item value="Authorization Info" />
       <item value="{dataSource-1} inited" />
-      <item value="The driver has not received any packets from the" />
-      <item value="The last packet sent successfully to the server was 0 milliseconds ago." />
-      <item value="loading" />
-      <item value="loadding" />
-      <item value="callback Function" />
-      <item value="loadiing" />
-      <item value="record Time Array" />
-      <item value="section" />
-      <item value="transition" />
-      <item value="get Page Sys Message" />
-      <item value="INFO org.apache.shiro.session.mgt.AbstractValidatingSessionManager - Enabling session validation schedul" />
-      <item value="authenticator Strategy" />
-      <item value="AuthenticationToken} instance, &lt;tt&gt;false&lt;/tt&gt; otherwise." />
-      <item value="Returns &lt;tt&gt;true&lt;/tt&gt; if this realm wishes to authenticate the Subject represented by the given" />
-      <item value="supports" />
-      <item value="All Successful Strategy" />
     </histories>
   </component>
 </application>
