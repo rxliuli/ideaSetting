@@ -3,6 +3,10 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Ldap" />
+      <item value="那么就用 ldap 的方式验证" />
+      <item value="perm" />
+      <item value="perms" />
       <item value="set Current User Id" />
       <item value="set Department Id" />
       <item value="set Company Id" />
@@ -49,10 +53,6 @@
       <item value="Returns &lt;tt&gt;true&lt;/tt&gt; if this realm wishes to authenticate the Subject represented by the given" />
       <item value="supports" />
       <item value="All Successful Strategy" />
-      <item value="[22001][1292] Data truncation: Truncated incorrect DOUBLE value: '2018-04-23 18:45:00'" />
-      <item value="user Trd Phase Time" />
-      <item value="diff" />
-      <item value="datediff" />
     </histories>
   </component>
 </application>
