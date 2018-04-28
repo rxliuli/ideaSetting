@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Causes the next filter in the chain to be invoked, or if the calling filter is the last filter * in the chain, causes the resource at the end of the chain to be invoked." />
       <item value="time To Idle Seconds" />
       <item value="name" />
       <item value="time To Live Seconds" />
@@ -52,7 +53,6 @@
       <item value="Sets the CrendialsMatcher used during an authentication attempt to verify submitted credentials with those" />
       <item value="org.apache.shiro.authc.UnknownAccountException: Realm [com.rxliuli.demo.shiro.course.study.x00.video.realm.CustomCodeRealm@56ef9176] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - rxliuli, rememberMe=false]." />
       <item value="Realm [com.rxliuli.demo.shiro.course.study.x00.video.realm.CustomCodeRealm@1ed4004b] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - rxliuli, rememberMe=false]." />
-      <item value="Unknown Account Exception" />
     </histories>
   </component>
 </application>
