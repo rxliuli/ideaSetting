@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="test Custom Filter Permission Success" />
+      <item value="provided" />
       <item value="Requires the current Subject to have been authenticated &lt;em&gt;during their current session&lt;/em&gt; for the annotated * class/instance/method to be accessed or invoked. This is &lt;em&gt;more&lt;/em&gt; restrictive than the" />
       <item value="org.springframework.jdbc.BadSqlGrammarException: StatementCallback; bad SQL grammar [SELECT password FROM shiro_user WHERE username = ?]; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1" />
       <item value="at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext" />
@@ -49,8 +51,6 @@
       <item value="is Access Allowed" />
       <item value="is Permitted" />
       <item value="Permissions Authorization Filter" />
-      <item value="Ldap" />
-      <item value="那么就用 ldap 的方式验证" />
     </histories>
   </component>
 </application>
