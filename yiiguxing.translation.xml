@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="org.springframework.jdbc.BadSqlGrammarException: StatementCallback; bad SQL grammar [SELECT password FROM shiro_user WHERE username = ?]; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1" />
+      <item value="at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext" />
+      <item value="java.lang.IllegalStateException: Failed to load ApplicationContext" />
+      <item value="Caught exception while allowing TestExecutionListener [org.springframework.test.context.support.DependencyInjectionTestExecutionListener@4566e5bd] to prepare test instance [com.rxliuli.demo.shiro.course.study.x00.web.dao.UserDaoTest@2286778]" />
       <item value="STATUS AUDIT" />
       <item value="STATUS HAVEREAD" />
       <item value="activity Invite" />
@@ -49,10 +51,6 @@
       <item value="Ldap" />
       <item value="那么就用 ldap 的方式验证" />
       <item value="perm" />
-      <item value="perms" />
-      <item value="set Current User Id" />
-      <item value="set Department Id" />
-      <item value="set Company Id" />
     </histories>
   </component>
 </application>
