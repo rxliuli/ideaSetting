@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns this Subject's application-wide uniquely identifying principal, or {@code null} if this * Subject is anonymous because it doesn't yet have any associated account data (for example, * if they haven't logged in)." />
       <item value="Idle" />
       <item value="Active" />
       <item value="get Num Active" />
@@ -50,7 +51,6 @@
       <item value="{@link FactoryBean} that exposes an EhCache {@link net.sf.ehcache.CacheManager} * instance (independent or shared), configured from a specified config location." />
       <item value="Returns {@code true} if this Subject is permitted to perform an action or access a resource summarized by the * specified permission string." />
       <item value="Returns &lt;code&gt;true&lt;/code&gt; if the request is allowed to proceed through the filter normally, or &lt;code&gt;false&lt;/code&gt;" />
-      <item value="Allowed" />
     </histories>
   </component>
 </application>
