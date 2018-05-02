@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Idle" />
+      <item value="Active" />
+      <item value="get Num Active" />
       <item value="shiro" />
       <item value="test Custom Filter Permission Success" />
       <item value="provided" />
@@ -48,9 +51,6 @@
       <item value="Returns {@code true} if this Subject is permitted to perform an action or access a resource summarized by the * specified permission string." />
       <item value="Returns &lt;code&gt;true&lt;/code&gt; if the request is allowed to proceed through the filter normally, or &lt;code&gt;false&lt;/code&gt;" />
       <item value="Allowed" />
-      <item value="Access" />
-      <item value="is Access Allowed" />
-      <item value="is Permitted" />
     </histories>
   </component>
 </application>
