@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns this Subject's application-wide uniquely identifying principal, or {@code null} if this * Subject is anonymous because it doesn't yet have any associated account data (for example, * if they haven't logged in)." />
       <item value="direct" />
       <item value="org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file" />
       <item value="org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time." />
@@ -50,7 +51,6 @@
       <item value="Returns {@code true} if this Subject is permitted to perform an action or access a resource summarized by the * specified permission string." />
       <item value="Returns &lt;code&gt;true&lt;/code&gt; if the request is allowed to proceed through the filter normally, or &lt;code&gt;false&lt;/code&gt;" />
       <item value="Allowed" />
-      <item value="Access" />
     </histories>
   </component>
 </application>
