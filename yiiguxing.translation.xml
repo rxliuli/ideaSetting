@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="shiro" />
       <item value="test Custom Filter Permission Success" />
       <item value="provided" />
       <item value="Requires the current Subject to have been authenticated &lt;em&gt;during their current session&lt;/em&gt; for the annotated * class/instance/method to be accessed or invoked. This is &lt;em&gt;more&lt;/em&gt; restrictive than the" />
@@ -50,7 +51,6 @@
       <item value="Access" />
       <item value="is Access Allowed" />
       <item value="is Permitted" />
-      <item value="Permissions Authorization Filter" />
     </histories>
   </component>
 </application>
