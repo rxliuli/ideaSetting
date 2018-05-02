@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="if the request should be handled by the" />
+      <item value="Returns &lt;code&gt;true&lt;/code&gt; if the request is allowed to proceed through the filter normally, or &lt;code&gt;false&lt;/code&gt;" />
+      <item value="do Filter Internal" />
+      <item value="is Ajax" />
+      <item value="on Access Denied" />
+      <item value="is Access Allowed" />
+      <item value="Permissions Authorization Filter" />
+      <item value="Requires Guest" />
       <item value="Returns this Subject's application-wide uniquely identifying principal, or {@code null} if this * Subject is anonymous because it doesn't yet have any associated account data (for example, * if they haven't logged in)." />
       <item value="direct" />
       <item value="org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file" />
@@ -43,14 +51,6 @@
       <item value="Sys Form Authentication Filter" />
       <item value="Custom Credentials Matcher" />
       <item value="lifecycle Bean Post Processor" />
-      <item value="Bean post processor for Spring that automatically calls the &lt;tt&gt;init()&lt;/tt&gt; and/or" />
-      <item value="lifecycle" />
-      <item value="cache Manager" />
-      <item value="Eh Cache Manager Factory Bean" />
-      <item value="{@link FactoryBean} that exposes an EhCache {@link net.sf.ehcache.CacheManager} * instance (independent or shared), configured from a specified config location." />
-      <item value="Returns {@code true} if this Subject is permitted to perform an action or access a resource summarized by the * specified permission string." />
-      <item value="Returns &lt;code&gt;true&lt;/code&gt; if the request is allowed to proceed through the filter normally, or &lt;code&gt;false&lt;/code&gt;" />
-      <item value="Allowed" />
     </histories>
   </component>
 </application>
