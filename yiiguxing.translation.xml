@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="do Filter Internal" />
+      <item value="Authentication" />
+      <item value="An &lt;code&gt;AuthenticationFilter&lt;/code&gt; that is capable of automatically performing an authentication attempt * based on the incoming request." />
+      <item value="能够根据传入的请求自动执行认证尝试*。" />
+      <item value="Superclass for authorization-related filters. If an request is unauthorized, response handling is delegated to the" />
+      <item value="Authorization Filter" />
       <item value="if the request should be handled by the" />
       <item value="Returns &lt;code&gt;true&lt;/code&gt; if the request is allowed to proceed through the filter normally, or &lt;code&gt;false&lt;/code&gt;" />
-      <item value="do Filter Internal" />
       <item value="is Ajax" />
       <item value="on Access Denied" />
       <item value="is Access Allowed" />
@@ -46,11 +51,6 @@
       <item value="attach" />
       <item value="manual" />
       <item value="manually" />
-      <item value="手动" />
-      <item value="Returns a single Subject's principals retrieved from the specified Realm &lt;em&gt;only&lt;/em&gt; as a Collection, or an empty * Collection if there are not any principals from that realm." />
-      <item value="Sys Form Authentication Filter" />
-      <item value="Custom Credentials Matcher" />
-      <item value="lifecycle Bean Post Processor" />
     </histories>
   </component>
 </application>
