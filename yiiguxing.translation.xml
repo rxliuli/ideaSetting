@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Requires the requesting user to be authenticated for the request to continue, and if they are not, forces the user * to login via by redirecting them to the {@link #setLoginUrl(String) loginUrl} you configure." />
+      <item value="Form Authentication Filter" />
       <item value="is Login Submission" />
       <item value="execute Login" />
       <item value="Error during generated code invocation com.intellij.debugger.engine.evaluation.EvaluateException: Method threw 'java.lang.ClassCastException' exception." />
@@ -49,8 +51,6 @@
       <item value="max Entries Local Heap" />
       <item value="overflow To Disk" />
       <item value="eternal" />
-      <item value="300" />
-      <item value="max Entries Local Disk" />
     </histories>
   </component>
 </application>
