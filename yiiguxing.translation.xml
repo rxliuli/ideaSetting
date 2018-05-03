@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Authorizing Realm" />
+      <item value="Authentication Exception" />
+      <item value="Has Any Permissions Tag" />
+      <item value="show Tag Body" />
+      <item value="do Credentials Match" />
       <item value="Requires the requesting user to be authenticated for the request to continue, and if they are not, forces the user * to login via by redirecting them to the {@link #setLoginUrl(String) loginUrl} you configure." />
       <item value="Form Authentication Filter" />
       <item value="is Login Submission" />
@@ -46,11 +51,6 @@
       <item value="update Invite Message Status" />
       <item value="Causes the next filter in the chain to be invoked, or if the calling filter is the last filter * in the chain, causes the resource at the end of the chain to be invoked." />
       <item value="time To Idle Seconds" />
-      <item value="name" />
-      <item value="time To Live Seconds" />
-      <item value="max Entries Local Heap" />
-      <item value="overflow To Disk" />
-      <item value="eternal" />
     </histories>
   </component>
 </application>
