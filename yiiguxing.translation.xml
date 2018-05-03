@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Error during generated code invocation com.intellij.debugger.engine.evaluation.EvaluateException: Method threw 'java.lang.ClassCastException' exception." />
+      <item value="active Menus Id" />
       <item value="to Precision" />
       <item value="to Fixed" />
       <item value="extra Container" />
@@ -49,8 +51,6 @@
       <item value="max Entries Local Disk" />
       <item value="Entry" />
       <item value="tree Entry" />
-      <item value="rendered" />
-      <item value="atta" />
     </histories>
   </component>
 </application>
