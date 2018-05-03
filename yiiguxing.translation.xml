@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Uncaught TypeError: Illegal invocation" />
+      <item value="java.lang.IllegalStateException: removeAttribute: Session already invalidated" />
+      <item value="Data truncation: Data too long for column 'title' at row 1" />
+      <item value="Mysql Data Truncation" />
+      <item value="remember" />
+      <item value="remeber" />
       <item value="Returns this Subject's application-wide uniquely identifying principal, or {@code null} if this * Subject is anonymous because it doesn't yet have any associated account data (for example, * if they haven't logged in)." />
       <item value="Idle" />
       <item value="Active" />
@@ -45,12 +51,6 @@
       <item value="Custom Credentials Matcher" />
       <item value="lifecycle Bean Post Processor" />
       <item value="Bean post processor for Spring that automatically calls the &lt;tt&gt;init()&lt;/tt&gt; and/or" />
-      <item value="lifecycle" />
-      <item value="cache Manager" />
-      <item value="Eh Cache Manager Factory Bean" />
-      <item value="{@link FactoryBean} that exposes an EhCache {@link net.sf.ehcache.CacheManager} * instance (independent or shared), configured from a specified config location." />
-      <item value="Returns {@code true} if this Subject is permitted to perform an action or access a resource summarized by the * specified permission string." />
-      <item value="Returns &lt;code&gt;true&lt;/code&gt; if the request is allowed to proceed through the filter normally, or &lt;code&gt;false&lt;/code&gt;" />
     </histories>
   </component>
 </application>
