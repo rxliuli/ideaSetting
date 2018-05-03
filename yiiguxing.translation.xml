@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Login Submission" />
+      <item value="execute Login" />
       <item value="Error during generated code invocation com.intellij.debugger.engine.evaluation.EvaluateException: Method threw 'java.lang.ClassCastException' exception." />
       <item value="active Menus Id" />
       <item value="to Precision" />
@@ -49,8 +51,6 @@
       <item value="eternal" />
       <item value="300" />
       <item value="max Entries Local Disk" />
-      <item value="Entry" />
-      <item value="tree Entry" />
     </histories>
   </component>
 </application>
