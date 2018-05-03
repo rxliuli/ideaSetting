@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Called in all cases in a {@code finally} block even if {@link #preHandle preHandle} returns * {@code false} or if an exception is thrown during filter chain processing. Can be used for resource * cleanup if so desired." />
+      <item value="Chain" />
+      <item value="execute Chain" />
+      <item value="Abstract base class that provides all standard Shiro request filtering behavior and expects * subclasses to implement configuration-specific logic (INI, XML, .properties, etc). * &lt;p/&gt;" />
+      <item value="This {@code doFilter} implementation stores a request attribute for * &quot;already filtered&quot;, proceeding without filtering again if the * attribute is already there." />
+      <item value="retain backwards compatibility" />
+      <item value="noinspection deprecation" />
       <item value="Authorizing Realm" />
       <item value="Authentication Exception" />
       <item value="Has Any Permissions Tag" />
@@ -44,13 +51,6 @@
       <item value="activity Invite" />
       <item value="activity" />
       <item value="invite" />
-      <item value="Content type 'text/plain;charset=UTF-8'" />
-      <item value="send Push Extras" />
-      <item value="send Activity Contact Me" />
-      <item value="Biz Activity" />
-      <item value="update Invite Message Status" />
-      <item value="Causes the next filter in the chain to be invoked, or if the calling filter is the last filter * in the chain, causes the resource at the end of the chain to be invoked." />
-      <item value="time To Idle Seconds" />
     </histories>
   </component>
 </application>
