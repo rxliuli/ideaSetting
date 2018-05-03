@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="to Precision" />
+      <item value="to Fixed" />
       <item value="extra Container" />
       <item value="indicator Success Title" />
       <item value="indicator Error Title" />
@@ -49,8 +51,6 @@
       <item value="tree Entry" />
       <item value="rendered" />
       <item value="atta" />
-      <item value="attach" />
-      <item value="manual" />
     </histories>
   </component>
 </application>
