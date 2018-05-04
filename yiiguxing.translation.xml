@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="show Edit Repo Cate Window" />
       <item value="&lt;p&gt;Note that the plain ServletException doesn't expose its root cause at all, * neither in the exception message nor in printed stack traces! While this might * be fixed in later Servlet API variants (which even differ per vendor for the * same API version), it is not reliably available on Servlet 2.4 (the minimum * version required by Spring 3.x), which is why we need to do it ourselves." />
       <item value="Subclass of {@link ServletException} that properly handles a root cause in terms * of message and stacktrace, just like NestedChecked/RuntimeException does." />
       <item value="advice hooks. * * @param request the incoming ServletRequest" />
@@ -50,7 +51,6 @@
       <item value="org.springframework.jdbc.BadSqlGrammarException: StatementCallback; bad SQL grammar [SELECT password FROM shiro_user WHERE username = ?]; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1" />
       <item value="at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext" />
       <item value="java.lang.IllegalStateException: Failed to load ApplicationContext" />
-      <item value="Caught exception while allowing TestExecutionListener [org.springframework.test.context.support.DependencyInjectionTestExecutionListener@4566e5bd] to prepare test instance [com.rxliuli.demo.shiro.course.study.x00.web.dao.UserDaoTest@2286778]" />
     </histories>
   </component>
 </application>
