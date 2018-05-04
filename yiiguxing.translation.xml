@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Stream" />
+      <item value="An object that may hold resources (such as file or socket handles) * until it is closed. The {@link #close()} method of an {@code AutoCloseable} * object is called automatically when exiting a {@code * try}-with-resources block for which the object has been declared in * the resource specification header. This construction ensures prompt * release, avoiding resource exhaustion exceptions and errors that * may otherwise occur." />
       <item value="load Audit" />
       <item value="radio Ned Audit" />
       <item value="show Edit Repo Cate Window" />
@@ -49,8 +51,6 @@
       <item value="shiro" />
       <item value="test Custom Filter Permission Success" />
       <item value="provided" />
-      <item value="Requires the current Subject to have been authenticated &lt;em&gt;during their current session&lt;/em&gt; for the annotated * class/instance/method to be accessed or invoked. This is &lt;em&gt;more&lt;/em&gt; restrictive than the" />
-      <item value="org.springframework.jdbc.BadSqlGrammarException: StatementCallback; bad SQL grammar [SELECT password FROM shiro_user WHERE username = ?]; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1" />
     </histories>
   </component>
 </application>
