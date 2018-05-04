@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unauthorized Url" />
       <item value="Called in all cases in a {@code finally} block even if {@link #preHandle preHandle} returns * {@code false} or if an exception is thrown during filter chain processing. Can be used for resource * cleanup if so desired." />
       <item value="Chain" />
       <item value="execute Chain" />
@@ -50,7 +51,6 @@
       <item value="STATUS HAVEREAD" />
       <item value="activity Invite" />
       <item value="activity" />
-      <item value="invite" />
     </histories>
   </component>
 </application>
