@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SyntaxError: Unexpected token" />
       <item value="Incorrect Credentials Exception" />
       <item value="parse Extension Filed To HTML" />
       <item value="first Extra Value" />
@@ -50,7 +51,6 @@
       <item value="Has Any Permissions Tag" />
       <item value="show Tag Body" />
       <item value="do Credentials Match" />
-      <item value="Requires the requesting user to be authenticated for the request to continue, and if they are not, forces the user * to login via by redirecting them to the {@link #setLoginUrl(String) loginUrl} you configure." />
     </histories>
   </component>
 </application>
