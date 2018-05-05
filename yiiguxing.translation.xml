@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'&lt;span class=&quot;input-group-btn&quot;&gt;&lt;button type=&quot;button&quot; class=&quot;btn btn-primary btn-flat&quot; onclick=&quot;searchData()&quot; &gt;搜索&lt;/button&gt;&lt;/span&gt;'" />
       <item value="use Permission" />
       <item value="check Permission" />
       <item value="session user permissions" />
@@ -50,7 +51,6 @@
       <item value="java.lang.IllegalStateException: removeAttribute: Session already invalidated" />
       <item value="Data truncation: Data too long for column 'title' at row 1" />
       <item value="Mysql Data Truncation" />
-      <item value="remember" />
     </histories>
   </component>
 </application>
