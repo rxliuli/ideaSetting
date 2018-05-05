@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="use Permission" />
       <item value="check Permission" />
       <item value="session user permissions" />
       <item value="reduction" />
@@ -50,7 +51,6 @@
       <item value="Data truncation: Data too long for column 'title' at row 1" />
       <item value="Mysql Data Truncation" />
       <item value="remember" />
-      <item value="remeber" />
     </histories>
   </component>
 </application>
