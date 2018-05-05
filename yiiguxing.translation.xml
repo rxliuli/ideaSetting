@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="check Permission" />
       <item value="session user permissions" />
       <item value="reduction" />
       <item value="recycle" />
@@ -50,7 +51,6 @@
       <item value="Mysql Data Truncation" />
       <item value="remember" />
       <item value="remeber" />
-      <item value="Returns this Subject's application-wide uniquely identifying principal, or {@code null} if this * Subject is anonymous because it doesn't yet have any associated account data (for example, * if they haven't logged in)." />
     </histories>
   </component>
 </application>
