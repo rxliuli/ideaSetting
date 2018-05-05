@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pool" />
+      <item value="poll" />
       <item value="This office manager is not running." />
       <item value="Doc Publish Task File Name Constants" />
       <item value="json Folder Path" />
@@ -49,8 +51,6 @@
       <item value="to Fixed" />
       <item value="extra Container" />
       <item value="indicator Success Title" />
-      <item value="indicator Error Title" />
-      <item value="indicator Loading Title" />
     </histories>
   </component>
 </application>
