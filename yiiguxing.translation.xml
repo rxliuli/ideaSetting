@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Doc Publish Task File Name Constants" />
+      <item value="json Folder Path" />
+      <item value="Task Constants" />
       <item value="load Extra Item" />
       <item value="reject" />
       <item value="pass" />
@@ -48,9 +51,6 @@
       <item value="indicator Error Title" />
       <item value="indicator Loading Title" />
       <item value="list Parent By User Id" />
-      <item value="than" />
-      <item value="longer" />
-      <item value="Uncaught TypeError: Illegal invocation" />
     </histories>
   </component>
 </application>
