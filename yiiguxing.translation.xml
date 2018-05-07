@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parent Id" />
+      <item value="子" />
       <item value="silent" />
       <item value="node Checked Silent" />
       <item value="check All Parent" />
@@ -49,8 +51,6 @@
       <item value="show Edit Repo Cate Window" />
       <item value="&lt;p&gt;Note that the plain ServletException doesn't expose its root cause at all, * neither in the exception message nor in printed stack traces! While this might * be fixed in later Servlet API variants (which even differ per vendor for the * same API version), it is not reliably available on Servlet 2.4 (the minimum * version required by Spring 3.x), which is why we need to do it ourselves." />
       <item value="Subclass of {@link ServletException} that properly handles a root cause in terms * of message and stacktrace, just like NestedChecked/RuntimeException does." />
-      <item value="advice hooks. * * @param request the incoming ServletRequest" />
-      <item value="Actually implements the chain execution logic, utilizing" />
     </histories>
   </component>
 </application>
