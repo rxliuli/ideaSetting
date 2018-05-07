@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="siblings" />
+      <item value="data.menus.length - 1" />
+      <item value="on Node Unchecked" />
+      <item value="on Node Checked" />
       <item value="parent Id" />
       <item value="子" />
       <item value="silent" />
@@ -8,7 +12,6 @@
       <item value="check All Parent" />
       <item value="node Unchecked" />
       <item value="parent Node" />
-      <item value="siblings" />
       <item value="node Unchecked Silent" />
       <item value="uncheck All Son" />
       <item value="uncheck All Parent" />
@@ -48,9 +51,6 @@
       <item value="An object that may hold resources (such as file or socket handles) * until it is closed. The {@link #close()} method of an {@code AutoCloseable} * object is called automatically when exiting a {@code * try}-with-resources block for which the object has been declared in * the resource specification header. This construction ensures prompt * release, avoiding resource exhaustion exceptions and errors that * may otherwise occur." />
       <item value="load Audit" />
       <item value="radio Ned Audit" />
-      <item value="show Edit Repo Cate Window" />
-      <item value="&lt;p&gt;Note that the plain ServletException doesn't expose its root cause at all, * neither in the exception message nor in printed stack traces! While this might * be fixed in later Servlet API variants (which even differ per vendor for the * same API version), it is not reliably available on Servlet 2.4 (the minimum * version required by Spring 3.x), which is why we need to do it ourselves." />
-      <item value="Subclass of {@link ServletException} that properly handles a root cause in terms * of message and stacktrace, just like NestedChecked/RuntimeException does." />
     </histories>
   </component>
 </application>
