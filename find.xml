@@ -9,15 +9,15 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.java</mask>
-      <mask>*.jsp</mask>
       <mask>*.properties</mask>
       <mask>*.p</mask>
       <mask>*.po</mask>
       <mask>*.pom</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
-      <mask>*.xml</mask>
       <mask>*.js</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>

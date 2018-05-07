@@ -27,4 +27,12 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="usePermission" value="global.usePermission('$permission$', function () {&#10;    $END$&#10;});" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="permission" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSP" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
