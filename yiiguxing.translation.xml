@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="silent" />
+      <item value="node Checked Silent" />
+      <item value="check All Parent" />
+      <item value="node Unchecked" />
+      <item value="parent Node" />
+      <item value="siblings" />
+      <item value="node Unchecked Silent" />
+      <item value="uncheck All Son" />
+      <item value="uncheck All Parent" />
+      <item value="check Tree Node By Id" />
+      <item value="menusname" />
+      <item value="menusid" />
       <item value="get Connection Driver" />
       <item value="SyntaxError: Unexpected token" />
       <item value="Incorrect Credentials Exception" />
@@ -39,18 +51,6 @@
       <item value="Subclass of {@link ServletException} that properly handles a root cause in terms * of message and stacktrace, just like NestedChecked/RuntimeException does." />
       <item value="advice hooks. * * @param request the incoming ServletRequest" />
       <item value="Actually implements the chain execution logic, utilizing" />
-      <item value="unauthorized Url" />
-      <item value="Called in all cases in a {@code finally} block even if {@link #preHandle preHandle} returns * {@code false} or if an exception is thrown during filter chain processing. Can be used for resource * cleanup if so desired." />
-      <item value="Chain" />
-      <item value="execute Chain" />
-      <item value="Abstract base class that provides all standard Shiro request filtering behavior and expects * subclasses to implement configuration-specific logic (INI, XML, .properties, etc). * &lt;p/&gt;" />
-      <item value="This {@code doFilter} implementation stores a request attribute for * &quot;already filtered&quot;, proceeding without filtering again if the * attribute is already there." />
-      <item value="retain backwards compatibility" />
-      <item value="noinspection deprecation" />
-      <item value="Authorizing Realm" />
-      <item value="Authentication Exception" />
-      <item value="Has Any Permissions Tag" />
-      <item value="show Tag Body" />
     </histories>
   </component>
 </application>
