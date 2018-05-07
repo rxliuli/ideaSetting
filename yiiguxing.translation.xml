@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="check Tree Node By Id" />
       <item value="siblings" />
       <item value="data.menus.length - 1" />
       <item value="on Node Unchecked" />
@@ -15,7 +16,6 @@
       <item value="node Unchecked Silent" />
       <item value="uncheck All Son" />
       <item value="uncheck All Parent" />
-      <item value="check Tree Node By Id" />
       <item value="menusname" />
       <item value="menusid" />
       <item value="get Connection Driver" />
