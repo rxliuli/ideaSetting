@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="accept User" />
+      <item value="get Accept User" />
       <item value="Biz Activity Invite" />
       <item value="find All Activity Invite" />
       <item value="Persistent Dao" />
@@ -49,8 +51,6 @@
       <item value="check Permission" />
       <item value="session user permissions" />
       <item value="reduction" />
-      <item value="recycle" />
-      <item value="还原" />
     </histories>
   </component>
 </application>
