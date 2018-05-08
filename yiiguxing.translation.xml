@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sequence" />
       <item value="KEYDATA" />
       <item value="reduction" />
       <item value="DB Operation" />
@@ -50,7 +51,6 @@
       <item value="first Extra Value" />
       <item value="first Extra Name" />
       <item value="source Type" />
-      <item value="05-May-2018 17:32:30.288 信息 [MessageDispatcher] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.sun.star.lang.EventObject]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access. java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.sun.star.lang.EventObject]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access." />
     </histories>
   </component>
 </application>
