@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reduction" />
+      <item value="DB Operation" />
+      <item value="还原" />
+      <item value="还原接口" />
       <item value="SCHEMA" />
       <item value="GLOBAL STATUS" />
       <item value="java.sql.SQLException: The 'INFORMATION_SCHEMA.GLOBAL_STATUS'" />
@@ -47,10 +51,6 @@
       <item value="source Type" />
       <item value="05-May-2018 17:32:30.288 信息 [MessageDispatcher] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.sun.star.lang.EventObject]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access. java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.sun.star.lang.EventObject]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access." />
       <item value="05-May-2018 17:32:30.288 信息 [MessageDispatcher] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.sun.star.lang.EventObject]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access." />
-      <item value="java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [com.sun.star.lang.EventObject]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access." />
-      <item value="Event Object" />
-      <item value="pool" />
-      <item value="poll" />
     </histories>
   </component>
 </application>
