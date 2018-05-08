@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SCHEMA" />
+      <item value="GLOBAL STATUS" />
+      <item value="java.sql.SQLException: The 'INFORMATION_SCHEMA.GLOBAL_STATUS'" />
+      <item value="see the documentation for 'show_compatibility_56'" />
+      <item value="feature is disabled" />
+      <item value="INFORMATION SCHEMA . GLOBAL STATUS" />
       <item value="diff" />
       <item value="get Days" />
       <item value="offset" />
@@ -45,12 +51,6 @@
       <item value="Event Object" />
       <item value="pool" />
       <item value="poll" />
-      <item value="This office manager is not running." />
-      <item value="Doc Publish Task File Name Constants" />
-      <item value="json Folder Path" />
-      <item value="Task Constants" />
-      <item value="load Extra Item" />
-      <item value="reject" />
     </histories>
   </component>
 </application>
