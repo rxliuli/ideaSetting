@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Biz Activity Invite" />
       <item value="find All Activity Invite" />
       <item value="Persistent Dao" />
       <item value="select Data Base" />
@@ -50,7 +51,6 @@
       <item value="reduction" />
       <item value="recycle" />
       <item value="还原" />
-      <item value="recyle" />
     </histories>
   </component>
 </application>
