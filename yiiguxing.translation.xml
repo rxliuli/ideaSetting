@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="biz activity partin" />
       <item value="accept User" />
       <item value="get Accept User" />
       <item value="Biz Activity Invite" />
@@ -50,7 +51,6 @@
       <item value="use Permission" />
       <item value="check Permission" />
       <item value="session user permissions" />
-      <item value="reduction" />
     </histories>
   </component>
 </application>
