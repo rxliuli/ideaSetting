@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="find All Activity Invite" />
+      <item value="Persistent Dao" />
       <item value="select Data Base" />
       <item value="Authentication failed for token submission [com.zx.edse.gui.sercurity.SysUsernamePasswordToken - rx, rememberMe=false (0:0:0:0:0:0:0:1)]. Possible unexpected error? (Typical or expected login exceptions should extend from AuthenticationException)." />
       <item value="strip" />
@@ -49,8 +51,6 @@
       <item value="recycle" />
       <item value="还原" />
       <item value="recyle" />
-      <item value="recy" />
-      <item value="Stream" />
     </histories>
   </component>
 </application>
