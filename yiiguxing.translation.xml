@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="相对路径" />
+      <item value="get Real Path" />
+      <item value="Project File Path Constants" />
+      <item value="Project File Path Contstancs" />
       <item value="silent" />
       <item value="has Own Property" />
       <item value="distinct" />
@@ -47,10 +51,6 @@
       <item value="strip" />
       <item value="check Tree Node By Id" />
       <item value="siblings" />
-      <item value="data.menus.length - 1" />
-      <item value="on Node Unchecked" />
-      <item value="on Node Checked" />
-      <item value="parent Id" />
     </histories>
   </component>
 </application>
