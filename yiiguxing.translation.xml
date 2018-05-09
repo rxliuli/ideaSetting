@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fontawesome" />
+      <item value="Font Awesome" />
       <item value="Concurrent Modification Exception" />
       <item value="power Filter" />
       <item value="filter Duplicate Parent Ids" />
@@ -49,8 +51,6 @@
       <item value="子" />
       <item value="silent" />
       <item value="node Checked Silent" />
-      <item value="check All Parent" />
-      <item value="node Unchecked" />
     </histories>
   </component>
 </application>
