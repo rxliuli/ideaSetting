@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="has Own Property" />
       <item value="distinct" />
       <item value="more" />
       <item value="fontawesome" />
@@ -50,7 +51,6 @@
       <item value="on Node Checked" />
       <item value="parent Id" />
       <item value="子" />
-      <item value="silent" />
     </histories>
   </component>
 </application>
