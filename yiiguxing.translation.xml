@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="distinct" />
       <item value="more" />
       <item value="fontawesome" />
       <item value="Font Awesome" />
@@ -11,7 +12,6 @@
       <item value="For ordered streams, the selection of distinct elements is stable * (for duplicated elements, the element appearing first in the encounter * order is preserved.) For unordered streams, no stability guarantees * are made." />
       <item value="Returns a stream consisting of the distinct elements (according to * {@link Object#equals(Object)}) of this stream." />
       <item value="Returns a stream consisting of the distinct elements (according to" />
-      <item value="distinct" />
       <item value="ROOT" />
       <item value="NODE" />
       <item value="ROOT NODE ID" />
