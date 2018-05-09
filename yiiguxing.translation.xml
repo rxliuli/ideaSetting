@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Concurrent Modification Exception" />
+      <item value="power Filter" />
+      <item value="filter Duplicate Parent Ids" />
+      <item value="Returns a stream consisting of the results of replacing each element of * this stream with the contents of a mapped stream produced by applying * the provided mapping function to each element. Each mapped stream is" />
+      <item value="For ordered streams, the selection of distinct elements is stable * (for duplicated elements, the element appearing first in the encounter * order is preserved.) For unordered streams, no stability guarantees * are made." />
+      <item value="Returns a stream consisting of the distinct elements (according to * {@link Object#equals(Object)}) of this stream." />
+      <item value="Returns a stream consisting of the distinct elements (according to" />
+      <item value="distinct" />
+      <item value="ROOT" />
+      <item value="NODE" />
+      <item value="ROOT NODE ID" />
       <item value="element Form Default" />
       <item value="qualified" />
       <item value="sequence" />
@@ -40,17 +51,6 @@
       <item value="node Checked Silent" />
       <item value="check All Parent" />
       <item value="node Unchecked" />
-      <item value="parent Node" />
-      <item value="node Unchecked Silent" />
-      <item value="uncheck All Son" />
-      <item value="uncheck All Parent" />
-      <item value="menusname" />
-      <item value="menusid" />
-      <item value="get Connection Driver" />
-      <item value="SyntaxError: Unexpected token" />
-      <item value="Incorrect Credentials Exception" />
-      <item value="parse Extension Filed To HTML" />
-      <item value="first Extra Value" />
     </histories>
   </component>
 </application>
