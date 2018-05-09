@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="time Picker" />
       <item value="daterangepicker Init" />
       <item value="init Complete" />
       <item value="manufactory" />
@@ -50,7 +51,6 @@
       <item value="biz activity partin" />
       <item value="accept User" />
       <item value="get Accept User" />
-      <item value="Biz Activity Invite" />
     </histories>
   </component>
 </application>
