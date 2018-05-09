@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="manufactory" />
       <item value="Illegal Argument Exception" />
       <item value="unknown property [originFileName]" />
       <item value="Parsing" />
@@ -50,7 +51,6 @@
       <item value="Biz Activity Invite" />
       <item value="find All Activity Invite" />
       <item value="Persistent Dao" />
-      <item value="select Data Base" />
     </histories>
   </component>
 </application>
