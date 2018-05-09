@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Illegal Argument Exception" />
+      <item value="unknown property [originFileName]" />
+      <item value="Parsing" />
+      <item value="org . elasticsearch . index . mapper . Mapper Parsing Exception" />
       <item value="相对路径" />
       <item value="get Real Path" />
       <item value="Project File Path Constants" />
@@ -47,10 +51,6 @@
       <item value="find All Activity Invite" />
       <item value="Persistent Dao" />
       <item value="select Data Base" />
-      <item value="Authentication failed for token submission [com.zx.edse.gui.sercurity.SysUsernamePasswordToken - rx, rememberMe=false (0:0:0:0:0:0:0:1)]. Possible unexpected error? (Typical or expected login exceptions should extend from AuthenticationException)." />
-      <item value="strip" />
-      <item value="check Tree Node By Id" />
-      <item value="siblings" />
     </histories>
   </component>
 </application>
