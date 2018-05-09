@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="daterangepicker Init" />
+      <item value="init Complete" />
       <item value="manufactory" />
       <item value="Illegal Argument Exception" />
       <item value="unknown property [originFileName]" />
@@ -49,8 +51,6 @@
       <item value="accept User" />
       <item value="get Accept User" />
       <item value="Biz Activity Invite" />
-      <item value="find All Activity Invite" />
-      <item value="Persistent Dao" />
     </histories>
   </component>
 </application>
