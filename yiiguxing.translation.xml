@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="element Form Default" />
+      <item value="qualified" />
       <item value="sequence" />
       <item value="KEYDATA" />
       <item value="reduction" />
@@ -49,8 +51,6 @@
       <item value="Incorrect Credentials Exception" />
       <item value="parse Extension Filed To HTML" />
       <item value="first Extra Value" />
-      <item value="first Extra Name" />
-      <item value="source Type" />
     </histories>
   </component>
 </application>
