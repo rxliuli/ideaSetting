@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="more" />
       <item value="fontawesome" />
       <item value="Font Awesome" />
       <item value="Concurrent Modification Exception" />
@@ -50,7 +51,6 @@
       <item value="parent Id" />
       <item value="子" />
       <item value="silent" />
-      <item value="node Checked Silent" />
     </histories>
   </component>
 </application>
