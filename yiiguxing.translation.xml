@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="STATUS REFUSE" />
       <item value="get Sender" />
       <item value="mail Entry To User Mail" />
       <item value="subject" />
@@ -50,7 +51,6 @@
       <item value="more" />
       <item value="fontawesome" />
       <item value="Font Awesome" />
-      <item value="Concurrent Modification Exception" />
     </histories>
   </component>
 </application>
