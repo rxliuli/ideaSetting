@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="file Suffix" />
+      <item value="file Subbix" />
+      <item value="file Subfuix" />
       <item value="Unsatisfied Link Error" />
       <item value="update Invite Message Status" />
       <item value="Reapply" />
@@ -48,9 +51,6 @@
       <item value="Parsing" />
       <item value="org . elasticsearch . index . mapper . Mapper Parsing Exception" />
       <item value="相对路径" />
-      <item value="get Real Path" />
-      <item value="Project File Path Constants" />
-      <item value="Project File Path Contstancs" />
     </histories>
   </component>
 </application>
