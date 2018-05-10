@@ -1,6 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decode Text" />
+      <item value="save Attach Ment" />
+      <item value="edse . file . download . url" />
+      <item value="the search criterion" />
+      <item value="This implementation invokes * &lt;code&gt;search(term, getMessages())&lt;/code&gt;, to apply the search * over all the messages in this folder. Providers that can implement * server-side searching might want to override this method to provide * a more efficient implementation. *" />
+      <item value="Search this Folder for messages matching the specified * search criterion. Returns an array containing the matching * messages . Returns an empty array if no matches were found. &lt;p&gt;" />
+      <item value="* Folders can contain Messages, other Folders or both, thus providing * a tree-like hierarchy rooted at the Store's default folder. (Note * that some Folder implementations may not allow both Messages and * other Folders in the same Folder).&lt;p&gt; *" />
+      <item value="Folder is an abstract class that represents a folder for mail * messages. Subclasses implement protocol specific Folders.&lt;p&gt;" />
+      <item value="* The effect of opening multiple connections to the same folder * on a specifc Store is implementation dependent. Some implementations * allow multiple readers, but only one writer. Others allow * multiple writers as well as readers." />
+      <item value="* If this folder is opened successfully, an OPENED ConnectionEvent * is delivered to any ConnectionListeners registered on this" />
+      <item value="Open this Folder. This method is valid only on Folders that * can contain Messages and that are closed. &lt;p&gt;" />
+      <item value="get Last Update Time" />
+      <item value="This class models the comparison operator. This is an abstract * class; subclasses implement comparisons for different datatypes" />
+      <item value="Message SentDate." />
+      <item value="Sent" />
+      <item value="This class implements comparisons for the Message SentDate." />
+      <item value="the Comparison type" />
+      <item value="Sent Date Term" />
+      <item value="find Inbox By Last Date" />
       <item value="time Picker" />
       <item value="daterangepicker Init" />
       <item value="init Complete" />
@@ -32,25 +51,6 @@
       <item value="element Form Default" />
       <item value="qualified" />
       <item value="sequence" />
-      <item value="KEYDATA" />
-      <item value="reduction" />
-      <item value="DB Operation" />
-      <item value="还原" />
-      <item value="还原接口" />
-      <item value="SCHEMA" />
-      <item value="GLOBAL STATUS" />
-      <item value="java.sql.SQLException: The 'INFORMATION_SCHEMA.GLOBAL_STATUS'" />
-      <item value="see the documentation for 'show_compatibility_56'" />
-      <item value="feature is disabled" />
-      <item value="INFORMATION SCHEMA . GLOBAL STATUS" />
-      <item value="diff" />
-      <item value="get Days" />
-      <item value="offset" />
-      <item value="Offset" />
-      <item value="get Offset Day End" />
-      <item value="biz activity partin" />
-      <item value="accept User" />
-      <item value="get Accept User" />
     </histories>
   </component>
 </application>
