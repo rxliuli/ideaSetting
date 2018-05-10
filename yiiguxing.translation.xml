@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Sender" />
+      <item value="mail Entry To User Mail" />
       <item value="subject" />
       <item value="receiver Array" />
       <item value="receiver List" />
@@ -49,8 +51,6 @@
       <item value="fontawesome" />
       <item value="Font Awesome" />
       <item value="Concurrent Modification Exception" />
-      <item value="power Filter" />
-      <item value="filter Duplicate Parent Ids" />
     </histories>
   </component>
 </application>
