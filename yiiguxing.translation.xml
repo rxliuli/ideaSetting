@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Body Part" />
+      <item value="get Is Download Attatch" />
+      <item value="html" />
+      <item value="plain" />
+      <item value="alternative" />
+      <item value="related" />
       <item value="decode Text" />
       <item value="save Attach Ment" />
       <item value="edse . file . download . url" />
@@ -45,12 +51,6 @@
       <item value="For ordered streams, the selection of distinct elements is stable * (for duplicated elements, the element appearing first in the encounter * order is preserved.) For unordered streams, no stability guarantees * are made." />
       <item value="Returns a stream consisting of the distinct elements (according to * {@link Object#equals(Object)}) of this stream." />
       <item value="Returns a stream consisting of the distinct elements (according to" />
-      <item value="ROOT" />
-      <item value="NODE" />
-      <item value="ROOT NODE ID" />
-      <item value="element Form Default" />
-      <item value="qualified" />
-      <item value="sequence" />
     </histories>
   </component>
 </application>
