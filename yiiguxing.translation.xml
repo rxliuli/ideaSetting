@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reapply" />
+      <item value="reapply Audit" />
       <item value="file Suffix" />
       <item value="file Subbix" />
       <item value="file Subfuix" />
@@ -9,7 +11,6 @@
       <item value="Reapply" />
       <item value="refuse" />
       <item value="refuse Reapply" />
-      <item value="reapply Audit" />
       <item value="STATUS REFUSE" />
       <item value="get Sender" />
       <item value="mail Entry To User Mail" />
@@ -50,7 +51,6 @@
       <item value="unknown property [originFileName]" />
       <item value="Parsing" />
       <item value="org . elasticsearch . index . mapper . Mapper Parsing Exception" />
-      <item value="相对路径" />
     </histories>
   </component>
 </application>
