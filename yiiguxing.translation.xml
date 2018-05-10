@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="subject" />
+      <item value="receiver Array" />
+      <item value="receiver List" />
+      <item value="remove Parentheses" />
       <item value="get Body Part" />
       <item value="get Is Download Attatch" />
       <item value="html" />
@@ -47,10 +51,6 @@
       <item value="Concurrent Modification Exception" />
       <item value="power Filter" />
       <item value="filter Duplicate Parent Ids" />
-      <item value="Returns a stream consisting of the results of replacing each element of * this stream with the contents of a mapped stream produced by applying * the provided mapping function to each element. Each mapped stream is" />
-      <item value="For ordered streams, the selection of distinct elements is stable * (for duplicated elements, the element appearing first in the encounter * order is preserved.) For unordered streams, no stability guarantees * are made." />
-      <item value="Returns a stream consisting of the distinct elements (according to * {@link Object#equals(Object)}) of this stream." />
-      <item value="Returns a stream consisting of the distinct elements (according to" />
     </histories>
   </component>
 </application>
