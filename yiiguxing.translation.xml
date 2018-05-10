@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="update Invite Message Status" />
+      <item value="Reapply" />
+      <item value="refuse" />
+      <item value="refuse Reapply" />
+      <item value="reapply Audit" />
       <item value="STATUS REFUSE" />
       <item value="get Sender" />
       <item value="mail Entry To User Mail" />
@@ -46,11 +51,6 @@
       <item value="Project File Path Constants" />
       <item value="Project File Path Contstancs" />
       <item value="silent" />
-      <item value="has Own Property" />
-      <item value="distinct" />
-      <item value="more" />
-      <item value="fontawesome" />
-      <item value="Font Awesome" />
     </histories>
   </component>
 </application>
