@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unsatisfied Link Error" />
       <item value="update Invite Message Status" />
       <item value="Reapply" />
       <item value="refuse" />
@@ -50,7 +51,6 @@
       <item value="get Real Path" />
       <item value="Project File Path Constants" />
       <item value="Project File Path Contstancs" />
-      <item value="silent" />
     </histories>
   </component>
 </application>
