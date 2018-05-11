@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="有序" />
       <item value="is Support Storage" />
       <item value="前缀" />
       <item value="check Support" />
@@ -50,7 +51,6 @@
       <item value="manually" />
       <item value="手动" />
       <item value="Returns a single Subject's principals retrieved from the specified Realm &lt;em&gt;only&lt;/em&gt; as a Collection, or an empty * Collection if there are not any principals from that realm." />
-      <item value="Sys Form Authentication Filter" />
     </histories>
   </component>
 </application>
