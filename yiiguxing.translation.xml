@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invite Status" />
       <item value="STATUS APPLY ACCEPT" />
       <item value="STATUS APPLY REFUSE" />
       <item value="STATUS already ACCEPT" />
@@ -50,7 +51,6 @@
       <item value="time To Live Seconds" />
       <item value="max Entries Local Heap" />
       <item value="overflow To Disk" />
-      <item value="eternal" />
     </histories>
   </component>
 </application>
