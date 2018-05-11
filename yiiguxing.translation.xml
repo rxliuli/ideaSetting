@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="init Record" />
       <item value="get Keys Order Desc" />
       <item value="operation" />
       <item value="action" />
@@ -50,7 +51,6 @@
       <item value="rendered" />
       <item value="atta" />
       <item value="attach" />
-      <item value="manual" />
     </histories>
   </component>
 </application>
