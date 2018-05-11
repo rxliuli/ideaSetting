@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Communications link failure" />
       <item value="all Sort Keys" />
       <item value="invite Status" />
       <item value="STATUS APPLY ACCEPT" />
@@ -50,7 +51,6 @@
       <item value="time To Idle Seconds" />
       <item value="name" />
       <item value="time To Live Seconds" />
-      <item value="max Entries Local Heap" />
     </histories>
   </component>
 </application>
