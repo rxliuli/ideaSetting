@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="STATUS APPLY ACCEPT" />
+      <item value="STATUS APPLY REFUSE" />
+      <item value="STATUS already ACCEPT" />
+      <item value="已经" />
+      <item value="STATUS APPLY" />
+      <item value="STATUS REAPPLY" />
       <item value="pattern" />
       <item value="init Record" />
       <item value="get Keys Order Desc" />
@@ -45,12 +51,6 @@
       <item value="max Entries Local Heap" />
       <item value="overflow To Disk" />
       <item value="eternal" />
-      <item value="300" />
-      <item value="max Entries Local Disk" />
-      <item value="Entry" />
-      <item value="tree Entry" />
-      <item value="rendered" />
-      <item value="atta" />
     </histories>
   </component>
 </application>
