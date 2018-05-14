@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.test.web.client.match.ContentRequestMatchers$3 cannot be cast to org.springframework.test.web.servlet.ResultMatcher" />
+      <item value="standalone Setup" />
+      <item value="Spring Application Configuration" />
+      <item value="A newer version '2018.1.1' is available for download" />
+      <item value="Failed to start component [Connector[HTTP/1.1-8080]]" />
+      <item value="Lifecycle Exception" />
       <item value="recycle" />
       <item value="invoke Set Method" />
       <item value="Filed" />
@@ -45,12 +51,6 @@
       <item value="doc Operation Record" />
       <item value="record" />
       <item value="locol Storage" />
-      <item value="store Cities" />
-      <item value="Returns this Subject's application-wide uniquely identifying principal, or {@code null} if this * Subject is anonymous because it doesn't yet have any associated account data (for example, * if they haven't logged in)." />
-      <item value="Idle" />
-      <item value="Active" />
-      <item value="get Num Active" />
-      <item value="shiro" />
     </histories>
   </component>
 </application>
