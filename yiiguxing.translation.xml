@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.dao.DataIntegrityViolationException: ### Error updating database. Cause: java.sql.SQLException: Field 'id' doesn't have a default value ### The error may involve com.rxliuli.example.springbootexample.mapper.UserLoginMapper.insert-Inline ### The error occurred while setting parameters" />
+      <item value="Field 'id' doesn't have a default value ; SQL []; Field 'id' doesn't have a default value; nested exception is java.sql.SQLException: Field 'id' doesn't have a default value" />
+      <item value="Error updating database. Cause: java.sql.SQLException: Field 'id' doesn't have a default value ### The error may involve com.rxliuli.example.springbootexample.mapper.UserLoginMapper.insert-Inline ### The error occurred while setting parameters ### SQL: INSERT INTO user_login (username, password, email) VALUES (?, ?, ?);" />
+      <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.binding.BindingException: Parameter 'username' not found. Available parameters are [userLogin, param1]" />
       <item value="org.springframework.test.web.client.match.ContentRequestMatchers$3 cannot be cast to org.springframework.test.web.servlet.ResultMatcher" />
       <item value="standalone Setup" />
       <item value="Spring Application Configuration" />
@@ -47,10 +51,6 @@
       <item value="前缀" />
       <item value="check Support" />
       <item value="支持" />
-      <item value="storage" />
-      <item value="doc Operation Record" />
-      <item value="record" />
-      <item value="locol Storage" />
     </histories>
   </component>
 </application>
