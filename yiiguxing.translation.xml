@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="记忆" />
+      <item value="内存" />
       <item value="newest Operation Type" />
       <item value="newest" />
       <item value="最新" />
@@ -49,8 +51,6 @@
       <item value="STATUS HAVEREAD" />
       <item value="activity Invite" />
       <item value="activity" />
-      <item value="invite" />
-      <item value="Content type 'text/plain;charset=UTF-8'" />
     </histories>
   </component>
 </application>
