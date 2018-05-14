@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="recycle" />
       <item value="invoke Set Method" />
       <item value="Filed" />
       <item value="method Filed" />
@@ -50,7 +51,6 @@
       <item value="Active" />
       <item value="get Num Active" />
       <item value="shiro" />
-      <item value="test Custom Filter Permission Success" />
     </histories>
   </component>
 </application>
