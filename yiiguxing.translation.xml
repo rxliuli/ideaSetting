@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invalid bound statement (not found): com.rxliuli.example.springbootexample.mapper.UserLoginMapper.insert" />
+      <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.rxliuli.example.springbootexample.mapper.UserLoginMapper.insert" />
       <item value="org.springframework.dao.DataIntegrityViolationException: ### Error updating database. Cause: java.sql.SQLException: Field 'id' doesn't have a default value ### The error may involve com.rxliuli.example.springbootexample.mapper.UserLoginMapper.insert-Inline ### The error occurred while setting parameters" />
       <item value="Field 'id' doesn't have a default value ; SQL []; Field 'id' doesn't have a default value; nested exception is java.sql.SQLException: Field 'id' doesn't have a default value" />
       <item value="Error updating database. Cause: java.sql.SQLException: Field 'id' doesn't have a default value ### The error may involve com.rxliuli.example.springbootexample.mapper.UserLoginMapper.insert-Inline ### The error occurred while setting parameters ### SQL: INSERT INTO user_login (username, password, email) VALUES (?, ?, ?);" />
@@ -49,8 +51,6 @@
       <item value="有序" />
       <item value="is Support Storage" />
       <item value="前缀" />
-      <item value="check Support" />
-      <item value="支持" />
     </histories>
   </component>
 </application>
