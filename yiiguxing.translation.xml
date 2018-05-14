@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="call" />
+      <item value="设定" />
+      <item value="extracted" />
       <item value="记忆" />
       <item value="内存" />
       <item value="newest Operation Type" />
@@ -48,9 +51,6 @@
       <item value="java.lang.IllegalStateException: Failed to load ApplicationContext" />
       <item value="Caught exception while allowing TestExecutionListener [org.springframework.test.context.support.DependencyInjectionTestExecutionListener@4566e5bd] to prepare test instance [com.rxliuli.demo.shiro.course.study.x00.web.dao.UserDaoTest@2286778]" />
       <item value="STATUS AUDIT" />
-      <item value="STATUS HAVEREAD" />
-      <item value="activity Invite" />
-      <item value="activity" />
     </histories>
   </component>
 </application>
