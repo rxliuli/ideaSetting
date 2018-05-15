@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Actual" />
+      <item value="Expected" />
       <item value="Could not resolve placeholder 'com.rxliuli.example.springbootexample.web.helloController.username' in value &quot;${com.rxliuli.example.springbootexample.web.helloController.username}&quot;" />
       <item value="To display the auto-configuration report re-run your application with 'debug' enabled." />
       <item value="Failed to load property source from location 'classpath:/application-test.yml'" />
@@ -49,8 +51,6 @@
       <item value="STATUS APPLY ACCEPT" />
       <item value="STATUS APPLY REFUSE" />
       <item value="STATUS already ACCEPT" />
-      <item value="已经" />
-      <item value="STATUS APPLY" />
     </histories>
   </component>
 </application>
