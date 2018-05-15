@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not resolve placeholder 'com.rxliuli.example.springbootexample.web.helloController.username' in value &quot;${com.rxliuli.example.springbootexample.web.helloController.username}&quot;" />
+      <item value="To display the auto-configuration report re-run your application with 'debug' enabled." />
+      <item value="Failed to load property source from location 'classpath:/application-test.yml'" />
+      <item value="org . springframework . boot . logging . Classpath Logging Application Listener" />
       <item value="Disconnected from the target VM, address: '127.0.0.1:52375', transport: 'socket'" />
       <item value="Cause: com.baomidou.mybatisplus.exceptions.MybatisPlusException: com.baomidou.mybatisplus.exceptions.MybatisPlusException: Error: Full table operation is prohibited. SQL: delete from admin" />
       <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException:" />
@@ -47,10 +51,6 @@
       <item value="STATUS already ACCEPT" />
       <item value="已经" />
       <item value="STATUS APPLY" />
-      <item value="STATUS REAPPLY" />
-      <item value="pattern" />
-      <item value="init Record" />
-      <item value="get Keys Order Desc" />
     </histories>
   </component>
 </application>
