@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Disconnected from the target VM, address: '127.0.0.1:52375', transport: 'socket'" />
       <item value="Cause: com.baomidou.mybatisplus.exceptions.MybatisPlusException: com.baomidou.mybatisplus.exceptions.MybatisPlusException: Error: Full table operation is prohibited. SQL: delete from admin" />
       <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException:" />
       <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.interview.dao.AdminMapper.deleteAll" />
@@ -50,7 +51,6 @@
       <item value="pattern" />
       <item value="init Record" />
       <item value="get Keys Order Desc" />
-      <item value="operation" />
     </histories>
   </component>
 </application>
