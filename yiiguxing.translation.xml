@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cause: com.baomidou.mybatisplus.exceptions.MybatisPlusException: com.baomidou.mybatisplus.exceptions.MybatisPlusException: Error: Full table operation is prohibited. SQL: delete from admin" />
+      <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException:" />
+      <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.interview.dao.AdminMapper.deleteAll" />
+      <item value="Invalid bound statement (not found): com.interview.dao.AdminMapper.deleteAll" />
+      <item value="Invalid bound statement (not found): com.rxliuli.example.springbootexample.mapper.UserLoginMapper.insert" />
+      <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.rxliuli.example.springbootexample.mapper.UserLoginMapper.insert" />
+      <item value="org.springframework.dao.DataIntegrityViolationException: ### Error updating database. Cause: java.sql.SQLException: Field 'id' doesn't have a default value ### The error may involve com.rxliuli.example.springbootexample.mapper.UserLoginMapper.insert-Inline ### The error occurred while setting parameters" />
+      <item value="Field 'id' doesn't have a default value ; SQL []; Field 'id' doesn't have a default value; nested exception is java.sql.SQLException: Field 'id' doesn't have a default value" />
+      <item value="Error updating database. Cause: java.sql.SQLException: Field 'id' doesn't have a default value ### The error may involve com.rxliuli.example.springbootexample.mapper.UserLoginMapper.insert-Inline ### The error occurred while setting parameters ### SQL: INSERT INTO user_login (username, password, email) VALUES (?, ?, ?);" />
+      <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.binding.BindingException: Parameter 'username' not found. Available parameters are [userLogin, param1]" />
+      <item value="org.springframework.test.web.client.match.ContentRequestMatchers$3 cannot be cast to org.springframework.test.web.servlet.ResultMatcher" />
+      <item value="standalone Setup" />
+      <item value="Spring Application Configuration" />
+      <item value="A newer version '2018.1.1' is available for download" />
+      <item value="Failed to start component [Connector[HTTP/1.1-8080]]" />
+      <item value="Lifecycle Exception" />
       <item value="recycle" />
       <item value="invoke Set Method" />
       <item value="Filed" />
@@ -35,22 +51,6 @@
       <item value="init Record" />
       <item value="get Keys Order Desc" />
       <item value="operation" />
-      <item value="action" />
-      <item value="有序" />
-      <item value="is Support Storage" />
-      <item value="前缀" />
-      <item value="check Support" />
-      <item value="支持" />
-      <item value="storage" />
-      <item value="doc Operation Record" />
-      <item value="record" />
-      <item value="locol Storage" />
-      <item value="store Cities" />
-      <item value="Returns this Subject's application-wide uniquely identifying principal, or {@code null} if this * Subject is anonymous because it doesn't yet have any associated account data (for example, * if they haven't logged in)." />
-      <item value="Idle" />
-      <item value="Active" />
-      <item value="get Num Active" />
-      <item value="shiro" />
     </histories>
   </component>
 </application>
