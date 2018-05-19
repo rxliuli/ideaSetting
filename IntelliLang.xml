@@ -8,6 +8,10 @@
       <display-name>Select.value (org.apache.ibatis.annotations)</display-name>
       <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.apache.ibatis.annotations.Select")]]></place>
     </injection>
+    <injection language="MySQL" injector-id="java">
+      <display-name>Update.value (org.apache.ibatis.annotations)</display-name>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.apache.ibatis.annotations.Update")]]></place>
+    </injection>
     <injection language="MySQL" injector-id="xml">
       <display-name>iBatis3: sql|select|insert|update|delete</display-name>
       <place><![CDATA[xmlTag().withLocalName(string().oneOf("sql", "select", "insert", "update", "delete")).withNamespace(string().oneOf("http://ibatis.apache.org/dtd/ibatis-3-mapper.dtd", "http://mybatis.org/dtd/mybatis-3-mapper.dtd"))]]></place>
