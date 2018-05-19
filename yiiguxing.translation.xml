@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Console Appender" />
+      <item value="Apperd" />
+      <item value="erder" />
+      <item value="Apperder" />
+      <item value="Console Apperder 意思是从 console 中打印出来" />
+      <item value="* A hash table supporting full concurrency of retrievals and * high expected concurrency for updates. This class obeys the * same functional specification as {@link java.util.Hashtable}, and * includes versions of methods corresponding to each method of * {@code Hashtable}. However, even though all operations are * thread-safe, retrieval operations do &lt;em&gt;not&lt;/em&gt; entail locking, * and there is &lt;em&gt;not&lt;/em&gt; any support for locking the entire table" />
+      <item value="* A hash table supporting full concurrency of retrievals and * high expected concurrency for updates. This class obeys the" />
+      <item value="high expected concurrency for updates. This class obeys the" />
+      <item value="A hash table supporting full concurrency of retrievals and" />
       <item value="Actual" />
       <item value="Expected" />
       <item value="Could not resolve placeholder 'com.rxliuli.example.springbootexample.web.helloController.username' in value &quot;${com.rxliuli.example.springbootexample.web.helloController.username}&quot;" />
@@ -42,15 +51,6 @@
       <item value="最新" />
       <item value="checked" />
       <item value="get Child Node Id Array" />
-      <item value="treeview" />
-      <item value="get Siblings" />
-      <item value="serialize Object" />
-      <item value="Communications link failure" />
-      <item value="all Sort Keys" />
-      <item value="invite Status" />
-      <item value="STATUS APPLY ACCEPT" />
-      <item value="STATUS APPLY REFUSE" />
-      <item value="STATUS already ACCEPT" />
     </histories>
   </component>
 </application>
