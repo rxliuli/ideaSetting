@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to load ApplicationContext" />
+      <item value="Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Property 'sqlSessionFactory' or 'sqlSessionTemplate' are required" />
+      <item value="Property 'sqlSessionFactory' or 'sqlSessionTemplate' are required" />
+      <item value="org.springframework.web.util.NestedServletException: Request processing failed; nested exception is java.lang.NullPointerException" />
+      <item value="Request processing failed; nested exception is java.lang.NullPointerException" />
+      <item value="and Expect" />
+      <item value="perform" />
+      <item value="Annotation that binds a method parameter or method return value * to a named model attribute, exposed to a web view. Supported * for controller classes with {@link RequestMapping @RequestMapping} * methods." />
       <item value="Console Appender" />
       <item value="Apperd" />
       <item value="erder" />
@@ -43,14 +51,6 @@
       <item value="invoke Get Method" />
       <item value="call" />
       <item value="设定" />
-      <item value="extracted" />
-      <item value="记忆" />
-      <item value="内存" />
-      <item value="newest Operation Type" />
-      <item value="newest" />
-      <item value="最新" />
-      <item value="checked" />
-      <item value="get Child Node Id Array" />
     </histories>
   </component>
 </application>
