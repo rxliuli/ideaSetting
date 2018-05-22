@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* @param name the attribute name * @param value the attribute value" />
+      <item value="Set a request attribute." />
+      <item value="request Attr" />
+      <item value="Media Type" />
       <item value="increment And Get" />
       <item value="Atomic Long" />
       <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found)" />
@@ -47,10 +51,6 @@
       <item value="Failed to start component [Connector[HTTP/1.1-8080]]" />
       <item value="Lifecycle Exception" />
       <item value="recycle" />
-      <item value="invoke Set Method" />
-      <item value="Filed" />
-      <item value="method Filed" />
-      <item value="method Name" />
     </histories>
   </component>
 </application>
