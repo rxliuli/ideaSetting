@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reloading class" />
+      <item value="A cron-like expression, extending the usual UN*X definition to include * triggers on the second as well as minute, hour, day of month, month * and day of week. e.g. {@code &quot;0 * * * * MON-FRI&quot;} means once per minute on * weekdays (at the top of the minute - the 0th second). * @return an expression that can be parsed to a cron schedule *" />
+      <item value="DataSourceAutoConfiguration matched: - @ConditionalOnClass found required classes 'javax.sql.DataSource', 'org.springframework.jdbc.datasource.embedded.EmbeddedDatabaseType'; @ConditionalOnMissingClass did not find unwanted class (OnClassCondition)" />
+      <item value="UTO-CONFIGURATION REPORT" />
+      <item value="A cron-like expression, extending the usual UN*X definition to include * triggers on the second as well as minute, hour, day of month, month * and day of week. e.g. {@code &quot;0 * * * * MON-FRI&quot;} means once per minute on * weekdays (at the top of the minute - the 0th second). * @return an expression that can be parsed to a cron schedule" />
+      <item value="Caused by: java.lang.IllegalStateException: Encountered invalid @Scheduled method 'logger': Range exceeds maximum (8): '10' in expression &quot;* * * * * 10&quot;" />
+      <item value="ERROR org.springframework.boot.SpringApplication.reportFailure - Application startup failed" />
       <item value="valuate the JSON path expression against the response content and * assert the resulting value with the given Hamcrest {@link Matcher}." />
       <item value="Failed to load ApplicationContext" />
       <item value="org.springframework.web.util.NestedServletException: Request processing failed; nested exception is org.springframework.jdbc.BadSqlGrammarException: ### Error updating database. Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'password = '123456'" />
@@ -44,13 +51,6 @@
       <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.interview.dao.AdminMapper.deleteAll" />
       <item value="Invalid bound statement (not found): com.interview.dao.AdminMapper.deleteAll" />
       <item value="Invalid bound statement (not found): com.rxliuli.example.springbootexample.mapper.UserLoginMapper.insert" />
-      <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.rxliuli.example.springbootexample.mapper.UserLoginMapper.insert" />
-      <item value="org.springframework.dao.DataIntegrityViolationException: ### Error updating database. Cause: java.sql.SQLException: Field 'id' doesn't have a default value ### The error may involve com.rxliuli.example.springbootexample.mapper.UserLoginMapper.insert-Inline ### The error occurred while setting parameters" />
-      <item value="Field 'id' doesn't have a default value ; SQL []; Field 'id' doesn't have a default value; nested exception is java.sql.SQLException: Field 'id' doesn't have a default value" />
-      <item value="Error updating database. Cause: java.sql.SQLException: Field 'id' doesn't have a default value ### The error may involve com.rxliuli.example.springbootexample.mapper.UserLoginMapper.insert-Inline ### The error occurred while setting parameters ### SQL: INSERT INTO user_login (username, password, email) VALUES (?, ?, ?);" />
-      <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.binding.BindingException: Parameter 'username' not found. Available parameters are [userLogin, param1]" />
-      <item value="org.springframework.test.web.client.match.ContentRequestMatchers$3 cannot be cast to org.springframework.test.web.servlet.ResultMatcher" />
-      <item value="standalone Setup" />
     </histories>
   </component>
 </application>

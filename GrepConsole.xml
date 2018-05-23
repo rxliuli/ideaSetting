@@ -98,7 +98,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value="*" />
+                      <option name="grepExpression" value="." />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
