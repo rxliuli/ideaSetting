@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Web Mvc Configurer" />
+      <item value="Defines callback methods to customize the Java-based configuration for * Spring MVC enabled via {@code @EnableWebMvc}. * * &lt;p&gt;{@code @EnableWebMvc}-annotated configuration classes may implement * this interface to be called back and given a chance to customize the * default configuration. * * @author Rossen Stoyanchev * @author Keith Donald * @author David Syer * @since 3.1" />
       <item value="Reloading class" />
       <item value="A cron-like expression, extending the usual UN*X definition to include * triggers on the second as well as minute, hour, day of month, month * and day of week. e.g. {@code &quot;0 * * * * MON-FRI&quot;} means once per minute on * weekdays (at the top of the minute - the 0th second). * @return an expression that can be parsed to a cron schedule *" />
       <item value="DataSourceAutoConfiguration matched: - @ConditionalOnClass found required classes 'javax.sql.DataSource', 'org.springframework.jdbc.datasource.embedded.EmbeddedDatabaseType'; @ConditionalOnMissingClass did not find unwanted class (OnClassCondition)" />
@@ -49,8 +51,6 @@
       <item value="Cause: com.baomidou.mybatisplus.exceptions.MybatisPlusException: com.baomidou.mybatisplus.exceptions.MybatisPlusException: Error: Full table operation is prohibited. SQL: delete from admin" />
       <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException:" />
       <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.interview.dao.AdminMapper.deleteAll" />
-      <item value="Invalid bound statement (not found): com.interview.dao.AdminMapper.deleteAll" />
-      <item value="Invalid bound statement (not found): com.rxliuli.example.springbootexample.mapper.UserLoginMapper.insert" />
     </histories>
   </component>
 </application>
