@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.attoparser.ParseException: (Line = 19, Column = 79) Could not parse as a well-formed close element: &quot;&lt;/&gt;&quot; at org.attoparser.ParsingElementMarkupUtil.parseCloseElement(ParsingElementMarkupUtil.java:176) ~[attoparser-2.0.4.RELEASE.jar:2.0.4.RELEASE]" />
+      <item value="org.thymeleaf.exceptions.TemplateProcessingException: Exception evaluating SpringEL expression: &quot;#fields.hasErrors('name')&quot; (template: &quot;login&quot; - line 14, col 13)" />
+      <item value="at org.thymeleaf.templateparser.markup.AbstractMarkupTemplateParser.parse(AbstractMarkupTemplateParser.java:241) ~[thymeleaf-3.0.9.RELEASE.jar:3.0.9.RELEASE]" />
+      <item value="Exception processing template &quot;login&quot;: An error happened during template parsing (template: &quot;class path resource [templates/login.html]&quot;)" />
       <item value="Web Mvc Configurer" />
       <item value="Defines callback methods to customize the Java-based configuration for * Spring MVC enabled via {@code @EnableWebMvc}. * * &lt;p&gt;{@code @EnableWebMvc}-annotated configuration classes may implement * this interface to be called back and given a chance to customize the * default configuration. * * @author Rossen Stoyanchev * @author Keith Donald * @author David Syer * @since 3.1" />
       <item value="Reloading class" />
@@ -47,10 +51,6 @@
       <item value="To display the auto-configuration report re-run your application with 'debug' enabled." />
       <item value="Failed to load property source from location 'classpath:/application-test.yml'" />
       <item value="org . springframework . boot . logging . Classpath Logging Application Listener" />
-      <item value="Disconnected from the target VM, address: '127.0.0.1:52375', transport: 'socket'" />
-      <item value="Cause: com.baomidou.mybatisplus.exceptions.MybatisPlusException: com.baomidou.mybatisplus.exceptions.MybatisPlusException: Error: Full table operation is prohibited. SQL: delete from admin" />
-      <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException:" />
-      <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.interview.dao.AdminMapper.deleteAll" />
     </histories>
   </component>
 </application>

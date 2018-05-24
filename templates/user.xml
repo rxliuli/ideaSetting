@@ -27,4 +27,12 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="input" value="&lt;div&gt;&#10;    &lt;label for=&quot;$field$&quot;&gt;$label$&lt;/label&gt;&#10;    &lt;input type=&quot;$type$&quot; name=&quot;$field$&quot; id=&quot;$field$&quot;/&gt;&#10;&lt;/div&gt;&#10;$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="field" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="label" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="text" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+    </context>
+  </template>
 </templateSet>
