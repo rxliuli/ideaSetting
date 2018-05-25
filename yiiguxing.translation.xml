@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Code generator test sample" />
+      <item value="Hikari CP" />
+      <item value="java 7" />
+      <item value="Connection to default@10.1.199.205 failed. [90011][90011] A file path that is implicitly relative to the current working directory is not allowed in the database URL &quot;jdbc:h2:tcp://10.1.199.205:9092/default&quot;. Use an absolute path, ~/name, ./name, or the baseDir setting instead. [90011-196]" />
+      <item value="org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-196]" />
       <item value="org.attoparser.ParseException: (Line = 19, Column = 79) Could not parse as a well-formed close element: &quot;&lt;/&gt;&quot; at org.attoparser.ParsingElementMarkupUtil.parseCloseElement(ParsingElementMarkupUtil.java:176) ~[attoparser-2.0.4.RELEASE.jar:2.0.4.RELEASE]" />
       <item value="org.thymeleaf.exceptions.TemplateProcessingException: Exception evaluating SpringEL expression: &quot;#fields.hasErrors('name')&quot; (template: &quot;login&quot; - line 14, col 13)" />
       <item value="at org.thymeleaf.templateparser.markup.AbstractMarkupTemplateParser.parse(AbstractMarkupTemplateParser.java:241) ~[thymeleaf-3.0.9.RELEASE.jar:3.0.9.RELEASE]" />
@@ -46,11 +51,6 @@
       <item value="high expected concurrency for updates. This class obeys the" />
       <item value="A hash table supporting full concurrency of retrievals and" />
       <item value="Actual" />
-      <item value="Expected" />
-      <item value="Could not resolve placeholder 'com.rxliuli.example.springbootexample.web.helloController.username' in value &quot;${com.rxliuli.example.springbootexample.web.helloController.username}&quot;" />
-      <item value="To display the auto-configuration report re-run your application with 'debug' enabled." />
-      <item value="Failed to load property source from location 'classpath:/application-test.yml'" />
-      <item value="org . springframework . boot . logging . Classpath Logging Application Listener" />
     </histories>
   </component>
 </application>
