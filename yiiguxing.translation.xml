@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.rxliuli.example.springbootexample.mapper.UserLoginMapper.selectList" />
+      <item value="org.apache.ibatis.builder.IncompleteElementException: Could not find SQL statement to include with refid 'com.rxliuli.example.springbootexample.mapper.UserLoginMapper.base-column-list'" />
+      <item value="validate" />
       <item value="constraint violations or an empty set if none" />
       <item value="the group or list of groups targeted for validation (defaults to" />
       <item value="alidates all constraints on {@code object}." />
@@ -48,9 +51,6 @@
       <item value="UTO-CONFIGURATION REPORT" />
       <item value="A cron-like expression, extending the usual UN*X definition to include * triggers on the second as well as minute, hour, day of month, month * and day of week. e.g. {@code &quot;0 * * * * MON-FRI&quot;} means once per minute on * weekdays (at the top of the minute - the 0th second). * @return an expression that can be parsed to a cron schedule" />
       <item value="Caused by: java.lang.IllegalStateException: Encountered invalid @Scheduled method 'logger': Range exceeds maximum (8): '10' in expression &quot;* * * * * 10&quot;" />
-      <item value="ERROR org.springframework.boot.SpringApplication.reportFailure - Application startup failed" />
-      <item value="valuate the JSON path expression against the response content and * assert the resulting value with the given Hamcrest {@link Matcher}." />
-      <item value="Failed to load ApplicationContext" />
     </histories>
   </component>
 </application>
