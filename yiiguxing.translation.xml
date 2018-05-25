@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="{com.rxliuli.example.springbootexample.mapper.UserLoginMapper.updateById} Has been loaded by XML or SqlProvider, ignoring the injection of the SQL." />
+      <item value="{com.rxliuli.example.springbootexample.mapper.UserLoginMapper.deleteById} Has been loaded by XML or SqlProvider, ignoring the injection of the SQL." />
+      <item value="H2 Sequence" />
+      <item value="H 2 Key Generator" />
+      <item value="set Tenant Handler" />
+      <item value="get Tenant Id Column" />
+      <item value="Error querying database. Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'tenant_id' in 'where clause'" />
       <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.rxliuli.example.springbootexample.mapper.UserLoginMapper.selectList" />
       <item value="org.apache.ibatis.builder.IncompleteElementException: Could not find SQL statement to include with refid 'com.rxliuli.example.springbootexample.mapper.UserLoginMapper.base-column-list'" />
       <item value="validate" />
@@ -44,13 +51,6 @@
       <item value="at org.thymeleaf.templateparser.markup.AbstractMarkupTemplateParser.parse(AbstractMarkupTemplateParser.java:241) ~[thymeleaf-3.0.9.RELEASE.jar:3.0.9.RELEASE]" />
       <item value="Exception processing template &quot;login&quot;: An error happened during template parsing (template: &quot;class path resource [templates/login.html]&quot;)" />
       <item value="Web Mvc Configurer" />
-      <item value="Defines callback methods to customize the Java-based configuration for * Spring MVC enabled via {@code @EnableWebMvc}. * * &lt;p&gt;{@code @EnableWebMvc}-annotated configuration classes may implement * this interface to be called back and given a chance to customize the * default configuration. * * @author Rossen Stoyanchev * @author Keith Donald * @author David Syer * @since 3.1" />
-      <item value="Reloading class" />
-      <item value="A cron-like expression, extending the usual UN*X definition to include * triggers on the second as well as minute, hour, day of month, month * and day of week. e.g. {@code &quot;0 * * * * MON-FRI&quot;} means once per minute on * weekdays (at the top of the minute - the 0th second). * @return an expression that can be parsed to a cron schedule *" />
-      <item value="DataSourceAutoConfiguration matched: - @ConditionalOnClass found required classes 'javax.sql.DataSource', 'org.springframework.jdbc.datasource.embedded.EmbeddedDatabaseType'; @ConditionalOnMissingClass did not find unwanted class (OnClassCondition)" />
-      <item value="UTO-CONFIGURATION REPORT" />
-      <item value="A cron-like expression, extending the usual UN*X definition to include * triggers on the second as well as minute, hour, day of month, month * and day of week. e.g. {@code &quot;0 * * * * MON-FRI&quot;} means once per minute on * weekdays (at the top of the minute - the 0th second). * @return an expression that can be parsed to a cron schedule" />
-      <item value="Caused by: java.lang.IllegalStateException: Encountered invalid @Scheduled method 'logger': Range exceeds maximum (8): '10' in expression &quot;* * * * * 10&quot;" />
     </histories>
   </component>
 </application>
