@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Index of all roles in Goto Class... Index of all properties in Goto Symbol... Reference Jinja2 variable declaration Reference to role declaraion Various completions Documentation looku" />
+      <item value="Amazon AWS CloudFormation language support Open any *.template, *.json or *.yaml file with CloudFormation language inside. There should be number of features available:" />
+      <item value="Code completion for Camel endpoints in Java, XML, properties or yaml files (ctrl + space)" />
+      <item value="Caused by: org.yaml.snakeyaml.parser.ParserException: while parsing a block mapping" />
+      <item value="reader" />
+      <item value="8" />
+      <item value="in 'reader', line 1, column 1:" />
+      <item value="org.yaml.snakeyaml.parser.ParserException: while parsing a block mapping" />
+      <item value="Failed to load property source from location 'classpath:/application.yml'" />
+      <item value="org.springframework.boot.SpringApplication.reportFailure - Application startup failed" />
       <item value="Generator Service Entity" />
       <item value="enable" />
       <item value="Clinton" />
@@ -41,16 +51,6 @@
       <item value="Atomic Long" />
       <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found)" />
       <item value="ERROR org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet].log - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.rxliuli.example.springbootexample.mapper.UserLoginMapper.insert] with root cause" />
-      <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'com.rxliuli.example.springbootexample.web.UserLoginControllerTest': Unsatisfied dependency expressed through method 'setDataSource' parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'javax.sql.DataSource' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}" />
-      <item value="Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Property 'sqlSessionFactory' or 'sqlSessionTemplate' are required" />
-      <item value="Property 'sqlSessionFactory' or 'sqlSessionTemplate' are required" />
-      <item value="org.springframework.web.util.NestedServletException: Request processing failed; nested exception is java.lang.NullPointerException" />
-      <item value="Request processing failed; nested exception is java.lang.NullPointerException" />
-      <item value="and Expect" />
-      <item value="perform" />
-      <item value="Annotation that binds a method parameter or method return value * to a named model attribute, exposed to a web view. Supported * for controller classes with {@link RequestMapping @RequestMapping} * methods." />
-      <item value="Console Appender" />
-      <item value="Apperd" />
     </histories>
   </component>
 </application>
