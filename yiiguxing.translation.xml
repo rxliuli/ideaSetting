@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="constraint violations or an empty set if none" />
+      <item value="the group or list of groups targeted for validation (defaults to" />
+      <item value="alidates all constraints on {@code object}." />
+      <item value="a negative integer, zero, or a positive integer as &lt;code&gt;lhs&lt;/code&gt; * is less than, equal to, or greater than &lt;code&gt;rhs&lt;/code&gt;" />
+      <item value="If both &lt;code&gt;lhs&lt;/code&gt; and &lt;code&gt;rhs&lt;/code&gt; are &lt;code&gt;null&lt;/code&gt;, * they are considered equal.&lt;/p&gt;" />
+      <item value="Static fields will not be compared&lt;/li&gt; * &lt;li&gt;Transient members will be not be compared, as they are likely derived * fields&lt;/li&gt; * &lt;li&gt;Superclass fields will be compared&lt;/li&gt; * &lt;/ul&gt;" />
+      <item value="Fields can be private, thus &lt;code&gt;AccessibleObject.setAccessible&lt;/code&gt; * is used to bypass normal access control checks. This will fail under a * security manager unless the appropriate permissions are set.&lt;/p&gt;" />
+      <item value="Compares two &lt;code&gt;Object&lt;/code&gt;s via reflection." />
+      <item value="validata" />
       <item value="All Args Constructor" />
       <item value="* Generates a constructor with required arguments. * Required arguments are final fields and fields with constraints such as {@code @NonNull}. * &lt;p&gt; * Complete documentation is found at &lt;a href=&quot;https://projectlombok.org/features/Constructor&quot;&gt;the project lombok features page for &amp;#64;Constructor&lt;/a&gt;. * &lt;p&gt; * Even though it is not listed, this annotation also has the {@code onConstructor} parameter. See the full documentation for more details." />
       <item value="Required Args Constructor" />
@@ -42,15 +51,6 @@
       <item value="ERROR org.springframework.boot.SpringApplication.reportFailure - Application startup failed" />
       <item value="valuate the JSON path expression against the response content and * assert the resulting value with the given Hamcrest {@link Matcher}." />
       <item value="Failed to load ApplicationContext" />
-      <item value="org.springframework.web.util.NestedServletException: Request processing failed; nested exception is org.springframework.jdbc.BadSqlGrammarException: ### Error updating database. Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'password = '123456'" />
-      <item value="accept" />
-      <item value="Connector configured to listen on port 8080 failed to start" />
-      <item value="ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter.report" />
-      <item value="* @param name the attribute name * @param value the attribute value" />
-      <item value="Set a request attribute." />
-      <item value="request Attr" />
-      <item value="Media Type" />
-      <item value="increment And Get" />
     </histories>
   </component>
 </application>
