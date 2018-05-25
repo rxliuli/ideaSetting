@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="INSERT INTO user_login (id, username, password, email, id) VALUES (?, ?, ?, ?, 1) ### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Column 'id' specified twice ; bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Column 'id' specified twice" />
+      <item value="### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Column 'id' specified twice ; bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Column 'id' specified twice" />
+      <item value="### The error may involve defaultParameterMap ### The error occurred while setting parameters" />
+      <item value="### Error updating database. Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Column 'id' specified twice" />
+      <item value="Request processing failed; nested exception is org.springframework.jdbc.BadSqlGrammarException:" />
+      <item value="nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Column 'id' specified twice" />
       <item value="{com.rxliuli.example.springbootexample.mapper.UserLoginMapper.updateById} Has been loaded by XML or SqlProvider, ignoring the injection of the SQL." />
       <item value="{com.rxliuli.example.springbootexample.mapper.UserLoginMapper.deleteById} Has been loaded by XML or SqlProvider, ignoring the injection of the SQL." />
       <item value="H2 Sequence" />
@@ -45,12 +51,6 @@
       <item value="Hikari CP" />
       <item value="java 7" />
       <item value="Connection to default@10.1.199.205 failed. [90011][90011] A file path that is implicitly relative to the current working directory is not allowed in the database URL &quot;jdbc:h2:tcp://10.1.199.205:9092/default&quot;. Use an absolute path, ~/name, ./name, or the baseDir setting instead. [90011-196]" />
-      <item value="org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-196]" />
-      <item value="org.attoparser.ParseException: (Line = 19, Column = 79) Could not parse as a well-formed close element: &quot;&lt;/&gt;&quot; at org.attoparser.ParsingElementMarkupUtil.parseCloseElement(ParsingElementMarkupUtil.java:176) ~[attoparser-2.0.4.RELEASE.jar:2.0.4.RELEASE]" />
-      <item value="org.thymeleaf.exceptions.TemplateProcessingException: Exception evaluating SpringEL expression: &quot;#fields.hasErrors('name')&quot; (template: &quot;login&quot; - line 14, col 13)" />
-      <item value="at org.thymeleaf.templateparser.markup.AbstractMarkupTemplateParser.parse(AbstractMarkupTemplateParser.java:241) ~[thymeleaf-3.0.9.RELEASE.jar:3.0.9.RELEASE]" />
-      <item value="Exception processing template &quot;login&quot;: An error happened during template parsing (template: &quot;class path resource [templates/login.html]&quot;)" />
-      <item value="Web Mvc Configurer" />
     </histories>
   </component>
 </application>
