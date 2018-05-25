@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="injector" />
+      <item value="Logic Sql Injector" />
+      <item value="org.apache.ibatis.reflection.ReflectionException: Could not set property 'id' of 'class com.rxliuli.example.springbootexample.entity.UserLogin' with value '5844e564ad55417caf905c94b768c3a7' Cause: java.lang.IllegalArgumentException: argument type mismatch" />
+      <item value="Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Column 'id' specified twice" />
+      <item value="### The error occurred while setting parameters ### SQL: INSERT INTO user_login (id, username, password, email, id) VALUES (?, ?, ?, ?, 1)" />
+      <item value="{com.rxliuli.example.springbootexample.mapper.UserLoginMapper.deleteById} Has been loaded by XML or SqlProvider, ignoring the injection of the SQL." />
       <item value="INSERT INTO user_login (id, username, password, email, id) VALUES (?, ?, ?, ?, 1) ### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Column 'id' specified twice ; bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Column 'id' specified twice" />
       <item value="### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Column 'id' specified twice ; bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Column 'id' specified twice" />
       <item value="### The error may involve defaultParameterMap ### The error occurred while setting parameters" />
@@ -8,7 +14,6 @@
       <item value="Request processing failed; nested exception is org.springframework.jdbc.BadSqlGrammarException:" />
       <item value="nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Column 'id' specified twice" />
       <item value="{com.rxliuli.example.springbootexample.mapper.UserLoginMapper.updateById} Has been loaded by XML or SqlProvider, ignoring the injection of the SQL." />
-      <item value="{com.rxliuli.example.springbootexample.mapper.UserLoginMapper.deleteById} Has been loaded by XML or SqlProvider, ignoring the injection of the SQL." />
       <item value="H2 Sequence" />
       <item value="H 2 Key Generator" />
       <item value="set Tenant Handler" />
@@ -45,12 +50,7 @@
       <item value="Clinton Begin" />
       <item value="don't instantiate child path if value is null" />
       <item value="My Meta Object Handler" />
-      <item value="Logic Sql Injector" />
       <item value="type Enums Package" />
-      <item value="Code generator test sample" />
-      <item value="Hikari CP" />
-      <item value="java 7" />
-      <item value="Connection to default@10.1.199.205 failed. [90011][90011] A file path that is implicitly relative to the current working directory is not allowed in the database URL &quot;jdbc:h2:tcp://10.1.199.205:9092/default&quot;. Use an absolute path, ~/name, ./name, or the baseDir setting instead. [90011-196]" />
     </histories>
   </component>
 </application>
