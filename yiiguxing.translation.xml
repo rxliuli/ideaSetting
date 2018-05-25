@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="All Args Constructor" />
+      <item value="* Generates a constructor with required arguments. * Required arguments are final fields and fields with constraints such as {@code @NonNull}. * &lt;p&gt; * Complete documentation is found at &lt;a href=&quot;https://projectlombok.org/features/Constructor&quot;&gt;the project lombok features page for &amp;#64;Constructor&lt;/a&gt;. * &lt;p&gt; * Even though it is not listed, this annotation also has the {@code onConstructor} parameter. See the full documentation for more details." />
+      <item value="Required Args Constructor" />
       <item value="Index of all roles in Goto Class... Index of all properties in Goto Symbol... Reference Jinja2 variable declaration Reference to role declaraion Various completions Documentation looku" />
       <item value="Amazon AWS CloudFormation language support Open any *.template, *.json or *.yaml file with CloudFormation language inside. There should be number of features available:" />
       <item value="Code completion for Camel endpoints in Java, XML, properties or yaml files (ctrl + space)" />
@@ -48,9 +51,6 @@
       <item value="request Attr" />
       <item value="Media Type" />
       <item value="increment And Get" />
-      <item value="Atomic Long" />
-      <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found)" />
-      <item value="ERROR org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet].log - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.rxliuli.example.springbootexample.mapper.UserLoginMapper.insert] with root cause" />
     </histories>
   </component>
 </application>
