@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Generator Service Entity" />
+      <item value="enable" />
+      <item value="Clinton" />
+      <item value="Clinton Begin" />
+      <item value="don't instantiate child path if value is null" />
+      <item value="My Meta Object Handler" />
+      <item value="Logic Sql Injector" />
+      <item value="type Enums Package" />
       <item value="Code generator test sample" />
       <item value="Hikari CP" />
       <item value="java 7" />
@@ -43,14 +51,6 @@
       <item value="Annotation that binds a method parameter or method return value * to a named model attribute, exposed to a web view. Supported * for controller classes with {@link RequestMapping @RequestMapping} * methods." />
       <item value="Console Appender" />
       <item value="Apperd" />
-      <item value="erder" />
-      <item value="Apperder" />
-      <item value="Console Apperder 意思是从 console 中打印出来" />
-      <item value="* A hash table supporting full concurrency of retrievals and * high expected concurrency for updates. This class obeys the * same functional specification as {@link java.util.Hashtable}, and * includes versions of methods corresponding to each method of * {@code Hashtable}. However, even though all operations are * thread-safe, retrieval operations do &lt;em&gt;not&lt;/em&gt; entail locking, * and there is &lt;em&gt;not&lt;/em&gt; any support for locking the entire table" />
-      <item value="* A hash table supporting full concurrency of retrievals and * high expected concurrency for updates. This class obeys the" />
-      <item value="high expected concurrency for updates. This class obeys the" />
-      <item value="A hash table supporting full concurrency of retrievals and" />
-      <item value="Actual" />
     </histories>
   </component>
 </application>
