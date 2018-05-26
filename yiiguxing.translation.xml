@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="source is null for getProperty(null, &quot;sqlSelect&quot;)" />
+      <item value="get Property" />
+      <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.builder.BuilderException: Error evaluating expression 'ew.sqlSelect'. Cause: org.apache.ibatis.ognl.OgnlException: source is null for getProperty(null, &quot;sqlSelect&quot;)" />
+      <item value="org.apache.ibatis.builder.BuilderException: Error evaluating expression 'ew.sqlSelect'. Cause: org.apache.ibatis.ognl.OgnlException: source is null for getProperty(null, &quot;sqlSelect&quot;)" />
+      <item value="&lt;choose&gt;&lt;when test=&quot;ew != null and ew.sqlSelect != null&quot;&gt;${ew.sqlSelect}&lt;/when&gt;&lt;otherwise&gt;id,nickname,realname,picture,birthday,gender,address&lt;/otherwise&gt;&lt;/choose&gt;" />
+      <item value=".NoUniqueBeanDefinitionException: No qualifying bean of type 'com.baomidou.mybatisplus.mapper.MetaObjectHandler' available: expected single matching bean but found 2: customMetaObjectHandler,metaObjectHandler" />
+      <item value="Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.apache.ibatis.session.SqlSessionFactory]: Factory method 'sqlSessionFactory' threw exception; nested exception is org.springframework.beans.factory" />
+      <item value="No qualifying bean of type 'com.baomidou.mybatisplus.mapper.MetaObjectHandler' available: expected single matching bean but found 2: customMetaObjectHandler,metaObjectHandler" />
+      <item value="[D:\Text\SpringBoot\spring-boot-example\target\classes\com\rxliuli\example\springbootexample\mapper\UserLoginMapper.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in class path resource" />
+      <item value="Unsatisfied Dependency Exception" />
+      <item value="java.lang.IllegalStateException: Failed to load ApplicationContext" />
+      <item value="FOR" />
+      <item value="SQL LIST FOR ALL" />
+      <item value="owner" />
+      <item value="Expr" />
+      <item value="SQL Expr Impl" />
       <item value="org.springframework.dao.DuplicateKeyException: ### Error updating database. Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '1526722920709' for key 'PRIMARY' ### The error may involve com.rxliuli.example.springbootexample.mapper.UserInfoMapper.insert-Inline ### The error occurred while setting parameters ### SQL: INSERT INTO user_info ( id, nickname, realname, picture, birthday, gender ) VALUES ( ?, ?, ?, ?, ?, ? )" />
       <item value="Actual" />
       <item value="### Cause: java.sql.SQLException: Field 'picture' doesn't have a default value ; SQL []; Field 'picture' doesn't have a default value; nested exception is java.sql.SQLException: Field 'picture' doesn't have a default value" />
@@ -35,22 +51,6 @@
       <item value="{com.rxliuli.example.springbootexample.mapper.UserLoginMapper.updateById} Has been loaded by XML or SqlProvider, ignoring the injection of the SQL." />
       <item value="H2 Sequence" />
       <item value="H 2 Key Generator" />
-      <item value="set Tenant Handler" />
-      <item value="get Tenant Id Column" />
-      <item value="Error querying database. Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'tenant_id' in 'where clause'" />
-      <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.rxliuli.example.springbootexample.mapper.UserLoginMapper.selectList" />
-      <item value="org.apache.ibatis.builder.IncompleteElementException: Could not find SQL statement to include with refid 'com.rxliuli.example.springbootexample.mapper.UserLoginMapper.base-column-list'" />
-      <item value="validate" />
-      <item value="constraint violations or an empty set if none" />
-      <item value="the group or list of groups targeted for validation (defaults to" />
-      <item value="alidates all constraints on {@code object}." />
-      <item value="a negative integer, zero, or a positive integer as &lt;code&gt;lhs&lt;/code&gt; * is less than, equal to, or greater than &lt;code&gt;rhs&lt;/code&gt;" />
-      <item value="If both &lt;code&gt;lhs&lt;/code&gt; and &lt;code&gt;rhs&lt;/code&gt; are &lt;code&gt;null&lt;/code&gt;, * they are considered equal.&lt;/p&gt;" />
-      <item value="Static fields will not be compared&lt;/li&gt; * &lt;li&gt;Transient members will be not be compared, as they are likely derived * fields&lt;/li&gt; * &lt;li&gt;Superclass fields will be compared&lt;/li&gt; * &lt;/ul&gt;" />
-      <item value="Fields can be private, thus &lt;code&gt;AccessibleObject.setAccessible&lt;/code&gt; * is used to bypass normal access control checks. This will fail under a * security manager unless the appropriate permissions are set.&lt;/p&gt;" />
-      <item value="Compares two &lt;code&gt;Object&lt;/code&gt;s via reflection." />
-      <item value="validata" />
-      <item value="All Args Constructor" />
     </histories>
   </component>
 </application>
