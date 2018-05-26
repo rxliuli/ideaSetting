@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.dao.DuplicateKeyException: ### Error updating database. Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '1526722920709' for key 'PRIMARY' ### The error may involve com.rxliuli.example.springbootexample.mapper.UserInfoMapper.insert-Inline ### The error occurred while setting parameters ### SQL: INSERT INTO user_info ( id, nickname, realname, picture, birthday, gender ) VALUES ( ?, ?, ?, ?, ?, ? )" />
+      <item value="Actual" />
+      <item value="### Cause: java.sql.SQLException: Field 'picture' doesn't have a default value ; SQL []; Field 'picture' doesn't have a default value; nested exception is java.sql.SQLException: Field 'picture' doesn't have a default value" />
+      <item value="### Error updating database. Cause: java.sql.SQLException: Field 'picture' doesn't have a default value ### The error may involve com.rxliuli.example.springbootexample.mapper.UserInfoMapper.insert-Inline ### The error occurred while setting parameters" />
       <item value="gender female" />
       <item value="gender frmale" />
       <item value="gender 女" />
@@ -47,10 +51,6 @@
       <item value="Compares two &lt;code&gt;Object&lt;/code&gt;s via reflection." />
       <item value="validata" />
       <item value="All Args Constructor" />
-      <item value="* Generates a constructor with required arguments. * Required arguments are final fields and fields with constraints such as {@code @NonNull}. * &lt;p&gt; * Complete documentation is found at &lt;a href=&quot;https://projectlombok.org/features/Constructor&quot;&gt;the project lombok features page for &amp;#64;Constructor&lt;/a&gt;. * &lt;p&gt; * Even though it is not listed, this annotation also has the {@code onConstructor} parameter. See the full documentation for more details." />
-      <item value="Required Args Constructor" />
-      <item value="Index of all roles in Goto Class... Index of all properties in Goto Symbol... Reference Jinja2 variable declaration Reference to role declaraion Various completions Documentation looku" />
-      <item value="Amazon AWS CloudFormation language support Open any *.template, *.json or *.yaml file with CloudFormation language inside. There should be number of features available:" />
     </histories>
   </component>
 </application>
