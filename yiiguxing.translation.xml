@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="gender female" />
+      <item value="gender frmale" />
+      <item value="gender 女" />
+      <item value="gender male" />
+      <item value="gender 男" />
       <item value="### Error querying database. Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'tenant_id' in 'where clause'" />
       <item value="Unknown column 'tenant_id' in 'where clause' at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) at java.lang.reflect.Constructor.newInstance(Constructor.java:423)" />
       <item value="realname" />
@@ -46,11 +51,6 @@
       <item value="Required Args Constructor" />
       <item value="Index of all roles in Goto Class... Index of all properties in Goto Symbol... Reference Jinja2 variable declaration Reference to role declaraion Various completions Documentation looku" />
       <item value="Amazon AWS CloudFormation language support Open any *.template, *.json or *.yaml file with CloudFormation language inside. There should be number of features available:" />
-      <item value="Code completion for Camel endpoints in Java, XML, properties or yaml files (ctrl + space)" />
-      <item value="Caused by: org.yaml.snakeyaml.parser.ParserException: while parsing a block mapping" />
-      <item value="reader" />
-      <item value="8" />
-      <item value="in 'reader', line 1, column 1:" />
     </histories>
   </component>
 </application>
