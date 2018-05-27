@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.expression.spel.SpelEvaluationException: EL1008E: Property or field 'userLogin' cannot be found on object of type 'org.springframework.cache.interceptor.CacheExpressionRootObject' - maybe not public?" />
       <item value="Assertions compatible with Android. Duplicated from {@link Assertions}." />
       <item value="have been split in {@link AssertionsForClassTypes} and {@link AssertionsForInterfaceTypes} * (see http://stackoverflow.com/questions/29499847/ambiguous-method-in-java-8-why)." />
       <item value="Assertions For Class Types" />
@@ -50,7 +51,6 @@
       <item value="gender 女" />
       <item value="gender male" />
       <item value="gender 男" />
-      <item value="### Error querying database. Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'tenant_id' in 'where clause'" />
     </histories>
   </component>
 </application>
