@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Creates a new {@link Jackson2JsonRedisSerializer} for the given target {@link Class}." />
+      <item value="Redis map specific operations working on a hash." />
+      <item value="Default implementation of {@link HashOperations}." />
+      <item value="Redis operations for simple (or in Redis terminology 'string') values." />
+      <item value="put If Absent" />
+      <item value="ops For Hash" />
+      <item value="Value Operations" />
+      <item value="key must not be {@literal null}." />
+      <item value="Set the {@code value} of a hash {@code hashKey}." />
+      <item value="Helper class that simplifies Redis data access code." />
+      <item value="Returns the value serializer used by this template." />
+      <item value="get Expire" />
       <item value="mk Array" />
       <item value="// results is for internal usage only" />
       <item value="results is for internal usage only" />
@@ -39,18 +51,6 @@
       <item value="Jackson2ObjectMapperBuilder builder = new Jackson2ObjectMapperBuilder(); builder.serializationInclusion(JsonInclude.Include.NON_NULL); ObjectMapper objectMapper = builder.build(); SimpleModule simpleModule = new SimpleModule(); simpleModule.addSerializer(Long.class, ToStringSerializer.instance); objectMapper.registerModule(simpleModule); objectMapper.configure(MapperFeature.PROPAGATE_TRANSIENT_MARKER, true);// 忽略 transient 修饰的属性 converters.add(new MappingJackson2HttpMessageConverter(objectMapper)); super.configureMessageConverters(converters);" />
       <item value="configure Message Converters" />
       <item value="1000214927827877890" />
-      <item value="injector" />
-      <item value="Logic Sql Injector" />
-      <item value="org.apache.ibatis.reflection.ReflectionException: Could not set property 'id' of 'class com.rxliuli.example.springbootexample.entity.UserLogin' with value '5844e564ad55417caf905c94b768c3a7' Cause: java.lang.IllegalArgumentException: argument type mismatch" />
-      <item value="Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Column 'id' specified twice" />
-      <item value="### The error occurred while setting parameters ### SQL: INSERT INTO user_login (id, username, password, email, id) VALUES (?, ?, ?, ?, 1)" />
-      <item value="{com.rxliuli.example.springbootexample.mapper.UserLoginMapper.deleteById} Has been loaded by XML or SqlProvider, ignoring the injection of the SQL." />
-      <item value="INSERT INTO user_login (id, username, password, email, id) VALUES (?, ?, ?, ?, 1) ### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Column 'id' specified twice ; bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Column 'id' specified twice" />
-      <item value="### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Column 'id' specified twice ; bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Column 'id' specified twice" />
-      <item value="### The error may involve defaultParameterMap ### The error occurred while setting parameters" />
-      <item value="### Error updating database. Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Column 'id' specified twice" />
-      <item value="Request processing failed; nested exception is org.springframework.jdbc.BadSqlGrammarException:" />
-      <item value="nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Column 'id' specified twice" />
     </histories>
   </component>
 </application>
