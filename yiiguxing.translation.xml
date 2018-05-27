@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="after Properties Set" />
       <item value="Creates a new {@link Jackson2JsonRedisSerializer} for the given target {@link Class}." />
       <item value="Redis map specific operations working on a hash." />
       <item value="Default implementation of {@link HashOperations}." />
@@ -50,7 +51,6 @@
       <item value="tenant id" />
       <item value="Jackson2ObjectMapperBuilder builder = new Jackson2ObjectMapperBuilder(); builder.serializationInclusion(JsonInclude.Include.NON_NULL); ObjectMapper objectMapper = builder.build(); SimpleModule simpleModule = new SimpleModule(); simpleModule.addSerializer(Long.class, ToStringSerializer.instance); objectMapper.registerModule(simpleModule); objectMapper.configure(MapperFeature.PROPAGATE_TRANSIENT_MARKER, true);// 忽略 transient 修饰的属性 converters.add(new MappingJackson2HttpMessageConverter(objectMapper)); super.configureMessageConverters(converters);" />
       <item value="configure Message Converters" />
-      <item value="1000214927827877890" />
     </histories>
   </component>
 </application>
