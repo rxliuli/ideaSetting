@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Assertions compatible with Android. Duplicated from {@link Assertions}." />
+      <item value="have been split in {@link AssertionsForClassTypes} and {@link AssertionsForInterfaceTypes} * (see http://stackoverflow.com/questions/29499847/ambiguous-method-in-java-8-why)." />
+      <item value="Assertions For Class Types" />
+      <item value="Java 8 is picky when choosing the right &lt;code&gt;assertThat&lt;/code&gt; method if the object under test is generic and bounded, * for example if foo is instance of T that extends Exception, java 8 will complain that it can't resolve * the proper &lt;code&gt;assertThat&lt;/code&gt; method (normally &lt;code&gt;assertThat(Throwable)&lt;/code&gt; as foo might implement an interface like List, * if that occurred &lt;code&gt;assertThat(List)&lt;/code&gt; would also be a possible choice - thus confusing java 8." />
+      <item value="Java 8 is picky when choosing the right &lt;code&gt;assertThat&lt;/code&gt; method if the object under test is generic and bounded, * for example if foo is instance of T that extends Exception, java 8 will complain that it can't resolve" />
       <item value="* &lt;p&gt;This annotation may be used as a &lt;em&gt;meta-annotation&lt;/em&gt; to create custom * &lt;em&gt;composed annotations&lt;/em&gt; with attribute overrides." />
       <item value="* &lt;p&gt;In contrast to the {@link Cacheable @Cacheable} annotation, this annotation * does not cause the advised method to be skipped. Rather, it always causes the * method to be invoked and its result to be stored in the associated cache. Note * that Java8's {@code Optional} return types are automatically handled and its * content is stored in the cache if present." />
       <item value="Annotation indicating that a method (or all methods on a class) triggers a" />
@@ -46,11 +51,6 @@
       <item value="gender male" />
       <item value="gender 男" />
       <item value="### Error querying database. Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'tenant_id' in 'where clause'" />
-      <item value="Unknown column 'tenant_id' in 'where clause' at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) at java.lang.reflect.Constructor.newInstance(Constructor.java:423)" />
-      <item value="realname" />
-      <item value="get Tenant Id" />
-      <item value="bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'tenant_id' in 'field list'" />
-      <item value="Tenant Sql Parser" />
     </histories>
   </component>
 </application>
