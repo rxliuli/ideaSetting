@@ -1,6 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Contain Ifself" />
+      <item value="is Contain Ifset" />
+      <item value=" contain itself" />
+      <item value="Does it contain " />
+      <item value="Does it contain itself" />
+      <item value="是否包含本身" />
+      <item value="ava.lang.Class cannot be cast to java.lang.Comparable" />
+      <item value="Checked Sorted Set" />
+      <item value="get Mini Parent" />
+      <item value="最小公共" />
+      <item value="最小公共父类型" />
+      <item value="Super Class Ref Util" />
+      <item value="Super Class Reflect Util" />
+      <item value="反射" />
+      <item value="Multiple Failure Exception" />
+      <item value="Data Integrity Violation Exception" />
+      <item value="Assertion Error" />
+      <item value="PROPAGATION REQUIRED" />
+      <item value="batch Insert For Exception" />
       <item value="is Greater Than" />
       <item value="问题" />
       <item value="org.springframework.expression.spel.SpelEvaluationException: EL1008E: Property or field 'userLogin' cannot be found on object of type 'org.springframework.cache.interceptor.CacheExpressionRootObject' - maybe not public?" />
@@ -32,25 +51,6 @@
       <item value="get Property" />
       <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.builder.BuilderException: Error evaluating expression 'ew.sqlSelect'. Cause: org.apache.ibatis.ognl.OgnlException: source is null for getProperty(null, &quot;sqlSelect&quot;)" />
       <item value="org.apache.ibatis.builder.BuilderException: Error evaluating expression 'ew.sqlSelect'. Cause: org.apache.ibatis.ognl.OgnlException: source is null for getProperty(null, &quot;sqlSelect&quot;)" />
-      <item value="&lt;choose&gt;&lt;when test=&quot;ew != null and ew.sqlSelect != null&quot;&gt;${ew.sqlSelect}&lt;/when&gt;&lt;otherwise&gt;id,nickname,realname,picture,birthday,gender,address&lt;/otherwise&gt;&lt;/choose&gt;" />
-      <item value=".NoUniqueBeanDefinitionException: No qualifying bean of type 'com.baomidou.mybatisplus.mapper.MetaObjectHandler' available: expected single matching bean but found 2: customMetaObjectHandler,metaObjectHandler" />
-      <item value="Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.apache.ibatis.session.SqlSessionFactory]: Factory method 'sqlSessionFactory' threw exception; nested exception is org.springframework.beans.factory" />
-      <item value="No qualifying bean of type 'com.baomidou.mybatisplus.mapper.MetaObjectHandler' available: expected single matching bean but found 2: customMetaObjectHandler,metaObjectHandler" />
-      <item value="[D:\Text\SpringBoot\spring-boot-example\target\classes\com\rxliuli\example\springbootexample\mapper\UserLoginMapper.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in class path resource" />
-      <item value="Unsatisfied Dependency Exception" />
-      <item value="java.lang.IllegalStateException: Failed to load ApplicationContext" />
-      <item value="FOR" />
-      <item value="SQL LIST FOR ALL" />
-      <item value="owner" />
-      <item value="Expr" />
-      <item value="SQL Expr Impl" />
-      <item value="org.springframework.dao.DuplicateKeyException: ### Error updating database. Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '1526722920709' for key 'PRIMARY' ### The error may involve com.rxliuli.example.springbootexample.mapper.UserInfoMapper.insert-Inline ### The error occurred while setting parameters ### SQL: INSERT INTO user_info ( id, nickname, realname, picture, birthday, gender ) VALUES ( ?, ?, ?, ?, ?, ? )" />
-      <item value="Actual" />
-      <item value="### Cause: java.sql.SQLException: Field 'picture' doesn't have a default value ; SQL []; Field 'picture' doesn't have a default value; nested exception is java.sql.SQLException: Field 'picture' doesn't have a default value" />
-      <item value="### Error updating database. Cause: java.sql.SQLException: Field 'picture' doesn't have a default value ### The error may involve com.rxliuli.example.springbootexample.mapper.UserInfoMapper.insert-Inline ### The error occurred while setting parameters" />
-      <item value="gender female" />
-      <item value="gender frmale" />
-      <item value="gender 女" />
     </histories>
   </component>
 </application>
