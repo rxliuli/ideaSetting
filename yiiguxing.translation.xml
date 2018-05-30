@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="a foreign key constraint fails" />
+      <item value="2018-05-30 21:27:49,264 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory.doGetBean - Returning cached instance of singleton bean 'org.springframework.transaction.config.internalTransactionAdvisor'" />
+      <item value="Expected test to throw an instance of org.springframework.dao.TransientDataAccessResourceException" />
+      <item value="Data Integrity Violation Exception" />
+      <item value="Transient Data Access Resource Exception" />
       <item value="is Contain Ifself" />
       <item value="is Contain Ifset" />
       <item value=" contain itself" />
@@ -16,7 +21,6 @@
       <item value="Super Class Reflect Util" />
       <item value="反射" />
       <item value="Multiple Failure Exception" />
-      <item value="Data Integrity Violation Exception" />
       <item value="Assertion Error" />
       <item value="PROPAGATION REQUIRED" />
       <item value="batch Insert For Exception" />
@@ -47,10 +51,6 @@
       <item value="mk Array" />
       <item value="// results is for internal usage only" />
       <item value="results is for internal usage only" />
-      <item value="source is null for getProperty(null, &quot;sqlSelect&quot;)" />
-      <item value="get Property" />
-      <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.builder.BuilderException: Error evaluating expression 'ew.sqlSelect'. Cause: org.apache.ibatis.ognl.OgnlException: source is null for getProperty(null, &quot;sqlSelect&quot;)" />
-      <item value="org.apache.ibatis.builder.BuilderException: Error evaluating expression 'ew.sqlSelect'. Cause: org.apache.ibatis.ognl.OgnlException: source is null for getProperty(null, &quot;sqlSelect&quot;)" />
     </histories>
   </component>
 </application>
