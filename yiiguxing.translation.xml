@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.data.redis.RedisConnectionFailureException: java.net.SocketTimeoutException: Read timed out; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketTimeoutException: Read timed out" />
+      <item value="Base interface holding AOP &lt;b&gt;advice&lt;/b&gt; (action to take at a joinpoint) * and a filter determining the applicability of the advice (such as * a pointcut). &lt;i&gt;This interface is not for use by Spring users, but to * allow for commonality in support for different types of advice.&lt;/i&gt; *" />
+      <item value="Advisor" />
+      <item value="Advice" />
+      <item value="tx Advice Advisor" />
+      <item value="Attribute" />
+      <item value="Auto proxy creator that identifies beans to proxy via a list of names. * Checks for direct, &quot;xxx*&quot;, and &quot;*xxx&quot; matches." />
+      <item value="default Pointcut Advisor" />
+      <item value="Bean Name Auto Proxy Creator" />
       <item value="exec Mills" />
       <item value="Expected test to throw an instance of org.springframework.dao.TransientDataAccessResourceException" />
       <item value="If there are no transactional methods, then don't use a transaction aspect." />
@@ -42,15 +51,6 @@
       <item value="after Properties Set" />
       <item value="Creates a new {@link Jackson2JsonRedisSerializer} for the given target {@link Class}." />
       <item value="Redis map specific operations working on a hash." />
-      <item value="Default implementation of {@link HashOperations}." />
-      <item value="Redis operations for simple (or in Redis terminology 'string') values." />
-      <item value="put If Absent" />
-      <item value="ops For Hash" />
-      <item value="Value Operations" />
-      <item value="key must not be {@literal null}." />
-      <item value="Set the {@code value} of a hash {@code hashKey}." />
-      <item value="Helper class that simplifies Redis data access code." />
-      <item value="Returns the value serializer used by this template." />
     </histories>
   </component>
 </application>
