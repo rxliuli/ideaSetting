@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exec Mills" />
       <item value="Expected test to throw an instance of org.springframework.dao.TransientDataAccessResourceException" />
       <item value="If there are no transactional methods, then don't use a transaction aspect." />
       <item value="defined in class path resource" />
@@ -50,7 +51,6 @@
       <item value="Set the {@code value} of a hash {@code hashKey}." />
       <item value="Helper class that simplifies Redis data access code." />
       <item value="Returns the value serializer used by this template." />
-      <item value="get Expire" />
     </histories>
   </component>
 </application>
