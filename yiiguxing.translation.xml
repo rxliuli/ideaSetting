@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Expected test to throw an instance of org.springframework.dao.TransientDataAccessResourceException" />
+      <item value="If there are no transactional methods, then don't use a transaction aspect." />
+      <item value="defined in class path resource" />
+      <item value="java.lang.IllegalStateException: Failed to load ApplicationContext" />
       <item value="a foreign key constraint fails" />
       <item value="2018-05-30 21:27:49,264 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory.doGetBean - Returning cached instance of singleton bean 'org.springframework.transaction.config.internalTransactionAdvisor'" />
-      <item value="Expected test to throw an instance of org.springframework.dao.TransientDataAccessResourceException" />
       <item value="Data Integrity Violation Exception" />
       <item value="Transient Data Access Resource Exception" />
       <item value="is Contain Ifself" />
@@ -48,9 +51,6 @@
       <item value="Helper class that simplifies Redis data access code." />
       <item value="Returns the value serializer used by this template." />
       <item value="get Expire" />
-      <item value="mk Array" />
-      <item value="// results is for internal usage only" />
-      <item value="results is for internal usage only" />
     </histories>
   </component>
 </application>
