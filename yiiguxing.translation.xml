@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Enable Prometheus Endpoint" />
+      <item value="Enable Spring Boot Metrics Collector" />
+      <item value="@ Enable Prometheus Endpoint" />
+      <item value="enabled" />
+      <item value="ERROR com.alibaba.druid.pool.DruidDataSource.validationQueryCheck - testWhileIdle is true, validationQuery not set" />
+      <item value="java.sql.SQLInvalidAuthorizationSpecException: Could not connect: Access denied for user 'rxliuli'@'localhost' (using password: YES)" />
+      <item value="Druid-ConnectionPool-Create-1152029154] ERROR com.alibaba.druid.pool.DruidDataSource.run - create connection SQLException, url: jdbc:maria://localhost:3307/spring_boot_test, errorCode 0, state null" />
+      <item value="No qualifying bean of type 'org.springframework.jdbc.datasource.DataSourceTransactionManager' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)} at org.springframework.beans.factory.support.DefaultListableBeanFactory" />
+      <item value="'org.springframework.jdbc.datasource.DataSourceTransactionManager' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
       <item value="org.springframework.data.redis.RedisConnectionFailureException: java.net.SocketTimeoutException: Read timed out; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketTimeoutException: Read timed out" />
       <item value="Base interface holding AOP &lt;b&gt;advice&lt;/b&gt; (action to take at a joinpoint) * and a filter determining the applicability of the advice (such as * a pointcut). &lt;i&gt;This interface is not for use by Spring users, but to * allow for commonality in support for different types of advice.&lt;/i&gt; *" />
       <item value="Advisor" />
@@ -42,15 +51,6 @@
       <item value="org.springframework.expression.spel.SpelEvaluationException: EL1008E: Property or field 'userLogin' cannot be found on object of type 'org.springframework.cache.interceptor.CacheExpressionRootObject' - maybe not public?" />
       <item value="Assertions compatible with Android. Duplicated from {@link Assertions}." />
       <item value="have been split in {@link AssertionsForClassTypes} and {@link AssertionsForInterfaceTypes} * (see http://stackoverflow.com/questions/29499847/ambiguous-method-in-java-8-why)." />
-      <item value="Assertions For Class Types" />
-      <item value="Java 8 is picky when choosing the right &lt;code&gt;assertThat&lt;/code&gt; method if the object under test is generic and bounded, * for example if foo is instance of T that extends Exception, java 8 will complain that it can't resolve * the proper &lt;code&gt;assertThat&lt;/code&gt; method (normally &lt;code&gt;assertThat(Throwable)&lt;/code&gt; as foo might implement an interface like List, * if that occurred &lt;code&gt;assertThat(List)&lt;/code&gt; would also be a possible choice - thus confusing java 8." />
-      <item value="Java 8 is picky when choosing the right &lt;code&gt;assertThat&lt;/code&gt; method if the object under test is generic and bounded, * for example if foo is instance of T that extends Exception, java 8 will complain that it can't resolve" />
-      <item value="* &lt;p&gt;This annotation may be used as a &lt;em&gt;meta-annotation&lt;/em&gt; to create custom * &lt;em&gt;composed annotations&lt;/em&gt; with attribute overrides." />
-      <item value="* &lt;p&gt;In contrast to the {@link Cacheable @Cacheable} annotation, this annotation * does not cause the advised method to be skipped. Rather, it always causes the * method to be invoked and its result to be stored in the associated cache. Note * that Java8's {@code Optional} return types are automatically handled and its * content is stored in the cache if present." />
-      <item value="Annotation indicating that a method (or all methods on a class) triggers a" />
-      <item value="after Properties Set" />
-      <item value="Creates a new {@link Jackson2JsonRedisSerializer} for the given target {@link Class}." />
-      <item value="Redis map specific operations working on a hash." />
     </histories>
   </component>
 </application>
