@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="args arguments to use when creating a bean instance using explicit arguments * (only applied when creating a new instance as opposed to retrieving an existing one)" />
+      <item value="Return an instance, which may be shared or independent, of the specified bean. * &lt;p&gt;Allows for specifying explicit constructor arguments / factory method arguments, * overriding the specified default arguments (if any) in the bean definition. * @param name the name of the bean to retrieve * @param args arguments to use when creating a bean instance using explicit arguments * (only applied when creating a new instance as opposed to retrieving an existing one) * @return an instance of the bean" />
+      <item value="An exception has occurred for use SpringBeanUtil get a Bean" />
+      <item value="An exception has occurred" />
+      <item value="发生了异常" />
+      <item value="获取" />
+      <item value="使用" />
+      <item value="使用 SpringBeanUtil 获取 Bean 发生了异常" />
       <item value="org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.rxliuli.example.springbootexample.entity.UserLogin' available" />
       <item value="org.springframework.jdbc.datasource.DataSourceUtils.prepareConnectionForTransaction - Setting JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@742aa00a] read-only" />
       <item value="DEBUG org.springframework.jdbc.datasource.DataSourceTransactionManager.getTransaction - Creating new transaction with name [com.rxliuli.example.springbootexample.service.impl.UserInfoServiceImpl.listForUpdate]: PROPAGATION_REQUIRED,ISOLATION_DEFAULT,readOnly,-Exception 2018-06-02 01:29:29,260 [main] DEBUG org.springframework.jdbc.datasource.DataSourceTransactionManager.doBegin - Acquired Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@742aa00a] for JDBC transaction" />
@@ -43,14 +51,6 @@
       <item value="tx Advice Advisor" />
       <item value="Attribute" />
       <item value="Auto proxy creator that identifies beans to proxy via a list of names. * Checks for direct, &quot;xxx*&quot;, and &quot;*xxx&quot; matches." />
-      <item value="default Pointcut Advisor" />
-      <item value="Bean Name Auto Proxy Creator" />
-      <item value="exec Mills" />
-      <item value="Expected test to throw an instance of org.springframework.dao.TransientDataAccessResourceException" />
-      <item value="If there are no transactional methods, then don't use a transaction aspect." />
-      <item value="defined in class path resource" />
-      <item value="java.lang.IllegalStateException: Failed to load ApplicationContext" />
-      <item value="a foreign key constraint fails" />
     </histories>
   </component>
 </application>
