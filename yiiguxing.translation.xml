@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.jdbc.datasource.DataSourceUtils.prepareConnectionForTransaction - Setting JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@742aa00a] read-only" />
+      <item value="DEBUG org.springframework.jdbc.datasource.DataSourceTransactionManager.getTransaction - Creating new transaction with name [com.rxliuli.example.springbootexample.service.impl.UserInfoServiceImpl.listForUpdate]: PROPAGATION_REQUIRED,ISOLATION_DEFAULT,readOnly,-Exception 2018-06-02 01:29:29,260 [main] DEBUG org.springframework.jdbc.datasource.DataSourceTransactionManager.doBegin - Acquired Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@742aa00a] for JDBC transaction" />
+      <item value="DEBUG org.springframework.jdbc.datasource.DataSourceTransactionManager.doCleanupAfterCompletion - Releasing JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@742aa00a] after transaction" />
+      <item value="DEBUG org.springframework.jdbc.datasource.DataSourceUtils.doReleaseConnection - Returning JDBC Connection to DataSource" />
+      <item value="2018-06-02 01:26:22,710 [main] DEBUG org.springframework.jdbc.datasource.DataSourceTransactionManager.doCommit - Committing JDBC transaction on Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@742aa00a] 2018-06-02 01:26:22,711 [main] DEBUG org.springframework.jdbc.datasource.DataSourceUtils.resetConnectionAfterTransaction - Resetting read-only flag of JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@742aa00a] 2018-06-02 01:26:22,711 [main] DEBUG org.springframework.jdbc.datasource.DataSourceTransactionManager.doCleanupAfterCompletion - Releasing JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@742aa00a] after transaction 2018-06-02 01:26:22,711 [main] DEBUG org.springframework.jdbc.datasource.DataSourceUtils.doReleaseConnection - Returning JDBC Connection to DataSource" />
+      <item value="DEBUG org.springframework.jdbc.datasource.DataSourceUtils.resetConnectionAfterTransaction - Resetting read-only flag of JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@742aa00a]" />
+      <item value="java.lang.AssertionError: Expected test to throw an instance of org.springframework.dao.TransientDataAccessResourceExceptio" />
+      <item value="Transient Data Access Resource Exception" />
+      <item value="'org.aspectj.lang.annotation.Aspect', 'org.aspectj.lang.reflect.Advice'; @ConditionalOnMissingClass did not find unwanted class (OnClassCondition) - @ConditionalOnProperty (spring.aop.auto=true) matched (OnPropertyCondition)" />
+      <item value="Enable Aspect J Auto Proxy" />
+      <item value="org.springframework.boot.actuate.autoconfigure.EndpointWebMvcAutoConfiguration.afterSingletonsInstantiated - Could not start embedded management container on different port (management endpoints are still available through JMX)" />
+      <item value="Dynamic" />
+      <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server. at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:1.8.0_171] at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[na:1.8.0_171] at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[na:1.8.0_171] at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[na:1.8.0_171]" />
+      <item value="Communications link failure" />
+      <item value="com.alibaba.druid.pool.DruidDataSource.run - create connection SQLException, url:" />
       <item value="endpoints" />
       <item value="sensitive" />
       <item value="validation Query Check" />
@@ -36,21 +51,6 @@
       <item value="java.lang.IllegalStateException: Failed to load ApplicationContext" />
       <item value="a foreign key constraint fails" />
       <item value="2018-05-30 21:27:49,264 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory.doGetBean - Returning cached instance of singleton bean 'org.springframework.transaction.config.internalTransactionAdvisor'" />
-      <item value="Data Integrity Violation Exception" />
-      <item value="Transient Data Access Resource Exception" />
-      <item value="is Contain Ifself" />
-      <item value="is Contain Ifset" />
-      <item value=" contain itself" />
-      <item value="Does it contain " />
-      <item value="Does it contain itself" />
-      <item value="是否包含本身" />
-      <item value="ava.lang.Class cannot be cast to java.lang.Comparable" />
-      <item value="Checked Sorted Set" />
-      <item value="get Mini Parent" />
-      <item value="最小公共" />
-      <item value="最小公共父类型" />
-      <item value="Super Class Ref Util" />
-      <item value="Super Class Reflect Util" />
     </histories>
   </component>
 </application>
