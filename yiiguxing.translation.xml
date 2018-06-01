@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.rxliuli.example.springbootexample.entity.UserLogin' available" />
       <item value="org.springframework.jdbc.datasource.DataSourceUtils.prepareConnectionForTransaction - Setting JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@742aa00a] read-only" />
       <item value="DEBUG org.springframework.jdbc.datasource.DataSourceTransactionManager.getTransaction - Creating new transaction with name [com.rxliuli.example.springbootexample.service.impl.UserInfoServiceImpl.listForUpdate]: PROPAGATION_REQUIRED,ISOLATION_DEFAULT,readOnly,-Exception 2018-06-02 01:29:29,260 [main] DEBUG org.springframework.jdbc.datasource.DataSourceTransactionManager.doBegin - Acquired Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@742aa00a] for JDBC transaction" />
       <item value="DEBUG org.springframework.jdbc.datasource.DataSourceTransactionManager.doCleanupAfterCompletion - Releasing JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@742aa00a] after transaction" />
@@ -50,7 +51,6 @@
       <item value="defined in class path resource" />
       <item value="java.lang.IllegalStateException: Failed to load ApplicationContext" />
       <item value="a foreign key constraint fails" />
-      <item value="2018-05-30 21:27:49,264 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory.doGetBean - Returning cached instance of singleton bean 'org.springframework.transaction.config.internalTransactionAdvisor'" />
     </histories>
   </component>
 </application>
