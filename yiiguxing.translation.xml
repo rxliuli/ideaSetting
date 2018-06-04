@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="to {[/common/redirect],methods=[GET]}: There is already 'baseController' bean method public java.lang.String com.rxliuli.example.springbootexample.web.BaseController.redirect(java.lang" />
+      <item value="java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'freemarkerController' method public java.lang.String com.rxliuli.example.springbootexample.web.BaseController.redirect(java.lang.String)" />
+      <item value="There is already 'baseController' bean method public java.lang.String com.rxliuli.example.springbootexample.web.BaseController.redirect(java.lang.String) mapped." />
+      <item value="java.lang.String com.rxliuli.example.springbootexample.web.BaseController.redirect(java.lang.String)" />
+      <item value="Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'freemarkerController' method" />
+      <item value="Web Mvc Auto Configuration $ Enable Web Mvc Configuration" />
+      <item value="defined in class path resource [org/springframework/boot/autoconfigure/web/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'freemarkerController' method" />
+      <item value="java.lang.IllegalStateException: Failed to load ApplicationContext" />
       <item value="Actual" />
       <item value="Expected" />
       <item value="rg.junit.internal.runners.rules.ValidationError: The @Rule 'globalTimeout' must be public." />
@@ -43,14 +51,6 @@
       <item value="Enable Spring Boot Metrics Collector" />
       <item value="@ Enable Prometheus Endpoint" />
       <item value="enabled" />
-      <item value="java.sql.SQLInvalidAuthorizationSpecException: Could not connect: Access denied for user 'rxliuli'@'localhost' (using password: YES)" />
-      <item value="Druid-ConnectionPool-Create-1152029154] ERROR com.alibaba.druid.pool.DruidDataSource.run - create connection SQLException, url: jdbc:maria://localhost:3307/spring_boot_test, errorCode 0, state null" />
-      <item value="No qualifying bean of type 'org.springframework.jdbc.datasource.DataSourceTransactionManager' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)} at org.springframework.beans.factory.support.DefaultListableBeanFactory" />
-      <item value="'org.springframework.jdbc.datasource.DataSourceTransactionManager' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
-      <item value="org.springframework.data.redis.RedisConnectionFailureException: java.net.SocketTimeoutException: Read timed out; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketTimeoutException: Read timed out" />
-      <item value="Base interface holding AOP &lt;b&gt;advice&lt;/b&gt; (action to take at a joinpoint) * and a filter determining the applicability of the advice (such as * a pointcut). &lt;i&gt;This interface is not for use by Spring users, but to * allow for commonality in support for different types of advice.&lt;/i&gt; *" />
-      <item value="Advisor" />
-      <item value="Advice" />
     </histories>
   </component>
 </application>
