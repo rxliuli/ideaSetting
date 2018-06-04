@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Actual" />
+      <item value="Expected" />
+      <item value="rg.junit.internal.runners.rules.ValidationError: The @Rule 'globalTimeout' must be public." />
       <item value="args arguments to use when creating a bean instance using explicit arguments * (only applied when creating a new instance as opposed to retrieving an existing one)" />
       <item value="Return an instance, which may be shared or independent, of the specified bean. * &lt;p&gt;Allows for specifying explicit constructor arguments / factory method arguments, * overriding the specified default arguments (if any) in the bean definition. * @param name the name of the bean to retrieve * @param args arguments to use when creating a bean instance using explicit arguments * (only applied when creating a new instance as opposed to retrieving an existing one) * @return an instance of the bean" />
       <item value="An exception has occurred for use SpringBeanUtil get a Bean" />
@@ -48,9 +51,6 @@
       <item value="Base interface holding AOP &lt;b&gt;advice&lt;/b&gt; (action to take at a joinpoint) * and a filter determining the applicability of the advice (such as * a pointcut). &lt;i&gt;This interface is not for use by Spring users, but to * allow for commonality in support for different types of advice.&lt;/i&gt; *" />
       <item value="Advisor" />
       <item value="Advice" />
-      <item value="tx Advice Advisor" />
-      <item value="Attribute" />
-      <item value="Auto proxy creator that identifies beans to proxy via a list of names. * Checks for direct, &quot;xxx*&quot;, and &quot;*xxx&quot; matches." />
     </histories>
   </component>
 </application>
