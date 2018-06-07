@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="[ERROR] Failed to execute goal on project domain: Could not resolve dependencies for project com.rxliuli:domain:jar:0.0.1-SNAPSHOT: Failed to collect dependencies at com.rxliuli:common:jar:0.0.1-SNAPSHOT: Failed to read artifact descriptor for com.rxliuli:common:jar:0.0.1-SNAPSHOT: Could not find artifact com.rxliuli:mytimeline:pom:0.0.1-SNAPSHOT -&gt; [Help 1]" />
       <item value="The requested profile &quot;alwaysActiveProfile&quot; could not be activated because it does not exist." />
       <item value="[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch. [ERROR] Re-run Maven using the -X switch to enable full debug logging." />
       <item value="The requested profile &quot;alwaysActiveProfile&quot; could not be activated because it does not exist. [WARNING] The requested profile &quot;anotherAlwaysActiveProfile&quot; could not be activated because it does not exist. [ERROR] Failed to execute goal on project gui: Could not resolve dependencies for project com.rxliuli:gui:jar:0.0.1-SNAPSHOT: Could not find artifact com.rxliuli:service:jar:0.0.1-SNAPSHOT -&gt; [Help 1]" />
@@ -50,7 +51,6 @@
       <item value="sensitive" />
       <item value="validation Query Check" />
       <item value="com.alibaba.druid.pool.DruidDataSource.validationQueryCheck - testWhileIdle is true, validationQuery not set" />
-      <item value="ERROR com.alibaba.druid.pool.DruidDataSource.validationQueryCheck - testWhileIdle is true, validationQuery not set" />
     </histories>
   </component>
 </application>
