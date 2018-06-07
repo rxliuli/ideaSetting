@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="webkit - scrollbar - track - piece" />
+      <item value="scrollbar" />
       <item value="to {[/common/redirect],methods=[GET]}: There is already 'baseController' bean method public java.lang.String com.rxliuli.example.springbootexample.web.BaseController.redirect(java.lang" />
       <item value="java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'freemarkerController' method public java.lang.String com.rxliuli.example.springbootexample.web.BaseController.redirect(java.lang.String)" />
       <item value="There is already 'baseController' bean method public java.lang.String com.rxliuli.example.springbootexample.web.BaseController.redirect(java.lang.String) mapped." />
@@ -49,8 +51,6 @@
       <item value="management . server . port" />
       <item value="Enable Prometheus Endpoint" />
       <item value="Enable Spring Boot Metrics Collector" />
-      <item value="@ Enable Prometheus Endpoint" />
-      <item value="enabled" />
     </histories>
   </component>
 </application>
