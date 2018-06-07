@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The requested profile &quot;alwaysActiveProfile&quot; could not be activated because it does not exist." />
+      <item value="[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch. [ERROR] Re-run Maven using the -X switch to enable full debug logging." />
+      <item value="The requested profile &quot;alwaysActiveProfile&quot; could not be activated because it does not exist. [WARNING] The requested profile &quot;anotherAlwaysActiveProfile&quot; could not be activated because it does not exist. [ERROR] Failed to execute goal on project gui: Could not resolve dependencies for project com.rxliuli:gui:jar:0.0.1-SNAPSHOT: Could not find artifact com.rxliuli:service:jar:0.0.1-SNAPSHOT -&gt; [Help 1]" />
+      <item value="repackage" />
+      <item value="layout" />
+      <item value="scrollbar - button : vertical" />
+      <item value="vertical" />
+      <item value="horizontal" />
       <item value="webkit - scrollbar - track - piece" />
       <item value="scrollbar" />
       <item value="to {[/common/redirect],methods=[GET]}: There is already 'baseController' bean method public java.lang.String com.rxliuli.example.springbootexample.web.BaseController.redirect(java.lang" />
@@ -43,14 +51,6 @@
       <item value="validation Query Check" />
       <item value="com.alibaba.druid.pool.DruidDataSource.validationQueryCheck - testWhileIdle is true, validationQuery not set" />
       <item value="ERROR com.alibaba.druid.pool.DruidDataSource.validationQueryCheck - testWhileIdle is true, validationQuery not set" />
-      <item value="No Class Def Found Error" />
-      <item value="NoClassDefFoundError: org/springframework/boot/context/embedded/ServletRegistrationBean at java.lang.Class.getDeclaredMethods0(Native Method)" />
-      <item value="2018-05-31 22:12:30 JRebel: ERROR An error occured in a service request listener 'org.zeroturnaround.javarebel.service.ServiceRequestUtil$WeakServiceRequestListener@706b8904' with priority 'UNSPECIFIED' while handling before request event: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'dbCountHealthIndicator' defined in com.rxliuli.example.springbootexample.config.DbCountAutoConfiguration: Unsatisfied dependency expressed through method 'dbCountHealthIndicator' parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'java.util.Collection&lt;org.springframework.data.repository.CrudRepository&lt;?, ?&gt;&gt;' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}" />
-      <item value="Db Count Health Indicator" />
-      <item value="delimiter" />
-      <item value="management . server . port" />
-      <item value="Enable Prometheus Endpoint" />
-      <item value="Enable Spring Boot Metrics Collector" />
     </histories>
   </component>
 </application>
