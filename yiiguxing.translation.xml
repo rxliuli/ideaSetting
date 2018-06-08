@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="node Name List" />
       <item value="Exception Cell Builder" />
       <item value="* &lt;p&gt;This is a &lt;a href=&quot;package-summary.html&quot;&gt;functional interface&lt;/a&gt; * whose functional method is {@link #apply(Object, Object)}." />
       <item value="Represents a function that accepts two arguments and produces a result. * This is the two-arity specialization of {@link Function}." />
@@ -50,7 +51,6 @@
       <item value="get Data Row Num" />
       <item value="Get excel data" />
       <item value="If is dict type, get dict value" />
-      <item value="org.apache.tomcat.util.modeler.BaseModelMBean.invoke Exception invoking method createStandardContext" />
     </histories>
   </component>
   <component name="Settings">
