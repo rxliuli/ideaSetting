@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exp Monitor Data List" />
+      <item value="exp Project List" />
+      <item value="fault Data List" />
+      <item value="view" />
+      <item value="dataset" />
+      <item value="@param objectNodeId * @param datasetId * @param model * @return" />
+      <item value="* @param objectNodeId * @param datasetId * @param model * @return */" />
+      <item value="param" />
+      <item value="return" />
+      <item value="* @param objectNodeId * @param datasetId * @param model * @return" />
+      <item value="@RequestMapping(value = &quot;forwardToCandidateDataPage&quot;)" />
+      <item value="@RequestMapping(value = &quot;forwardToCandidateDataPage&quot;) public String forwardToCandidateDataPage(@RequestParam(&quot;objectNodeId&quot;)" />
+      <item value="dbmods" />
       <item value="redis" />
       <item value="jedis" />
       <item value="schedule" />
@@ -38,19 +51,19 @@
       <item value="com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure" />
       <item value=". The driver has not received any packets from the server. at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) at sun.reflect.DelegatingConstructorAccessorImpl.__newInstance(DelegatingConstructorAccessorImpl.java:45) at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45009) at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45012) at java.lang.reflect.Constructor.newInstance(Constructor.java:423)" />
       <item value="ENGINE" />
-      <item value="introduce" />
-      <item value="introduceq" />
-      <item value="intro" />
-      <item value="介绍" />
-      <item value="head Portrait" />
-      <item value="头像" />
-      <item value="produce" />
-      <item value="Can't create database 'mytimelinedb'; database exists" />
-      <item value="taglib" />
-      <item value="/ oa / oa Notify / self" />
-      <item value="splice Url" />
-      <item value="get Algorithmid" />
-      <item value="set Algorithm Name" />
     </histories>
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="5e2600b87bd0fc78" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
   </component>
 </application>
