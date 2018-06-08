@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'java.lang.Object' available: more than one 'primary' bean found among candidates: [org.springframework.boot.test.mock.mockito.MockitoPostProcessor$SpyPostProcessor, org.springframework.boot.test.mock.mockito.MockitoPostProcessor, org.springframework.context.annotation" />
+      <item value="Base Web Integrated Test" />
+      <item value="集成" />
+      <item value="Base Web Unit Test" />
+      <item value="单元" />
+      <item value="PLAIN" />
+      <item value="TEXT PLAIN" />
+      <item value="test timed out after 3 seconds" />
+      <item value="302" />
+      <item value="No MyBatis mapper was found in '[com.rxliuli.mytimeline.gui]' package." />
+      <item value="Please check your configuration." />
+      <item value="[com/alibaba/druid/spring/boot/autoconfigure/DruidDataSourceAutoConfigure.class]: Invocation of init method failed; nested exception is org.springframework.boot.autoconfigure.jdbc" />
+      <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource" />
+      <item value="Failed to load ApplicationContext" />
       <item value="[ERROR] Failed to execute goal on project domain: Could not resolve dependencies for project com.rxliuli:domain:jar:0.0.1-SNAPSHOT: Failed to collect dependencies at com.rxliuli:common:jar:0.0.1-SNAPSHOT: Failed to read artifact descriptor for com.rxliuli:common:jar:0.0.1-SNAPSHOT: Could not find artifact com.rxliuli:mytimeline:pom:0.0.1-SNAPSHOT -&gt; [Help 1]" />
       <item value="The requested profile &quot;alwaysActiveProfile&quot; could not be activated because it does not exist." />
       <item value="[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch. [ERROR] Re-run Maven using the -X switch to enable full debug logging." />
@@ -37,20 +51,6 @@
       <item value="DEBUG org.springframework.jdbc.datasource.DataSourceTransactionManager.doCleanupAfterCompletion - Releasing JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@742aa00a] after transaction" />
       <item value="DEBUG org.springframework.jdbc.datasource.DataSourceUtils.doReleaseConnection - Returning JDBC Connection to DataSource" />
       <item value="2018-06-02 01:26:22,710 [main] DEBUG org.springframework.jdbc.datasource.DataSourceTransactionManager.doCommit - Committing JDBC transaction on Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@742aa00a] 2018-06-02 01:26:22,711 [main] DEBUG org.springframework.jdbc.datasource.DataSourceUtils.resetConnectionAfterTransaction - Resetting read-only flag of JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@742aa00a] 2018-06-02 01:26:22,711 [main] DEBUG org.springframework.jdbc.datasource.DataSourceTransactionManager.doCleanupAfterCompletion - Releasing JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@742aa00a] after transaction 2018-06-02 01:26:22,711 [main] DEBUG org.springframework.jdbc.datasource.DataSourceUtils.doReleaseConnection - Returning JDBC Connection to DataSource" />
-      <item value="DEBUG org.springframework.jdbc.datasource.DataSourceUtils.resetConnectionAfterTransaction - Resetting read-only flag of JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@742aa00a]" />
-      <item value="java.lang.AssertionError: Expected test to throw an instance of org.springframework.dao.TransientDataAccessResourceExceptio" />
-      <item value="Transient Data Access Resource Exception" />
-      <item value="'org.aspectj.lang.annotation.Aspect', 'org.aspectj.lang.reflect.Advice'; @ConditionalOnMissingClass did not find unwanted class (OnClassCondition) - @ConditionalOnProperty (spring.aop.auto=true) matched (OnPropertyCondition)" />
-      <item value="Enable Aspect J Auto Proxy" />
-      <item value="org.springframework.boot.actuate.autoconfigure.EndpointWebMvcAutoConfiguration.afterSingletonsInstantiated - Could not start embedded management container on different port (management endpoints are still available through JMX)" />
-      <item value="Dynamic" />
-      <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server. at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:1.8.0_171] at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[na:1.8.0_171] at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[na:1.8.0_171] at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[na:1.8.0_171]" />
-      <item value="Communications link failure" />
-      <item value="com.alibaba.druid.pool.DruidDataSource.run - create connection SQLException, url:" />
-      <item value="endpoints" />
-      <item value="sensitive" />
-      <item value="validation Query Check" />
-      <item value="com.alibaba.druid.pool.DruidDataSource.validationQueryCheck - testWhileIdle is true, validationQuery not set" />
     </histories>
   </component>
 </application>
