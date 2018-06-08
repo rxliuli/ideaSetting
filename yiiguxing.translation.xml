@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="add Cell" />
       <item value="recursive Load Children" />
       <item value="Get param type and type cast" />
       <item value="get Cell Value" />
@@ -50,7 +51,6 @@
       <item value="&gt;Checks whether the String a valid Java number.&lt;/p&gt;" />
       <item value="redirect To Current Node Page" />
       <item value="definitions" />
-      <item value="Monitoring" />
     </histories>
   </component>
 </application>
