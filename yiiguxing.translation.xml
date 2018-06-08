@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * 改变private/protected的方法为public，尽量不调用实际改动的语句，避免JDK的SecurityManager抱怨。 */" />
+      <item value="Security Manager" />
+      <item value="Declared Field" />
+      <item value="获取对象的 Declared Field" />
+      <item value="CGLIB CLASS SEPARATOR" />
       <item value="IndexOfAny strings //----------------------------------------------------------------------- /** * &lt;p&gt;Find the first index of any of a set of potential substrings.&lt;/p&gt;" />
       <item value="NODE TYPE NAME CATEGORY" />
       <item value="node Type Name CATEGORY" />
@@ -46,11 +51,6 @@
       <item value="operation" />
       <item value="计划" />
       <item value="guice" />
-      <item value="add Cell" />
-      <item value="recursive Load Children" />
-      <item value="Get param type and type cast" />
-      <item value="get Cell Value" />
-      <item value="new Instance Caller Cache" />
     </histories>
   </component>
   <component name="Settings">
