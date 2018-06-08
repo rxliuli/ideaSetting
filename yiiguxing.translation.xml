@@ -1,6 +1,24 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="operation Time" />
+      <item value="publish" />
+      <item value="Task Operation" />
+      <item value="花费时间" />
+      <item value="is Successful" />
+      <item value="is Success" />
+      <item value="cycle" />
+      <item value="cacle" />
+      <item value="周期" />
+      <item value="浏览器" />
+      <item value="browse" />
+      <item value="brower" />
+      <item value="broser" />
+      <item value="operation Detail" />
+      <item value="operator" />
+      <item value="operation" />
+      <item value="计划" />
+      <item value="guice" />
       <item value="add Cell" />
       <item value="recursive Load Children" />
       <item value="Get param type and type cast" />
@@ -33,24 +51,6 @@
       <item value="Base Transducer" />
       <item value="* @param &lt;T&gt; the type of element to be compared * @param &lt;U&gt; the type of the {@code Comparable} sort key * @param keyExtractor the function used to extract the {@link * Comparable} sort key * @return a comparator that compares by an extracted key * @throws NullPointerException if the argument is null" />
       <item value="* &lt;pre&gt;{@code * Comparator&lt;Person&gt; byLastName = Comparator.comparing(Person::getLastName); * }&lt;/pre&gt; *" />
-      <item value="* For example, to obtain a {@code Comparator} that compares {@code * Person} objects by their last name," />
-      <item value="* &lt;p&gt;The returned comparator is serializable if the specified function * is also serializable." />
-      <item value="Accepts a function that extracts a {@link java.lang.Comparable * Comparable} sort key from a type {@code T}, and returns a {@code * Comparator&lt;T&gt;} that compares by that sort key." />
-      <item value="comparing" />
-      <item value="Multipart File" />
-      <item value="product Name" />
-      <item value="Unable to create directory" />
-      <item value="macro" />
-      <item value="compute Array List Capacity" />
-      <item value="Gwt Compatible" />
-      <item value="get Declared Fields" />
-      <item value="CLASSIFICATION NODE" />
-      <item value="实数" />
-      <item value="* &lt;p&gt;&lt;code&gt;Null&lt;/code&gt; and empty String will return * &lt;code&gt;false&lt;/code&gt;.&lt;/p&gt; * * @param str the &lt;code&gt;String&lt;/code&gt; to check * @return &lt;code&gt;true&lt;/code&gt; if the string is a correctly formatted number * @since 3.3 the code supports hex {@code 0Xhhh} and octal {@code 0ddd} validation */" />
-      <item value="* &lt;p&gt;Checks whether the String a valid Java number.&lt;/p&gt; * * &lt;p&gt;Valid numbers include hexadecimal marked with the &lt;code&gt;0x&lt;/code&gt; * qualifier, scientific notation and numbers marked with a type * qualifier (e.g. 123L).&lt;/p&gt;" />
-      <item value="&gt;Checks whether the String a valid Java number.&lt;/p&gt;" />
-      <item value="redirect To Current Node Page" />
-      <item value="definitions" />
     </histories>
   </component>
 </application>
