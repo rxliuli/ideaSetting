@@ -1,0 +1,7 @@
+<templateSet group="rmas">
+  <template name="whereSql" value="&lt;if test=&quot;whereSql != null and whereSql != ''&quot;&gt;&#10;    ${whereSql}&#10;&lt;/if&gt;" description="add a dynamic param query for whereSql" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+</templateSet>

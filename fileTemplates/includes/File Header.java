@@ -1,4 +1,5 @@
 /**
  * 
- * @author ${USER} by ${DATE} ${TIME}
+ * @author ${USER}
+ * @date ${DATE}
  */
