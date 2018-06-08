@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* &lt;p&gt;This is a &lt;a href=&quot;package-summary.html&quot;&gt;functional interface&lt;/a&gt; * whose functional method is {@link #apply(Object, Object)}." />
+      <item value="Represents a function that accepts two arguments and produces a result. * This is the two-arity specialization of {@link Function}." />
+      <item value="Bi Function" />
       <item value="重复" />
       <item value="has Length" />
       <item value="exp Monitor Data List" />
@@ -48,9 +51,6 @@
       <item value="If is dict type, get dict value" />
       <item value="org.apache.tomcat.util.modeler.BaseModelMBean.invoke Exception invoking method createStandardContext" />
       <item value="ContainerBase.addChild: start: org.apache.catalina.LifecycleException:" />
-      <item value="Free Marker Template Utils" />
-      <item value="Bootstrap" />
-      <item value="com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure" />
     </histories>
   </component>
   <component name="Settings">
