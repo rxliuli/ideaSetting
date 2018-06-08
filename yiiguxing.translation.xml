@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="IndexOfAny strings //----------------------------------------------------------------------- /** * &lt;p&gt;Find the first index of any of a set of potential substrings.&lt;/p&gt;" />
+      <item value="NODE TYPE NAME CATEGORY" />
+      <item value="node Type Name CATEGORY" />
       <item value="node Name List" />
       <item value="Exception Cell Builder" />
       <item value="* &lt;p&gt;This is a &lt;a href=&quot;package-summary.html&quot;&gt;functional interface&lt;/a&gt; * whose functional method is {@link #apply(Object, Object)}." />
@@ -48,9 +51,6 @@
       <item value="Get param type and type cast" />
       <item value="get Cell Value" />
       <item value="new Instance Caller Cache" />
-      <item value="get Data Row Num" />
-      <item value="Get excel data" />
-      <item value="If is dict type, get dict value" />
     </histories>
   </component>
   <component name="Settings">
