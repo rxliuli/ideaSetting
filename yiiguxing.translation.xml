@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="redis" />
+      <item value="jedis" />
+      <item value="schedule" />
+      <item value="2018-06-08 T 14:15:11+08:00" />
       <item value="operation Time" />
       <item value="publish" />
       <item value="Task Operation" />
@@ -47,10 +51,6 @@
       <item value="splice Url" />
       <item value="get Algorithmid" />
       <item value="set Algorithm Name" />
-      <item value="export Children" />
-      <item value="Base Transducer" />
-      <item value="* @param &lt;T&gt; the type of element to be compared * @param &lt;U&gt; the type of the {@code Comparable} sort key * @param keyExtractor the function used to extract the {@link * Comparable} sort key * @return a comparator that compares by an extracted key * @throws NullPointerException if the argument is null" />
-      <item value="* &lt;pre&gt;{@code * Comparator&lt;Person&gt; byLastName = Comparator.comparing(Person::getLastName); * }&lt;/pre&gt; *" />
     </histories>
   </component>
 </application>
