@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="javax.servlet.ServletException: Circular view path [index]: would dispatch back to the current handler URL [/index] again. Check your ViewResolver setup! (Hint: This may be the result of an unspecified view, due to default view name generation.)" />
+      <item value="javax.servlet.ServletException: Circular view path [index]: would dispatch back to the current handler URL [/index] again. Check your ViewResolver setup! (Hint: This may be the result of an unspecified view, due to default view name generation.) at org.springframework.web.servlet.view.InternalResourceView.prepareForRendering(InternalResourceView.java:205) at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:145) at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:303) at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1286)" />
+      <item value="javax.servlet.ServletException: Circular view path [index]: would dispatch back to the current handler URL [/index] again. Check your ViewResolver setup! (Hint: This may be the result of an unspecified view, due to default view name generation." />
+      <item value="REDIRECTION" />
+      <item value="java.lang.AssertionError: Range for response status value 404" />
+      <item value="CLIENT ERROR" />
+      <item value="Model attribute 'page' does not exist" />
+      <item value="index" />
+      <item value="redirect" />
       <item value="org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'java.lang.Object' available: more than one 'primary' bean found among candidates: [org.springframework.boot.test.mock.mockito.MockitoPostProcessor$SpyPostProcessor, org.springframework.boot.test.mock.mockito.MockitoPostProcessor, org.springframework.context.annotation" />
       <item value="Base Web Integrated Test" />
       <item value="集成" />
@@ -42,15 +51,6 @@
       <item value="An exception has occurred for use SpringBeanUtil get a Bean" />
       <item value="An exception has occurred" />
       <item value="发生了异常" />
-      <item value="获取" />
-      <item value="使用" />
-      <item value="使用 SpringBeanUtil 获取 Bean 发生了异常" />
-      <item value="org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.rxliuli.example.springbootexample.entity.UserLogin' available" />
-      <item value="org.springframework.jdbc.datasource.DataSourceUtils.prepareConnectionForTransaction - Setting JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@742aa00a] read-only" />
-      <item value="DEBUG org.springframework.jdbc.datasource.DataSourceTransactionManager.getTransaction - Creating new transaction with name [com.rxliuli.example.springbootexample.service.impl.UserInfoServiceImpl.listForUpdate]: PROPAGATION_REQUIRED,ISOLATION_DEFAULT,readOnly,-Exception 2018-06-02 01:29:29,260 [main] DEBUG org.springframework.jdbc.datasource.DataSourceTransactionManager.doBegin - Acquired Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@742aa00a] for JDBC transaction" />
-      <item value="DEBUG org.springframework.jdbc.datasource.DataSourceTransactionManager.doCleanupAfterCompletion - Releasing JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@742aa00a] after transaction" />
-      <item value="DEBUG org.springframework.jdbc.datasource.DataSourceUtils.doReleaseConnection - Returning JDBC Connection to DataSource" />
-      <item value="2018-06-02 01:26:22,710 [main] DEBUG org.springframework.jdbc.datasource.DataSourceTransactionManager.doCommit - Committing JDBC transaction on Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@742aa00a] 2018-06-02 01:26:22,711 [main] DEBUG org.springframework.jdbc.datasource.DataSourceUtils.resetConnectionAfterTransaction - Resetting read-only flag of JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@742aa00a] 2018-06-02 01:26:22,711 [main] DEBUG org.springframework.jdbc.datasource.DataSourceTransactionManager.doCleanupAfterCompletion - Releasing JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@742aa00a] after transaction 2018-06-02 01:26:22,711 [main] DEBUG org.springframework.jdbc.datasource.DataSourceUtils.doReleaseConnection - Returning JDBC Connection to DataSource" />
     </histories>
   </component>
 </application>
