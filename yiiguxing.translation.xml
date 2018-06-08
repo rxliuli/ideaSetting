@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="重复" />
+      <item value="has Length" />
       <item value="exp Monitor Data List" />
       <item value="exp Project List" />
       <item value="fault Data List" />
@@ -49,8 +51,6 @@
       <item value="Free Marker Template Utils" />
       <item value="Bootstrap" />
       <item value="com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure" />
-      <item value=". The driver has not received any packets from the server. at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) at sun.reflect.DelegatingConstructorAccessorImpl.__newInstance(DelegatingConstructorAccessorImpl.java:45) at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45009) at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45012) at java.lang.reflect.Constructor.newInstance(Constructor.java:423)" />
-      <item value="ENGINE" />
     </histories>
   </component>
   <component name="Settings">
