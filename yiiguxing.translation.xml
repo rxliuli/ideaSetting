@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="at com.rxliuli.example.springbootexample.web.UserLoginController$$FastClassBySpringCGLIB$$f9c241ad.invoke(&lt;generated&gt;)" />
+      <item value="Invalid bound statement (not found): com.rxliuli.example.springbootexample.mapper.UserLoginMapper.findByUsername" />
+      <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.rxliuli.example.springbootexample.mapper.UserLoginMapper.findByUsername" />
+      <item value="Caused by: org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Cannot determine embedded database driver class for database type NONE. If you want an embedded database please put a supported one on the classpath. If you have database settings to be loaded from a particular profile you may need to active it (no profiles are currently active)." />
+      <item value="Cannot determine embedded database driver class for database type NONE. If you want an embedded database please put a supported one on the classpath. If you have database settings to be loaded from a particular profile you may need to active it (no profiles are currently active)." />
+      <item value="Invocation of init method failed; nested exception is org.springframework.boot.autoconfigure.jdbc" />
+      <item value=".DataSourceProperties$DataSourceBeanCreationException: Cannot determine embedded database driver class for database type NONE. If you want an embedded database please put a supported one on the classpath. If you have database settings to be loaded from a particular profile you may need to active it (no profiles are currently active)." />
+      <item value="If you want an embedded database please put a supported one on the classpath. If you have database settings to be loaded from a particular profile you may need to active it (no profiles are currently active)." />
       <item value="problem" />
       <item value="attribute Does Not Exist" />
       <item value="prevent checking for circular view paths" />
@@ -43,14 +51,6 @@
       <item value="to {[/common/redirect],methods=[GET]}: There is already 'baseController' bean method public java.lang.String com.rxliuli.example.springbootexample.web.BaseController.redirect(java.lang" />
       <item value="java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'freemarkerController' method public java.lang.String com.rxliuli.example.springbootexample.web.BaseController.redirect(java.lang.String)" />
       <item value="There is already 'baseController' bean method public java.lang.String com.rxliuli.example.springbootexample.web.BaseController.redirect(java.lang.String) mapped." />
-      <item value="java.lang.String com.rxliuli.example.springbootexample.web.BaseController.redirect(java.lang.String)" />
-      <item value="Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'freemarkerController' method" />
-      <item value="Web Mvc Auto Configuration $ Enable Web Mvc Configuration" />
-      <item value="defined in class path resource [org/springframework/boot/autoconfigure/web/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'freemarkerController' method" />
-      <item value="java.lang.IllegalStateException: Failed to load ApplicationContext" />
-      <item value="Actual" />
-      <item value="Expected" />
-      <item value="rg.junit.internal.runners.rules.ValidationError: The @Rule 'globalTimeout' must be public." />
     </histories>
   </component>
 </application>
