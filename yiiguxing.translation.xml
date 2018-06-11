@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Property" />
       <item value="has Flag" />
       <item value="si unicom acct trans" />
       <item value="custom Validate" />
@@ -50,7 +51,6 @@
       <item value="is Successful" />
       <item value="is Success" />
       <item value="cycle" />
-      <item value="cacle" />
     </histories>
   </component>
   <component name="Settings">
