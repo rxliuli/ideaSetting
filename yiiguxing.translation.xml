@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Communications link failure" />
       <item value="get Bill Pi" />
       <item value="get Is Confirm" />
       <item value="find List" />
@@ -50,7 +51,6 @@
       <item value="operation Time" />
       <item value="publish" />
       <item value="Task Operation" />
-      <item value="花费时间" />
     </histories>
   </component>
   <component name="Settings">
