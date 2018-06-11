@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="si unicom acct trans" />
+      <item value="custom Validate" />
       <item value="provided" />
       <item value="Column 'nodeType' cannot be null" />
       <item value="Error updating database. Cause: java.sql.SQLException: Connection is read-only. Queries leading to data modification are not allowed ### The error may involve defaultParameterMap" />
@@ -49,8 +51,6 @@
       <item value="cycle" />
       <item value="cacle" />
       <item value="周期" />
-      <item value="浏览器" />
-      <item value="browse" />
     </histories>
   </component>
   <component name="Settings">
