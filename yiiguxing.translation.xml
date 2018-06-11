@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Transport" />
+      <item value="- Transport (tcp://117.78.46.235:61616) failed , attempting to automatically reconnect: {}" />
+      <item value="select Flight" />
       <item value="pi garan presale price" />
       <item value="Communications link failure" />
       <item value="get Bill Pi" />
@@ -48,9 +51,6 @@
       <item value="redis" />
       <item value="jedis" />
       <item value="schedule" />
-      <item value="2018-06-08 T 14:15:11+08:00" />
-      <item value="operation Time" />
-      <item value="publish" />
     </histories>
   </component>
   <component name="Settings">
