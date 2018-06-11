@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Is Confirm" />
+      <item value="get Bill Pi" />
+      <item value="find List" />
       <item value="Property" />
       <item value="has Flag" />
       <item value="si unicom acct trans" />
@@ -48,9 +51,6 @@
       <item value="publish" />
       <item value="Task Operation" />
       <item value="花费时间" />
-      <item value="is Successful" />
-      <item value="is Success" />
-      <item value="cycle" />
     </histories>
   </component>
   <component name="Settings">
