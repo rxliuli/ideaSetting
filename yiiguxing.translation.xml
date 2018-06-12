@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Abstract Entity" />
+      <item value="Caused by: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.rxliuli.mytimeline.gui.Application]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'commonController' for bean class [com.rxliuli.mytimeline.common.web.CommonController] conflicts with existing, non-compatible bean definition of same name and class [com.rxliuli.mytimeline.gui.web.CommonController]" />
+      <item value="conflicts with existing, non-compatible bean definition of same name and class [com.rxliuli.mytimeline.gui.web.CommonController]" />
       <item value="TINYINT" />
       <item value="at com.rxliuli.example.springbootexample.web.UserLoginController$$FastClassBySpringCGLIB$$f9c241ad.invoke(&lt;generated&gt;)" />
       <item value="Invalid bound statement (not found): com.rxliuli.example.springbootexample.mapper.UserLoginMapper.findByUsername" />
@@ -48,9 +51,6 @@
       <item value="vertical" />
       <item value="horizontal" />
       <item value="webkit - scrollbar - track - piece" />
-      <item value="scrollbar" />
-      <item value="to {[/common/redirect],methods=[GET]}: There is already 'baseController' bean method public java.lang.String com.rxliuli.example.springbootexample.web.BaseController.redirect(java.lang" />
-      <item value="java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'freemarkerController' method public java.lang.String com.rxliuli.example.springbootexample.web.BaseController.redirect(java.lang.String)" />
     </histories>
   </component>
 </application>
