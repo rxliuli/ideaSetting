@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TINYINT" />
       <item value="at com.rxliuli.example.springbootexample.web.UserLoginController$$FastClassBySpringCGLIB$$f9c241ad.invoke(&lt;generated&gt;)" />
       <item value="Invalid bound statement (not found): com.rxliuli.example.springbootexample.mapper.UserLoginMapper.findByUsername" />
       <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.rxliuli.example.springbootexample.mapper.UserLoginMapper.findByUsername" />
@@ -50,7 +51,6 @@
       <item value="scrollbar" />
       <item value="to {[/common/redirect],methods=[GET]}: There is already 'baseController' bean method public java.lang.String com.rxliuli.example.springbootexample.web.BaseController.redirect(java.lang" />
       <item value="java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'freemarkerController' method public java.lang.String com.rxliuli.example.springbootexample.web.BaseController.redirect(java.lang.String)" />
-      <item value="There is already 'baseController' bean method public java.lang.String com.rxliuli.example.springbootexample.web.BaseController.redirect(java.lang.String) mapped." />
     </histories>
   </component>
 </application>
