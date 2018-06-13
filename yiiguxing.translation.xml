@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="listen" />
       <item value="org.apache.zookeeper.server.ServerCnxn$EndOfStreamException: Unable to read additional data from client sessionid 0x163f8465c7d0000, likely client has closed socket" />
       <item value="caught end of stream exception" />
       <item value="org.apache.zookeeper.server.ServerCnxn$EndOfStreamException: Unable to read additional data from client" />
@@ -50,7 +51,6 @@
       <item value="has Length" />
       <item value="exp Monitor Data List" />
       <item value="exp Project List" />
-      <item value="fault Data List" />
     </histories>
   </component>
   <component name="Settings">
