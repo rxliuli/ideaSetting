@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'redisUtil': Unsatisfied dependency expressed through field 'redisTemplate'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.data.redis.core.RedisTemplate&lt;java.io.Serializable, java.lang.Object&gt;' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
+      <item value="Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.18.1:test (default-test) on project gui: There are test failures." />
       <item value="Abstract Entity" />
       <item value="Caused by: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.rxliuli.mytimeline.gui.Application]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'commonController' for bean class [com.rxliuli.mytimeline.common.web.CommonController] conflicts with existing, non-compatible bean definition of same name and class [com.rxliuli.mytimeline.gui.web.CommonController]" />
       <item value="conflicts with existing, non-compatible bean definition of same name and class [com.rxliuli.mytimeline.gui.web.CommonController]" />
@@ -49,8 +51,6 @@
       <item value="layout" />
       <item value="scrollbar - button : vertical" />
       <item value="vertical" />
-      <item value="horizontal" />
-      <item value="webkit - scrollbar - track - piece" />
     </histories>
   </component>
 </application>
