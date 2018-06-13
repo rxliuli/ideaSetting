@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="then Return" />
+      <item value="when" />
       <item value="binary" />
       <item value="Transport" />
       <item value="- Transport (tcp://117.78.46.235:61616) failed , attempting to automatically reconnect: {}" />
@@ -49,8 +51,6 @@
       <item value="@RequestMapping(value = &quot;forwardToCandidateDataPage&quot;)" />
       <item value="@RequestMapping(value = &quot;forwardToCandidateDataPage&quot;) public String forwardToCandidateDataPage(@RequestParam(&quot;objectNodeId&quot;)" />
       <item value="dbmods" />
-      <item value="redis" />
-      <item value="jedis" />
     </histories>
   </component>
   <component name="Settings">
