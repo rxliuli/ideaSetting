@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="binary" />
       <item value="Transport" />
       <item value="- Transport (tcp://117.78.46.235:61616) failed , attempting to automatically reconnect: {}" />
       <item value="select Flight" />
@@ -50,7 +51,6 @@
       <item value="dbmods" />
       <item value="redis" />
       <item value="jedis" />
-      <item value="schedule" />
     </histories>
   </component>
   <component name="Settings">
