@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="[2018-06-13 15:20:45] JRebel enabled automatic compilation for this project. You can disable this setting from Help &gt; JRebel &gt; Configuration &gt; Advanced &gt; Miscellaneous." />
+      <item value="spring . kafka . consumer . auto - commit - interval" />
+      <item value="spring . kafka . consumer . enable - auto - commit" />
       <item value="by Fee Rate" />
       <item value="### Error updating database. Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'flightNumber' at row 1" />
       <item value="then Return" />
@@ -48,9 +51,6 @@
       <item value="@param objectNodeId * @param datasetId * @param model * @return" />
       <item value="* @param objectNodeId * @param datasetId * @param model * @return */" />
       <item value="param" />
-      <item value="return" />
-      <item value="* @param objectNodeId * @param datasetId * @param model * @return" />
-      <item value="@RequestMapping(value = &quot;forwardToCandidateDataPage&quot;)" />
     </histories>
   </component>
   <component name="Settings">
