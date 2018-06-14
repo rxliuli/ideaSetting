@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="select Flight Group By Date" />
       <item value="policy Id" />
       <item value="if a terminal operation were to be executed, * would execute in parallel. Calling this method after invoking an * terminal stream operation method may yield unpredictable results." />
       <item value="Returns whether this stream, if a terminal operation were to be executed, * would execute in parallel. Calling this method after invoking an * terminal stream operation method may yield unpredictable results." />
@@ -50,7 +51,6 @@
       <item value="select Flight" />
       <item value="pi garan presale price" />
       <item value="Communications link failure" />
-      <item value="get Bill Pi" />
     </histories>
   </component>
   <component name="Settings">
