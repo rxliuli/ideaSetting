@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="if a terminal operation were to be executed, * would execute in parallel. Calling this method after invoking an * terminal stream operation method may yield unpredictable results." />
+      <item value="Returns whether this stream, if a terminal operation were to be executed, * would execute in parallel. Calling this method after invoking an * terminal stream operation method may yield unpredictable results." />
       <item value="init Data Table Pro" />
       <item value="account Period" />
       <item value="laydate" />
@@ -49,8 +51,6 @@
       <item value="pi garan presale price" />
       <item value="Communications link failure" />
       <item value="get Bill Pi" />
-      <item value="get Is Confirm" />
-      <item value="find List" />
     </histories>
   </component>
   <component name="Settings">
