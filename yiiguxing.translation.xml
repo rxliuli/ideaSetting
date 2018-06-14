@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="this is a message for language of chinese." />
+      <item value="&quot;this is a message for language of chinese.&quot;" />
       <item value="auto" />
       <item value="memory" />
       <item value="16384" />
@@ -49,8 +51,6 @@
       <item value="Connection is read-only. Queries leading to data modification are not allowed ### The error may involve defaultParameterMap" />
       <item value="this" />
       <item value="/** * 改变private/protected的方法为public，尽量不调用实际改动的语句，避免JDK的SecurityManager抱怨。 */" />
-      <item value="Security Manager" />
-      <item value="Declared Field" />
     </histories>
   </component>
   <component name="Settings">
