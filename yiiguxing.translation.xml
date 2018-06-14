@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MODIFY CEILING" />
+      <item value="RANGE WEEK MONDAY" />
+      <item value="Sets the months field to a date returning a new object. * The original {@code Date} is unchanged." />
       <item value="ignore Null" />
       <item value="select Flight Group By Date" />
       <item value="policy Id" />
@@ -48,9 +51,6 @@
       <item value="when" />
       <item value="binary" />
       <item value="Transport" />
-      <item value="- Transport (tcp://117.78.46.235:61616) failed , attempting to automatically reconnect: {}" />
-      <item value="select Flight" />
-      <item value="pi garan presale price" />
     </histories>
   </component>
   <component name="Settings">
