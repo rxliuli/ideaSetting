@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="auto" />
       <item value="memory" />
       <item value="16384" />
       <item value="deserializer" />
@@ -50,7 +51,6 @@
       <item value="/** * 改变private/protected的方法为public，尽量不调用实际改动的语句，避免JDK的SecurityManager抱怨。 */" />
       <item value="Security Manager" />
       <item value="Declared Field" />
-      <item value="获取对象的 Declared Field" />
     </histories>
   </component>
   <component name="Settings">
