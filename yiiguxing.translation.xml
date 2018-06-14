@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A synchronization aid that allows one or more threads to wait until * a set of operations being performed in other threads completes." />
+      <item value="Count Down Latch" />
+      <item value="checksum" />
       <item value="this is a message for language of chinese." />
       <item value="&quot;this is a message for language of chinese.&quot;" />
       <item value="auto" />
@@ -48,9 +51,6 @@
       <item value="Error updating database. Cause: java.sql.SQLException: Connection is read-only. Queries leading to data modification are not allowed ### The error may involve defaultParameterMap" />
       <item value="Connection is read-only. Queries leading to data modification are not allowed" />
       <item value="Cause: java.sql.SQLException: Connection is read-only. Queries leading to data modification are not allowed ; SQL []; Connection is read-only. Queries leading to data modification are not allowed" />
-      <item value="Connection is read-only. Queries leading to data modification are not allowed ### The error may involve defaultParameterMap" />
-      <item value="this" />
-      <item value="/** * 改变private/protected的方法为public，尽量不调用实际改动的语句，避免JDK的SecurityManager抱怨。 */" />
     </histories>
   </component>
   <component name="Settings">
