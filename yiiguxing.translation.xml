@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="by Fee Rate" />
       <item value="total Amount" />
       <item value="exceed Price" />
       <item value="exceed Trans Fee" />
@@ -50,7 +51,6 @@
       <item value="policy Id" />
       <item value="if a terminal operation were to be executed, * would execute in parallel. Calling this method after invoking an * terminal stream operation method may yield unpredictable results." />
       <item value="Returns whether this stream, if a terminal operation were to be executed, * would execute in parallel. Calling this method after invoking an * terminal stream operation method may yield unpredictable results." />
-      <item value="init Data Table Pro" />
     </histories>
   </component>
   <component name="Settings">
