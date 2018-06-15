@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Cal Identity" />
+      <item value="is By Fee Rate" />
       <item value="is Empty ( entity . get Originpolicyid ())" />
       <item value="by Fee Rate" />
       <item value="total Amount" />
@@ -49,8 +51,6 @@
       <item value="Sets the months field to a date returning a new object. * The original {@code Date} is unchanged." />
       <item value="ignore Null" />
       <item value="select Flight Group By Date" />
-      <item value="policy Id" />
-      <item value="if a terminal operation were to be executed, * would execute in parallel. Calling this method after invoking an * terminal stream operation method may yield unpredictable results." />
     </histories>
   </component>
   <component name="Settings">
