@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="provider" />
       <item value="producer" />
       <item value="produce" />
       <item value="Decrements the count of the latch, releasing all waiting threads if * the count reaches zero. * * &lt;p&gt;If the current count is greater than zero then it is decremented. * If the new count is zero then all waiting threads are re-enabled for * thread scheduling purposes." />
@@ -50,7 +51,6 @@
       <item value="caught end of stream exception" />
       <item value="org.apache.zookeeper.server.ServerCnxn$EndOfStreamException: Unable to read additional data from client" />
       <item value="Kafka Embedded" />
-      <item value="Auto-commit of offsets {rxliuli-0=OffsetAndMetadata{offset=4, metadata=''}} failed for group test-consumer-group: Commit cannot be completed since the group has already rebalanced and assigned the partitions to another member. This means that the time between subsequent calls to poll() was longer than the configured max.poll.interval.ms, which typically implies that the poll loop is spending too much time message processing. You can address this either by increasing the session timeout or by reducing the maximum size of batches returned in poll() with max.poll.records." />
     </histories>
   </component>
   <component name="Settings">
