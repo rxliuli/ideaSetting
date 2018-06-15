@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="determine For HY" />
+      <item value="base Airport Service" />
+      <item value="get Type By 3 Code" />
+      <item value="interflag" />
+      <item value="create Text Message" />
+      <item value="active MQ Queue" />
+      <item value="create Producer" />
       <item value="A simple example for Kafka" />
       <item value="A use kafka multi module example" />
       <item value="Gets the date/time formatter with the default formatting style * for the default {@link java.util.Locale.Category#FORMAT FORMAT} locale. * &lt;p&gt;This is equivalent to calling * {@link #getDateTimeInstance(int, int, Locale) getDateTimeInstance(DEFAULT, * DEFAULT, Locale.getDefault(Locale.Category.FORMAT))}." />
@@ -44,13 +51,6 @@
       <item value="A synchronization aid that allows one or more threads to wait until * a set of operations being performed in other threads completes." />
       <item value="Count Down Latch" />
       <item value="checksum" />
-      <item value="this is a message for language of chinese." />
-      <item value="&quot;this is a message for language of chinese.&quot;" />
-      <item value="auto" />
-      <item value="memory" />
-      <item value="16384" />
-      <item value="deserializer" />
-      <item value="earliest" />
     </histories>
   </component>
   <component name="Settings">
