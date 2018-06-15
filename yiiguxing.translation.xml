@@ -1,7 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="totla Fee" />
+      <item value="calculate For Inland" />
+      <item value="calculate" />
+      <item value="plane Type" />
+      <item value="transfer Type" />
+      <item value="get Flight" />
       <item value="determine For HY" />
+      <item value="cargo Info Modify Service" />
       <item value="base Airport Service" />
       <item value="get Type By 3 Code" />
       <item value="interflag" />
@@ -44,13 +51,6 @@
       <item value="account Period" />
       <item value="laydate" />
       <item value="search openchargedate Begin" />
-      <item value="generate With Salt" />
-      <item value="The value StringUtils.substring(flightnumber, 0, 2) assigned to 'airline' is never used less... (Ctrl+F1) This inspection points out the cases where a variable value is never used after its assignment, i.e.:  - the variable never gets read after assignment OR  - the value is always overwritten with another assignment before the next variable read OR  - the variable initializer is redundant (for one of the above two reasons)" />
-      <item value="airline" />
-      <item value="auto - commit - interval" />
-      <item value="A synchronization aid that allows one or more threads to wait until * a set of operations being performed in other threads completes." />
-      <item value="Count Down Latch" />
-      <item value="checksum" />
     </histories>
   </component>
   <component name="Settings">
