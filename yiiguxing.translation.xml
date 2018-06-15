@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="locale" />
+      <item value="date Regular Expression" />
       <item value="MODIFY CEILING" />
       <item value="RANGE WEEK MONDAY" />
       <item value="Sets the months field to a date returning a new object. * The original {@code Date} is unchanged." />
@@ -49,8 +51,6 @@
       <item value="### Error updating database. Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'flightNumber' at row 1" />
       <item value="then Return" />
       <item value="when" />
-      <item value="binary" />
-      <item value="Transport" />
     </histories>
   </component>
   <component name="Settings">
