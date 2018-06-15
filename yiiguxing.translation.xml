@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A simple example for Kafka" />
+      <item value="A use kafka multi module example" />
       <item value="Gets the date/time formatter with the default formatting style * for the default {@link java.util.Locale.Category#FORMAT FORMAT} locale. * &lt;p&gt;This is equivalent to calling * {@link #getDateTimeInstance(int, int, Locale) getDateTimeInstance(DEFAULT, * DEFAULT, Locale.getDefault(Locale.Category.FORMAT))}." />
       <item value="java.lang.AssertionError: Content type not set" />
       <item value="fail" />
@@ -49,8 +51,6 @@
       <item value="16384" />
       <item value="deserializer" />
       <item value="earliest" />
-      <item value="reset" />
-      <item value="interval" />
     </histories>
   </component>
   <component name="Settings">
