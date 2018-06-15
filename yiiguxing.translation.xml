@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Gets the date/time formatter with the default formatting style * for the default {@link java.util.Locale.Category#FORMAT FORMAT} locale. * &lt;p&gt;This is equivalent to calling * {@link #getDateTimeInstance(int, int, Locale) getDateTimeInstance(DEFAULT, * DEFAULT, Locale.getDefault(Locale.Category.FORMAT))}." />
+      <item value="java.lang.AssertionError: Content type not set" />
+      <item value="fail" />
+      <item value="失败" />
+      <item value="faili 失败" />
+      <item value="faili" />
+      <item value="fiail" />
       <item value="Unknown return value type: java.lang.Boolean" />
       <item value="nknown return value type: java.lang.Boolean" />
       <item value="Test annotation which indicates that the * {@link org.springframework.context.ApplicationContext ApplicationContext} * associated with a test is &lt;em&gt;dirty&lt;/em&gt; and should therefore be closed * and removed from the context cache." />
@@ -44,13 +51,6 @@
       <item value="earliest" />
       <item value="reset" />
       <item value="interval" />
-      <item value="o.a.zookeeper.server.ZooKeeperServer : ZKShutdownHandler is not registered, so ZooKeeper server won't take any action on ERROR or SHUTDOWN server state changes" />
-      <item value="Send the data to the provided topic with the provided key and no partition." />
-      <item value="topic the topic." />
-      <item value="failure Callback" />
-      <item value="on Failure" />
-      <item value="/** * Register the given {@code ListenableFutureCallback}. * @param callback the callback to register */" />
-      <item value="Listenable Future" />
     </histories>
   </component>
   <component name="Settings">
