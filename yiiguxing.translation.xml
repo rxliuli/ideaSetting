@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Test annotation which indicates that the * {@link org.springframework.context.ApplicationContext ApplicationContext} * associated with a test is &lt;em&gt;dirty&lt;/em&gt; and should therefore be closed * and removed from the context cache." />
+      <item value="Dirties" />
+      <item value="Dirties Context" />
       <item value="provider" />
       <item value="producer" />
       <item value="produce" />
@@ -48,9 +51,6 @@
       <item value="Listenable Future" />
       <item value="listen" />
       <item value="org.apache.zookeeper.server.ServerCnxn$EndOfStreamException: Unable to read additional data from client sessionid 0x163f8465c7d0000, likely client has closed socket" />
-      <item value="caught end of stream exception" />
-      <item value="org.apache.zookeeper.server.ServerCnxn$EndOfStreamException: Unable to read additional data from client" />
-      <item value="Kafka Embedded" />
     </histories>
   </component>
   <component name="Settings">
