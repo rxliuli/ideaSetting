@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unknown return value type: java.lang.Boolean" />
+      <item value="nknown return value type: java.lang.Boolean" />
       <item value="Test annotation which indicates that the * {@link org.springframework.context.ApplicationContext ApplicationContext} * associated with a test is &lt;em&gt;dirty&lt;/em&gt; and should therefore be closed * and removed from the context cache." />
       <item value="Dirties" />
       <item value="Dirties Context" />
@@ -49,8 +51,6 @@
       <item value="on Failure" />
       <item value="/** * Register the given {@code ListenableFutureCallback}. * @param callback the callback to register */" />
       <item value="Listenable Future" />
-      <item value="listen" />
-      <item value="org.apache.zookeeper.server.ServerCnxn$EndOfStreamException: Unable to read additional data from client sessionid 0x163f8465c7d0000, likely client has closed socket" />
     </histories>
   </component>
   <component name="Settings">
