@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Empty ( entity . get Originpolicyid ())" />
       <item value="by Fee Rate" />
       <item value="total Amount" />
       <item value="exceed Price" />
@@ -50,7 +51,6 @@
       <item value="select Flight Group By Date" />
       <item value="policy Id" />
       <item value="if a terminal operation were to be executed, * would execute in parallel. Calling this method after invoking an * terminal stream operation method may yield unpredictable results." />
-      <item value="Returns whether this stream, if a terminal operation were to be executed, * would execute in parallel. Calling this method after invoking an * terminal stream operation method may yield unpredictable results." />
     </histories>
   </component>
   <component name="Settings">
