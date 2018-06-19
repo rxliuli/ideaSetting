@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="accumulate Totalfee" />
+      <item value="The last packet successfully received from the server was 30,762 milliseconds ago. The last packet sent successfully to the server was 19,003 milliseconds ago." />
+      <item value="this web application instance has been stopped already. Could not load [org.mybatis.spring.SqlSessionTemplate]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access." />
+      <item value=".WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.sun.proxy.$Proxy47]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access." />
+      <item value="this web application instance has been stopped already. Could not load [com.sun.proxy.$Proxy47]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access." />
+      <item value="this web application instance has been stopped already. Could not load [org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access." />
       <item value=".WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [org.apache.activemq.ActiveMQMessageConsumer]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access." />
       <item value="this web application instance has been stopped already. Could not load [org.springframework.aop.interceptor.ExposeInvocationInterceptor]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access." />
       <item value="### Error querying database. Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is com.alibaba.druid.pool.DataSourceClosedException: dataSource already closed at Tue Jun 19 15:28:46 CST 2018" />
@@ -45,12 +51,6 @@
       <item value="container Factory" />
       <item value="&lt;p&gt;A {@code CountDownLatch} is a versatile synchronization tool * and can be used for a number of purposes. A * {@code CountDownLatch} initialized with a count of one serves as a * simple on/off latch, or gate: all threads invoking {@link #await await} * wait at the gate until it is opened by a thread invoking {@link * #countDown}. A {@code CountDownLatch} initialized to &lt;em&gt;N&lt;/em&gt; * can be used to make one thread wait until &lt;em&gt;N&lt;/em&gt; threads have * completed some action, or some action has been completed N times." />
       <item value="A {@code CountDownLatch} is initialized with a given &lt;em&gt;count&lt;/em&gt;. * The {@link #await await} methods block until the current count reaches * zero due to invocations of the {@link #countDown} method, after which * all waiting threads are released and any subsequent invocations of * {@link #await await} return immediately. This is a one-shot phenomenon * -- the count cannot be reset. If you need a version that resets the * count, consider using a {@link CyclicBarrier}." />
-      <item value="&lt;a href=&quot;package-summary.html#MemoryVisibility&quot;&gt;&lt;i&gt;happen-before&lt;/i&gt;&lt;/a&gt; * actions following a successful return from a corresponding" />
-      <item value="Memory consistency effects: Until the count reaches * zero, actions in a thread prior to calling" />
-      <item value="Count Down Latch" />
-      <item value="acknowledge" />
-      <item value="手动" />
-      <item value="Decrements the count of the latch, releasing all waiting threads if * the count reaches zero." />
     </histories>
   </component>
   <component name="Settings">
