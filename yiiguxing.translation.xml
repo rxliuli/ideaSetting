@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=".WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [org.apache.activemq.ActiveMQMessageConsumer]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access." />
       <item value="this web application instance has been stopped already. Could not load [org.springframework.aop.interceptor.ExposeInvocationInterceptor]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access." />
       <item value="### Error querying database. Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is com.alibaba.druid.pool.DataSourceClosedException: dataSource already closed at Tue Jun 19 15:28:46 CST 2018" />
       <item value="16:09:52.240 [ActiveMQ Session: ID:DESKTOP-I7FGET1-51741-1529377281117-1:6:1] ERROR c.y.s.m.e.m.ModifyLineConsumer - nested exception is org.apache.ibatis.exceptions.PersistenceException:" />
@@ -50,7 +51,6 @@
       <item value="acknowledge" />
       <item value="手动" />
       <item value="Decrements the count of the latch, releasing all waiting threads if * the count reaches zero." />
-      <item value="release Shared" />
     </histories>
   </component>
   <component name="Settings">
