@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="preserve All Tokens" />
+      <item value="split Worker" />
       <item value="container Factory" />
       <item value="&lt;p&gt;A {@code CountDownLatch} is a versatile synchronization tool * and can be used for a number of purposes. A * {@code CountDownLatch} initialized with a count of one serves as a * simple on/off latch, or gate: all threads invoking {@link #await await} * wait at the gate until it is opened by a thread invoking {@link * #countDown}. A {@code CountDownLatch} initialized to &lt;em&gt;N&lt;/em&gt; * can be used to make one thread wait until &lt;em&gt;N&lt;/em&gt; threads have * completed some action, or some action has been completed N times." />
       <item value="A {@code CountDownLatch} is initialized with a given &lt;em&gt;count&lt;/em&gt;. * The {@link #await await} methods block until the current count reaches * zero due to invocations of the {@link #countDown} method, after which * all waiting threads are released and any subsequent invocations of * {@link #await await} return immediately. This is a one-shot phenomenon * -- the count cannot be reset. If you need a version that resets the * count, consider using a {@link CyclicBarrier}." />
@@ -49,8 +51,6 @@
       <item value="nknown return value type: java.lang.Boolean" />
       <item value="Test annotation which indicates that the * {@link org.springframework.context.ApplicationContext ApplicationContext} * associated with a test is &lt;em&gt;dirty&lt;/em&gt; and should therefore be closed * and removed from the context cache." />
       <item value="Dirties" />
-      <item value="Dirties Context" />
-      <item value="provider" />
     </histories>
   </component>
   <component name="Settings">
