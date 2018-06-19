@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="container Factory" />
       <item value="&lt;p&gt;A {@code CountDownLatch} is a versatile synchronization tool * and can be used for a number of purposes. A * {@code CountDownLatch} initialized with a count of one serves as a * simple on/off latch, or gate: all threads invoking {@link #await await} * wait at the gate until it is opened by a thread invoking {@link * #countDown}. A {@code CountDownLatch} initialized to &lt;em&gt;N&lt;/em&gt; * can be used to make one thread wait until &lt;em&gt;N&lt;/em&gt; threads have * completed some action, or some action has been completed N times." />
       <item value="A {@code CountDownLatch} is initialized with a given &lt;em&gt;count&lt;/em&gt;. * The {@link #await await} methods block until the current count reaches * zero due to invocations of the {@link #countDown} method, after which * all waiting threads are released and any subsequent invocations of * {@link #await await} return immediately. This is a one-shot phenomenon * -- the count cannot be reset. If you need a version that resets the * count, consider using a {@link CyclicBarrier}." />
       <item value="&lt;a href=&quot;package-summary.html#MemoryVisibility&quot;&gt;&lt;i&gt;happen-before&lt;/i&gt;&lt;/a&gt; * actions following a successful return from a corresponding" />
@@ -50,7 +51,6 @@
       <item value="Dirties" />
       <item value="Dirties Context" />
       <item value="provider" />
-      <item value="producer" />
     </histories>
   </component>
   <component name="Settings">
