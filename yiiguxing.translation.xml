@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Error during generated code invocation com.intellij.debugger.engine.evaluation.EvaluateException: Type mismatch Can't assign com.yh.ss.modules.cargo.web.CargoInfoModifyController$$M$_jr_135CC325F026874C_5 to com.yh.ss.modules.cargo.web.CargoInfoModifyController" />
+      <item value="collect" />
+      <item value="Collectors" />
+      <item value="o.a.a.t.f.FailoverTransport - Transport (tcp://117.78.46.235:61616) failed , attempting to automatically reconnect: {}" />
+      <item value="[HY000][1267] Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8_hungarian_ci,IMPLICIT) for operation '='" />
       <item value="plane Type" />
       <item value="get Cost Weight" />
       <item value="get Unique Match Data" />
@@ -46,11 +51,6 @@
       <item value="coordinator" />
       <item value="** * A synchronization aid that allows one or more threads to wait until * a set of operations being performed in other threads completes." />
       <item value="step" />
-      <item value="set Cal Identity" />
-      <item value="is By Fee Rate" />
-      <item value="is Empty ( entity . get Originpolicyid ())" />
-      <item value="by Fee Rate" />
-      <item value="total Amount" />
     </histories>
   </component>
   <component name="Settings">
