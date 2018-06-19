@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Applyprice" />
       <item value="Could not load [java.lang.Object]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access" />
       <item value="* &lt;p&gt;Removes control characters (char &amp;lt;= 32) from both * ends of this String returning {@code null} if the String is * empty (&quot;&quot;) after the trim or if it is {@code null}." />
       <item value="&gt;Removes control characters (char &amp;lt;= 32) from both * ends of this String returning {@code null} if the String is * empty (&quot;&quot;) after the trim or if it is {@code null}." />
@@ -42,7 +43,6 @@
       <item value="no" />
       <item value="prefetch Size" />
       <item value="totla Fee" />
-      <item value="get Applyprice" />
       <item value="plane" />
       <item value="Compares this string to the specified object. The result is {@code * true} if and only if the argument is not {@code null} and is a {@code * String} object that represents the same sequence of characters as this * object." />
       <item value="Compares this string to the specified {@code StringBuffer}. The result * is {@code true} if and only if this {@code String} represents the same * sequence of characters as the specified {@code StringBuffer}. This method * synchronizes on the {@code StringBuffer}." />
