@@ -1,15 +1,29 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="cbyc Trans Price Service" />
+      <item value="plane Type" />
+      <item value="get Cost Weight" />
       <item value="get Unique Match Data" />
+      <item value="cbyc Trans Price Service" />
+      <item value="Trans" />
+      <item value="Trans Price" />
+      <item value="cbyc Trans Price" />
+      <item value="calculate" />
+      <item value="serial Version UID" />
+      <item value="847312526268490482 L" />
+      <item value="gzyh" />
+      <item value="pc cbyc trans price" />
+      <item value="auto-generated definition" />
+      <item value="end Station" />
+      <item value="null" />
+      <item value="tno" />
+      <item value="no" />
       <item value="prefetch Size" />
       <item value="totla Fee" />
       <item value="get Applyprice" />
       <item value="plane" />
       <item value="Compares this string to the specified object. The result is {@code * true} if and only if the argument is not {@code null} and is a {@code * String} object that represents the same sequence of characters as this * object." />
       <item value="Compares this string to the specified {@code StringBuffer}. The result * is {@code true} if and only if this {@code String} represents the same * sequence of characters as the specified {@code StringBuffer}. This method * synchronizes on the {@code StringBuffer}." />
-      <item value="calculate" />
       <item value="get Flight" />
       <item value="determine For HY" />
       <item value="set Interflag" />
@@ -37,20 +51,6 @@
       <item value="is Empty ( entity . get Originpolicyid ())" />
       <item value="by Fee Rate" />
       <item value="total Amount" />
-      <item value="exceed Price" />
-      <item value="exceed Trans Fee" />
-      <item value="calculate For Inland" />
-      <item value="plane Type" />
-      <item value="transfer Type" />
-      <item value="cargo Info Modify Service" />
-      <item value="base Airport Service" />
-      <item value="interflag" />
-      <item value="create Text Message" />
-      <item value="active MQ Queue" />
-      <item value="A simple example for Kafka" />
-      <item value="A use kafka multi module example" />
-      <item value="Gets the date/time formatter with the default formatting style * for the default {@link java.util.Locale.Category#FORMAT FORMAT} locale. * &lt;p&gt;This is equivalent to calling * {@link #getDateTimeInstance(int, int, Locale) getDateTimeInstance(DEFAULT, * DEFAULT, Locale.getDefault(Locale.Category.FORMAT))}." />
-      <item value="java.lang.AssertionError: Content type not set" />
     </histories>
   </component>
   <component name="Settings">
