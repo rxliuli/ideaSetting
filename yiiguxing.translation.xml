@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cbyc Trans Price Service" />
+      <item value="get Unique Match Data" />
+      <item value="prefetch Size" />
+      <item value="totla Fee" />
+      <item value="get Applyprice" />
+      <item value="plane" />
+      <item value="Compares this string to the specified object. The result is {@code * true} if and only if the argument is not {@code null} and is a {@code * String} object that represents the same sequence of characters as this * object." />
+      <item value="Compares this string to the specified {@code StringBuffer}. The result * is {@code true} if and only if this {@code String} represents the same * sequence of characters as the specified {@code StringBuffer}. This method * synchronizes on the {@code StringBuffer}." />
+      <item value="calculate" />
+      <item value="get Flight" />
+      <item value="determine For HY" />
+      <item value="set Interflag" />
+      <item value="get Type By 3 Code" />
+      <item value="session" />
+      <item value="create Producer" />
       <item value="preserve All Tokens" />
       <item value="split Worker" />
       <item value="container Factory" />
@@ -24,33 +39,18 @@
       <item value="total Amount" />
       <item value="exceed Price" />
       <item value="exceed Trans Fee" />
-      <item value="totla Fee" />
       <item value="calculate For Inland" />
-      <item value="calculate" />
       <item value="plane Type" />
       <item value="transfer Type" />
-      <item value="get Flight" />
-      <item value="determine For HY" />
       <item value="cargo Info Modify Service" />
       <item value="base Airport Service" />
-      <item value="get Type By 3 Code" />
       <item value="interflag" />
       <item value="create Text Message" />
       <item value="active MQ Queue" />
-      <item value="create Producer" />
       <item value="A simple example for Kafka" />
       <item value="A use kafka multi module example" />
       <item value="Gets the date/time formatter with the default formatting style * for the default {@link java.util.Locale.Category#FORMAT FORMAT} locale. * &lt;p&gt;This is equivalent to calling * {@link #getDateTimeInstance(int, int, Locale) getDateTimeInstance(DEFAULT, * DEFAULT, Locale.getDefault(Locale.Category.FORMAT))}." />
       <item value="java.lang.AssertionError: Content type not set" />
-      <item value="fail" />
-      <item value="失败" />
-      <item value="faili 失败" />
-      <item value="faili" />
-      <item value="fiail" />
-      <item value="Unknown return value type: java.lang.Boolean" />
-      <item value="nknown return value type: java.lang.Boolean" />
-      <item value="Test annotation which indicates that the * {@link org.springframework.context.ApplicationContext ApplicationContext} * associated with a test is &lt;em&gt;dirty&lt;/em&gt; and should therefore be closed * and removed from the context cache." />
-      <item value="Dirties" />
     </histories>
   </component>
   <component name="Settings">
