@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="### The error may involve com.yh.ss.modules.cargo.dao.CargoInfoModifyDao.get ### The error occurred while executing a query ### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is" />
       <item value="Error during generated code invocation com.intellij.debugger.engine.evaluation.EvaluateException: Type mismatch Can't assign com.yh.ss.modules.cargo.web.CargoInfoModifyController$$M$_jr_135CC325F026874C_5 to com.yh.ss.modules.cargo.web.CargoInfoModifyController" />
       <item value="collect" />
       <item value="Collectors" />
@@ -50,7 +51,6 @@
       <item value="WARN 11220 --- [ntainer#0-0-C-1] o.a.k.c.c.internals.ConsumerCoordinator : Auto offset commit failed for group consumer-group-rxliuli: Commit cannot be completed since the group has already rebalanced and assigned the partitions to another member. This means that the time between subsequent calls to poll() was longer than the configured max.poll.interval.ms, which typically implies that the poll loop is spending too much time message processing. You can address this either by increasing the session timeout or by reducing the maximum size of batches returned in poll() with max.poll.records." />
       <item value="coordinator" />
       <item value="** * A synchronization aid that allows one or more threads to wait until * a set of operations being performed in other threads completes." />
-      <item value="step" />
     </histories>
   </component>
   <component name="Settings">
