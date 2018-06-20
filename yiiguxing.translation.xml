@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="form Util" />
+      <item value="forms" />
+      <item value="form" />
+      <item value="empty To Else" />
+      <item value="empty Or Else" />
+      <item value="empty To Zero" />
+      <item value="from" />
       <item value="data" />
       <item value="Invoke the handler method with the given argument values." />
       <item value="search confirm" />
@@ -44,13 +51,6 @@
       <item value="&lt;p&gt;Removes control characters (char &amp;lt;= 32) from both * ends of this String returning {@code null} if the String is * empty (&quot;&quot;) after the trim or if it is {@code null}." />
       <item value="accumulate Totalfee" />
       <item value="The last packet successfully received from the server was 30,762 milliseconds ago. The last packet sent successfully to the server was 19,003 milliseconds ago." />
-      <item value="this web application instance has been stopped already. Could not load [org.mybatis.spring.SqlSessionTemplate]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access." />
-      <item value=".WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [com.sun.proxy.$Proxy47]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access." />
-      <item value="this web application instance has been stopped already. Could not load [com.sun.proxy.$Proxy47]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access." />
-      <item value="this web application instance has been stopped already. Could not load [org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access." />
-      <item value=".WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [org.apache.activemq.ActiveMQMessageConsumer]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access." />
-      <item value="this web application instance has been stopped already. Could not load [org.springframework.aop.interceptor.ExposeInvocationInterceptor]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access." />
-      <item value="### Error querying database. Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is com.alibaba.druid.pool.DataSourceClosedException: dataSource already closed at Tue Jun 19 15:28:46 CST 2018" />
     </histories>
   </component>
   <component name="Settings">
