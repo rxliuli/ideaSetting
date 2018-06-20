@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invoke the handler method with the given argument values." />
+      <item value="search confirm" />
+      <item value="first" />
+      <item value="bill Confirm And Generate Inland Sales Report" />
+      <item value="生成" />
+      <item value="bill Confirm And Grenertor" />
+      <item value="账单确认并生成销售报告" />
       <item value="For more details see &lt;code&gt;PropertyUtilsBean&lt;/code&gt;.&lt;/p&gt;" />
       <item value="&lt;p&gt;Copy property values from the &quot;origin&quot; bean to the &quot;destination&quot; bean * for all cases where the property names are the same (even though the * actual getter and setter methods might have been customized via * &lt;code&gt;BeanInfo&lt;/code&gt; classes).&lt;/p&gt;" />
       <item value="if the object is cloneable and the clone operation fails" />
@@ -44,13 +51,6 @@
       <item value="this web application instance has been stopped already. Could not load [org.springframework.aop.interceptor.ExposeInvocationInterceptor]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access." />
       <item value="### Error querying database. Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is com.alibaba.druid.pool.DataSourceClosedException: dataSource already closed at Tue Jun 19 15:28:46 CST 2018" />
       <item value="16:09:52.240 [ActiveMQ Session: ID:DESKTOP-I7FGET1-51741-1529377281117-1:6:1] ERROR c.y.s.m.e.m.ModifyLineConsumer - nested exception is org.apache.ibatis.exceptions.PersistenceException:" />
-      <item value="### The error may involve com.yh.ss.modules.cargo.dao.CargoInfoModifyDao.get ### The error occurred while executing a query ### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is" />
-      <item value="Error during generated code invocation com.intellij.debugger.engine.evaluation.EvaluateException: Type mismatch Can't assign com.yh.ss.modules.cargo.web.CargoInfoModifyController$$M$_jr_135CC325F026874C_5 to com.yh.ss.modules.cargo.web.CargoInfoModifyController" />
-      <item value="collect" />
-      <item value="Collectors" />
-      <item value="o.a.a.t.f.FailoverTransport - Transport (tcp://117.78.46.235:61616) failed , attempting to automatically reconnect: {}" />
-      <item value="[HY000][1267] Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8_hungarian_ci,IMPLICIT) for operation '='" />
-      <item value="plane Type" />
     </histories>
   </component>
   <component name="Settings">
