@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="For more details see &lt;code&gt;PropertyUtilsBean&lt;/code&gt;.&lt;/p&gt;" />
+      <item value="&lt;p&gt;Copy property values from the &quot;origin&quot; bean to the &quot;destination&quot; bean * for all cases where the property names are the same (even though the * actual getter and setter methods might have been customized via * &lt;code&gt;BeanInfo&lt;/code&gt; classes).&lt;/p&gt;" />
+      <item value="if the object is cloneable and the clone operation fails" />
+      <item value="fails" />
+      <item value="the clone if the object implements {@link Cloneable} otherwise {@code null}" />
+      <item value="obj the object to clone, null returns null" />
+      <item value="the type of the object" />
+      <item value="Clone an object" />
+      <item value="clone If Possible" />
+      <item value="policy Id" />
       <item value="bytotalweight" />
       <item value="get Bill Pi" />
       <item value="connection holder is null ; uncategorized SQLException for SQL []; SQL state [null]; error code [0]; connection holder is null" />
@@ -41,16 +51,6 @@
       <item value="o.a.a.t.f.FailoverTransport - Transport (tcp://117.78.46.235:61616) failed , attempting to automatically reconnect: {}" />
       <item value="[HY000][1267] Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8_hungarian_ci,IMPLICIT) for operation '='" />
       <item value="plane Type" />
-      <item value="get Cost Weight" />
-      <item value="get Unique Match Data" />
-      <item value="cbyc Trans Price Service" />
-      <item value="Trans" />
-      <item value="Trans Price" />
-      <item value="cbyc Trans Price" />
-      <item value="calculate" />
-      <item value="serial Version UID" />
-      <item value="847312526268490482 L" />
-      <item value="gzyh" />
     </histories>
   </component>
   <component name="Settings">
