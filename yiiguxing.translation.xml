@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Calls the function, substituting the specified object for the this value of the function, and the specified array for the arguments of the function. * @param thisArg The object to be used as the this object. * @param argArray A set of arguments to be passed to the function." />
       <item value="form Util" />
       <item value="forms" />
       <item value="form" />
@@ -50,7 +51,6 @@
       <item value="strip To Null" />
       <item value="&lt;p&gt;Removes control characters (char &amp;lt;= 32) from both * ends of this String returning {@code null} if the String is * empty (&quot;&quot;) after the trim or if it is {@code null}." />
       <item value="accumulate Totalfee" />
-      <item value="The last packet successfully received from the server was 30,762 milliseconds ago. The last packet sent successfully to the server was 19,003 milliseconds ago." />
     </histories>
   </component>
   <component name="Settings">
