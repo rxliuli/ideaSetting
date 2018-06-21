@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="forward" />
+      <item value="goback" />
       <item value="get Openchargedate" />
       <item value="get Total Amount" />
       <item value="start Station" />
@@ -49,8 +51,6 @@
       <item value="Invoke the handler method with the given argument values." />
       <item value="search confirm" />
       <item value="first" />
-      <item value="生成" />
-      <item value="bill Confirm And Grenertor" />
     </histories>
   </component>
   <component name="Settings">
