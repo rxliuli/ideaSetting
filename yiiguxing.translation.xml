@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="totla Fee" />
       <item value="order Id" />
       <item value="old Complete" />
       <item value="forward" />
@@ -50,7 +51,6 @@
       <item value="empty To Zero" />
       <item value="from" />
       <item value="data" />
-      <item value="Invoke the handler method with the given argument values." />
     </histories>
   </component>
   <component name="Settings">
