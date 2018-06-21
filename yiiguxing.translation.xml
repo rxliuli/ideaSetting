@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="18:54:37.370 [main] ERROR o.s.t.c.TestContextManager - Caught exception while allowing TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener@15bfd87] to prepare test instance [com.yh.ss.modules.settle.inland.web.SiSaleReportControllerTest@55a1c291]" />
+      <item value="Caught exception while allowing TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener@57f23557] to prepare test instance [com.yh.ss.modules.settle.inland.web.SiSaleReportControllerTest@2890c451" />
+      <item value="- Caught exception while allowing TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener@7f416310] to prepare test instance [com.yh.ss.modules.settle.inland.web.SiSaleReportControllerTest@12d3a4e9]" />
+      <item value="As of Spring Framework 4.2, use {@code @Rollback} or * {@code @Commit} at the class level and the {@code transactionManager} * qualifier in {@code @Transactional}." />
+      <item value="{@code TransactionConfiguration} defines class-level metadata for configuring * transactional tests. * * &lt;p&gt;As of Spring Framework 4.0, this annotation may be used as a * &lt;em&gt;meta-annotation&lt;/em&gt; to create custom &lt;em&gt;composed annotations&lt;/em&gt;." />
+      <item value="Invocation of init method failed; nested exception is java.lang.IllegalStateException: WebApplicationObjectSupport instance [ResourceHttpRequestHandler [locations=[class path resource [static/]], resolvers=[org.springframework.web.servlet.resource.PathResourceResolver@2987d0fa]]] does not run in a WebApplicationContext but in: org.springframework.context.support.GenericApplicationContext@442675e1: startup date [Thu Jun 21 18:38:55 CST 2018]; root of context hierarchy" />
       <item value="totla Fee" />
       <item value="order Id" />
       <item value="old Complete" />
@@ -45,12 +51,6 @@
       <item value="Calls the function, substituting the specified object for the this value of the function, and the specified array for the arguments of the function. * @param thisArg The object to be used as the this object. * @param argArray A set of arguments to be passed to the function." />
       <item value="form Util" />
       <item value="forms" />
-      <item value="form" />
-      <item value="empty To Else" />
-      <item value="empty Or Else" />
-      <item value="empty To Zero" />
-      <item value="from" />
-      <item value="data" />
     </histories>
   </component>
   <component name="Settings">
