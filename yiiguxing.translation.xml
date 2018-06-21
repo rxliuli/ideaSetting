@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lobalExceptionController - Failed to instantiate [java.util.List]: Specified class is an interface" />
+      <item value="ERROR c.y.s.b.w.GlobalExceptionController - Failed to instantiate [java.util.List]: Specified class is an interface" />
       <item value="billing" />
       <item value="insert Batch" />
       <item value="Calls the function, substituting the specified object for the this value of the function, and the specified array for the arguments of the function. * @param thisArg The object to be used as the this object. * @param argArray A set of arguments to be passed to the function." />
@@ -49,8 +51,6 @@
       <item value="Could not load [java.lang.Object]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access" />
       <item value="* &lt;p&gt;Removes control characters (char &amp;lt;= 32) from both * ends of this String returning {@code null} if the String is * empty (&quot;&quot;) after the trim or if it is {@code null}." />
       <item value="&gt;Removes control characters (char &amp;lt;= 32) from both * ends of this String returning {@code null} if the String is * empty (&quot;&quot;) after the trim or if it is {@code null}." />
-      <item value="Strips whitespace from the start and end of a String returning" />
-      <item value="strip To Null" />
     </histories>
   </component>
   <component name="Settings">
