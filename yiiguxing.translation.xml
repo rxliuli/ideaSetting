@@ -1,6 +1,26 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unsatisfied dependency expressed through field 'userService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userServiceImpl': Unsatisfied dependency expressed through field 'baseMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.rxliuli.mytimeline.dao.module.user.UserDao' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
+      <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.rxliuli.mytimeline.dao.module.user.UserDao.listByAll" />
+      <item value="head portrait" />
+      <item value="sex Woman" />
+      <item value="sex Woan" />
+      <item value="女" />
+      <item value="sex Wu Man" />
+      <item value="sex Wo Man" />
+      <item value="sex Man" />
+      <item value="Error querying database. Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'head_portrait' in 'field list'" />
+      <item value="Unsatisfied dependency expressed through field 'controller'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'java.lang.Object' available: expected single matching bean but found 3: commonController,userController,indexController" />
+      <item value="Final Memory: 46M/290M" />
+      <item value="Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.18.1:test (default-test) on project gui: There are test failures." />
+      <item value="Failed to execute goal on project gui: Could not resolve dependencies for project com.rxliuli:gui:jar:0.0.1-SNAPSHOT: Could not find artifact com.rxliuli:service:jar:0.0.1-SNAPSHOT -&gt; [Help 1]" />
+      <item value="Unknown column 'head_portrait' in 'field list'" />
+      <item value="expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
+      <item value="java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test" />
+      <item value="Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.rxliuli.mytimeline.dao.user.UserDao' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
+      <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'com.rxliuli.mytimeline.dao.user.UserDaoTest': Unsatisfied dependency expressed through field 'userDao'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.rxliuli.mytimeline.dao.user.UserDao' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
+      <item value="you need to use @ContextConfiguration or" />
       <item value="lobalExceptionController - Failed to instantiate [java.util.List]: Specified class is an interface" />
       <item value="ERROR c.y.s.b.w.GlobalExceptionController - Failed to instantiate [java.util.List]: Specified class is an interface" />
       <item value="billing" />
@@ -31,26 +51,6 @@
       <item value="Clone an object" />
       <item value="clone If Possible" />
       <item value="policy Id" />
-      <item value="bytotalweight" />
-      <item value="get Bill Pi" />
-      <item value="connection holder is null ; uncategorized SQLException for SQL []; SQL state [null]; error code [0]; connection holder is null" />
-      <item value="si Sale Promo Billing Dao" />
-      <item value="A PropertyDescriptor describes one property that a Java Bean * exports via a pair of accessor methods." />
-      <item value="get Property Descriptors" />
-      <item value="Copy the property values of the given source bean into the target bean. * &lt;p&gt;Note: The source and target classes do not have to match or even be derived * from each other, as long as the properties match. Any bean properties that the * source bean exposes but the target bean does not will silently be ignored. * &lt;p&gt;This is just a convenience method. For more complex transfer needs, * consider using a full BeanWrapper." />
-      <item value="* Static convenience methods for JavaBeans: for instantiating beans, * checking bean property types, copying bean properties, etc. * * &lt;p&gt;Mainly for use within the framework, but to some degree also * useful for application classes." />
-      <item value="Static convenience methods for JavaBeans: for instantiating beans, * checking bean property types, copying bean properties, etc. * * &lt;p&gt;Mainly for use within the framework, but to some degree also * useful for application classes." />
-      <item value="account Period" />
-      <item value="prompt" />
-      <item value="inter Back Fee Data Table" />
-      <item value="Copy the property values of the given source bean into the given target bean. * &lt;p&gt;Note: The source and target classes do not have to match or even be derived * from each other, as long as the properties match. Any bean properties that the * source bean exposes but the target bean does not will silently be ignored." />
-      <item value="source the source bean" />
-      <item value="consider using a full BeanWrapper." />
-      <item value="Copy the property values of the given source bean into the target bean. * &lt;p&gt;Note: The source and target classes do not have to match or even be derived * from each other, as long as the properties match. Any bean properties that the * source bean exposes but the target bean does not will silently be ignored. * &lt;p&gt;This is just a convenience method. For more complex transfer needs," />
-      <item value="get Applyprice" />
-      <item value="Could not load [java.lang.Object]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access" />
-      <item value="* &lt;p&gt;Removes control characters (char &amp;lt;= 32) from both * ends of this String returning {@code null} if the String is * empty (&quot;&quot;) after the trim or if it is {@code null}." />
-      <item value="&gt;Removes control characters (char &amp;lt;= 32) from both * ends of this String returning {@code null} if the String is * empty (&quot;&quot;) after the trim or if it is {@code null}." />
     </histories>
   </component>
   <component name="Settings">
