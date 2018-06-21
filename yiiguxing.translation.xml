@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="start Station" />
       <item value="set Amount" />
       <item value="just for query" />
       <item value="Init Binder" />
@@ -50,7 +51,6 @@
       <item value="bill Confirm And Grenertor" />
       <item value="账单确认并生成销售报告" />
       <item value="For more details see &lt;code&gt;PropertyUtilsBean&lt;/code&gt;.&lt;/p&gt;" />
-      <item value="&lt;p&gt;Copy property values from the &quot;origin&quot; bean to the &quot;destination&quot; bean * for all cases where the property names are the same (even though the * actual getter and setter methods might have been customized via * &lt;code&gt;BeanInfo&lt;/code&gt; classes).&lt;/p&gt;" />
     </histories>
   </component>
   <component name="Settings">
