@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Openchargedate" />
+      <item value="get Total Amount" />
       <item value="start Station" />
       <item value="set Amount" />
       <item value="just for query" />
@@ -49,8 +51,6 @@
       <item value="first" />
       <item value="生成" />
       <item value="bill Confirm And Grenertor" />
-      <item value="账单确认并生成销售报告" />
-      <item value="For more details see &lt;code&gt;PropertyUtilsBean&lt;/code&gt;.&lt;/p&gt;" />
     </histories>
   </component>
   <component name="Settings">
