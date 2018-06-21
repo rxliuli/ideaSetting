@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="before Method Param" />
+      <item value="before Method Data" />
+      <item value="before" />
+      <item value="billconfirm Or Generate" />
+      <item value="bill Confirm And Generate Inland Sales Report" />
       <item value="let" />
       <item value="Unsatisfied dependency expressed through field 'userService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userServiceImpl': Unsatisfied dependency expressed through field 'baseMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.rxliuli.mytimeline.dao.module.user.UserDao' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
       <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.rxliuli.mytimeline.dao.module.user.UserDao.listByAll" />
@@ -38,7 +43,6 @@
       <item value="Invoke the handler method with the given argument values." />
       <item value="search confirm" />
       <item value="first" />
-      <item value="bill Confirm And Generate Inland Sales Report" />
       <item value="生成" />
       <item value="bill Confirm And Grenertor" />
       <item value="账单确认并生成销售报告" />
@@ -47,10 +51,6 @@
       <item value="if the object is cloneable and the clone operation fails" />
       <item value="fails" />
       <item value="the clone if the object implements {@link Cloneable} otherwise {@code null}" />
-      <item value="obj the object to clone, null returns null" />
-      <item value="the type of the object" />
-      <item value="Clone an object" />
-      <item value="clone If Possible" />
     </histories>
   </component>
   <component name="Settings">
