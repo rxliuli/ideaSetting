@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The annotated element must be {@code null}. * Accepts any type." />
+      <item value="sex Woman" />
       <item value="org.springframework.jdbc.BadSqlGrammarException: ### Error querying database. Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'head_portrait' in 'field list' ### The error may exist in com/rxliuli/mytimeline/module/user/dao/UserMapper.java (best guess) ### The error may involve defaultParameterMap ### The error occurred while setting parameters ### SQL: SELECT id,username,email,nickname,head_portrait AS headPortrait,sex,introduce FROM user ### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'head_portrait' in 'field list' ; bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'head_portrait' in 'field list' at org.springframework.jdbc.support.SQLErrorCodeSQLExceptionTranslator.doTranslate" />
       <item value="Error querying database. Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'head_portrait' in 'field list'" />
       <item value="com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'head_portrait' in 'field list'" />
@@ -49,8 +51,6 @@
       <item value="[ERROR] Failed to execute goal on project domain: Could not resolve dependencies for project com.rxliuli:domain:jar:0.0.1-SNAPSHOT: Failed to collect dependencies at com.rxliuli:common:jar:0.0.1-SNAPSHOT: Failed to read artifact descriptor for com.rxliuli:common:jar:0.0.1-SNAPSHOT: Could not find artifact com.rxliuli:mytimeline:pom:0.0.1-SNAPSHOT -&gt; [Help 1]" />
       <item value="The requested profile &quot;alwaysActiveProfile&quot; could not be activated because it does not exist." />
       <item value="[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch. [ERROR] Re-run Maven using the -X switch to enable full debug logging." />
-      <item value="The requested profile &quot;alwaysActiveProfile&quot; could not be activated because it does not exist. [WARNING] The requested profile &quot;anotherAlwaysActiveProfile&quot; could not be activated because it does not exist. [ERROR] Failed to execute goal on project gui: Could not resolve dependencies for project com.rxliuli:gui:jar:0.0.1-SNAPSHOT: Could not find artifact com.rxliuli:service:jar:0.0.1-SNAPSHOT -&gt; [Help 1]" />
-      <item value="repackage" />
     </histories>
   </component>
 </application>
