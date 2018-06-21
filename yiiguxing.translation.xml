@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="order Id" />
+      <item value="old Complete" />
       <item value="forward" />
       <item value="goback" />
       <item value="get Openchargedate" />
@@ -49,8 +51,6 @@
       <item value="from" />
       <item value="data" />
       <item value="Invoke the handler method with the given argument values." />
-      <item value="search confirm" />
-      <item value="first" />
     </histories>
   </component>
   <component name="Settings">
