@@ -1,38 +1,8 @@
 <templateSet group="user">
-  <template name="autowired" value="@Autowired&#10;private $END$" description="" toReformat="false" toShortenFQNames="true">
+  <template name="autowired" value="@Autowired&#10;private $className$ $END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
-    </context>
-  </template>
-  <template name="webapp" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;web-app xmlns=&quot;http://xmlns.jcp.org/xml/ns/javaee&quot;&#10;         xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&#10;         xsi:schemaLocation=&quot;http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd&quot;&#10;         version=&quot;3.1&quot;&gt;&#10;         $END$&#10;&lt;/web-app&gt;" description="" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="XML_TEXT" value="true" />
-    </context>
-  </template>
-  <template name="loggerPSF" value="private static final Logger LOGGER = LoggerFactory.getLogger($className$.class);&#10;" description="private static slf4j logger instance" toReformat="false" toShortenFQNames="true">
-    <variable name="className" expression="className()" defaultValue="" alwaysStopAt="false" />
-    <context>
-      <option name="JAVA_DECLARATION" value="true" />
-    </context>
-  </template>
-  <template name="loggerPF" value="private final Logger logger = LoggerFactory.getLogger(getClass());&#10;" description="private static slf4j logger instance" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_DECLARATION" value="true" />
-    </context>
-  </template>
-  <template name="loggerError" value="$loggerInstance$.error(&quot;$errorMessage$&quot;, e);" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="loggerInstance" expression="" defaultValue="&quot;logger&quot;" alwaysStopAt="true" />
-    <variable name="errorMessage" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_CODE" value="true" />
-    </context>
-  </template>
-  <template name="input" value="&lt;div&gt;&#10;    &lt;label for=&quot;$field$&quot;&gt;$label$&lt;/label&gt;&#10;    &lt;input type=&quot;$type$&quot; name=&quot;$field$&quot; id=&quot;$field$&quot;/&gt;&#10;&lt;/div&gt;&#10;$END$" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="field" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="label" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="type" expression="" defaultValue="text" alwaysStopAt="true" />
-    <context>
-      <option name="HTML_TEXT" value="true" />
     </context>
   </template>
 </templateSet>

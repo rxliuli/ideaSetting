@@ -5,38 +5,19 @@
   </action>
   <action id="$ShowTranslationDialogAction" />
   <action id="$TranslateAndReplaceAction" />
-  <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="ctrl comma" />
-  </action>
-  <action id="ECTranslation">
-    <keyboard-shortcut first-keystroke="shift ctrl q" />
-  </action>
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
-  <action id="GotoImplementation">
-    <mouse-shortcut keystroke="control alt button1" />
-    <keyboard-shortcut first-keystroke="shift ctrl b" />
-  </action>
-  <action id="GotoTypeDeclaration">
-    <mouse-shortcut keystroke="shift control button1" />
-    <keyboard-shortcut first-keystroke="ctrl alt b" />
-  </action>
-  <action id="Gsonformat">
-    <keyboard-shortcut first-keystroke="alt g" />
-  </action>
-  <action id="IgnoreChoicesGroup">
-    <keyboard-shortcut first-keystroke="shift ctrl g" />
-  </action>
-  <action id="OpenFile">
-    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
-  </action>
-  <action id="RecentProjectListGroup">
-    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  <action id="MavenRunHelperDebugCleanInstall-dMaven.test.skip=true">
+    <keyboard-shortcut first-keystroke="alt m" second-keystroke="alt i" />
   </action>
   <action id="RevealIn">
-    <keyboard-shortcut first-keystroke="shift ctrl s" />
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt e" />
   </action>
-  <action id="action.DialogTranslateAction" />
-  <action id="action.impl.Translator" />
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt h" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
+    <keyboard-shortcut first-keystroke="shift alt m" />
+  </action>
 </keymap>
