@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="log" />
+      <item value="logger" />
       <item value="Tablespace '`mytimelinedb`.`user`' exists." />
       <item value="'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release." />
       <item value="The annotated element must be {@code null}. * Accepts any type." />
@@ -49,8 +51,6 @@
       <item value="Please check your configuration." />
       <item value="[com/alibaba/druid/spring/boot/autoconfigure/DruidDataSourceAutoConfigure.class]: Invocation of init method failed; nested exception is org.springframework.boot.autoconfigure.jdbc" />
       <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource" />
-      <item value="Failed to load ApplicationContext" />
-      <item value="[ERROR] Failed to execute goal on project domain: Could not resolve dependencies for project com.rxliuli:domain:jar:0.0.1-SNAPSHOT: Failed to collect dependencies at com.rxliuli:common:jar:0.0.1-SNAPSHOT: Failed to read artifact descriptor for com.rxliuli:common:jar:0.0.1-SNAPSHOT: Could not find artifact com.rxliuli:mytimeline:pom:0.0.1-SNAPSHOT -&gt; [Help 1]" />
     </histories>
   </component>
 </application>
