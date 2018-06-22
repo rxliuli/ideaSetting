@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Active MQ" />
       <item value="cabin" />
       <item value="Si Sale Promo" />
       <item value="cabin Bill Confirm" />
@@ -50,7 +51,6 @@
       <item value="expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
       <item value="java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test" />
       <item value="Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.rxliuli.mytimeline.dao.user.UserDao' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
-      <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'com.rxliuli.mytimeline.dao.user.UserDaoTest': Unsatisfied dependency expressed through field 'userDao'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.rxliuli.mytimeline.dao.user.UserDao' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
     </histories>
   </component>
   <component name="Settings">
