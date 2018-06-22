@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="flight Month" />
+      <item value="flight Number" />
       <item value="page Base Air Flight List" />
       <item value="set Settle Weight" />
       <item value="DEBUG o.a.a.t.AbstractInactivityMonitor - WriteChecker: 10000ms elapsed since last write check." />
@@ -49,8 +51,6 @@
       <item value="get Openchargedate" />
       <item value="get Total Amount" />
       <item value="start Station" />
-      <item value="set Amount" />
-      <item value="just for query" />
     </histories>
   </component>
   <component name="Settings">
