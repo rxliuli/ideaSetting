@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Settle Weight" />
       <item value="DEBUG o.a.a.t.AbstractInactivityMonitor - WriteChecker: 10000ms elapsed since last write check." />
       <item value="Text Message" />
       <item value="count" />
@@ -50,7 +51,6 @@
       <item value="set Amount" />
       <item value="just for query" />
       <item value="Init Binder" />
-      <item value="before Method Param" />
     </histories>
   </component>
   <component name="Settings">
