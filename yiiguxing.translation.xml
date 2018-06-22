@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.rxliuli.mytimeline.module.user.service.UserService.selectList" />
+      <item value="Invalid bound statement (not found): com.rxliuli.mytimeline.module.user.service.UserService.listForAll" />
+      <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'com.rxliuli.mytimeline.module.user.service.UserServiceTest': Unsatisfied dependency expressed through field 'base'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'java.lang.Object' available: expected single matching bean but found 2: userServiceImpl,userService" />
+      <item value="Unsatisfied dependency expressed through field 'base'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'java.lang.Object' available: expected single matching bean but found 2: userServiceImpl,userService" />
       <item value="get Si Sale Promo Billing List" />
       <item value="cabin Bill Confirm" />
       <item value="18:54:37.370 [main] ERROR o.s.t.c.TestContextManager - Caught exception while allowing TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener@15bfd87] to prepare test instance [com.yh.ss.modules.settle.inland.web.SiSaleReportControllerTest@55a1c291]" />
@@ -47,10 +51,6 @@
       <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'com.rxliuli.mytimeline.dao.user.UserDaoTest': Unsatisfied dependency expressed through field 'userDao'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.rxliuli.mytimeline.dao.user.UserDao' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
       <item value="you need to use @ContextConfiguration or" />
       <item value="lobalExceptionController - Failed to instantiate [java.util.List]: Specified class is an interface" />
-      <item value="ERROR c.y.s.b.w.GlobalExceptionController - Failed to instantiate [java.util.List]: Specified class is an interface" />
-      <item value="billing" />
-      <item value="insert Batch" />
-      <item value="Calls the function, substituting the specified object for the this value of the function, and the specified array for the arguments of the function. * @param thisArg The object to be used as the this object. * @param argArray A set of arguments to be passed to the function." />
     </histories>
   </component>
   <component name="Settings">
