@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.rxliuli.mytimeline.mapper.user.UserMapper.findByUsernameOrEmail" />
       <item value="log" />
       <item value="logger" />
       <item value="Tablespace '`mytimelinedb`.`user`' exists." />
@@ -50,7 +51,6 @@
       <item value="No MyBatis mapper was found in '[com.rxliuli.mytimeline.gui]' package." />
       <item value="Please check your configuration." />
       <item value="[com/alibaba/druid/spring/boot/autoconfigure/DruidDataSourceAutoConfigure.class]: Invocation of init method failed; nested exception is org.springframework.boot.autoconfigure.jdbc" />
-      <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource" />
     </histories>
   </component>
 </application>
