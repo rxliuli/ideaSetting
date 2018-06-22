@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="java.lang.AssertionError: Expected test to throw an instance of org.springframework.beans.factory.NoSuchBeanDefinitionException" />
+      <item value="org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.rxliuli.mytimeline.domain.entity.user.User' available" />
+      <item value="动态" />
       <item value="org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'user' available" />
       <item value="Create a new {@code BeanDefinitionBuilder} used to construct a {@link GenericBeanDefinition}. * @param beanClassName the class name for the bean that the definition is being created for" />
       <item value="Create a new {@code BeanDefinitionBuilder} used to construct a {@link GenericBeanDefinition}. * @param beanClass the {@code Class} of the bean that the definition is being created for" />
@@ -48,9 +51,6 @@
       <item value="REDIRECTION" />
       <item value="java.lang.AssertionError: Range for response status value 404" />
       <item value="CLIENT ERROR" />
-      <item value="Model attribute 'page' does not exist" />
-      <item value="index" />
-      <item value="redirect" />
     </histories>
   </component>
 </application>
