@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Planetype" />
       <item value="flight Month" />
       <item value="flight Number" />
       <item value="page Base Air Flight List" />
@@ -50,7 +51,6 @@
       <item value="goback" />
       <item value="get Openchargedate" />
       <item value="get Total Amount" />
-      <item value="start Station" />
     </histories>
   </component>
   <component name="Settings">
