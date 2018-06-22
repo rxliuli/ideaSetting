@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DEBUG o.a.a.t.AbstractInactivityMonitor - WriteChecker: 10000ms elapsed since last write check." />
+      <item value="Text Message" />
       <item value="count" />
       <item value="offset" />
       <item value="original" />
@@ -49,8 +51,6 @@
       <item value="just for query" />
       <item value="Init Binder" />
       <item value="before Method Param" />
-      <item value="before Method Data" />
-      <item value="before" />
     </histories>
   </component>
   <component name="Settings">
