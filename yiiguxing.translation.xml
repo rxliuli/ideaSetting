@@ -1,6 +1,27 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="count" />
+      <item value="offset" />
+      <item value="original" />
+      <item value="object" />
+      <item value="created" />
+      <item value="newly" />
+      <item value="Initializes a newly created" />
+      <item value="/** * Initializes a newly created {@code String} object so that it represents * the same sequence of characters as the argument; in other words, the * newly created string is a copy of the argument string. Unless an * explicit copy of {@code original} is needed, use of this constructor is * unnecessary since Strings are immutable. * * @param original * A {@code String} */" />
+      <item value="/** * Initializes a newly created {@code String} object so that it represents * an empty character sequence. Note that use of this constructor is * unnecessary since Strings are immutable. */ public String() { this.value = &quot;&quot;.value; }" />
+      <item value="Initializes a newly created {@code String} object so that it represents * an empty character sequence. Note that use of this constructor is * unnecessary since Strings are immutable." />
+      <item value="use serialVersionUID from JDK 1.0.2 for interoperability" />
+      <item value="Cache the hash code for the string" />
+      <item value="The value is used for character storage" />
+      <item value="The value is used for character storage." />
+      <item value="Lee Boynton * @author Arthur van Hoff * @author Martin Buchholz * @author Ulf Zibis" />
+      <item value="if this {@code String} represents the same * sequence of char values as the specified sequence, {@code * false} otherwise" />
+      <item value="The sequence to compare this {@code String} against" />
+      <item value="Compares this string to the specified {@code CharSequence}. The * result is {@code true} if and only if this {@code String} represents the * same sequence of char values as the specified sequence. Note that if the * {@code CharSequence} is a {@code StringBuffer} then the method * synchronizes on it." />
+      <item value="Compares this string to the specified {@code StringBuffer}. The result * is {@code true} if and only if this {@code String} represents the same * sequence of characters as the specified {@code StringBuffer}. This method * synchronizes on the {@code StringBuffer}." />
+      <item value="cal BDYS Price Via CD" />
+      <item value="plane Type" />
       <item value="Active MQ" />
       <item value="cabin" />
       <item value="Si Sale Promo" />
@@ -30,27 +51,6 @@
       <item value="before Method Param" />
       <item value="before Method Data" />
       <item value="before" />
-      <item value="billconfirm Or Generate" />
-      <item value="bill Confirm And Generate Inland Sales Report" />
-      <item value="let" />
-      <item value="Unsatisfied dependency expressed through field 'userService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userServiceImpl': Unsatisfied dependency expressed through field 'baseMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.rxliuli.mytimeline.dao.module.user.UserDao' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
-      <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.rxliuli.mytimeline.dao.module.user.UserDao.listByAll" />
-      <item value="head portrait" />
-      <item value="sex Woman" />
-      <item value="sex Woan" />
-      <item value="女" />
-      <item value="sex Wu Man" />
-      <item value="sex Wo Man" />
-      <item value="sex Man" />
-      <item value="Error querying database. Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'head_portrait' in 'field list'" />
-      <item value="Unsatisfied dependency expressed through field 'controller'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'java.lang.Object' available: expected single matching bean but found 3: commonController,userController,indexController" />
-      <item value="Final Memory: 46M/290M" />
-      <item value="Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.18.1:test (default-test) on project gui: There are test failures." />
-      <item value="Failed to execute goal on project gui: Could not resolve dependencies for project com.rxliuli:gui:jar:0.0.1-SNAPSHOT: Could not find artifact com.rxliuli:service:jar:0.0.1-SNAPSHOT -&gt; [Help 1]" />
-      <item value="Unknown column 'head_portrait' in 'field list'" />
-      <item value="expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
-      <item value="java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test" />
-      <item value="Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.rxliuli.mytimeline.dao.user.UserDao' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
     </histories>
   </component>
   <component name="Settings">
