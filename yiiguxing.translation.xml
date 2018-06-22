@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'user' available" />
+      <item value="Create a new {@code BeanDefinitionBuilder} used to construct a {@link GenericBeanDefinition}. * @param beanClassName the class name for the bean that the definition is being created for" />
+      <item value="Create a new {@code BeanDefinitionBuilder} used to construct a {@link GenericBeanDefinition}. * @param beanClass the {@code Class} of the bean that the definition is being created for" />
+      <item value="Create a new {@code BeanDefinitionBuilder} used to construct a {@link GenericBeanDefinition" />
+      <item value="set Parent Name" />
+      <item value="Destroy" />
+      <item value="set Destroy Method Na" />
+      <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'user': Cannot resolve reference to bean 'admin' while setting bean property 'username'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'admin' available" />
+      <item value="Cons" />
       <item value="java.lang.IllegalStateException: No thread-bound request found: Are you referring to request attributes outside of an actual web request, or processing a request outside of the originally receiving thread? If you are actually operating within a web request and still receive this message, your code is probably running outside of DispatcherServlet/DispatcherPortlet: In this case, use RequestContextListener or RequestContextFilter to expose the current request." />
       <item value="Global Constants" />
       <item value="非法" />
@@ -42,15 +51,6 @@
       <item value="Model attribute 'page' does not exist" />
       <item value="index" />
       <item value="redirect" />
-      <item value="org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'java.lang.Object' available: more than one 'primary' bean found among candidates: [org.springframework.boot.test.mock.mockito.MockitoPostProcessor$SpyPostProcessor, org.springframework.boot.test.mock.mockito.MockitoPostProcessor, org.springframework.context.annotation" />
-      <item value="Base Web Integrated Test" />
-      <item value="集成" />
-      <item value="Base Web Unit Test" />
-      <item value="单元" />
-      <item value="PLAIN" />
-      <item value="TEXT PLAIN" />
-      <item value="test timed out after 3 seconds" />
-      <item value="302" />
     </histories>
   </component>
 </application>
