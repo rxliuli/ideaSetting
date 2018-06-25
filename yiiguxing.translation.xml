@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get UTC Full Year" />
       <item value="date Unit" />
       <item value="date Uion" />
       <item value="单位" />
@@ -50,7 +51,6 @@
       <item value="conflicts with existing, non-compatible bean definition of same name and class [com.rxliuli.mytimeline.gui.web.CommonController]" />
       <item value="TINYINT" />
       <item value="at com.rxliuli.example.springbootexample.web.UserLoginController$$FastClassBySpringCGLIB$$f9c241ad.invoke(&lt;generated&gt;)" />
-      <item value="Invalid bound statement (not found): com.rxliuli.example.springbootexample.mapper.UserLoginMapper.findByUsername" />
     </histories>
   </component>
 </application>
