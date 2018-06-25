@@ -2,6 +2,7 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="24" />
     <option name="FONT_FAMILY" value="CamingoCode" />
+    <option name="SECONDARY_FONT_FAMILY" value="Lucida Sans Typewriter" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE:PREVIEW" />

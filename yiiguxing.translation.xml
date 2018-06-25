@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="RX Liuli" />
       <item value="The {@code Vector} class implements a growable array of * objects. Like an array, it contains components that can be * accessed using an integer index. However, the size of a * {@code Vector} can grow or shrink as needed to accommodate * adding and removing items after the {@code Vector} has been created." />
       <item value="set Account Period" />
       <item value="screen Data" />
@@ -50,7 +51,6 @@
       <item value="totla Fee" />
       <item value="order Id" />
       <item value="old Complete" />
-      <item value="forward" />
     </histories>
   </component>
   <component name="Settings">
