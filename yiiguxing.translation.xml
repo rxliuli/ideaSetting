@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'javax.servlet.http.HttpSession' available" />
       <item value="Return the factory bean name, if any." />
       <item value="bean Definition" />
       <item value="查看" />
@@ -50,7 +51,6 @@
       <item value="404" />
       <item value="org.springframework.context.ApplicationContextException: Cannot reinitialize with different application context: current one is [org.springframework.test.web.servlet.setup.StubWebApplicationContext@cb64203], passed-in one is [org.springframework.test.web.servlet.setup.StubWebApplicationContext@1f2b7a3a]" />
       <item value="javax.servlet.ServletException: Circular view path [index]: would dispatch back to the current handler URL [/index] again. Check your ViewResolver setup! (Hint: This may be the result of an unspecified view, due to default view name generation.)" />
-      <item value="javax.servlet.ServletException: Circular view path [index]: would dispatch back to the current handler URL [/index] again. Check your ViewResolver setup! (Hint: This may be the result of an unspecified view, due to default view name generation.) at org.springframework.web.servlet.view.InternalResourceView.prepareForRendering(InternalResourceView.java:205) at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:145) at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:303) at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1286)" />
     </histories>
   </component>
 </application>
