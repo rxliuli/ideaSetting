@@ -10,5 +10,6 @@
         <entry key="com.zeroturnaround.jrebel.update.UpdateNotificationCount" value="1" />
       </map>
     </option>
+    <option name="settingsStartupRadioSelection" value="2" />
   </component>
 </application>
