@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="freight List" />
+      <item value="format Goods Type" />
+      <item value="add Freight Tr" />
       <item value="is Illegal Intertran" />
       <item value="is Illegal Inter Trans" />
       <item value="is Illegal Intertrans" />
@@ -48,9 +51,6 @@
       <item value="The sequence to compare this {@code String} against" />
       <item value="Compares this string to the specified {@code CharSequence}. The * result is {@code true} if and only if this {@code String} represents the * same sequence of char values as the specified sequence. Note that if the * {@code CharSequence} is a {@code StringBuffer} then the method * synchronizes on it." />
       <item value="Compares this string to the specified {@code StringBuffer}. The result * is {@code true} if and only if this {@code String} represents the same * sequence of characters as the specified {@code StringBuffer}. This method * synchronizes on the {@code StringBuffer}." />
-      <item value="cal BDYS Price Via CD" />
-      <item value="Active MQ" />
-      <item value="cabin" />
     </histories>
   </component>
   <component name="Settings">
