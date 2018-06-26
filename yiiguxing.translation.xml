@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="formatter" />
       <item value="Declared" />
       <item value="Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure" />
       <item value="The last packet successfully received from the server was 299,433 milliseconds ago. The last packet sent successfully to the server was 19,205 milliseconds ago." />
@@ -50,7 +51,6 @@
       <item value="18:54:37.370 [main] ERROR o.s.t.c.TestContextManager - Caught exception while allowing TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener@15bfd87] to prepare test instance [com.yh.ss.modules.settle.inland.web.SiSaleReportControllerTest@55a1c291]" />
       <item value="Caught exception while allowing TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener@57f23557] to prepare test instance [com.yh.ss.modules.settle.inland.web.SiSaleReportControllerTest@2890c451" />
       <item value="- Caught exception while allowing TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener@7f416310] to prepare test instance [com.yh.ss.modules.settle.inland.web.SiSaleReportControllerTest@12d3a4e9]" />
-      <item value="As of Spring Framework 4.2, use {@code @Rollback} or * {@code @Commit} at the class level and the {@code transactionManager} * qualifier in {@code @Transactional}." />
     </histories>
   </component>
   <component name="Settings">
