@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Illegal Intertran" />
+      <item value="is Illegal Inter Trans" />
+      <item value="is Illegal Intertrans" />
+      <item value="非法" />
+      <item value="合法" />
+      <item value="is 合法" />
       <item value="not Station" />
       <item value="is Station" />
       <item value="flight" />
@@ -45,20 +51,9 @@
       <item value="cal BDYS Price Via CD" />
       <item value="Active MQ" />
       <item value="cabin" />
-      <item value="Si Sale Promo" />
-      <item value="cabin Bill Confirm" />
-      <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.rxliuli.mytimeline.module.user.service.UserService.selectList" />
-      <item value="Invalid bound statement (not found): com.rxliuli.mytimeline.module.user.service.UserService.listForAll" />
-      <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'com.rxliuli.mytimeline.module.user.service.UserServiceTest': Unsatisfied dependency expressed through field 'base'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'java.lang.Object' available: expected single matching bean but found 2: userServiceImpl,userService" />
-      <item value="Unsatisfied dependency expressed through field 'base'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'java.lang.Object' available: expected single matching bean but found 2: userServiceImpl,userService" />
     </histories>
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="5e2600b87bd0fc78" />
