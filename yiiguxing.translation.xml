@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="not Station" />
+      <item value="is Station" />
       <item value="flight" />
       <item value="plane Type" />
       <item value="base Plane Models" />
@@ -49,8 +51,6 @@
       <item value="Invalid bound statement (not found): com.rxliuli.mytimeline.module.user.service.UserService.listForAll" />
       <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'com.rxliuli.mytimeline.module.user.service.UserServiceTest': Unsatisfied dependency expressed through field 'base'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'java.lang.Object' available: expected single matching bean but found 2: userServiceImpl,userService" />
       <item value="Unsatisfied dependency expressed through field 'base'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'java.lang.Object' available: expected single matching bean but found 2: userServiceImpl,userService" />
-      <item value="get Si Sale Promo Billing List" />
-      <item value="18:54:37.370 [main] ERROR o.s.t.c.TestContextManager - Caught exception while allowing TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener@15bfd87] to prepare test instance [com.yh.ss.modules.settle.inland.web.SiSaleReportControllerTest@55a1c291]" />
     </histories>
   </component>
   <component name="Settings">
