@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="web" />
+      <item value="clear References Jdbc" />
+      <item value="Active MQ" />
+      <item value="deststation" />
+      <item value="startstation" />
       <item value="total Cost Weight" />
       <item value="black" />
       <item value="file Select" />
@@ -46,11 +51,6 @@
       <item value="flight Number" />
       <item value="page Base Air Flight List" />
       <item value="set Settle Weight" />
-      <item value="DEBUG o.a.a.t.AbstractInactivityMonitor - WriteChecker: 10000ms elapsed since last write check." />
-      <item value="Text Message" />
-      <item value="count" />
-      <item value="offset" />
-      <item value="original" />
     </histories>
   </component>
   <component name="Settings">
