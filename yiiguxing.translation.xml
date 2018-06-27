@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="horizontal" />
       <item value="org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.rxliuli.mytimeline.domain.entity.user.User' available" />
       <item value="get UTC Full Year" />
       <item value="date Unit" />
@@ -50,7 +51,6 @@
       <item value="Caused by: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.rxliuli.mytimeline.gui.Application]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'commonController' for bean class [com.rxliuli.mytimeline.common.web.CommonController] conflicts with existing, non-compatible bean definition of same name and class [com.rxliuli.mytimeline.gui.web.CommonController]" />
       <item value="conflicts with existing, non-compatible bean definition of same name and class [com.rxliuli.mytimeline.gui.web.CommonController]" />
       <item value="TINYINT" />
-      <item value="at com.rxliuli.example.springbootexample.web.UserLoginController$$FastClassBySpringCGLIB$$f9c241ad.invoke(&lt;generated&gt;)" />
     </histories>
   </component>
 </application>
