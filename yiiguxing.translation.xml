@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="protocol Time Begin" />
+      <item value="协议" />
+      <item value="protocal" />
+      <item value="protocal Time Begin" />
+      <item value="start Station" />
+      <item value="full" />
       <item value="is Ignore" />
       <item value="set Reason" />
       <item value="freight List" />
@@ -45,12 +51,6 @@
       <item value="/** * Initializes a newly created {@code String} object so that it represents * an empty character sequence. Note that use of this constructor is * unnecessary since Strings are immutable. */ public String() { this.value = &quot;&quot;.value; }" />
       <item value="Initializes a newly created {@code String} object so that it represents * an empty character sequence. Note that use of this constructor is * unnecessary since Strings are immutable." />
       <item value="use serialVersionUID from JDK 1.0.2 for interoperability" />
-      <item value="Cache the hash code for the string" />
-      <item value="The value is used for character storage" />
-      <item value="The value is used for character storage." />
-      <item value="Lee Boynton * @author Arthur van Hoff * @author Martin Buchholz * @author Ulf Zibis" />
-      <item value="if this {@code String} represents the same * sequence of char values as the specified sequence, {@code * false} otherwise" />
-      <item value="The sequence to compare this {@code String} against" />
     </histories>
   </component>
   <component name="Settings">
