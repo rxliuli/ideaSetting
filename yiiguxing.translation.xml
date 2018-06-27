@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="determine For HY" />
       <item value="'D:\Project\SettlementSystem\trunk\code\Settlement\target\classes\mappings\modules\settle\inland\SiSalePromoBillingDao.xml'; nested exception is java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [META-INF/services/javax.xml.xpath.XPathFactory]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access." />
       <item value="web" />
       <item value="clear References Jdbc" />
@@ -50,7 +51,6 @@
       <item value="get Planetype" />
       <item value="flight Month" />
       <item value="flight Number" />
-      <item value="page Base Air Flight List" />
     </histories>
   </component>
   <component name="Settings">
