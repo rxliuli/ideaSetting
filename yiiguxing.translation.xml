@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="black" />
+      <item value="file Select" />
+      <item value="Dark sidebar skins" />
+      <item value="Layout options" />
+      <item value="Create the menu" />
+      <item value="Add the tab button to the right sidebar tabs" />
       <item value="/** * Determines whether the specified callback function returns true for any element of an array. * @param callbackfn A function that accepts up to three arguments. The some method calls the callbackfn function for each element in array1 until the callbackfn returns true, or until the end of the array. * @param thisArg An object to which the this keyword can refer in the callbackfn function. If thisArg is omitted, undefined is used as the this value. */" />
       <item value="protocol Time Begin" />
       <item value="协议" />
@@ -45,12 +51,6 @@
       <item value="offset" />
       <item value="original" />
       <item value="object" />
-      <item value="created" />
-      <item value="newly" />
-      <item value="Initializes a newly created" />
-      <item value="/** * Initializes a newly created {@code String} object so that it represents * the same sequence of characters as the argument; in other words, the * newly created string is a copy of the argument string. Unless an * explicit copy of {@code original} is needed, use of this constructor is * unnecessary since Strings are immutable. * * @param original * A {@code String} */" />
-      <item value="/** * Initializes a newly created {@code String} object so that it represents * an empty character sequence. Note that use of this constructor is * unnecessary since Strings are immutable. */ public String() { this.value = &quot;&quot;.value; }" />
-      <item value="Initializes a newly created {@code String} object so that it represents * an empty character sequence. Note that use of this constructor is * unnecessary since Strings are immutable." />
     </histories>
   </component>
   <component name="Settings">
