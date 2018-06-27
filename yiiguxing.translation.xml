@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="total Cost Weight" />
       <item value="black" />
       <item value="file Select" />
       <item value="Dark sidebar skins" />
@@ -50,7 +51,6 @@
       <item value="count" />
       <item value="offset" />
       <item value="original" />
-      <item value="object" />
     </histories>
   </component>
   <component name="Settings">
