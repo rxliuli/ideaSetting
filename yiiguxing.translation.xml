@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="年级" />
       <item value="prototype" />
       <item value="Default name for Object instance property" />
       <item value="property" />
@@ -50,7 +51,6 @@
       <item value="logger" />
       <item value="Tablespace '`mytimelinedb`.`user`' exists." />
       <item value="'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release." />
-      <item value="The annotated element must be {@code null}. * Accepts any type." />
     </histories>
   </component>
 </application>
