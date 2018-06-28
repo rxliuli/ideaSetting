@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prototype" />
+      <item value="Default name for Object instance property" />
+      <item value="property" />
+      <item value="instance" />
+      <item value="remember Me" />
+      <item value="remeber Me" />
+      <item value="check Me" />
       <item value="from JSON" />
       <item value="form JSON" />
       <item value="form" />
@@ -44,13 +51,6 @@
       <item value="Tablespace '`mytimelinedb`.`user`' exists." />
       <item value="'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release." />
       <item value="The annotated element must be {@code null}. * Accepts any type." />
-      <item value="sex Woman" />
-      <item value="org.springframework.jdbc.BadSqlGrammarException: ### Error querying database. Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'head_portrait' in 'field list' ### The error may exist in com/rxliuli/mytimeline/module/user/dao/UserMapper.java (best guess) ### The error may involve defaultParameterMap ### The error occurred while setting parameters ### SQL: SELECT id,username,email,nickname,head_portrait AS headPortrait,sex,introduce FROM user ### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'head_portrait' in 'field list' ; bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'head_portrait' in 'field list' at org.springframework.jdbc.support.SQLErrorCodeSQLExceptionTranslator.doTranslate" />
-      <item value="Error querying database. Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'head_portrait' in 'field list'" />
-      <item value="com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'head_portrait' in 'field list'" />
-      <item value="Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'redisUtil': Unsatisfied dependency expressed through field 'redisTemplate'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.data.redis.core.RedisTemplate&lt;java.io.Serializable, java.lang.Object&gt;' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
-      <item value="Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.18.1:test (default-test) on project gui: There are test failures." />
-      <item value="Abstract Entity" />
     </histories>
   </component>
 </application>
