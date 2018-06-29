@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="方向" />
+      <item value="fill 方向" />
+      <item value="分隔符 sepeator" />
+      <item value="分隔符" />
+      <item value="sepetor" />
+      <item value="限定长度" />
+      <item value="* @param args * Arguments referenced by the format specifiers in the format * string. If there are more arguments than format specifiers, the * extra arguments are ignored. The number of arguments is * variable and may be zero. The maximum number of arguments is * limited by the maximum dimension of a Java array as defined by * &lt;cite&gt;The Java&amp;trade; Virtual Machine Specification&lt;/cite&gt;. * The behaviour on a * {@code null} argument depends on the &lt;a * href=&quot;../util/Formatter.html#syntax&quot;&gt;conversion&lt;/a&gt;." />
+      <item value="&lt;p&gt; The locale always used is the one returned by {@link * java.util.Locale#getDefault() Locale.getDefault()}." />
+      <item value="* Returns a formatted string using the specified format string and * arguments." />
       <item value="年级" />
       <item value="prototype" />
       <item value="Default name for Object instance property" />
@@ -42,15 +51,6 @@
       <item value="Destroy" />
       <item value="set Destroy Method Na" />
       <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'user': Cannot resolve reference to bean 'admin' while setting bean property 'username'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'admin' available" />
-      <item value="Cons" />
-      <item value="java.lang.IllegalStateException: No thread-bound request found: Are you referring to request attributes outside of an actual web request, or processing a request outside of the originally receiving thread? If you are actually operating within a web request and still receive this message, your code is probably running outside of DispatcherServlet/DispatcherPortlet: In this case, use RequestContextListener or RequestContextFilter to expose the current request." />
-      <item value="Global Constants" />
-      <item value="非法" />
-      <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.rxliuli.mytimeline.mapper.user.UserMapper.findByUsernameOrEmail" />
-      <item value="log" />
-      <item value="logger" />
-      <item value="Tablespace '`mytimelinedb`.`user`' exists." />
-      <item value="'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release." />
     </histories>
   </component>
 </application>
