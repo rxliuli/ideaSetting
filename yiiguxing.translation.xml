@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Tells whether or not this string matches the given &lt;a * href=&quot;../util/regex/Pattern.html#sum&quot;&gt;regular expression&lt;/a&gt;. *" />
+      <item value="chinese Str" />
+      <item value="english" />
       <item value="品种" />
       <item value="汪汪叫" />
       <item value="汪" />
@@ -48,9 +51,6 @@
       <item value="bean Definition" />
       <item value="查看" />
       <item value="看" />
-      <item value="java.lang.AssertionError: Expected test to throw an instance of org.springframework.beans.factory.NoSuchBeanDefinitionException" />
-      <item value="动态" />
-      <item value="org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'user' available" />
     </histories>
   </component>
 </application>
