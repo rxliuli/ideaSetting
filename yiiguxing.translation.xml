@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fill To Num" />
+      <item value="fill Number" />
+      <item value="fill Num" />
+      <item value="个数" />
       <item value="方向" />
       <item value="fill 方向" />
       <item value="分隔符 sepeator" />
@@ -47,10 +51,6 @@
       <item value="Create a new {@code BeanDefinitionBuilder} used to construct a {@link GenericBeanDefinition}. * @param beanClassName the class name for the bean that the definition is being created for" />
       <item value="Create a new {@code BeanDefinitionBuilder} used to construct a {@link GenericBeanDefinition}. * @param beanClass the {@code Class} of the bean that the definition is being created for" />
       <item value="Create a new {@code BeanDefinitionBuilder} used to construct a {@link GenericBeanDefinition" />
-      <item value="set Parent Name" />
-      <item value="Destroy" />
-      <item value="set Destroy Method Na" />
-      <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'user': Cannot resolve reference to bean 'admin' while setting bean property 'username'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'admin' available" />
     </histories>
   </component>
 </application>
