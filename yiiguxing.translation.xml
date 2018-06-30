@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.web.client.RestClientException: Could not extract response: no suitable HttpMessageConverter found for response type [class java.lang.Object] and content type [text/html]" />
       <item value="Tells whether or not this string matches the given &lt;a * href=&quot;../util/regex/Pattern.html#sum&quot;&gt;regular expression&lt;/a&gt;. *" />
       <item value="chinese Str" />
       <item value="english" />
@@ -50,7 +51,6 @@
       <item value="Return the factory bean name, if any." />
       <item value="bean Definition" />
       <item value="查看" />
-      <item value="看" />
     </histories>
   </component>
 </application>
