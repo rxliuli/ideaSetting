@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.junit.runners.model.TestTimedOutException: test timed out after 3 seconds" />
+      <item value="org.springframework.web.util.NestedServletException: Request processing failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [javax.validation.Validator]: Specified class is an interface" />
+      <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.TooManyResultsException: Expected one result (or null) to be returned by selectOne(), but found: 2" />
+      <item value="nested exception is org.apache.ibatis.exceptions.TooManyResultsException: Expected one result (or null) to be returned by selectOne(), but found: 2" />
+      <item value="'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release." />
+      <item value="Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.18.1:test (default-test) on project mytimeline: There are test failures." />
       <item value="org.springframework.web.client.RestClientException: Could not extract response: no suitable HttpMessageConverter found for response type [class java.lang.Object] and content type [text/html]" />
       <item value="Tells whether or not this string matches the given &lt;a * href=&quot;../util/regex/Pattern.html#sum&quot;&gt;regular expression&lt;/a&gt;. *" />
       <item value="chinese Str" />
@@ -45,12 +51,6 @@
       <item value="scond" />
       <item value="分钟" />
       <item value="hour" />
-      <item value="month" />
-      <item value="method" />
-      <item value="org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'javax.servlet.http.HttpSession' available" />
-      <item value="Return the factory bean name, if any." />
-      <item value="bean Definition" />
-      <item value="查看" />
     </histories>
   </component>
 </application>
