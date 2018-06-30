@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to execute goal org.apache.maven.plugins:maven-resources-plugin:2.6:resources (default-resources) on project mytimeline: Cannot create resource output directory: D:\Text\SpringBoot\mytimeline\target\classes -&gt; [Help 1]" />
+      <item value="compression: excluded-user-agents:" />
       <item value="org.junit.runners.model.TestTimedOutException: test timed out after 3 seconds" />
       <item value="org.springframework.web.util.NestedServletException: Request processing failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [javax.validation.Validator]: Specified class is an interface" />
       <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.TooManyResultsException: Expected one result (or null) to be returned by selectOne(), but found: 2" />
@@ -49,8 +51,6 @@
       <item value="milli Scond" />
       <item value="second" />
       <item value="scond" />
-      <item value="分钟" />
-      <item value="hour" />
     </histories>
   </component>
 </application>
