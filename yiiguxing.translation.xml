@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CURRENT REMEMBER USER" />
       <item value="complex" />
       <item value="复杂对象" />
       <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'cacheManager' defined in class path resource" />
@@ -50,7 +51,6 @@
       <item value="&lt;p&gt; The locale always used is the one returned by {@link * java.util.Locale#getDefault() Locale.getDefault()}." />
       <item value="* Returns a formatted string using the specified format string and * arguments." />
       <item value="年级" />
-      <item value="prototype" />
     </histories>
   </component>
 </application>
