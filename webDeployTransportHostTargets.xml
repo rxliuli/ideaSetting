@@ -20,7 +20,7 @@
               <id>0ad6d640-7527-4139-bd42-d069a3fbe7ed</id>
             </TransportTarget>
           </option>
-          <option name="targetPath" value="" />
+          <option name="targetPath" value="/mytimeline" />
         </WebDeploymentTransportHostTarget>
       </list>
     </option>
