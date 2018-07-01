@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="complex" />
+      <item value="复杂对象" />
+      <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'cacheManager' defined in class path resource" />
+      <item value="Jedis Pool" />
       <item value="increment" />
       <item value="org.springframework.data.redis.RedisSystemException: Unknown redis exception; nested exception is java.lang.NullPointerException" />
       <item value="Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: RedisConnectionFactory is required" />
@@ -47,10 +51,6 @@
       <item value="* Returns a formatted string using the specified format string and * arguments." />
       <item value="年级" />
       <item value="prototype" />
-      <item value="Default name for Object instance property" />
-      <item value="property" />
-      <item value="instance" />
-      <item value="remember Me" />
     </histories>
   </component>
 </application>
