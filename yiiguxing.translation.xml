@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="num" />
+      <item value="from Util" />
+      <item value="form Util" />
       <item value="谓词" />
       <item value="check Blank" />
       <item value="old Complete" />
@@ -48,9 +51,6 @@
       <item value="fill 方向" />
       <item value="分隔符 sepeator" />
       <item value="分隔符" />
-      <item value="sepetor" />
-      <item value="限定长度" />
-      <item value="* @param args * Arguments referenced by the format specifiers in the format * string. If there are more arguments than format specifiers, the * extra arguments are ignored. The number of arguments is * variable and may be zero. The maximum number of arguments is * limited by the maximum dimension of a Java array as defined by * &lt;cite&gt;The Java&amp;trade; Virtual Machine Specification&lt;/cite&gt;. * The behaviour on a * {@code null} argument depends on the &lt;a * href=&quot;../util/Formatter.html#syntax&quot;&gt;conversion&lt;/a&gt;." />
     </histories>
   </component>
 </application>
