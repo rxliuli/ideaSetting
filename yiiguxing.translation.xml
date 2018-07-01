@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="increment" />
+      <item value="org.springframework.data.redis.RedisSystemException: Unknown redis exception; nested exception is java.lang.NullPointerException" />
       <item value="Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: RedisConnectionFactory is required" />
       <item value="Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'stringRedisTemplate': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: RedisConnectionFactory is required" />
       <item value="java.lang.IllegalStateException: Failed to load ApplicationContext" />
@@ -49,8 +51,6 @@
       <item value="property" />
       <item value="instance" />
       <item value="remember Me" />
-      <item value="remeber Me" />
-      <item value="check Me" />
     </histories>
   </component>
 </application>
