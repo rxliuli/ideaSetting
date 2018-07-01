@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: RedisConnectionFactory is required" />
+      <item value="Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'stringRedisTemplate': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: RedisConnectionFactory is required" />
+      <item value="java.lang.IllegalStateException: Failed to load ApplicationContext" />
+      <item value="ava.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test" />
       <item value="jackson 2 Json Redis Serializer" />
       <item value="set Object Mapper" />
       <item value="set Value Serializer" />
@@ -47,10 +51,6 @@
       <item value="remember Me" />
       <item value="remeber Me" />
       <item value="check Me" />
-      <item value="from JSON" />
-      <item value="form JSON" />
-      <item value="form" />
-      <item value="horizontal" />
     </histories>
   </component>
 </application>
