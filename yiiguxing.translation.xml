@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="jackson 2 Json Redis Serializer" />
+      <item value="set Object Mapper" />
+      <item value="set Value Serializer" />
+      <item value="after Properties Set" />
+      <item value="Property Accessor" />
+      <item value="Json Auto Detect" />
       <item value="length" />
       <item value="nested exception is java.lang.ArithmeticException: / by zero] with root cause" />
       <item value="tract" />
@@ -45,12 +51,6 @@
       <item value="form JSON" />
       <item value="form" />
       <item value="horizontal" />
-      <item value="org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.rxliuli.mytimeline.domain.entity.user.User' available" />
-      <item value="get UTC Full Year" />
-      <item value="date Unit" />
-      <item value="date Uion" />
-      <item value="单位" />
-      <item value="fill" />
     </histories>
   </component>
 </application>
