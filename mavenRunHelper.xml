@@ -8,12 +8,6 @@
               <option name="commandLine" value="clean" />
             </Goal>
             <Goal>
-              <option name="commandLine" value="validate" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="compile" />
-            </Goal>
-            <Goal>
               <option name="commandLine" value="test" />
             </Goal>
             <Goal>
@@ -21,6 +15,9 @@
             </Goal>
             <Goal>
               <option name="commandLine" value="verify" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="compile" />
             </Goal>
             <Goal>
               <option name="commandLine" value="install" />
@@ -35,7 +32,7 @@
               <option name="commandLine" value="clean install" />
             </Goal>
             <Goal>
-              <option name="commandLine" value="clean install -D maven.test.skip=true" />
+              <option name="commandLine" value="validate" />
             </Goal>
           </list>
         </option>

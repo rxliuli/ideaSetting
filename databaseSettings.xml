@@ -1,25 +1,21 @@
 <application>
-  <component name="DatabaseSettings" version="3">
-    <text-mode>
+  <component name="DatabaseSettings" version="2">
+    <text-mode in-scripts="true" in-literals="true">
       <parameter-patterns>
-        <parameter-pattern value="#(\w+)#" scope="XML" predefined="#name#" />
-        <parameter-pattern value="(?&lt;=\W|\A)\$(\d+|[a-zA-Z_](?:\w|\.)*)\$?(?=\W|\z)" scope="*,-SQL" predefined="$a.b.c$?" />
-        <parameter-pattern value="(?&lt;=\W|\A)#(\d+|[a-zA-Z_](?:\w|\.)*)#?(?=\W|\z)" scope="*,-SQL" predefined="#a.b.c#?" />
-        <parameter-pattern value="%\((\w+)\)s" scope="Python" predefined="%(name)s" />
-        <parameter-pattern value="%\w+" scope="JAVA,Python" predefined="%name" />
-        <parameter-pattern value="#(\w+)#" scope="XML" predefined="#name#" />
-        <parameter-pattern value="\$\{([^\{\}]*)\}" predefined="${name}" />
-        <parameter-pattern value="\$\(([^\)]+)\)" predefined="$(name)" />
-        <parameter-pattern value="(?&lt;=\W|\A)\$(\d+|[a-zA-Z_](?:\w|\.)*)\$?(?=\W|\z)" scope="*,-SQL" predefined="$a.b.c$?" />
-        <parameter-pattern value="(?&lt;=\W|\A)#(\d+|[a-zA-Z_](?:\w|\.)*)#?(?=\W|\z)" scope="*,-SQL" predefined="#a.b.c#?" />
-        <parameter-pattern value="%\((\w+)\)s" scope="Python" predefined="%(name)s" />
-        <parameter-pattern value="%\w+" scope="JAVA,Python" predefined="%name" />
-        <parameter-pattern value="\$\{([^\{\}]*)\}" predefined="${name}" />
-        <parameter-pattern value="\$\(([^\)]+)\)" predefined="$(name)" />
+        <parameter-pattern value="\?(\d+)" predefined="true" />
+        <parameter-pattern value=":(\w+)" scope="*,-PostgreSQL" predefined="true" />
+        <parameter-pattern value="%\w+" scope="JAVA,Python" predefined="true" />
+        <parameter-pattern value="\$\{([^\{\}]*)\}" predefined="true" />
+        <parameter-pattern value="\$\(([^\)]+)\)" predefined="true" />
+        <parameter-pattern value="\$(\w+)\$" scope="*,-PostgreSQL" predefined="true" />
+        <parameter-pattern value="#(\w+)#" scope="XML" predefined="true" />
+        <parameter-pattern value="(?&lt;=\W|\A)\$(\d+|[a-zA-Z_](?:\w|\.)*)\$?(?=\W|\z)" scope="*,-SQL,Oracle,OracleSqlPlus,PostgreSQL,PostgresPLSQL" predefined="true" />
+        <parameter-pattern value="(?&lt;=\W|\A)#(\d+|[a-zA-Z_](?:\w|\.)*)#?(?=\W|\z)" scope="*,-SQL,Oracle,OracleSqlPlus,PostgreSQL,PostgresPLSQL" predefined="true" />
+        <parameter-pattern value="%\((\w+)\)s" scope="Python" predefined="true" />
       </parameter-patterns>
     </text-mode>
     <csv-formats>
-      <csv-format name="Tab-separated (TSV)" id="Tab-separated (TSV)_id">
+      <csv-format name="Tab-separated (TSV)" id="2fe0dcf6-eb7e-4cc6-972a-24a3670e417b">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="&#9;" recordSeparator="&#10;">
             <quotation>
@@ -29,7 +25,7 @@
           </record-format>
         </data>
       </csv-format>
-      <csv-format name="Comma-separated (CSV)" id="Comma-separated (CSV)_id">
+      <csv-format name="Comma-separated (CSV)" id="570f7f40-8c00-4b28-b859-e6b648e2b6bf">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
             <quotation>

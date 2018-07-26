@@ -1,0 +1,7 @@
+<templateSet group="Zen HTML">
+  <template name="form" value="&lt;form action=&quot;$VAR0$&quot; method=&quot;$method$&quot;&gt;&#10;  $END$&#10;&lt;/form&gt;" description="&lt;form action=&quot;...&quot;&gt;...&lt;/form&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="method" expression="" defaultValue="&quot;post&quot;" alwaysStopAt="false" />
+    <context />
+  </template>
+</templateSet>

@@ -1,0 +1,7 @@
+<templateSet group="框架 Spring 相关">
+  <template name="autowired" value="@Autowired&#10;private $END$" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

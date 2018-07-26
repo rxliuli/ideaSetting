@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="region" value="//region $title$&#10;&#10;$END$&#10;&#10;//endregion" description="create a comment for the js file" toReformat="false" toShortenFQNames="true">
+    <variable name="title" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

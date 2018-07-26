@@ -1,5 +1,3 @@
 /**
- * 
  * @author ${USER}
- * @date ${DATE}
  */

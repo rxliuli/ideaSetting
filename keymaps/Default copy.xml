@@ -3,27 +3,63 @@
   <action id="$EditorTranslateAction">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
-  <action id="$LRU">
-    <keyboard-shortcut first-keystroke="shift ctrl o" />
-  </action>
   <action id="$ShowTranslationDialogAction" />
+  <action id="$TranslateAndReplace" />
   <action id="$TranslateAndReplaceAction" />
+  <action id="$TranslateTextComponent" />
+  <action id="AceAction">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="Compile" />
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f9" />
+  </action>
+  <action id="ECTranslation">
+    <keyboard-shortcut first-keystroke="meta i" />
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
-  <action id="Editor LRU">
-    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  <action id="EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
-  <action id="MavenRunHelperDebugCleanInstall-dMaven.test.skip=true">
-    <keyboard-shortcut first-keystroke="alt k" second-keystroke="alt i" />
+  <action id="ExclusiveTranslateAction" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="control alt button1" />
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
+  <action id="GotoTypeDeclaration">
+    <mouse-shortcut keystroke="shift control button1" />
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
+  <action id="InclusiveTranslateAction" />
+  <action id="JRebel Debug">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f9" />
+  </action>
+  <action id="JRebel Executor">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f10" />
+  </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
+  <action id="RecentProjectListGroup">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt d" />
   </action>
-  <action id="Vcs.ShowTabbedFileHistory">
-    <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt e" />
-  </action>
-  <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
-    <keyboard-shortcut first-keystroke="shift alt m" />
+  <action id="Scala.GoToImplicit" />
+  <action id="ShowTranslationDialogAction" />
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
   </action>
 </keymap>

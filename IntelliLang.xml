@@ -1,21 +1,297 @@
 <application>
   <component name="LanguageInjectionConfiguration">
+    <injection language="HQL" injector-id="java">
+      <display-name>BaseDao (com.chapter07.dao)</display-name>
+      <place><![CDATA[psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.chapter07.dao.BaseDao")]]></place>
+      <place><![CDATA[psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.chapter07.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.chapter07.dao.BaseDao")]]></place>
+      <place><![CDATA[psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.chapter07.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.chapter07.dao.BaseDao")]]></place>
+      <place><![CDATA[psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.chapter07.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.chapter07.dao.BaseDao")]]></place>
+      <place><![CDATA[psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.chapter07.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.chapter07.dao.BaseDao"))]]></place>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.chapter07.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.chapter07.dao.BaseDao"))]]></place>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.chapter07.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.chapter07.dao.BaseDao"))]]></place>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.chapter07.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.chapter07.dao.BaseDao"))]]></place>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.chapter07.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.chapter07.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.chapter07.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.chapter07.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.chapter07.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.chapter07.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.chapter07.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.chapter07.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.chapter07.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.chapter07.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.chapter07.dao.impl.BaseDaoImpl"))]]></place>
+    </injection>
+    <injection language="HQL" injector-id="java">
+      <display-name>BaseDao (com.hibernate.associated.dao)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("countByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.hibernate.associated.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.hibernate.associated.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.hibernate.associated.dao.BaseDao"))]]></place>
+    </injection>
     <injection language="MySQL" injector-id="java">
-      <display-name>Insert.value (org.apache.ibatis.annotations)</display-name>
-      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.apache.ibatis.annotations.Insert")]]></place>
+      <display-name>BaseDao (com.mybatisstudy.dao)</display-name>
+      <place><![CDATA[psiMethod().withName("batch").withParameters("java.lang.String", "java.lang.Object[][]").definedInClass("com.mybatisstudy.dao.BaseDao")]]></place>
+      <place><![CDATA[psiMethod().withName("query").withParameters("java.lang.String", "org.apache.commons.dbutils.ResultSetHandler").definedInClass("com.mybatisstudy.dao.BaseDao")]]></place>
+      <place><![CDATA[psiMethod().withName("query").withParameters("java.lang.String", "org.apache.commons.dbutils.ResultSetHandler", "java.lang.Object...").definedInClass("com.mybatisstudy.dao.BaseDao")]]></place>
+      <place><![CDATA[psiMethod().withName("update").withParameters("java.lang.String").definedInClass("com.mybatisstudy.dao.BaseDao")]]></place>
+      <place><![CDATA[psiMethod().withName("update").withParameters("java.lang.String", "java.lang.Object...").definedInClass("com.mybatisstudy.dao.BaseDao")]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("batch").withParameters("java.lang.String", "java.lang.Object[][]").definedInClass("com.mybatisstudy.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("query").withParameters("java.lang.String", "org.apache.commons.dbutils.ResultSetHandler").definedInClass("com.mybatisstudy.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("query").withParameters("java.lang.String", "org.apache.commons.dbutils.ResultSetHandler", "java.lang.Object...").definedInClass("com.mybatisstudy.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("update").withParameters("java.lang.String").definedInClass("com.mybatisstudy.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("update").withParameters("java.lang.String", "java.lang.Object...").definedInClass("com.mybatisstudy.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("batch").withParameters("java.lang.String", "java.lang.Object[][]").definedInClass("com.mybatisstudy.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("query").withParameters("java.lang.String", "org.apache.commons.dbutils.ResultSetHandler").definedInClass("com.mybatisstudy.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("query").withParameters("java.lang.String", "org.apache.commons.dbutils.ResultSetHandler", "java.lang.Object...").definedInClass("com.mybatisstudy.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("update").withParameters("java.lang.String", "java.lang.Object...").definedInClass("com.mybatisstudy.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("query").withParameters("java.lang.String", "org.apache.commons.dbutils.ResultSetHandler", "java.lang.Object...").definedInClass("com.mybatisstudy.dao.BaseDao"))]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="java">
+      <display-name>BaseDao (com.spring.study.dao)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("single").withParameters("java.lang.String", "java.lang.Object...").definedInClass("com.spring.study.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("update").withParameters("java.lang.String", "java.lang.Object...").definedInClass("com.spring.study.dao.BaseDao"))]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="java">
+      <display-name>BaseDao (dao)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("query").withParameters("java.lang.String", "java.lang.Object...").definedInClass("dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("update").withParameters("java.lang.String", "java.lang.Object...").definedInClass("dao.BaseDao"))]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="java">
+      <display-name>BaseDao.query (com.chapter08.study.dao)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("query").withParameters("java.lang.String", "java.lang.Object...").definedInClass("com.chapter08.study.dao.BaseDao"))]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="java">
+      <display-name>BaseDaoExtension (dao)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("query").withParameters("java.lang.String", "java.lang.Object...").definedInClass("dao.BaseDaoExtension"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("update").withParameters("java.lang.String", "java.lang.Object...").definedInClass("dao.BaseDaoExtension"))]]></place>
+    </injection>
+    <injection language="HQL" injector-id="java">
+      <display-name>BaseDaoImpl (com.chapter07.study.dao.impl)</display-name>
+      <place><![CDATA[psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.chapter07.study.dao.BaseDao")]]></place>
+      <place><![CDATA[psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.chapter07.study.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.chapter07.study.dao.BaseDao")]]></place>
+      <place><![CDATA[psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.chapter07.study.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.chapter07.study.dao.BaseDao")]]></place>
+      <place><![CDATA[psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.chapter07.study.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.chapter07.study.dao.BaseDao")]]></place>
+      <place><![CDATA[psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.chapter07.study.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.chapter07.study.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.chapter07.study.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.chapter07.study.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.chapter07.study.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.chapter07.study.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.chapter07.study.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.chapter07.study.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.chapter07.study.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.chapter07.study.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.chapter07.study.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.chapter07.study.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.chapter07.study.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.chapter07.study.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.chapter07.study.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.chapter07.study.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.chapter07.study.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.chapter07.study.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.chapter07.study.dao.impl.BaseDaoImpl"))]]></place>
+    </injection>
+    <injection language="HQL" injector-id="java">
+      <display-name>BaseDaoImpl (com.chapter08.commons.dao.impl)</display-name>
+      <place><![CDATA[psiMethod().withName("findByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.chapter08.commons.dao.BaseDao")]]></place>
+      <place><![CDATA[psiMethod().withName("findByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.chapter08.commons.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiMethod().withName("findByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.chapter08.commons.dao.BaseDao")]]></place>
+      <place><![CDATA[psiMethod().withName("findByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.chapter08.commons.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.chapter08.commons.dao.BaseDao")]]></place>
+      <place><![CDATA[psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.chapter08.commons.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiMethod().withName("listByHQL").withParameters("java.lang.String").definedInClass("com.chapter08.commons.dao.BaseDao")]]></place>
+      <place><![CDATA[psiMethod().withName("listByHQL").withParameters("java.lang.String").definedInClass("com.chapter08.commons.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.chapter08.commons.dao.BaseDao")]]></place>
+      <place><![CDATA[psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.chapter08.commons.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.chapter08.commons.dao.BaseDao")]]></place>
+      <place><![CDATA[psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.chapter08.commons.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.chapter08.commons.dao.BaseDao")]]></place>
+      <place><![CDATA[psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.chapter08.commons.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("findByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.chapter08.commons.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("findByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.chapter08.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("findByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.chapter08.commons.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("findByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.chapter08.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.chapter08.commons.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.chapter08.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("listByHQL").withParameters("java.lang.String").definedInClass("com.chapter08.commons.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("listByHQL").withParameters("java.lang.String").definedInClass("com.chapter08.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.chapter08.commons.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.chapter08.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.chapter08.commons.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.chapter08.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.chapter08.commons.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.chapter08.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("findByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.chapter08.commons.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("findByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.chapter08.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("findByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.chapter08.commons.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("findByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.chapter08.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.chapter08.commons.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.chapter08.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.chapter08.commons.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.chapter08.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.chapter08.commons.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.chapter08.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.chapter08.commons.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.chapter08.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.chapter08.commons.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.chapter08.commons.dao.impl.BaseDaoImpl"))]]></place>
+    </injection>
+    <injection language="HQL" injector-id="java">
+      <display-name>BaseDaoImpl (com.commons.dao.impl)</display-name>
+      <place><![CDATA[psiMethod().withName("findByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.commons.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiMethod().withName("findByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.commons.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.commons.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiMethod().withName("listByHQL").withParameters("java.lang.String").definedInClass("com.commons.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.commons.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.commons.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiMethod().withName("unique").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.commons.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiMethod().withName("uniqueByHQL").withParameters("java.lang.String", "java.lang.Class").definedInClass("com.commons.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiMethod().withName("uniqueByHQL").withParameters("java.lang.String", "java.lang.Class", "java.lang.Object[]").definedInClass("com.commons.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiMethod().withName("uniqueByHQL").withParameters("java.lang.String", "java.lang.Class", "java.util.Map").definedInClass("com.commons.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("findByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("findByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("listByHQL").withParameters("java.lang.String").definedInClass("com.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("unique").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("uniqueByHQL").withParameters("java.lang.String", "java.lang.Class").definedInClass("com.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("uniqueByHQL").withParameters("java.lang.String", "java.lang.Class", "java.lang.Object[]").definedInClass("com.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("uniqueByHQL").withParameters("java.lang.String", "java.lang.Class", "java.util.Map").definedInClass("com.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("findByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("findByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("unique").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("uniqueByHQL").withParameters("java.lang.String", "java.lang.Class").definedInClass("com.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("uniqueByHQL").withParameters("java.lang.String", "java.lang.Class", "java.lang.Object[]").definedInClass("com.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("uniqueByHQL").withParameters("java.lang.String", "java.lang.Class", "java.util.Map").definedInClass("com.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("unique").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("uniqueByHQL").withParameters("java.lang.String", "java.lang.Class", "java.lang.Object[]").definedInClass("com.commons.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("uniqueByHQL").withParameters("java.lang.String", "java.lang.Class", "java.util.Map").definedInClass("com.commons.dao.impl.BaseDaoImpl"))]]></place>
+    </injection>
+    <injection language="HQL" injector-id="java">
+      <display-name>BaseDaoImpl (com.hibernatedemo.dao.impl)</display-name>
+      <place><![CDATA[psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.hibernatedemo.dao.BaseDao")]]></place>
+      <place><![CDATA[psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.hibernatedemo.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.hibernatedemo.dao.BaseDao")]]></place>
+      <place><![CDATA[psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.hibernatedemo.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.hibernatedemo.dao.BaseDao")]]></place>
+      <place><![CDATA[psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.hibernatedemo.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.hibernatedemo.dao.BaseDao")]]></place>
+      <place><![CDATA[psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.hibernatedemo.dao.impl.BaseDaoImpl")]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.hibernatedemo.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.hibernatedemo.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.hibernatedemo.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.hibernatedemo.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.hibernatedemo.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.hibernatedemo.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.hibernatedemo.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.hibernatedemo.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.hibernatedemo.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.hibernatedemo.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.hibernatedemo.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.hibernatedemo.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.hibernatedemo.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("listByHQL").withParameters("java.lang.String", "java.util.Map").definedInClass("com.hibernatedemo.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.hibernatedemo.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.hibernatedemo.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.hibernatedemo.dao.BaseDao"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("uniqueResult").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Consumer").definedInClass("com.hibernatedemo.dao.impl.BaseDaoImpl"))]]></place>
+    </injection>
+    <injection language="HQL" injector-id="java">
+      <display-name>BaseDaoImpl (com.rxliuli.person.dao.impl)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("list").withParameters("java.lang.String", "java.util.function.Consumer").definedInClass("com.rxliuli.person.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("listByHQL").withParameters("java.lang.String").definedInClass("com.rxliuli.person.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("page").withParameters("java.lang.String", "com.rxliuli.person.util.PageBeanUtil", "boolean", "java.util.function.Consumer", "java.util.function.Consumer").definedInClass("com.rxliuli.person.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("pageHQL").withParameters("java.lang.String", "com.rxliuli.person.util.PageBeanUtil", "java.lang.Object[]").definedInClass("com.rxliuli.person.dao.impl.BaseDaoImpl"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("uniqueByHQL").withParameters("java.lang.String", "java.lang.Class", "java.lang.Object[]").definedInClass("com.rxliuli.person.dao.impl.BaseDaoImpl"))]]></place>
+    </injection>
+    <injection language="HQL" injector-id="java">
+      <display-name>BaseDaoImpl.findByHQL (com.sshdemo.dao.impl)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("findByHQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("com.sshdemo.dao.impl.BaseDaoImpl"))]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="java">
+      <display-name>DaoExtension ()</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("find").withParameters("java.lang.String", "java.lang.Object...").definedInClass("DaoExtension"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("query").withParameters("java.lang.String", "java.lang.Object...").definedInClass("DaoExtension"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("single").withParameters("java.lang.String", "java.lang.Object...").definedInClass("DaoExtension"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("update").withParameters("java.lang.String", "java.lang.Object...").definedInClass("DaoExtension"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("find").withParameters("java.sql.Connection", "java.lang.String", "java.lang.Object...").definedInClass("DaoExtension"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("query").withParameters("java.sql.Connection", "java.lang.String", "java.lang.Object...").definedInClass("DaoExtension"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("single").withParameters("java.sql.Connection", "java.lang.String", "java.lang.Object...").definedInClass("DaoExtension"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("update").withParameters("java.sql.Connection", "java.lang.String", "java.lang.Object...").definedInClass("DaoExtension"))]]></place>
+    </injection>
+    <injection language="SQL" injector-id="java">
+      <display-name>DaoExtension (dao)</display-name>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("addBatch").withParameters("java.lang.String").definedInClass("java.sql.Statement"))]]></place>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("execute").withParameters("java.lang.String").definedInClass("java.sql.Statement"))]]></place>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("execute").withParameters("java.lang.String", "int").definedInClass("java.sql.Statement"))]]></place>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("execute").withParameters("java.lang.String", "int[]").definedInClass("java.sql.Statement"))]]></place>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("execute").withParameters("java.lang.String", "java.lang.String[]").definedInClass("java.sql.Statement"))]]></place>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("executeQuery").withParameters("java.lang.String").definedInClass("java.sql.Statement"))]]></place>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("executeUpdate").withParameters("java.lang.String").definedInClass("java.sql.Statement"))]]></place>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("executeUpdate").withParameters("java.lang.String", "int").definedInClass("java.sql.Statement"))]]></place>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("executeUpdate").withParameters("java.lang.String", "int[]").definedInClass("java.sql.Statement"))]]></place>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("executeUpdate").withParameters("java.lang.String", "java.lang.String[]").definedInClass("java.sql.Statement"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("query").withParameters("java.lang.String", "java.lang.Object...").definedInClass("dao.DaoExtension"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("single").withParameters("java.lang.String", "java.lang.Object...").definedInClass("dao.DaoExtension"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("update").withParameters("java.lang.String", "java.lang.Object...").definedInClass("dao.DaoExtension"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("query").withParameters("java.sql.Connection", "java.lang.String", "java.lang.Object...").definedInClass("dao.DaoExtension"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("single").withParameters("java.sql.Connection", "java.lang.String", "java.lang.Object...").definedInClass("dao.DaoExtension"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("update").withParameters("java.sql.Connection", "java.lang.String", "java.lang.Object...").definedInClass("dao.DaoExtension"))]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="java">
+      <display-name>DaoExtension.query (com.topiao.dao)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("query").withParameters("java.lang.String", "java.lang.Object...").definedInClass("com.topiao.dao.DaoExtension"))]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="java">
+      <display-name>DaoExtension.single (com.mybatisstudy.dao)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("single").withParameters("java.lang.String", "java.lang.Object...").definedInClass("com.mybatisstudy.dao.DaoExtension"))]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="java">
+      <display-name>DogDaoImpl.update (dao.impl)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("update").withParameters("entity.Dog").definedInClass("dao.impl.DogDaoImpl"))]]></place>
+    </injection>
+    <injection language="HQL" injector-id="java">
+      <display-name>HibernateUtil.usingQuery (com.review.hibernate.first.util)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("usingQuery").withParameters("java.lang.String", "java.lang.Class", "java.util.function.Function").definedInClass("com.review.hibernate.first.util.HibernateUtil"))]]></place>
+    </injection>
+    <injection language="HTML" injector-id="java">
+      <display-name>PrintWriter.println (java.io)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("println").withParameters("java.lang.String").definedInClass("java.io.PrintWriter"))]]></place>
     </injection>
     <injection language="MySQL" injector-id="java">
       <display-name>Select.value (org.apache.ibatis.annotations)</display-name>
       <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.apache.ibatis.annotations.Select")]]></place>
     </injection>
+    <injection language="JPAQL" injector-id="java">
+      <display-name>Session (org.hibernate)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String").definedInClass("javax.persistence.EntityManager"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("javax.persistence.EntityManager"))]]></place>
+    </injection>
+    <injection language="HQL" injector-id="java">
+      <display-name>SharedSessionContract.createQuery (org.hibernate)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String").definedInClass("org.hibernate.SharedSessionContract"))]]></place>
+    </injection>
     <injection language="MySQL" injector-id="java">
-      <display-name>Update.value (org.apache.ibatis.annotations)</display-name>
-      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.apache.ibatis.annotations.Update")]]></place>
+      <display-name>StringBuffer (java.lang)</display-name>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("StringBuffer").withParameters("java.lang.String").definedInClass("java.lang.StringBuffer"))]]></place>
     </injection>
     <injection language="MySQL" injector-id="xml">
-      <display-name>iBatis3: sql|select|insert|update|delete</display-name>
-      <place><![CDATA[xmlTag().withLocalName(string().oneOf("sql", "select", "insert", "update", "delete")).withNamespace(string().oneOf("http://ibatis.apache.org/dtd/ibatis-3-mapper.dtd", "http://mybatis.org/dtd/mybatis-3-mapper.dtd"))]]></place>
-      <apply-to-subtags />
+      <display-name>select</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("select")).withNamespace(string().matches("mybatis-3-config.dtd"))]]></place>
     </injection>
   </component>
 </application>

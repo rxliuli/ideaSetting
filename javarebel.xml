@@ -3,14 +3,11 @@
     <option name="ideInstallationStorage">
       <map>
         <entry key="com.zeroturnaround.jrebel.FormatVersion" value="7.0.0" />
-        <entry key="com.zeroturnaround.jrebel.ide.RemoteServerIdCounter" value="1" />
-        <entry key="com.zeroturnaround.jrebel.ide.RemoteServers" value="{&quot;RemoteServers&quot;:[{&quot;syncEnabled&quot;:&quot;true&quot;,&quot;serverAuthenticationPassword&quot;:&quot;&quot;,&quot;httpBasicAuthenticationUser&quot;:&quot;root&quot;,&quot;httpBasicAuthenticationPassword&quot;:&quot;Xe24ROaGQ5lG&quot;,&quot;name&quot;:&quot;Aliyun&quot;,&quot;useServerAuthentication&quot;:&quot;false&quot;,&quot;deleteFilesOnServer&quot;:&quot;true&quot;,&quot;id&quot;:&quot;1&quot;,&quot;useHttpBasicAuthentication&quot;:&quot;true&quot;,&quot;url&quot;:&quot;http:\/\/39.108.15.57&quot;}]}" />
         <entry key="com.zeroturnaround.jrebel.intellij.autocompile.enabled" value="true" />
         <entry key="com.zeroturnaround.jrebel.intellij.autocompile.feature-seen" value="true" />
-        <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="2018.1.1" />
-        <entry key="com.zeroturnaround.jrebel.remoting.SyncOnBuild" value="true" />
-        <entry key="com.zeroturnaround.jrebel.update.LastKnownVersionOnUpdateSite" value="2018.1.2" />
-        <entry key="com.zeroturnaround.jrebel.update.UpdateNotificationCount" value="1" />
+        <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="2018.1.4" />
+        <entry key="com.zeroturnaround.jrebel.update.LastKnownVersionOnUpdateSite" value="2018.1.4" />
+        <entry key="com.zeroturnaround.jrebel.update.UpdateNotificationCount" value="2" />
       </map>
     </option>
   </component>

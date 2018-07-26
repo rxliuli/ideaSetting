@@ -1,0 +1,8 @@
+<templateSet group="SQL">
+  <template name="region" value="# region $title$&#10;&#10;$END$&#10;&#10;# endregion&#10;" description="create a comment for the sql file" toReformat="false" toShortenFQNames="true">
+    <variable name="title" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+</templateSet>

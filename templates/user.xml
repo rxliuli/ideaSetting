@@ -1,8 +1,94 @@
 <templateSet group="user">
-  <template name="autowired" value="@Autowired&#10;private $className$ $END$" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="getInstance" value="/**&#10; * 获取一个当前接口的实现类实例&#10; * @return 当前接口的实现类实例&#10; */&#10;public static $typeName$ getInstance() {&#10;  return new $typeName$Impl();&#10;}&#10;" description="create a method that gets an instance of the implementation class for the current interface" toReformat="false" toShortenFQNames="true">
+    <variable name="typeName" expression="className()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="mybatis" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; ?&gt;&#10;&lt;!DOCTYPE mapper&#10;  PUBLIC &quot;-//mybatis.org//DTD Mapper 3.0//EN&quot;&#10;  &quot;http://mybatis.org/dtd/mybatis-3-mapper.dtd&quot;&gt;&#10;&lt;mapper namespace=&quot;$namespace$&quot;&gt;&#10;$END$&#10;&lt;/mapper&gt;&#10;" description="create mybatis basic configuration" toReformat="false" toShortenFQNames="true">
+    <variable name="namespace" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="del" value="DELETE FROM $table$&#10;WHERE $END$" description="create a delete sql" toReformat="false" toShortenFQNames="true">
+    <variable name="table" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+  <template name="using" value="  /**&#10;   * MybatisUtil 中 usingOptional() 方法再封装而已&#10;   *&#10;   * @param f   执行方法&#10;   * @param &lt;R&gt; 执行方法&#10;   * @return 方法的返回值&#10;   */&#10;  private &lt;R&gt; Optional&lt;R&gt; using(Function&lt;$type$, R&gt; f) {&#10;    return MybatisUtil.usingOptional($type$.class, f);&#10;  }" description="create a using() for MybatisUtil usingOptional() method" toReformat="false" toShortenFQNames="true">
+    <variable name="type" expression="" defaultValue="Object" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="&lt;ifn" value="&lt;if test=&quot;$value$ != null&quot;&gt;&#10;   AND $value$ = #{$value$}&#10;&lt;/if&gt;&#10;$END$" description="create a mybatis &lt;if test = &quot;value != null&quot;&gt;&lt;/if&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="value" expression="" defaultValue="value" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="param" value="@Param(&quot;$value$&quot;) $type$ $value$" description="create a @param" toReformat="false" toShortenFQNames="true">
+    <variable name="value" expression="" defaultValue="value" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="Object" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="&lt;if" value="&lt;if test=&quot;$variable$ == $value$&quot;&gt;&#10;   AND $column$ = #{$variable$}&#10;&lt;/if&gt;&#10;$END$" description="create a mybatis &lt;if test = &quot;variable == $value$&quot;&gt;&lt;/if&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="variable" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="column" expression="" defaultValue="$varible$" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="concat1" value="concat('%',#{$name$},'%')" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="gitignore" value="# maven 项目的输出&#10;target/&#10;&#10;# idea 本身的配置文件&#10;.idea/&#10;*.iml&#10;&#10;# 日志，测试，编译后的类文件&#10;log/&#10;test/&#10;.class" description="git ignore file or direcotory" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="beans" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;beans xmlns=&quot;http://www.springframework.org/schema/beans&quot;&#10;       xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&#10;       xmlns:context=&quot;http://www.springframework.org/schema/context&quot;&#10;       xmlns:aop=&quot;http://www.springframework.org/schema/aop&quot;&#10;       xmlns:tx=&quot;http://www.springframework.org/schema/tx&quot;&#10;       xmlns:p=&quot;http://www.springframework.org/schema/p&quot;&#10;       xmlns:mvc=&quot;http://www.springframework.org/schema/mvc&quot;&#10;       xsi:schemaLocation=&quot;http://www.springframework.org/schema/beans&#10;       http://www.springframework.org/schema/beans/spring-beans-4.3.xsd&#10;       http://www.springframework.org/schema/mvc&#10;       http://www.springframework.org/schema/mvc/spring-mvc.xsd&#10;       http://www.springframework.org/schema/context&#10;       http://www.springframework.org/schema/context/spring-context-4.3.xsd&#10;       http://www.springframework.org/schema/tx&#10;       http://www.springframework.org/schema/tx/spring-tx-4.3.xsd&#10;       http://www.springframework.org/schema/aop&#10;       http://www.springframework.org/schema/aop/spring-aop-4.3.xsd&quot;&gt;$END$" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="&lt;bs4import" value="&lt;!--&#10;  注：此处之所以要加上 ${pageContext.request.contextPath} 这句话是因为项目的部署根路径在开发时是不确定的，&#10;  即便我们现在可以自己决定这个问题，然而如果是将项目给别人却并非总是如此！&#10;--&gt;&#10;&lt;script src=&quot;${pageContext.request.contextPath}/statics/commons/js/jquery.min.js&quot;&gt;&lt;/script&gt;&#10;&lt;link href=&quot;${pageContext.request.contextPath}/statics/commons/css/bootstrap.min.css&quot; rel=&quot;stylesheet&quot;/&gt;&#10;&lt;script src=&quot;${pageContext.request.contextPath}/statics/commons/js/bootstrap.min.js&quot;&gt;&lt;/script&gt;&#10;$END$" description="import introduction of bootstrap4 dependence" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+  <template name="react" value="&lt;!--引入相应 react 的 js 类库--&gt;&#10;&lt;script src='../js/react.min.js'&gt;&lt;/script&gt;&#10;&lt;script src='../js/react-dom.min.js'&gt;&lt;/script&gt;&#10;&lt;script src='../js/browser.min.js'&gt;&lt;/script&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="hibernate" value="&lt;?xml version='1.0' encoding='utf-8'?&gt;&#10;&lt;!DOCTYPE hibernate-mapping PUBLIC&#10;  &quot;-//Hibernate/Hibernate Mapping DTD 3.0//EN&quot;&#10;  &quot;http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd&quot;&gt;&#10;&lt;hibernate-mapping&gt;&#10;  &lt;class name=&quot;$className$&quot; table=&quot;$tableName$&quot; schema=&quot;$databaseName$&quot;&gt;&#10;    $END$&#10;  &lt;/class&gt;&#10;&lt;/hibernate-mapping&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="tableName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="databaseName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="web" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;web-app xmlns=&quot;http://xmlns.jcp.org/xml/ns/javaee&quot;&#10;         xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&#10;         xsi:schemaLocation=&quot;http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd&quot;&#10;         version=&quot;3.1&quot;&gt;&#10;  $END$&#10;&lt;/web-app&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="springMVCDispatcher" value="&lt;!--配置 Spring 核心控制器--&gt;&#10;  &lt;servlet&gt;&#10;    &lt;servlet-name&gt;springmvc&lt;/servlet-name&gt;&#10;    &lt;servlet-class&gt;org.springframework.web.servlet.DispatcherServlet&lt;/servlet-class&gt;&#10;    &lt;!--加载 Spring 环境--&gt;&#10;    &lt;init-param&gt;&#10;      &lt;param-name&gt;contextConfigLocation&lt;/param-name&gt;&#10;      &lt;!--这个是整合的 Spring 配置文件，包含全部的 dao,service,web 层--&gt;&#10;      &lt;param-value&gt;classpath:$springMVCLocation$&lt;/param-value&gt;&#10;    &lt;/init-param&gt;&#10;    &lt;!--启动就加载（默认为延迟加载 0）--&gt;&#10;    &lt;load-on-startup&gt;1&lt;/load-on-startup&gt;&#10;  &lt;/servlet&gt;&#10;  &lt;servlet-mapping&gt;&#10;    &lt;servlet-name&gt;springmvc&lt;/servlet-name&gt;&#10;    &lt;url-pattern&gt;/&lt;/url-pattern&gt;&#10;  &lt;/servlet-mapping&gt;&#10;&#10;  &lt;!--配置 SpringMVC 自带的编码格式过滤器(防止中文乱码啦)--&gt;&#10;  &lt;filter&gt;&#10;    &lt;filter-name&gt;CharacterEncoding&lt;/filter-name&gt;&#10;    &lt;filter-class&gt;org.springframework.web.filter.CharacterEncodingFilter&lt;/filter-class&gt;&#10;    &lt;init-param&gt;&#10;      &lt;param-name&gt;encoding&lt;/param-name&gt;&#10;      &lt;param-value&gt;UTF-8&lt;/param-value&gt;&#10;    &lt;/init-param&gt;&#10;    &lt;init-param&gt;&#10;      &lt;param-name&gt;forceEncoding&lt;/param-name&gt;&#10;      &lt;param-value&gt;true&lt;/param-value&gt;&#10;    &lt;/init-param&gt;&#10;  &lt;/filter&gt;&#10;  &lt;filter-mapping&gt;&#10;    &lt;filter-name&gt;CharacterEncoding&lt;/filter-name&gt;&#10;    &lt;url-pattern&gt;/*&lt;/url-pattern&gt;&#10;  &lt;/filter-mapping&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="springMVCLocation" expression="" defaultValue="applicationContext.xml" alwaysStopAt="true" />
+    <context>
+      <option name="XML_TEXT" value="true" />
     </context>
   </template>
 </templateSet>

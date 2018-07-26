@@ -1,0 +1,8 @@
+<templateSet group="html/xml">
+  <template name="region" value="&lt;!--region $title$--&gt;&#10;&#10;$END$&#10;&#10;&lt;!--endregion--&gt;" description="create a comment for the xml file" toReformat="false" toShortenFQNames="true">
+    <variable name="title" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>

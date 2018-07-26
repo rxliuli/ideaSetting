@@ -3,24 +3,24 @@
     <option name="stateHostTargets">
       <list>
         <WebDeploymentTransportHostTarget>
-          <option name="hostId" value="0371af10-26c9-411b-a350-4673f351cd02" />
+          <option name="hostId" value="1a94a446-6b27-473f-a0aa-80979d8abdba" />
           <option name="target">
             <TransportTarget>
-              <option name="id" value="8f1525b3-0203-4ec6-a833-5bf917e49665" />
-              <id>8f1525b3-0203-4ec6-a833-5bf917e49665</id>
+              <option name="id" value="a088b953-78dd-4871-a32b-7e99522a0dd8" />
+              <id>a088b953-78dd-4871-a32b-7e99522a0dd8</id>
             </TransportTarget>
           </option>
           <option name="targetPath" value="" />
         </WebDeploymentTransportHostTarget>
         <WebDeploymentTransportHostTarget>
-          <option name="hostId" value="0371af10-26c9-411b-a350-4673f351cd02" />
+          <option name="hostId" value="1a94a446-6b27-473f-a0aa-80979d8abdba" />
           <option name="target">
             <TransportTarget>
-              <option name="id" value="0ad6d640-7527-4139-bd42-d069a3fbe7ed" />
-              <id>0ad6d640-7527-4139-bd42-d069a3fbe7ed</id>
+              <option name="id" value="c95ed230-524a-46e4-a491-9105131953f5" />
+              <id>c95ed230-524a-46e4-a491-9105131953f5</id>
             </TransportTarget>
           </option>
-          <option name="targetPath" value="/mytimeline" />
+          <option name="targetPath" value="/opt/apache-tomcat-8.5.29/webapps/Interview" />
         </WebDeploymentTransportHostTarget>
       </list>
     </option>
