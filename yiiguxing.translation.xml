@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="throttle" />
+      <item value="debounce" />
+      <item value="delay" />
       <item value="str Some" />
       <item value="Cannot execute request on any known server" />
       <item value="Create a new resource by POSTing the given object to the URI template, * and returns the representation found in the response. * &lt;p&gt;URI Template variables are expanded using the given map. * &lt;p&gt;The {@code request} parameter can be a {@link HttpEntity} in order to * add additional HTTP headers to the request." />
@@ -48,9 +51,6 @@
       <item value="Aspect" />
       <item value="alert Statu" />
       <item value="container" />
-      <item value="confirm" />
-      <item value="user Info Detial" />
-      <item value="apache" />
     </histories>
   </component>
 </application>
