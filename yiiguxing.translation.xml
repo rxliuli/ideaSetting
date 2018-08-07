@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Has been loaded by XML or SqlProvider, ignoring the injection of the SQL." />
+      <item value="add Allowed Origin" />
       <item value="throttle" />
       <item value="debounce" />
       <item value="delay" />
@@ -49,8 +51,6 @@
       <item value="max Elements In Memory" />
       <item value="max Entries Local Disk" />
       <item value="Aspect" />
-      <item value="alert Statu" />
-      <item value="container" />
     </histories>
   </component>
 </application>
