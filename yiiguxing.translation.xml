@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Not a managed type: class f3d.entity.Player" />
       <item value="Not a managed type: class f3d.entity.Dealer" />
       <item value="managed" />
       <item value="set Exception Mappings" />
@@ -50,7 +51,6 @@
       <item value="org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535 Error: authentication failed" />
       <item value="repeat Interval" />
       <item value="start Delay" />
-      <item value="repeat Count" />
     </histories>
   </component>
 </application>
