@@ -34,11 +34,6 @@
       <SOURCES />
     </library>
     <library name="react" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://D:/Text/HTML/框架&amp;类库/react-0.14.3/build" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://D:/Text/HTML/框架&amp;类库/react-0.14.3/build" />
       </CLASSES>
