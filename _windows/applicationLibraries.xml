@@ -34,20 +34,13 @@
       <SOURCES />
     </library>
     <library name="react" type="javaScript">
-      <CLASSES>
-        <root url="file://D:/Text/HTML/框架&amp;类库/react-0.14.3/build" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
-    </library>
-    <library name="vue" type="javaScript">
       <properties>
         <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_vue_dist_vue.js" />
+          <item url="file://D:/Text/HTML/框架&amp;类库/react-0.14.3/build" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_vue_dist_vue.js" />
+        <root url="file://D:/Text/HTML/框架&amp;类库/react-0.14.3/build" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />

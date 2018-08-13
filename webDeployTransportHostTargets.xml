@@ -22,26 +22,6 @@
           </option>
           <option name="targetPath" value="/opt/apache-tomcat-8.5.29/webapps/Interview" />
         </WebDeploymentTransportHostTarget>
-        <WebDeploymentTransportHostTarget>
-          <option name="hostId" value="f8b04dfa-8095-4d4b-8290-5d52570d6e25" />
-          <option name="target">
-            <TransportTarget>
-              <option name="id" value="5e11ce0b-038e-4b68-b0c1-9886240cd74e" />
-              <id>5e11ce0b-038e-4b68-b0c1-9886240cd74e</id>
-            </TransportTarget>
-          </option>
-          <option name="targetPath" value="" />
-        </WebDeploymentTransportHostTarget>
-        <WebDeploymentTransportHostTarget>
-          <option name="hostId" value="f8b04dfa-8095-4d4b-8290-5d52570d6e25" />
-          <option name="target">
-            <TransportTarget>
-              <option name="id" value="eff56f30-59a8-41f5-a827-4f4949fa26e0" />
-              <id>eff56f30-59a8-41f5-a827-4f4949fa26e0</id>
-            </TransportTarget>
-          </option>
-          <option name="targetPath" value="/" />
-        </WebDeploymentTransportHostTarget>
       </list>
     </option>
   </component>
