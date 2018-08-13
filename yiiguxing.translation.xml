@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Error creating bean with name 'com.rx.f3d.module.user.service.UserServiceTest': Unsatisfied dependency expressed through field 'base'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'java.lang.Object' available: expected single matching bean but found 2: userServiceImpl,userService" />
+      <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.rx.f3d.module.user.service.UserService.listForAll" />
       <item value="Cannot execute request on any known server" />
       <item value="Create a new resource by POSTing the given object to the URI template, * and returns the representation found in the response. * &lt;p&gt;URI Template variables are expanded using the given map. * &lt;p&gt;The {@code request} parameter can be a {@link HttpEntity} in order to * add additional HTTP headers to the request." />
       <item value="uriVariables the variables to expand the template" />
@@ -49,8 +51,6 @@
       <item value="container" />
       <item value="confirm" />
       <item value="user Info Detial" />
-      <item value="apache" />
-      <item value="Service Aop" />
     </histories>
   </component>
 </application>
