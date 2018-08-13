@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Not a managed type: class f3d.entity.Dealer" />
+      <item value="managed" />
+      <item value="set Exception Mappings" />
       <item value="Dealer Service" />
       <item value="Has been loaded by XML or SqlProvider, ignoring the injection of the SQL." />
       <item value="add Allowed Origin" />
@@ -48,9 +51,6 @@
       <item value="repeat Interval" />
       <item value="start Delay" />
       <item value="repeat Count" />
-      <item value="memory Store Eviction Policy" />
-      <item value="max Elements In Memory" />
-      <item value="max Entries Local Disk" />
     </histories>
   </component>
 </application>
