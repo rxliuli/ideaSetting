@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to load ApplicationContext" />
+      <item value="Error creating bean with name 'sqlSessionFactory' defined in class path resource" />
       <item value="Error creating bean with name 'com.rx.f3d.module.user.service.UserServiceTest': Unsatisfied dependency expressed through field 'base'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'java.lang.Object' available: expected single matching bean but found 2: userServiceImpl,userService" />
       <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.rx.f3d.module.user.service.UserService.listForAll" />
       <item value="Cannot execute request on any known server" />
@@ -49,8 +51,6 @@
       <item value="Aspect" />
       <item value="alert Statu" />
       <item value="container" />
-      <item value="confirm" />
-      <item value="user Info Detial" />
     </histories>
   </component>
 </application>
