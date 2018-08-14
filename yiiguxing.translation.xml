@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="through reference chain: com.rx.f3d.module.entity.user.User[&quot;code&quot;]" />
+      <item value="com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field &quot;code&quot; (class com.rx.f3d.module.entity.user.User), not marked as ignorable (4 known properties: &quot;id&quot;, &quot;sex&quot;, &quot;age&quot;, &quot;name&quot;])" />
       <item value="&lt;a href=&quot;https://commons.apache.org/proper/commons-text/javadocs/api-release/org/apache/commons/text/StringEscapeUtils.html&quot;&gt; * StringEscapeUtils&lt;/a&gt; instead" />
       <item value="&lt;p&gt;Escapes and unescapes {@code String}s for * Java, Java Script, HTML and XML.&lt;/p&gt; *" />
       <item value="&gt;Supports all known HTML 4.0 entities, including funky accents. * Note that the commonly used apostrophe escape character (&amp;amp;apos;) * is not a legal entity and so is not supported). &lt;/p&gt;" />
@@ -49,8 +51,6 @@
       <item value="org.springframework.aop.aspectj.AspectJExpressionPointcut-PointcutExpression matching rejected target method" />
       <item value="Expected" />
       <item value="expected" />
-      <item value="Bean Not Of Required Type Exception" />
-      <item value="SUPPORTS" />
     </histories>
   </component>
 </application>
