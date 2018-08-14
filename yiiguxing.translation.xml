@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="2018-08-14 11:54:01,306 [http-nio-8181-exec-4] DEBUG org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor.writeWithMessageConverters - Written [{timestamp=Tue Aug 14 11:54:01 CST 2018, status=404, error=Not Found, message=No message available, path=/user/listForAll/1}] as &quot;application/json&quot; using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@5ac7550a]" />
+      <item value="Successfully completed request" />
+      <item value="Returning cached instance of singleton bean 'basicErrorController'" />
+      <item value="DispatcherServlet with name 'dispatcherServlet' processing GET request for [/error]" />
+      <item value="Cleared thread-bound request context: org.apache.catalina.connector.RequestFacade@7727fe4f" />
+      <item value="Null ModelAndView returned to DispatcherServlet with name 'dispatcherServlet': assuming HandlerAdapter completed request handling" />
       <item value="* &lt;p&gt;Types that carry this annotation are treated as controller advice where * {@link ExceptionHandler @ExceptionHandler} methods assume * {@link ResponseBody @ResponseBody} semantics by default." />
       <item value="A convenience annotation that is itself annotated with * {@link ControllerAdvice @ControllerAdvice} * and {@link ResponseBody @ResponseBody}. *" />
       <item value="No Handler Found Exception" />
@@ -45,12 +51,6 @@
       <item value="org.springframework.mail.MailSendException: Mail server connection failed; nested exception is javax.mail.MessagingException: Could not connect to SMTP host: smtp.gmail.com, port: 25;" />
       <item value="com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. w88sm43756627pfa.50 - gsmtp" />
       <item value="530 5.7.0 Must issue a STARTTLS command first. w88sm43756627pfa.50 - gsmtp" />
-      <item value="org.springframework.mail.MailSendException: Failed messages: com.sun.mail.smtp.SMTPSendFailedException: 554 DT:SPM 163 smtp11,D8CowABHBRGFJ6FazsIFJA--.760S2 1520510853,please see" />
-      <item value="org.springframework.mail.MailSendException: Failed messages: com.sun.mail.smtp.SMTPSendFailedException: 554 DT:SPM 163 smtp12,EMCowADn6aTgJqFaITrYDQ--.30671S2 1520510689,please see" />
-      <item value="org.springframework.mail.MailSendException: Failed messages: com.sun.mail.smtp.SMTPSendFailedException: 553 Mail from must equal authorized user ;" />
-      <item value="nested exception is: com.sun.mail.smtp.SMTPSenderFailedException: 553 Mail from must equal authorized user" />
-      <item value="org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535 Error: authentication failed" />
-      <item value="repeat Interval" />
     </histories>
   </component>
 </application>
