@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* &lt;p&gt;Types that carry this annotation are treated as controller advice where * {@link ExceptionHandler @ExceptionHandler} methods assume * {@link ResponseBody @ResponseBody} semantics by default." />
+      <item value="A convenience annotation that is itself annotated with * {@link ControllerAdvice @ControllerAdvice} * and {@link ResponseBody @ResponseBody}. *" />
       <item value="No Handler Found Exception" />
       <item value="Specialization of {@link Component @Component} for classes that declare * {@link ExceptionHandler @ExceptionHandler}, {@link InitBinder @InitBinder}, or * {@link ModelAttribute @ModelAttribute} methods to be shared across * multiple {@code @Controller} classes." />
       <item value="Marks a method or exception class with the status {@link #code} and * {@link #reason} that should be returned. * * &lt;p&gt;The status code is applied to the HTTP response when the handler * method is invoked and overrides status information set by other means, * like {@code ResponseEntity} or {@code &quot;redirect:&quot;}." />
@@ -49,8 +51,6 @@
       <item value="nested exception is: com.sun.mail.smtp.SMTPSenderFailedException: 553 Mail from must equal authorized user" />
       <item value="org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535 Error: authentication failed" />
       <item value="repeat Interval" />
-      <item value="start Delay" />
-      <item value="repeat Count" />
     </histories>
   </component>
 </application>
