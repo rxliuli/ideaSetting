@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cause: org.h2.jdbc.JdbcSQLException: Numeric value out of range: &quot;1029302887455449090&quot; in column &quot;ID&quot;; SQL statement:" />
+      <item value="The error may involve com.rx.f3d.module.dao.user.UserDao.insert-Inline ### The error occurred while setting parameters" />
+      <item value="SQL State SQL Exception Translator . do Translate" />
+      <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.reflection.ReflectionException: Could not set property 'id' of 'class com.rx.f3d.module.entity.user.User' with value '1029301966084370434' Cause: java.lang.IllegalArgumentException: argument type mismatch" />
+      <item value="rejected value [rx];" />
+      <item value="Content type not set" />
+      <item value="Error creating bean with name 'com.rx.f3d.module.web.user.UserControllerTest': Unsatisfied dependency expressed through field 'controller'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException:" />
       <item value="Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'objectMapper' defined in class path resource [com/rx/f3d/common/web/WebCommonConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.fasterxml.jackson.databind.ObjectMapper]: Factory method 'objectMapper' threw exception; nested exception is java.lang.NullPointerException" />
       <item value="2018-08-14 11:54:01,306 [http-nio-8181-exec-4] DEBUG org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor.writeWithMessageConverters - Written [{timestamp=Tue Aug 14 11:54:01 CST 2018, status=404, error=Not Found, message=No message available, path=/user/listForAll/1}] as &quot;application/json&quot; using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@5ac7550a]" />
       <item value="Successfully completed request" />
@@ -44,13 +51,6 @@
       <item value="slow" />
       <item value="always Active Profile" />
       <item value="profile &quot;alwaysActiveProfile&quot; could not be activated because it does not exist." />
-      <item value="No bean named 'mailSender' available" />
-      <item value="javax.mail.MessagingException: Could not connect to SMTP host: smtp.gmail.com, port: 465;" />
-      <item value="5000" />
-      <item value="org.springframework.mail.MailSendException: Mail server connection failed; nested exception is javax.mail.MessagingException: Could not connect to SMTP host: smtp.gmail.com, port: 465;" />
-      <item value="Could not connect to SMTP host: smtp.gmail.com, port: 465;" />
-      <item value="org.springframework.mail.MailSendException: Mail server connection failed; nested exception is javax.mail.MessagingException: Could not connect to SMTP host: smtp.gmail.com, port: 25;" />
-      <item value="com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. w88sm43756627pfa.50 - gsmtp" />
     </histories>
   </component>
 </application>
