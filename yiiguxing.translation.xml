@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&lt;a href=&quot;https://commons.apache.org/proper/commons-text/javadocs/api-release/org/apache/commons/text/StringEscapeUtils.html&quot;&gt; * StringEscapeUtils&lt;/a&gt; instead" />
+      <item value="&lt;p&gt;Escapes and unescapes {@code String}s for * Java, Java Script, HTML and XML.&lt;/p&gt; *" />
+      <item value="&gt;Supports all known HTML 4.0 entities, including funky accents. * Note that the commonly used apostrophe escape character (&amp;amp;apos;) * is not a legal entity and so is not supported). &lt;/p&gt;" />
+      <item value="&lt;p&gt;Escapes the characters in a {@code String} using HTML entities.&lt;/p&gt; * * &lt;p&gt; * For example:" />
       <item value="Content type 'application/javascript;charset=UTF-8' not supported" />
       <item value="Failed to resolve argument 0 of type 'com.rx.f3d.module.entity.user.User'" />
       <item value="Field error in object 'user' on field 'name': rejected value [rx]; codes [typeMismatch.user.name,typeMismatch.name,typeMismatch.java.lang.String,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [user.name,name]; arguments []; default message [name]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.lang.String' for property 'name'; nested exception is java.lang.IllegalArgumentException: rx]" />
@@ -47,10 +51,6 @@
       <item value="expected" />
       <item value="Bean Not Of Required Type Exception" />
       <item value="SUPPORTS" />
-      <item value="defined" />
-      <item value="mtuil" />
-      <item value="mutil" />
-      <item value="stop Key" />
     </histories>
   </component>
 </application>
