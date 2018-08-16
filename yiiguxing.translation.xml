@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="message from server: &quot;Host '59.41.116.237' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts'&quot;" />
+      <item value="ERROR com.alibaba.druid.pool.DruidDataSource.run - create connection SQLException, url: jdbc:mysql://119.23.78.171:3306/f3ddb?useUnicode=true&amp;characterEncoding=UTF-8&amp;useSSL=false, errorCode 1129, state HY000" />
+      <item value="message from server: &quot;Host '59.41.116.237' is blocked because of many connection errors;" />
+      <item value="com.alibaba.druid.pool.DruidDataSource.run - create connection SQLException, url: jdbc:mysql://119.23.78.171:3306/mytimelinedb?useUnicode=true&amp;characterEncoding=UTF-8&amp;useSSL=false, errorCode 1044, state 42000" />
+      <item value="jdbc:mysql://119.23.78.171:3306/mytimelinedb?useUnicode=true&amp;characterEncoding=UTF-8&amp;useSSL=true, errorCode 0, state 08S01" />
+      <item value="javax.net.ssl.SSLHandshakeException: java.security.cert.CertificateException: java.security.cert" />
       <item value="through reference chain: com.rx.f3d.module.entity.user.User[&quot;code&quot;]" />
       <item value="com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field &quot;code&quot; (class com.rx.f3d.module.entity.user.User), not marked as ignorable (4 known properties: &quot;id&quot;, &quot;sex&quot;, &quot;age&quot;, &quot;name&quot;])" />
       <item value="&lt;a href=&quot;https://commons.apache.org/proper/commons-text/javadocs/api-release/org/apache/commons/text/StringEscapeUtils.html&quot;&gt; * StringEscapeUtils&lt;/a&gt; instead" />
@@ -45,12 +51,6 @@
       <item value="Choose" />
       <item value="[2018-03-13 10:59:31] Unable to find rebel.xml in artifact Interview:war. This file is required to enable JRebel reloading." />
       <item value="call Super" />
-      <item value="Platform Transaction Manager" />
-      <item value="Illegal State Exception" />
-      <item value="Failed to retrieve PlatformTransactionManager" />
-      <item value="org.springframework.aop.aspectj.AspectJExpressionPointcut-PointcutExpression matching rejected target method" />
-      <item value="Expected" />
-      <item value="expected" />
     </histories>
   </component>
 </application>
