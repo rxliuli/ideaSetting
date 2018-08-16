@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="java.lang.AssertionError: JSON path &quot;$.data.password&quot; Expected :12345678910 Actual :123456" />
+      <item value="expected &quot;CHECK, REFERENCES, ,, )&quot;; SQL statement:" />
+      <item value="Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sqlSessionFactory' defined in class path resource" />
+      <item value="Unsatisfied dependency expressed through field 'tokenAuthInterceptor'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException:" />
+      <item value="Expected" />
       <item value="Unsatisfied dependency expressed through field 'base'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'java.lang.Object' available: expected single matching bean but found 3: systemEnvironment,contextParameters,contextAttributes" />
       <item value="exists" />
       <item value="The Token has expired on Thu Aug 16 18:15:42 CST 2018." />
@@ -46,11 +51,6 @@
       <item value="Successfully completed request" />
       <item value="Returning cached instance of singleton bean 'basicErrorController'" />
       <item value="DispatcherServlet with name 'dispatcherServlet' processing GET request for [/error]" />
-      <item value="Cleared thread-bound request context: org.apache.catalina.connector.RequestFacade@7727fe4f" />
-      <item value="Null ModelAndView returned to DispatcherServlet with name 'dispatcherServlet': assuming HandlerAdapter completed request handling" />
-      <item value="* &lt;p&gt;Types that carry this annotation are treated as controller advice where * {@link ExceptionHandler @ExceptionHandler} methods assume * {@link ResponseBody @ResponseBody} semantics by default." />
-      <item value="A convenience annotation that is itself annotated with * {@link ControllerAdvice @ControllerAdvice} * and {@link ResponseBody @ResponseBody}. *" />
-      <item value="No Handler Found Exception" />
     </histories>
   </component>
 </application>
