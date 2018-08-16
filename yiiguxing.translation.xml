@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unsatisfied dependency expressed through field 'base'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'java.lang.Object' available: expected single matching bean but found 3: systemEnvironment,contextParameters,contextAttributes" />
       <item value="exists" />
       <item value="The Token has expired on Thu Aug 16 18:15:42 CST 2018." />
       <item value="failed" />
@@ -50,7 +51,6 @@
       <item value="* &lt;p&gt;Types that carry this annotation are treated as controller advice where * {@link ExceptionHandler @ExceptionHandler} methods assume * {@link ResponseBody @ResponseBody} semantics by default." />
       <item value="A convenience annotation that is itself annotated with * {@link ControllerAdvice @ControllerAdvice} * and {@link ResponseBody @ResponseBody}. *" />
       <item value="No Handler Found Exception" />
-      <item value="Specialization of {@link Component @Component} for classes that declare * {@link ExceptionHandler @ExceptionHandler}, {@link InitBinder @InitBinder}, or * {@link ModelAttribute @ModelAttribute} methods to be shared across * multiple {@code @Controller} classes." />
     </histories>
   </component>
 </application>
