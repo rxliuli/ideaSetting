@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="作废" />
+      <item value="com.auth0.jwt.exceptions.TokenExpiredException: The Token has expired on Thu Aug 16 16:57:16 CST 2018." />
+      <item value="com.auth0.jwt.exceptions.InvalidClaimException: The Claim 'iss' value doesn't match the required one." />
+      <item value="com.auth0.jwt.exceptions.AlgorithmMismatchException: The provided Algorithm doesn't match the one defined in the JWT's Header." />
+      <item value="decode" />
+      <item value="with Issued At" />
+      <item value="with Issuer" />
+      <item value="com.auth0.jwt.exceptions.JWTDecodeException: The string 'k&quot;typ&quot;:&quot;JWT&quot;,&quot;alg&quot;:&quot;HS256&quot;}' doesn't have a valid JSON format." />
+      <item value="Add a specific Subject (&quot;sub&quot;) claim to the Payload." />
       <item value="message from server: &quot;Host '59.41.116.237' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts'&quot;" />
       <item value="ERROR com.alibaba.druid.pool.DruidDataSource.run - create connection SQLException, url: jdbc:mysql://119.23.78.171:3306/f3ddb?useUnicode=true&amp;characterEncoding=UTF-8&amp;useSSL=false, errorCode 1129, state HY000" />
       <item value="message from server: &quot;Host '59.41.116.237' is blocked because of many connection errors;" />
@@ -42,15 +51,6 @@
       <item value="Find a single {@link Annotation} of {@code annotationType} on the * supplied {@link Class}, traversing its interfaces, annotations, and * superclasses if the annotation is not &lt;em&gt;directly present&lt;/em&gt; on * the given class itself." />
       <item value="Failed to load ApplicationContext" />
       <item value="Error creating bean with name 'sqlSessionFactory' defined in class path resource" />
-      <item value="Error creating bean with name 'com.rx.f3d.module.user.service.UserServiceTest': Unsatisfied dependency expressed through field 'base'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'java.lang.Object' available: expected single matching bean but found 2: userServiceImpl,userService" />
-      <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.rx.f3d.module.user.service.UserService.listForAll" />
-      <item value="Cannot execute request on any known server" />
-      <item value="Create a new resource by POSTing the given object to the URI template, * and returns the representation found in the response. * &lt;p&gt;URI Template variables are expanded using the given map. * &lt;p&gt;The {@code request} parameter can be a {@link HttpEntity} in order to * add additional HTTP headers to the request." />
-      <item value="uriVariables the variables to expand the template" />
-      <item value="stderr" />
-      <item value="Choose" />
-      <item value="[2018-03-13 10:59:31] Unable to find rebel.xml in artifact Interview:war. This file is required to enable JRebel reloading." />
-      <item value="call Super" />
     </histories>
   </component>
 </application>
