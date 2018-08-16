@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invalid bound statement (not found): com.rx.f3d.module.dao.user.UserTokenDao.updateById" />
+      <item value="The token was expected to have 3 parts, but got 1." />
+      <item value="com.rx.f3d.common.util.OAuthTokenUtil.verifyToken - token verify failed" />
+      <item value="java.lang.AssertionError: Content type Expected :application/json;charset=UTF-8 Actual :text/html" />
+      <item value="com.rx.f3d.common.web.JsonResult cannot be cast to java.lang.String" />
       <item value="java.lang.AssertionError: JSON path &quot;$.data.password&quot; Expected :12345678910 Actual :123456" />
       <item value="expected &quot;CHECK, REFERENCES, ,, )&quot;; SQL statement:" />
       <item value="Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sqlSessionFactory' defined in class path resource" />
@@ -46,11 +51,6 @@
       <item value="rejected value [rx];" />
       <item value="Content type not set" />
       <item value="Error creating bean with name 'com.rx.f3d.module.web.user.UserControllerTest': Unsatisfied dependency expressed through field 'controller'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException:" />
-      <item value="Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'objectMapper' defined in class path resource [com/rx/f3d/common/web/WebCommonConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.fasterxml.jackson.databind.ObjectMapper]: Factory method 'objectMapper' threw exception; nested exception is java.lang.NullPointerException" />
-      <item value="2018-08-14 11:54:01,306 [http-nio-8181-exec-4] DEBUG org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor.writeWithMessageConverters - Written [{timestamp=Tue Aug 14 11:54:01 CST 2018, status=404, error=Not Found, message=No message available, path=/user/listForAll/1}] as &quot;application/json&quot; using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@5ac7550a]" />
-      <item value="Successfully completed request" />
-      <item value="Returning cached instance of singleton bean 'basicErrorController'" />
-      <item value="DispatcherServlet with name 'dispatcherServlet' processing GET request for [/error]" />
     </histories>
   </component>
 </application>
