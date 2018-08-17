@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MULTI STATUS" />
+      <item value="MULTIPLE CHOICES" />
       <item value="concat" />
       <item value="org.springframework.web.multipart.MultipartException: Current request is not a multipart request" />
       <item value="ERROR org.springframework.boot.SpringApplication.reportFailure - Application startup faile" />
@@ -49,8 +51,6 @@
       <item value="&lt;p&gt;Escapes the characters in a {@code String} using HTML entities.&lt;/p&gt; * * &lt;p&gt; * For example:" />
       <item value="Content type 'application/javascript;charset=UTF-8' not supported" />
       <item value="Failed to resolve argument 0 of type 'com.rx.f3d.module.entity.user.User'" />
-      <item value="Field error in object 'user' on field 'name': rejected value [rx]; codes [typeMismatch.user.name,typeMismatch.name,typeMismatch.java.lang.String,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [user.name,name]; arguments []; default message [name]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.lang.String' for property 'name'; nested exception is java.lang.IllegalArgumentException: rx]" />
-      <item value="Field error in object 'user' on field 'name': rejected value [rx]; codes [typeMismatch.user.name,typeMismatch.name,typeMismatch.java.lang.String,typeMismatch];" />
     </histories>
   </component>
 </application>
