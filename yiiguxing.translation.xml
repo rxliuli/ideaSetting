@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ERROR org.springframework.boot.SpringApplication.reportFailure - Application startup faile" />
+      <item value="Logback configuration error detected:" />
+      <item value="or whenever the file size reaches" />
       <item value="相对" />
       <item value="custom" />
       <item value="costom" />
@@ -48,9 +51,6 @@
       <item value="Field error in object 'user' on field 'name': rejected value [rx]; codes [typeMismatch.user.name,typeMismatch.name,typeMismatch.java.lang.String,typeMismatch];" />
       <item value="java.lang.AssertionError: No value at JSON path &quot;$.code&quot;: java.lang.IllegalArgumentException: json can not be null or empty" />
       <item value="Cause: org.h2.jdbc.JdbcSQLException: Numeric value out of range: &quot;1029302887455449090&quot; in column &quot;ID&quot;; SQL statement:" />
-      <item value="The error may involve com.rx.f3d.module.dao.user.UserDao.insert-Inline ### The error occurred while setting parameters" />
-      <item value="SQL State SQL Exception Translator . do Translate" />
-      <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.reflection.ReflectionException: Could not set property 'id' of 'class com.rx.f3d.module.entity.user.User' with value '1029301966084370434' Cause: java.lang.IllegalArgumentException: argument type mismatch" />
     </histories>
   </component>
 </application>
