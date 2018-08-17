@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="相对" />
       <item value="custom" />
       <item value="costom" />
       <item value="Invalid bound statement (not found): com.rx.f3d.module.dao.user.UserTokenDao.updateById" />
@@ -50,7 +51,6 @@
       <item value="The error may involve com.rx.f3d.module.dao.user.UserDao.insert-Inline ### The error occurred while setting parameters" />
       <item value="SQL State SQL Exception Translator . do Translate" />
       <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.reflection.ReflectionException: Could not set property 'id' of 'class com.rx.f3d.module.entity.user.User' with value '1029301966084370434' Cause: java.lang.IllegalArgumentException: argument type mismatch" />
-      <item value="rejected value [rx];" />
     </histories>
   </component>
 </application>
