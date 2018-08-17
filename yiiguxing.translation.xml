@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="uid" />
       <item value="MULTI STATUS" />
       <item value="MULTIPLE CHOICES" />
       <item value="concat" />
@@ -50,7 +51,6 @@
       <item value="&gt;Supports all known HTML 4.0 entities, including funky accents. * Note that the commonly used apostrophe escape character (&amp;amp;apos;) * is not a legal entity and so is not supported). &lt;/p&gt;" />
       <item value="&lt;p&gt;Escapes the characters in a {@code String} using HTML entities.&lt;/p&gt; * * &lt;p&gt; * For example:" />
       <item value="Content type 'application/javascript;charset=UTF-8' not supported" />
-      <item value="Failed to resolve argument 0 of type 'com.rx.f3d.module.entity.user.User'" />
     </histories>
   </component>
 </application>
