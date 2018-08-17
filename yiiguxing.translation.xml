@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="custom" />
+      <item value="costom" />
       <item value="Invalid bound statement (not found): com.rx.f3d.module.dao.user.UserTokenDao.updateById" />
       <item value="The token was expected to have 3 parts, but got 1." />
       <item value="com.rx.f3d.common.util.OAuthTokenUtil.verifyToken - token verify failed" />
@@ -49,8 +51,6 @@
       <item value="SQL State SQL Exception Translator . do Translate" />
       <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.reflection.ReflectionException: Could not set property 'id' of 'class com.rx.f3d.module.entity.user.User' with value '1029301966084370434' Cause: java.lang.IllegalArgumentException: argument type mismatch" />
       <item value="rejected value [rx];" />
-      <item value="Content type not set" />
-      <item value="Error creating bean with name 'com.rx.f3d.module.web.user.UserControllerTest': Unsatisfied dependency expressed through field 'controller'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException:" />
     </histories>
   </component>
 </application>
