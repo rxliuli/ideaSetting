@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the value associated with {@code key} in this cache, obtaining that value from {@code * loader} if necessary. The method improves upon the conventional &quot;if cached, return; otherwise * create, cache and return&quot; pattern. For further improvements, use {@link LoadingCache} and its * {@link LoadingCache#get(Object) get(K)} method instead of this one. *" />
+      <item value="concurrency Level" />
+      <item value="maximum Size" />
       <item value="uid" />
       <item value="MULTI STATUS" />
       <item value="MULTIPLE CHOICES" />
@@ -48,9 +51,6 @@
       <item value="com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field &quot;code&quot; (class com.rx.f3d.module.entity.user.User), not marked as ignorable (4 known properties: &quot;id&quot;, &quot;sex&quot;, &quot;age&quot;, &quot;name&quot;])" />
       <item value="&lt;a href=&quot;https://commons.apache.org/proper/commons-text/javadocs/api-release/org/apache/commons/text/StringEscapeUtils.html&quot;&gt; * StringEscapeUtils&lt;/a&gt; instead" />
       <item value="&lt;p&gt;Escapes and unescapes {@code String}s for * Java, Java Script, HTML and XML.&lt;/p&gt; *" />
-      <item value="&gt;Supports all known HTML 4.0 entities, including funky accents. * Note that the commonly used apostrophe escape character (&amp;amp;apos;) * is not a legal entity and so is not supported). &lt;/p&gt;" />
-      <item value="&lt;p&gt;Escapes the characters in a {@code String} using HTML entities.&lt;/p&gt; * * &lt;p&gt; * For example:" />
-      <item value="Content type 'application/javascript;charset=UTF-8' not supported" />
     </histories>
   </component>
 </application>
