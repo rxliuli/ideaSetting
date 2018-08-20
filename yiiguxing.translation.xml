@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Field 'invitedCode' doesn't have a default value" />
+      <item value="The error occurred while setting parameters" />
       <item value="is Dealer" />
       <item value="Caused by: org.yaml.snakeyaml.scanner.ScannerException: while scanning for the next token found character '`' that cannot start any token. (Do not use ` for indentation)" />
       <item value="Caused by: org.yaml.snakeyaml.composer.ComposerException: found undefined alias 60lw0MoRjb4 in 'reader', line 10, column 15: password: *60lw0MoRjb4" />
@@ -49,8 +51,6 @@
       <item value="decode" />
       <item value="with Issued At" />
       <item value="with Issuer" />
-      <item value="com.auth0.jwt.exceptions.JWTDecodeException: The string 'k&quot;typ&quot;:&quot;JWT&quot;,&quot;alg&quot;:&quot;HS256&quot;}' doesn't have a valid JSON format." />
-      <item value="Add a specific Subject (&quot;sub&quot;) claim to the Payload." />
     </histories>
   </component>
 </application>
