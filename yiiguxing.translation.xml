@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Checks if any value in the given array is not {@code null}." />
       <item value="Field 'invitedCode' doesn't have a default value" />
       <item value="The error occurred while setting parameters" />
       <item value="is Dealer" />
@@ -50,7 +51,6 @@
       <item value="com.auth0.jwt.exceptions.AlgorithmMismatchException: The provided Algorithm doesn't match the one defined in the JWT's Header." />
       <item value="decode" />
       <item value="with Issued At" />
-      <item value="with Issuer" />
     </histories>
   </component>
 </application>
