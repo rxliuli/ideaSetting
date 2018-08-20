@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Dealer" />
       <item value="Caused by: org.yaml.snakeyaml.scanner.ScannerException: while scanning for the next token found character '`' that cannot start any token. (Do not use ` for indentation)" />
       <item value="Caused by: org.yaml.snakeyaml.composer.ComposerException: found undefined alias 60lw0MoRjb4 in 'reader', line 10, column 15: password: *60lw0MoRjb4" />
       <item value="exception will be logged (using {@link java.util.logging.Logger}) and swallowed&lt;/i&gt;. * * &lt;p&gt;Caches loaded by a {@link CacheLoader} will call {@link CacheLoader#reload} if the cache * currently contains a value for {@code key}, and {@link CacheLoader#load} otherwise. Loading is * asynchronous only if {@link CacheLoader#reload} was overridden with an asynchronous * implementation." />
@@ -50,7 +51,6 @@
       <item value="with Issuer" />
       <item value="com.auth0.jwt.exceptions.JWTDecodeException: The string 'k&quot;typ&quot;:&quot;JWT&quot;,&quot;alg&quot;:&quot;HS256&quot;}' doesn't have a valid JSON format." />
       <item value="Add a specific Subject (&quot;sub&quot;) claim to the Payload." />
-      <item value="message from server: &quot;Host '59.41.116.237' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts'&quot;" />
     </histories>
   </component>
 </application>
