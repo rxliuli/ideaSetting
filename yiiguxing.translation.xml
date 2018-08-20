@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Caused by: org.yaml.snakeyaml.scanner.ScannerException: while scanning for the next token found character '`' that cannot start any token. (Do not use ` for indentation)" />
+      <item value="Caused by: org.yaml.snakeyaml.composer.ComposerException: found undefined alias 60lw0MoRjb4 in 'reader', line 10, column 15: password: *60lw0MoRjb4" />
       <item value="exception will be logged (using {@link java.util.logging.Logger}) and swallowed&lt;/i&gt;. * * &lt;p&gt;Caches loaded by a {@link CacheLoader} will call {@link CacheLoader#reload} if the cache * currently contains a value for {@code key}, and {@link CacheLoader#load} otherwise. Loading is * asynchronous only if {@link CacheLoader#reload} was overridden with an asynchronous * implementation." />
       <item value="the previous value (if any) will continue to be returned by {@code get(key)} unless it is * evicted. If the new value is loaded successfully it will replace the previous value in the * cache; if an exception is thrown while refreshing the previous value will remain, &lt;i&gt;and the" />
       <item value="Loads a new value for key {@code key}, possibly asynchronously. While the new value is loading" />
@@ -49,8 +51,6 @@
       <item value="com.auth0.jwt.exceptions.JWTDecodeException: The string 'k&quot;typ&quot;:&quot;JWT&quot;,&quot;alg&quot;:&quot;HS256&quot;}' doesn't have a valid JSON format." />
       <item value="Add a specific Subject (&quot;sub&quot;) claim to the Payload." />
       <item value="message from server: &quot;Host '59.41.116.237' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts'&quot;" />
-      <item value="ERROR com.alibaba.druid.pool.DruidDataSource.run - create connection SQLException, url: jdbc:mysql://119.23.78.171:3306/f3ddb?useUnicode=true&amp;characterEncoding=UTF-8&amp;useSSL=false, errorCode 1129, state HY000" />
-      <item value="message from server: &quot;Host '59.41.116.237' is blocked because of many connection errors;" />
     </histories>
   </component>
 </application>
