@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exception will be logged (using {@link java.util.logging.Logger}) and swallowed&lt;/i&gt;. * * &lt;p&gt;Caches loaded by a {@link CacheLoader} will call {@link CacheLoader#reload} if the cache * currently contains a value for {@code key}, and {@link CacheLoader#load} otherwise. Loading is * asynchronous only if {@link CacheLoader#reload} was overridden with an asynchronous * implementation." />
+      <item value="the previous value (if any) will continue to be returned by {@code get(key)} unless it is * evicted. If the new value is loaded successfully it will replace the previous value in the * cache; if an exception is thrown while refreshing the previous value will remain, &lt;i&gt;and the" />
+      <item value="Loads a new value for key {@code key}, possibly asynchronously. While the new value is loading" />
+      <item value="com.google.common.cache.CacheLoader$InvalidCacheLoadException: CacheLoader returned null for key" />
+      <item value="Get user by user token failed" />
+      <item value="Get user token failed" />
+      <item value="Get user token serializable failed" />
       <item value="Returns the value associated with {@code key} in this cache, obtaining that value from {@code * loader} if necessary. The method improves upon the conventional &quot;if cached, return; otherwise * create, cache and return&quot; pattern. For further improvements, use {@link LoadingCache} and its * {@link LoadingCache#get(Object) get(K)} method instead of this one. *" />
       <item value="concurrency Level" />
       <item value="maximum Size" />
@@ -44,13 +51,6 @@
       <item value="message from server: &quot;Host '59.41.116.237' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts'&quot;" />
       <item value="ERROR com.alibaba.druid.pool.DruidDataSource.run - create connection SQLException, url: jdbc:mysql://119.23.78.171:3306/f3ddb?useUnicode=true&amp;characterEncoding=UTF-8&amp;useSSL=false, errorCode 1129, state HY000" />
       <item value="message from server: &quot;Host '59.41.116.237' is blocked because of many connection errors;" />
-      <item value="com.alibaba.druid.pool.DruidDataSource.run - create connection SQLException, url: jdbc:mysql://119.23.78.171:3306/mytimelinedb?useUnicode=true&amp;characterEncoding=UTF-8&amp;useSSL=false, errorCode 1044, state 42000" />
-      <item value="jdbc:mysql://119.23.78.171:3306/mytimelinedb?useUnicode=true&amp;characterEncoding=UTF-8&amp;useSSL=true, errorCode 0, state 08S01" />
-      <item value="javax.net.ssl.SSLHandshakeException: java.security.cert.CertificateException: java.security.cert" />
-      <item value="through reference chain: com.rx.f3d.module.entity.user.User[&quot;code&quot;]" />
-      <item value="com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field &quot;code&quot; (class com.rx.f3d.module.entity.user.User), not marked as ignorable (4 known properties: &quot;id&quot;, &quot;sex&quot;, &quot;age&quot;, &quot;name&quot;])" />
-      <item value="&lt;a href=&quot;https://commons.apache.org/proper/commons-text/javadocs/api-release/org/apache/commons/text/StringEscapeUtils.html&quot;&gt; * StringEscapeUtils&lt;/a&gt; instead" />
-      <item value="&lt;p&gt;Escapes and unescapes {@code String}s for * Java, Java Script, HTML and XML.&lt;/p&gt; *" />
     </histories>
   </component>
 </application>
