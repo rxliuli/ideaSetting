@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="acs Client" />
+      <item value="response" />
+      <item value="Send Sms Response" />
+      <item value="region" />
       <item value="Once Per Request Filter" />
       <item value="Checks if any value in the given array is not {@code null}." />
       <item value="Field 'invitedCode' doesn't have a default value" />
@@ -47,10 +51,6 @@
       <item value="fiald" />
       <item value="faild" />
       <item value="作废" />
-      <item value="com.auth0.jwt.exceptions.TokenExpiredException: The Token has expired on Thu Aug 16 16:57:16 CST 2018." />
-      <item value="com.auth0.jwt.exceptions.InvalidClaimException: The Claim 'iss' value doesn't match the required one." />
-      <item value="com.auth0.jwt.exceptions.AlgorithmMismatchException: The provided Algorithm doesn't match the one defined in the JWT's Header." />
-      <item value="decode" />
     </histories>
   </component>
 </application>
