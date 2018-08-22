@@ -5,9 +5,4 @@
       <option name="SQL" value="true" />
     </context>
   </template>
-  <template name="dropTable" value="drop table if exists $END$" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="SQL" value="true" />
-    </context>
-  </template>
 </templateSet>

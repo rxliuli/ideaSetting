@@ -1,20 +1,31 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="winning Key Id List" />
+      <item value="winning Amount" />
+      <item value="winning" />
+      <item value="中奖" />
+      <item value="airdrop" />
+      <item value="bet Date Time" />
+      <item value="dividend Amount" />
+      <item value="income" />
+      <item value="分红" />
+      <item value="income Amount" />
+      <item value="Airdrop" />
+      <item value="推广" />
+      <item value="platform Amount" />
+      <item value="平台" />
       <item value="income Amount Count" />
       <item value="income Count" />
       <item value="purchase Amount Count" />
       <item value="purchase Amount" />
-      <item value="income" />
       <item value="收入" />
       <item value="cast Dividend Proportion" />
       <item value="cast Prize Pool Proportion" />
       <item value="投" />
       <item value="dividend Proportion" />
-      <item value="分红" />
       <item value="prize Pool Proportion" />
       <item value="比例" />
-      <item value="Airdrop" />
       <item value="Airdrop prize pool" />
       <item value="空投奖池" />
       <item value="time Left" />
@@ -40,17 +51,6 @@
       <item value="Checks if any value in the given array is not {@code null}." />
       <item value="Field 'invitedCode' doesn't have a default value" />
       <item value="The error occurred while setting parameters" />
-      <item value="is Dealer" />
-      <item value="Caused by: org.yaml.snakeyaml.scanner.ScannerException: while scanning for the next token found character '`' that cannot start any token. (Do not use ` for indentation)" />
-      <item value="Caused by: org.yaml.snakeyaml.composer.ComposerException: found undefined alias 60lw0MoRjb4 in 'reader', line 10, column 15: password: *60lw0MoRjb4" />
-      <item value="exception will be logged (using {@link java.util.logging.Logger}) and swallowed&lt;/i&gt;. * * &lt;p&gt;Caches loaded by a {@link CacheLoader} will call {@link CacheLoader#reload} if the cache * currently contains a value for {@code key}, and {@link CacheLoader#load} otherwise. Loading is * asynchronous only if {@link CacheLoader#reload} was overridden with an asynchronous * implementation." />
-      <item value="the previous value (if any) will continue to be returned by {@code get(key)} unless it is * evicted. If the new value is loaded successfully it will replace the previous value in the * cache; if an exception is thrown while refreshing the previous value will remain, &lt;i&gt;and the" />
-      <item value="Loads a new value for key {@code key}, possibly asynchronously. While the new value is loading" />
-      <item value="com.google.common.cache.CacheLoader$InvalidCacheLoadException: CacheLoader returned null for key" />
-      <item value="Get user by user token failed" />
-      <item value="Get user token failed" />
-      <item value="Get user token serializable failed" />
-      <item value="Returns the value associated with {@code key} in this cache, obtaining that value from {@code * loader} if necessary. The method improves upon the conventional &quot;if cached, return; otherwise * create, cache and return&quot; pattern. For further improvements, use {@link LoadingCache} and its * {@link LoadingCache#get(Object) get(K)} method instead of this one. *" />
     </histories>
   </component>
 </application>
