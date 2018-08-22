@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="java.lang.IllegalStateException: Content has not been provided" />
       <item value="java.lang.IllegalStateException: Failed to load property source from location 'classpath:/application-dev.yml' at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.loadIntoGroup" />
       <item value="Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'custom.rootFilePath' in value &quot;${custom.rootFilePath}&quot;" />
       <item value="Has been loaded by XML or SqlProvider, ignoring the injection of the SQL." />
@@ -50,7 +51,6 @@
       <item value="start Delay" />
       <item value="repeat Count" />
       <item value="memory Store Eviction Policy" />
-      <item value="max Elements In Memory" />
     </histories>
   </component>
 </application>
