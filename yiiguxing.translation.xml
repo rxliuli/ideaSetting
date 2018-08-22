@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="get Income Amount Count" />
-      <item value="promotion Amount" />
+      <item value="set Income Amount Count" />
       <item value="dividend Amount" />
+      <item value="promotion Amount" />
+      <item value="airdrop Amount" />
+      <item value="get Income Amount Count" />
       <item value="比例" />
       <item value="a mapping function to apply to each element" />
       <item value="summarizing Int" />
@@ -49,8 +51,6 @@
       <item value="cast Dividend Proportion" />
       <item value="cast Prize Pool Proportion" />
       <item value="投" />
-      <item value="dividend Proportion" />
-      <item value="prize Pool Proportion" />
     </histories>
   </component>
 </application>
