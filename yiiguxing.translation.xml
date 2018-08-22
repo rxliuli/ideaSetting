@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Before" />
+      <item value="plus" />
       <item value="set Income Amount Count" />
       <item value="dividend Amount" />
       <item value="promotion Amount" />
@@ -49,8 +51,6 @@
       <item value="purchase Amount" />
       <item value="收入" />
       <item value="cast Dividend Proportion" />
-      <item value="cast Prize Pool Proportion" />
-      <item value="投" />
     </histories>
   </component>
 </application>
