@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Income Amount Count" />
+      <item value="promotion Amount" />
+      <item value="dividend Amount" />
+      <item value="比例" />
+      <item value="a mapping function to apply to each element" />
+      <item value="summarizing Int" />
+      <item value="before User Record List" />
       <item value="sub" />
       <item value="Big Decimal Calc" />
       <item value="计算" />
@@ -27,7 +34,6 @@
       <item value="中奖" />
       <item value="airdrop" />
       <item value="bet Date Time" />
-      <item value="dividend Amount" />
       <item value="income" />
       <item value="分红" />
       <item value="income Amount" />
@@ -45,12 +51,6 @@
       <item value="投" />
       <item value="dividend Proportion" />
       <item value="prize Pool Proportion" />
-      <item value="比例" />
-      <item value="Airdrop prize pool" />
-      <item value="空投奖池" />
-      <item value="time Left" />
-      <item value="prize Pool Amount" />
-      <item value="disbursement Amount" />
     </histories>
   </component>
 </application>
