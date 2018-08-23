@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="game Statu Processing" />
+      <item value="game Statu Has Ended" />
+      <item value="game Statu No Has Start" />
+      <item value="已经结束" />
+      <item value="game Statu 已经结束" />
+      <item value="进行中" />
+      <item value="game Statu Not Start" />
+      <item value="没有开始" />
+      <item value="未开始" />
       <item value="update Balance Batch By Game Id" />
       <item value="balance" />
       <item value="余额" />
@@ -42,15 +51,6 @@
       <item value="winning Key Id List" />
       <item value="winning Amount" />
       <item value="winning" />
-      <item value="中奖" />
-      <item value="airdrop" />
-      <item value="bet Date Time" />
-      <item value="income" />
-      <item value="分红" />
-      <item value="income Amount" />
-      <item value="Airdrop" />
-      <item value="推广" />
-      <item value="platform Amount" />
     </histories>
   </component>
 </application>
