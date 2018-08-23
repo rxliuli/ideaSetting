@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="jackson - databind" />
+      <item value="databind" />
+      <item value="will Decode" />
       <item value="get Reason Phrase" />
       <item value="java.lang.IllegalStateException: Content has not been provided" />
       <item value="java.lang.IllegalStateException: Failed to load property source from location 'classpath:/application-dev.yml' at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.loadIntoGroup" />
@@ -48,9 +51,6 @@
       <item value="org.springframework.mail.MailSendException: Failed messages: com.sun.mail.smtp.SMTPSendFailedException: 553 Mail from must equal authorized user ;" />
       <item value="nested exception is: com.sun.mail.smtp.SMTPSenderFailedException: 553 Mail from must equal authorized user" />
       <item value="org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535 Error: authentication failed" />
-      <item value="repeat Interval" />
-      <item value="start Delay" />
-      <item value="repeat Count" />
     </histories>
   </component>
 </application>
