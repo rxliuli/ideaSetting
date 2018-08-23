@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.jdbc.BadSqlGrammarException: ### Error querying database. Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key, purchaseAmount, code, prizePoolAmount, dividendAmount, platformAmount, prom' at line 3" />
       <item value="is Before" />
       <item value="Atomic Reference" />
       <item value="is After" />
@@ -50,7 +51,6 @@
       <item value="Big Decimal Cast" />
       <item value="乘" />
       <item value="subtract" />
-      <item value="current Game Info" />
     </histories>
   </component>
 </application>
