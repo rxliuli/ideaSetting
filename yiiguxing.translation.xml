@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parameter" />
+      <item value="WRITE DATES AS TIMESTAMPS" />
+      <item value="com.fasterxml.jackson.databind.JsonMappingException: Can not deserialize instance of java.time.LocalDateTime out of START_ARRAY token at [Source: {&quot;code&quot;:200,&quot;message&quot;:null,&quot;data&quot;:{&quot;id&quot;:1032486183939768321,&quot;statu&quot;:&quot;gameStatuNoHasStart&quot;,&quot;startTime&quot;:[2018,8,23,13,4,23],&quot;endTime&quot;:null,&quot;timeLeft&quot;:1,&quot;purchaseAmountCount&quot;:0,&quot;disbursementAmountCount&quot;:0,&quot;prizePoolAmountCount&quot;:0,&quot;airdropPrizePool&quot;:0}}; line: 1, column: 103] (through reference chain: com.rx.f3d.common.web.JsonResult[&quot;data&quot;]-&gt;com.rx.f3d.module.entity.game.Game[&quot;startTime&quot;])" />
+      <item value="java.lang.NullPointerException: null" />
       <item value="disable" />
       <item value="Specify features to disable." />
       <item value="pecify features to disable." />
-      <item value="WRITE DATES AS TIMESTAMPS" />
       <item value="java.sql.SQLException: Incorrect integer value:" />
       <item value="insert Init New Game" />
       <item value="game Statu Processing" />
@@ -48,9 +51,6 @@
       <item value="com.fasterxml.jackson.databind.JsonMappingException: Can not deserialize instance of java.time.LocalDateTime out of START_ARRAY token at [Source: {&quot;code&quot;:200,&quot;message&quot;:null,&quot;data&quot;:{&quot;id&quot;:1032167548817944577,&quot;phone&quot;:&quot;12345678910&quot;,&quot;password&quot;:null,&quot;invitedCode&quot;:&quot; &quot;,&quot;bind&quot;:&quot; &quot;,&quot;dealer&quot;:false,&quot;registerDate&quot;:[2018,8,22,15,28,15],&quot;registerIp&quot;:&quot;127.0.0.1&quot;,&quot;lastLoginDate&quot;:null,&quot;lastLoginIp&quot;:null,&quot;code&quot;:7109}}; line: 1, column: 158] (through reference chain: com.rx.f3d.common.web.JsonResult[&quot;data&quot;]-&gt;com.rx.f3d.module.entity.user.User[&quot;registerDate&quot;])" />
       <item value="com.fasterxml.jackson.databind.JsonMappingException: Can not construct instance of java.time.LocalDateTime: no suitable constructor found, can not deserialize from Object value (missing default constructor or creator, or perhaps need to add/enable type information?)" />
       <item value="register Date" />
-      <item value="through reference chain: com.rx.f3d.common.web.JsonResult[&quot;data&quot;]-&gt;com.rx.f3d.module.entity.user.User[&quot;registerDate&quot;])" />
-      <item value="com.fasterxml.jackson.databind.JsonMappingException: Can not construct instance of java.time.LocalDateTime: no suitable constructor found, can not deserialize from Object value (missing default constructor or creator, or perhaps need to add/enable type information?) at [Source: {&quot;code&quot;:200,&quot;message&quot;:null,&quot;data&quot;:{&quot;id&quot;:1032167548817944577,&quot;phone&quot;:&quot;12345678910&quot;,&quot;password&quot;:null,&quot;invitedCode&quot;:&quot; &quot;,&quot;bind&quot;:&quot; &quot;,&quot;dealer&quot;:false,&quot;registerDate&quot;:{&quot;dayOfMonth&quot;:22,&quot;dayOfWeek&quot;:&quot;WEDNESDAY&quot;,&quot;dayOfYear&quot;:234,&quot;month&quot;:&quot;AUGUST&quot;,&quot;monthValue&quot;:8,&quot;year&quot;:2018,&quot;hour&quot;:15,&quot;minute&quot;:28,&quot;nano&quot;:0,&quot;second&quot;:15,&quot;chronology&quot;:{&quot;id&quot;:&quot;ISO&quot;,&quot;calendarType&quot;:&quot;iso8601&quot;}},&quot;registerIp&quot;:&quot;127.0.0.1&quot;,&quot;lastLoginDate&quot;:null,&quot;lastLoginIp&quot;:null,&quot;code&quot;:7109}}; line: 1, column: 159] (through reference chain: com.rx.f3d.common.web.JsonResult[&quot;data&quot;]-&gt;com.rx.f3d.module.entity.user.User[&quot;registerDate&quot;])" />
-      <item value="com.fasterxml.jackson.databind.JsonMappingException: Can not construct instance of java.io.Serializable: abstract types either need to be mapped to concrete types, have custom deserializer, or contain additional type information" />
     </histories>
   </component>
 </application>
