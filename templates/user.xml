@@ -91,7 +91,7 @@
       <option name="XML_TEXT" value="true" />
     </context>
   </template>
-  <template name="dtie" value="drop table if exists $END$" toReformat="false" toShortenFQNames="true">
+  <template name="dtie" value="drop table if exists $END$" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="SQL" value="true" />
     </context>
