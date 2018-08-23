@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="结束游戏" />
       <item value="fixed Delay" />
       <item value="job Time Unit" />
       <item value="is Before" />
@@ -50,7 +51,6 @@
       <item value="income Amount Count" />
       <item value="income Count" />
       <item value="purchase Amount Count" />
-      <item value="purchase Amount" />
     </histories>
   </component>
 </application>
