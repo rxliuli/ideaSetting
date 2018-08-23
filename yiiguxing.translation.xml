@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Communications link failure" />
+      <item value="The last packet successfully received from the server was 3,122,093 milliseconds ago. The last packet sent successfully to the server was 18,903 milliseconds ago. ; SQL []; Communications link failure" />
+      <item value="### The error occurred while setting parameters" />
+      <item value="### The error may involve defaultParameterMap" />
+      <item value="The last packet successfully received from the server was 3,122,093 milliseconds ago. The last packet sent successfully to the server was 18,903 milliseconds ago." />
       <item value="The error occurred while setting parameters" />
       <item value="org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'java.util.concurrent.ScheduledExecutorService' available" />
       <item value="The unscaled value of this BigDecimal, as returned by" />
@@ -46,11 +51,6 @@
       <item value="get Income Amount Count" />
       <item value="比例" />
       <item value="a mapping function to apply to each element" />
-      <item value="summarizing Int" />
-      <item value="before User Record List" />
-      <item value="sub" />
-      <item value="Big Decimal Calc" />
-      <item value="计算" />
     </histories>
   </component>
 </application>
