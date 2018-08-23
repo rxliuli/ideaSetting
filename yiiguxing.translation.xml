@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="java.sql.SQLException: Incorrect integer value:" />
       <item value="insert Init New Game" />
       <item value="game Statu Processing" />
       <item value="game Statu Has Ended" />
@@ -50,7 +51,6 @@
       <item value="Expected: is an instance of com.rx.f3d.module.entity.user.User" />
       <item value="does Not Exist" />
       <item value="winning Key Id List" />
-      <item value="winning Amount" />
     </histories>
   </component>
 </application>
