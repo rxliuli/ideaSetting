@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="balance" />
+      <item value="余额" />
+      <item value="赢" />
       <item value="结束游戏" />
       <item value="fixed Delay" />
       <item value="job Time Unit" />
@@ -48,9 +51,6 @@
       <item value="推广" />
       <item value="platform Amount" />
       <item value="平台" />
-      <item value="income Amount Count" />
-      <item value="income Count" />
-      <item value="purchase Amount Count" />
     </histories>
   </component>
 </application>
