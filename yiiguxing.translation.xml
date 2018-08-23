@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Basic Remote" />
+      <item value="scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time." />
+      <item value="Ljava / lang / String" />
+      <item value="org.apache.tomcat.websocket.pojo.PojoEndpointBase.onError No error handling configured for [com.rxliuli.example.websocket.HelloWorldEndpoint] and the following error occurred" />
       <item value="jackson - databind" />
       <item value="databind" />
       <item value="will Decode" />
@@ -47,10 +51,6 @@
       <item value="com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. w88sm43756627pfa.50 - gsmtp" />
       <item value="530 5.7.0 Must issue a STARTTLS command first. w88sm43756627pfa.50 - gsmtp" />
       <item value="org.springframework.mail.MailSendException: Failed messages: com.sun.mail.smtp.SMTPSendFailedException: 554 DT:SPM 163 smtp11,D8CowABHBRGFJ6FazsIFJA--.760S2 1520510853,please see" />
-      <item value="org.springframework.mail.MailSendException: Failed messages: com.sun.mail.smtp.SMTPSendFailedException: 554 DT:SPM 163 smtp12,EMCowADn6aTgJqFaITrYDQ--.30671S2 1520510689,please see" />
-      <item value="org.springframework.mail.MailSendException: Failed messages: com.sun.mail.smtp.SMTPSendFailedException: 553 Mail from must equal authorized user ;" />
-      <item value="nested exception is: com.sun.mail.smtp.SMTPSenderFailedException: 553 Mail from must equal authorized user" />
-      <item value="org.springframework.mail.MailAuthenticationException: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535 Error: authentication failed" />
     </histories>
   </component>
 </application>
