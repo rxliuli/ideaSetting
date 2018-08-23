@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'java.util.concurrent.ScheduledExecutorService' available" />
       <item value="The unscaled value of this BigDecimal, as returned by" />
       <item value="### Error updating database. Cause: java.sql.SQLException: Field 'promotionAmount' doesn't have a default value ### The error may involve com.rx.f3d.module.dao.game.BetRecordDao.insert-Inline" />
       <item value="Field 'code' doesn't have a default value; nested exception is java.sql.SQLException: Field 'code' doesn't have a default value" />
@@ -50,7 +51,6 @@
       <item value="Big Decimal Calc" />
       <item value="计算" />
       <item value="Case" />
-      <item value="Cast" />
     </histories>
   </component>
 </application>
