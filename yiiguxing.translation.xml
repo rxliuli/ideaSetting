@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Airdrop Record" />
+      <item value="Income Record" />
       <item value="is After" />
       <item value="parameter" />
       <item value="WRITE DATES AS TIMESTAMPS" />
@@ -49,8 +51,6 @@
       <item value="subtract" />
       <item value="current Game Info" />
       <item value="com.fasterxml.jackson.databind.JsonMappingException: Can not construct instance of java.time.LocalDateTime: no String-argument constructor/factory method to deserialize from String value ('2018-08-22T15:28:15') at [Source: {&quot;code&quot;:200,&quot;message&quot;:null,&quot;data&quot;:{&quot;id&quot;:1032167548817944577,&quot;phone&quot;:&quot;12345678910&quot;,&quot;password&quot;:null,&quot;invitedCode&quot;:&quot; &quot;,&quot;bind&quot;:&quot; &quot;,&quot;dealer&quot;:false,&quot;registerDate&quot;:&quot;2018-08-22T15:28:15&quot;,&quot;registerIp&quot;:&quot;127.0.0.1&quot;,&quot;lastLoginDate&quot;:null,&quot;lastLoginIp&quot;:null,&quot;code&quot;:7109}}; line: 1, column: 158] (through reference chain: com.rx.f3d.common.web.JsonResult[&quot;data&quot;]-&gt;com.rx.f3d.module.entity.user.User[&quot;registerDate&quot;])" />
-      <item value="com.fasterxml.jackson.databind.JsonMappingException: Can not deserialize instance of java.time.LocalDateTime out of START_ARRAY token at [Source: {&quot;code&quot;:200,&quot;message&quot;:null,&quot;data&quot;:{&quot;id&quot;:1032167548817944577,&quot;phone&quot;:&quot;12345678910&quot;,&quot;password&quot;:null,&quot;invitedCode&quot;:&quot; &quot;,&quot;bind&quot;:&quot; &quot;,&quot;dealer&quot;:false,&quot;registerDate&quot;:[2018,8,22,15,28,15],&quot;registerIp&quot;:&quot;127.0.0.1&quot;,&quot;lastLoginDate&quot;:null,&quot;lastLoginIp&quot;:null,&quot;code&quot;:7109}}; line: 1, column: 158] (through reference chain: com.rx.f3d.common.web.JsonResult[&quot;data&quot;]-&gt;com.rx.f3d.module.entity.user.User[&quot;registerDate&quot;])" />
-      <item value="com.fasterxml.jackson.databind.JsonMappingException: Can not construct instance of java.time.LocalDateTime: no suitable constructor found, can not deserialize from Object value (missing default constructor or creator, or perhaps need to add/enable type information?)" />
     </histories>
   </component>
 </application>
