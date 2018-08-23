@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The unscaled value of this BigDecimal, as returned by" />
+      <item value="### Error updating database. Cause: java.sql.SQLException: Field 'promotionAmount' doesn't have a default value ### The error may involve com.rx.f3d.module.dao.game.BetRecordDao.insert-Inline" />
+      <item value="Field 'code' doesn't have a default value; nested exception is java.sql.SQLException: Field 'code' doesn't have a default value" />
+      <item value="### Error updating database. Cause: java.sql.SQLException: Field 'gameId' doesn't have a default value ### The error may involve com.rx.f3d.module.dao.game.BetRecordDao.insert-Inline" />
+      <item value="promotion Amount" />
+      <item value="airdrop Amount" />
       <item value="org.springframework.jdbc.BadSqlGrammarException: ### Error querying database. Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key, purchaseAmount, code, prizePoolAmount, dividendAmount, platformAmount, prom' at line 3" />
       <item value="is Before" />
       <item value="Atomic Reference" />
@@ -35,8 +41,6 @@
       <item value="plus" />
       <item value="set Income Amount Count" />
       <item value="dividend Amount" />
-      <item value="promotion Amount" />
-      <item value="airdrop Amount" />
       <item value="get Income Amount Count" />
       <item value="比例" />
       <item value="a mapping function to apply to each element" />
@@ -47,10 +51,6 @@
       <item value="计算" />
       <item value="Case" />
       <item value="Cast" />
-      <item value="Big Decimal" />
-      <item value="Big Decimal Cast" />
-      <item value="乘" />
-      <item value="subtract" />
     </histories>
   </component>
 </application>
