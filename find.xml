@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '...\src\main\java\com\rx\f3d\module\service\game\impl\BetRecordServiceImpl.java [f3d]'" />
+    <option name="defaultScopeName" value="File '...\src\main\java\com\rx\f3d\module\service\game\impl\BetRecordServiceImpl.java [f3d]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
@@ -10,27 +10,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.w</mask>
-      <mask>*.wa</mask>
-      <mask>*.war</mask>
-      <mask>j</mask>
-      <mask>ja</mask>
-      <mask>jar</mask>
-    </recentFileMasks>
+    <option name="SEARCH_SCOPE" value="File '...\src\main\java\com\rx\f3d\module\service\game\impl\BetRecordServiceImpl.java [f3d]'" />
   </component>
 </application>
