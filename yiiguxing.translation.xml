@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="WRITE DATES AS TIMESTAMPS" />
       <item value="java.sql.SQLException: Incorrect integer value:" />
       <item value="insert Init New Game" />
       <item value="game Statu Processing" />
@@ -50,7 +51,6 @@
       <item value="java . util . Linked Hash Map" />
       <item value="Expected: is an instance of com.rx.f3d.module.entity.user.User" />
       <item value="does Not Exist" />
-      <item value="winning Key Id List" />
     </histories>
   </component>
 </application>
