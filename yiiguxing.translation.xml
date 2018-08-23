@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="update Balance Batch By Game Id" />
       <item value="balance" />
       <item value="余额" />
       <item value="赢" />
@@ -50,7 +51,6 @@
       <item value="Airdrop" />
       <item value="推广" />
       <item value="platform Amount" />
-      <item value="平台" />
     </histories>
   </component>
 </application>
