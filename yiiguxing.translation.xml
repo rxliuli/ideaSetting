@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ERROR in ch.qos.logback.core.joran.action.TimestampAction - Attribute named [key] cannot be empty" />
+      <item value="java.lang.IllegalStateException: Failed to load ApplicationContext" />
+      <item value="com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key, purchaseAmount, code, prizePoolAmount, dividendAmount, platformAmount, prom' at line 3" />
+      <item value="ERROR org.springframework.scheduling.support.TaskUtils$LoggingErrorHandler.handleError - Unexpected error occurred in scheduled task." />
       <item value="Communications link failure" />
       <item value="The last packet successfully received from the server was 3,122,093 milliseconds ago. The last packet sent successfully to the server was 18,903 milliseconds ago. ; SQL []; Communications link failure" />
       <item value="### The error occurred while setting parameters" />
@@ -47,10 +51,6 @@
       <item value="job Time Unit" />
       <item value="plus" />
       <item value="set Income Amount Count" />
-      <item value="dividend Amount" />
-      <item value="get Income Amount Count" />
-      <item value="比例" />
-      <item value="a mapping function to apply to each element" />
     </histories>
   </component>
 </application>
