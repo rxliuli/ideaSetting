@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fixed Delay" />
+      <item value="job Time Unit" />
       <item value="is Before" />
       <item value="plus" />
       <item value="set Income Amount Count" />
@@ -49,8 +51,6 @@
       <item value="income Count" />
       <item value="purchase Amount Count" />
       <item value="purchase Amount" />
-      <item value="收入" />
-      <item value="cast Dividend Proportion" />
     </histories>
   </component>
 </application>
