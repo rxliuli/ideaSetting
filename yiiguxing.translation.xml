@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enable Simple Broker" />
+      <item value="endpoint Sang" />
       <item value="Execute SQL：UPDATE user_record SET gameId=1032887928499130369, userId=1031817873640329217, keyCount=57, incomeAmountCount=0 WHERE id=1032890321483780098" />
       <item value="JDWP exit error JVMTI_ERROR_NONE(0): getting frame location [stepControl.c:641]" />
       <item value="GAME STATU HAS ENDED" />
@@ -11,11 +13,9 @@
       <item value="over" />
       <item value="stomp Client" />
       <item value="stomp" />
-      <item value="enable Simple Broker" />
       <item value="subscribe" />
       <item value="add Endpoint" />
       <item value="stomp Endpoint Registry" />
-      <item value="endpoint Sang" />
       <item value="set Application Destination Prefixes" />
       <item value="simulated delay" />
       <item value="Greeting" />
