@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="endpoint Sang" />
+      <item value="set Application Destination Prefixes" />
       <item value="simulated delay" />
       <item value="Greeting" />
       <item value="Result Actions" />
@@ -49,8 +51,6 @@
       <item value="balance" />
       <item value="余额" />
       <item value="赢" />
-      <item value="结束游戏" />
-      <item value="fixed Delay" />
     </histories>
   </component>
 </application>
