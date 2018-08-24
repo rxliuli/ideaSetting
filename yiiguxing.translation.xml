@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Execute SQL：UPDATE user_record SET gameId=1032887928499130369, userId=1031817873640329217, keyCount=57, incomeAmountCount=0 WHERE id=1032890321483780098" />
+      <item value="JDWP exit error JVMTI_ERROR_NONE(0): getting frame location [stepControl.c:641]" />
       <item value="GAME STATU HAS ENDED" />
       <item value="### Error querying database. Cause: java.sql.SQLException: connection holder is null" />
       <item value="last Bet Record" />
@@ -49,8 +51,6 @@
       <item value="Specify features to disable." />
       <item value="pecify features to disable." />
       <item value="java.sql.SQLException: Incorrect integer value:" />
-      <item value="insert Init New Game" />
-      <item value="game Statu Processing" />
     </histories>
   </component>
 </application>
