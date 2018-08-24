@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="simulated delay" />
+      <item value="Greeting" />
       <item value="Result Actions" />
       <item value="WRITE DATES AS TIMESTAMPS" />
       <item value="ERROR in ch.qos.logback.core.joran.action.TimestampAction - Attribute named [key] cannot be empty" />
@@ -49,8 +51,6 @@
       <item value="赢" />
       <item value="结束游戏" />
       <item value="fixed Delay" />
-      <item value="job Time Unit" />
-      <item value="plus" />
     </histories>
   </component>
 </application>
