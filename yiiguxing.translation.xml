@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stomp" />
+      <item value="enable Simple Broker" />
+      <item value="subscribe" />
+      <item value="over" />
+      <item value="add Endpoint" />
+      <item value="stomp Endpoint Registry" />
       <item value="endpoint Sang" />
       <item value="set Application Destination Prefixes" />
       <item value="simulated delay" />
@@ -45,12 +51,6 @@
       <item value="game Statu 已经结束" />
       <item value="进行中" />
       <item value="game Statu Not Start" />
-      <item value="没有开始" />
-      <item value="未开始" />
-      <item value="update Balance Batch By Game Id" />
-      <item value="balance" />
-      <item value="余额" />
-      <item value="赢" />
     </histories>
   </component>
 </application>
