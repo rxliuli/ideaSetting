@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="over" />
+      <item value="stomp Client" />
       <item value="stomp" />
       <item value="enable Simple Broker" />
       <item value="subscribe" />
-      <item value="over" />
       <item value="add Endpoint" />
       <item value="stomp Endpoint Registry" />
       <item value="endpoint Sang" />
@@ -50,7 +51,6 @@
       <item value="已经结束" />
       <item value="game Statu 已经结束" />
       <item value="进行中" />
-      <item value="game Statu Not Start" />
     </histories>
   </component>
 </application>
