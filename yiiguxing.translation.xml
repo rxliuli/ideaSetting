@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scheduled Push" />
+      <item value="scheduled" />
       <item value="broadcasting" />
       <item value="enable Simple Broker" />
       <item value="Broker" />
@@ -49,8 +51,6 @@
       <item value="No bean named 'mailSender' available" />
       <item value="javax.mail.MessagingException: Could not connect to SMTP host: smtp.gmail.com, port: 465;" />
       <item value="5000" />
-      <item value="org.springframework.mail.MailSendException: Mail server connection failed; nested exception is javax.mail.MessagingException: Could not connect to SMTP host: smtp.gmail.com, port: 465;" />
-      <item value="Could not connect to SMTP host: smtp.gmail.com, port: 465;" />
     </histories>
   </component>
 </application>
