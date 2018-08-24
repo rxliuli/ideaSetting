@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="broadcasting" />
+      <item value="enable Simple Broker" />
+      <item value="Broker" />
+      <item value="Enable Web Socket Message Broker" />
       <item value="get Basic Remote" />
       <item value="scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time." />
       <item value="Ljava / lang / String" />
@@ -47,10 +51,6 @@
       <item value="5000" />
       <item value="org.springframework.mail.MailSendException: Mail server connection failed; nested exception is javax.mail.MessagingException: Could not connect to SMTP host: smtp.gmail.com, port: 465;" />
       <item value="Could not connect to SMTP host: smtp.gmail.com, port: 465;" />
-      <item value="org.springframework.mail.MailSendException: Mail server connection failed; nested exception is javax.mail.MessagingException: Could not connect to SMTP host: smtp.gmail.com, port: 25;" />
-      <item value="com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.0 Must issue a STARTTLS command first. w88sm43756627pfa.50 - gsmtp" />
-      <item value="530 5.7.0 Must issue a STARTTLS command first. w88sm43756627pfa.50 - gsmtp" />
-      <item value="org.springframework.mail.MailSendException: Failed messages: com.sun.mail.smtp.SMTPSendFailedException: 554 DT:SPM 163 smtp11,D8CowABHBRGFJ6FazsIFJA--.760S2 1520510853,please see" />
     </histories>
   </component>
 </application>
