@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="send" />
+      <item value="talk" />
+      <item value="Talk To Client Controller" />
+      <item value="broadcasting" />
+      <item value="广播" />
+      <item value="广播游戏信息到所有连接的客户端" />
       <item value="刷新" />
       <item value="get Pull" />
       <item value="推送" />
@@ -8,7 +14,6 @@
       <item value="@ Payload" />
       <item value="cur Try Num" />
       <item value="speak" />
-      <item value="talk" />
       <item value="/** * Configure the {@link org.springframework.scheduling.TaskScheduler} to * use for providing heartbeat support. Setting this property also sets the * {@link #setHeartbeatValue heartbeatValue} to &quot;10000, 10000&quot;. * &lt;p&gt;By default this is not set. * @since 4.2 */" />
       <item value="stomp Endpoint Registry" />
       <item value="enable Simple Broker" />
@@ -46,11 +51,6 @@
       <item value="Field 'code' doesn't have a default value; nested exception is java.sql.SQLException: Field 'code' doesn't have a default value" />
       <item value="### Error updating database. Cause: java.sql.SQLException: Field 'gameId' doesn't have a default value ### The error may involve com.rx.f3d.module.dao.game.BetRecordDao.insert-Inline" />
       <item value="promotion Amount" />
-      <item value="airdrop Amount" />
-      <item value="org.springframework.jdbc.BadSqlGrammarException: ### Error querying database. Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key, purchaseAmount, code, prizePoolAmount, dividendAmount, platformAmount, prom' at line 3" />
-      <item value="is Before" />
-      <item value="Atomic Reference" />
-      <item value="is After" />
     </histories>
   </component>
 </application>
