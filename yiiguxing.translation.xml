@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="add View Controller" />
       <item value="over" />
       <item value="stomp Client" />
       <item value="stomp" />
@@ -50,7 +51,6 @@
       <item value="game Statu No Has Start" />
       <item value="已经结束" />
       <item value="game Statu 已经结束" />
-      <item value="进行中" />
     </histories>
   </component>
 </application>
