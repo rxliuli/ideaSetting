@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="speak" />
       <item value="Annotation that binds a method parameter to the payload of a message. Can also * be used to associate a payload to a method invocation. The payload may be passed * through a {@link MessageConverter} to convert it from serialized form with a * specific MIME type to an Object matching the target method parameter. *" />
       <item value="send" />
       <item value="talk" />
@@ -14,7 +15,6 @@
       <item value="bet" />
       <item value="@ Payload" />
       <item value="cur Try Num" />
-      <item value="speak" />
       <item value="/** * Configure the {@link org.springframework.scheduling.TaskScheduler} to * use for providing heartbeat support. Setting this property also sets the * {@link #setHeartbeatValue heartbeatValue} to &quot;10000, 10000&quot;. * &lt;p&gt;By default this is not set. * @since 4.2 */" />
       <item value="stomp Endpoint Registry" />
       <item value="enable Simple Broker" />
