@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="GAME STATU HAS ENDED" />
+      <item value="### Error querying database. Cause: java.sql.SQLException: connection holder is null" />
       <item value="last Bet Record" />
       <item value="get Purchase Amount" />
       <item value="add View Controller" />
@@ -49,8 +51,6 @@
       <item value="java.sql.SQLException: Incorrect integer value:" />
       <item value="insert Init New Game" />
       <item value="game Statu Processing" />
-      <item value="game Statu Has Ended" />
-      <item value="game Statu No Has Start" />
     </histories>
   </component>
 </application>
