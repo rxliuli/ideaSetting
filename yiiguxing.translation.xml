@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Pull" />
+      <item value="推送" />
+      <item value="bet" />
+      <item value="@ Payload" />
+      <item value="cur Try Num" />
+      <item value="speak" />
+      <item value="talk" />
+      <item value="/** * Configure the {@link org.springframework.scheduling.TaskScheduler} to * use for providing heartbeat support. Setting this property also sets the * {@link #setHeartbeatValue heartbeatValue} to &quot;10000, 10000&quot;. * &lt;p&gt;By default this is not set. * @since 4.2 */" />
+      <item value="stomp Endpoint Registry" />
       <item value="enable Simple Broker" />
       <item value="endpoint Sang" />
       <item value="Execute SQL：UPDATE user_record SET gameId=1032887928499130369, userId=1031817873640329217, keyCount=57, incomeAmountCount=0 WHERE id=1032890321483780098" />
@@ -15,7 +24,6 @@
       <item value="stomp" />
       <item value="subscribe" />
       <item value="add Endpoint" />
-      <item value="stomp Endpoint Registry" />
       <item value="set Application Destination Prefixes" />
       <item value="simulated delay" />
       <item value="Greeting" />
@@ -43,14 +51,6 @@
       <item value="Atomic Reference" />
       <item value="is After" />
       <item value="Airdrop Record" />
-      <item value="Income Record" />
-      <item value="parameter" />
-      <item value="com.fasterxml.jackson.databind.JsonMappingException: Can not deserialize instance of java.time.LocalDateTime out of START_ARRAY token at [Source: {&quot;code&quot;:200,&quot;message&quot;:null,&quot;data&quot;:{&quot;id&quot;:1032486183939768321,&quot;statu&quot;:&quot;gameStatuNoHasStart&quot;,&quot;startTime&quot;:[2018,8,23,13,4,23],&quot;endTime&quot;:null,&quot;timeLeft&quot;:1,&quot;purchaseAmountCount&quot;:0,&quot;disbursementAmountCount&quot;:0,&quot;prizePoolAmountCount&quot;:0,&quot;airdropPrizePool&quot;:0}}; line: 1, column: 103] (through reference chain: com.rx.f3d.common.web.JsonResult[&quot;data&quot;]-&gt;com.rx.f3d.module.entity.game.Game[&quot;startTime&quot;])" />
-      <item value="java.lang.NullPointerException: null" />
-      <item value="disable" />
-      <item value="Specify features to disable." />
-      <item value="pecify features to disable." />
-      <item value="java.sql.SQLException: Incorrect integer value:" />
     </histories>
   </component>
 </application>
