@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Annotation that binds a method parameter to the payload of a message. Can also * be used to associate a payload to a method invocation. The payload may be passed * through a {@link MessageConverter} to convert it from serialized form with a * specific MIME type to an Object matching the target method parameter. *" />
       <item value="send" />
       <item value="talk" />
       <item value="Talk To Client Controller" />
@@ -50,7 +51,6 @@
       <item value="### Error updating database. Cause: java.sql.SQLException: Field 'promotionAmount' doesn't have a default value ### The error may involve com.rx.f3d.module.dao.game.BetRecordDao.insert-Inline" />
       <item value="Field 'code' doesn't have a default value; nested exception is java.sql.SQLException: Field 'code' doesn't have a default value" />
       <item value="### Error updating database. Cause: java.sql.SQLException: Field 'gameId' doesn't have a default value ### The error may involve com.rx.f3d.module.dao.game.BetRecordDao.insert-Inline" />
-      <item value="promotion Amount" />
     </histories>
   </component>
 </application>
