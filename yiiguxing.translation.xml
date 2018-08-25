@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="current Game" />
+      <item value="time Lengthen" />
+      <item value="lengthen" />
+      <item value="延长" />
+      <item value="get Purchase Amount" />
       <item value="差值" />
       <item value="差" />
       <item value="MILLIS" />
@@ -32,7 +37,6 @@
       <item value="GAME STATU HAS ENDED" />
       <item value="### Error querying database. Cause: java.sql.SQLException: connection holder is null" />
       <item value="last Bet Record" />
-      <item value="get Purchase Amount" />
       <item value="add View Controller" />
       <item value="over" />
       <item value="stomp Client" />
@@ -47,10 +51,6 @@
       <item value="ERROR in ch.qos.logback.core.joran.action.TimestampAction - Attribute named [key] cannot be empty" />
       <item value="java.lang.IllegalStateException: Failed to load ApplicationContext" />
       <item value="com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key, purchaseAmount, code, prizePoolAmount, dividendAmount, platformAmount, prom' at line 3" />
-      <item value="ERROR org.springframework.scheduling.support.TaskUtils$LoggingErrorHandler.handleError - Unexpected error occurred in scheduled task." />
-      <item value="Communications link failure" />
-      <item value="The last packet successfully received from the server was 3,122,093 milliseconds ago. The last packet sent successfully to the server was 18,903 milliseconds ago. ; SQL []; Communications link failure" />
-      <item value="### The error occurred while setting parameters" />
     </histories>
   </component>
 </application>
