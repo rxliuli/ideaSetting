@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="差值" />
+      <item value="差" />
+      <item value="MILLIS" />
+      <item value="MILLENNIA" />
       <item value="dividend Amount" />
       <item value="airdrop Amount" />
       <item value="platform Amount" />
@@ -47,10 +51,6 @@
       <item value="Communications link failure" />
       <item value="The last packet successfully received from the server was 3,122,093 milliseconds ago. The last packet sent successfully to the server was 18,903 milliseconds ago. ; SQL []; Communications link failure" />
       <item value="### The error occurred while setting parameters" />
-      <item value="### The error may involve defaultParameterMap" />
-      <item value="The last packet successfully received from the server was 3,122,093 milliseconds ago. The last packet sent successfully to the server was 18,903 milliseconds ago." />
-      <item value="The error occurred while setting parameters" />
-      <item value="org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'java.util.concurrent.ScheduledExecutorService' available" />
     </histories>
   </component>
 </application>
