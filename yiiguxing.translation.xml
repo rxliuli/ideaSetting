@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Before" />
+      <item value="last Bet Record" />
       <item value="current Game" />
       <item value="time Lengthen" />
       <item value="lengthen" />
@@ -36,7 +38,6 @@
       <item value="JDWP exit error JVMTI_ERROR_NONE(0): getting frame location [stepControl.c:641]" />
       <item value="GAME STATU HAS ENDED" />
       <item value="### Error querying database. Cause: java.sql.SQLException: connection holder is null" />
-      <item value="last Bet Record" />
       <item value="add View Controller" />
       <item value="over" />
       <item value="stomp Client" />
@@ -50,7 +51,6 @@
       <item value="WRITE DATES AS TIMESTAMPS" />
       <item value="ERROR in ch.qos.logback.core.joran.action.TimestampAction - Attribute named [key] cannot be empty" />
       <item value="java.lang.IllegalStateException: Failed to load ApplicationContext" />
-      <item value="com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key, purchaseAmount, code, prizePoolAmount, dividendAmount, platformAmount, prom' at line 3" />
     </histories>
   </component>
 </application>
