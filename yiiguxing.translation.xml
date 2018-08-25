@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dividend Amount" />
+      <item value="airdrop Amount" />
+      <item value="platform Amount" />
+      <item value="set Airdrop Prize Pool" />
       <item value="enable Simple Broker" />
       <item value="broadcasting" />
       <item value="speak" />
@@ -47,10 +51,6 @@
       <item value="The last packet successfully received from the server was 3,122,093 milliseconds ago. The last packet sent successfully to the server was 18,903 milliseconds ago." />
       <item value="The error occurred while setting parameters" />
       <item value="org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'java.util.concurrent.ScheduledExecutorService' available" />
-      <item value="The unscaled value of this BigDecimal, as returned by" />
-      <item value="### Error updating database. Cause: java.sql.SQLException: Field 'promotionAmount' doesn't have a default value ### The error may involve com.rx.f3d.module.dao.game.BetRecordDao.insert-Inline" />
-      <item value="Field 'code' doesn't have a default value; nested exception is java.sql.SQLException: Field 'code' doesn't have a default value" />
-      <item value="### Error updating database. Cause: java.sql.SQLException: Field 'gameId' doesn't have a default value ### The error may involve com.rx.f3d.module.dao.game.BetRecordDao.insert-Inline" />
     </histories>
   </component>
 </application>
