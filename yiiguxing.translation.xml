@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="promotion Amount" />
+      <item value="platform Amount" />
+      <item value="get Disbursement Amount Count" />
+      <item value="set Purchase Amount Count" />
+      <item value="set Prize Pool Amount Count" />
+      <item value="airdrop Amount" />
       <item value="is Before" />
       <item value="last Bet Record" />
       <item value="current Game" />
@@ -13,8 +19,6 @@
       <item value="MILLIS" />
       <item value="MILLENNIA" />
       <item value="dividend Amount" />
-      <item value="airdrop Amount" />
-      <item value="platform Amount" />
       <item value="set Airdrop Prize Pool" />
       <item value="enable Simple Broker" />
       <item value="broadcasting" />
@@ -47,10 +51,6 @@
       <item value="set Application Destination Prefixes" />
       <item value="simulated delay" />
       <item value="Greeting" />
-      <item value="Result Actions" />
-      <item value="WRITE DATES AS TIMESTAMPS" />
-      <item value="ERROR in ch.qos.logback.core.joran.action.TimestampAction - Attribute named [key] cannot be empty" />
-      <item value="java.lang.IllegalStateException: Failed to load ApplicationContext" />
     </histories>
   </component>
 </application>
