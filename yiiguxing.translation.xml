@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Incorrect column count: expected 1, actual 4" />
+      <item value="org . springframework . jdbc . Incorrect Result Set Column Count Exception" />
       <item value="scheduled Push" />
       <item value="scheduled" />
       <item value="broadcasting" />
@@ -49,8 +51,6 @@
       <item value="always Active Profile" />
       <item value="profile &quot;alwaysActiveProfile&quot; could not be activated because it does not exist." />
       <item value="No bean named 'mailSender' available" />
-      <item value="javax.mail.MessagingException: Could not connect to SMTP host: smtp.gmail.com, port: 465;" />
-      <item value="5000" />
     </histories>
   </component>
 </application>
