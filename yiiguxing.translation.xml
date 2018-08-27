@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="check User Is Exists By Phone" />
+      <item value="check User By Phone" />
+      <item value="check Phone" />
+      <item value="Verification Code Controller" />
+      <item value="验证码" />
       <item value="set Serialization Inclusion" />
       <item value="10.1151313" />
       <item value="promotion Amount" />
@@ -46,11 +51,6 @@
       <item value="### Error querying database. Cause: java.sql.SQLException: connection holder is null" />
       <item value="add View Controller" />
       <item value="over" />
-      <item value="stomp Client" />
-      <item value="stomp" />
-      <item value="subscribe" />
-      <item value="add Endpoint" />
-      <item value="set Application Destination Prefixes" />
     </histories>
   </component>
 </application>
