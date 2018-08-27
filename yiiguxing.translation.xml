@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Any Blank" />
       <item value="verify" />
       <item value="User Code Service" />
       <item value="Verification Code Service" />
@@ -50,7 +51,6 @@
       <item value="刷新" />
       <item value="get Pull" />
       <item value="推送" />
-      <item value="bet" />
     </histories>
   </component>
 </application>
