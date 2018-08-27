@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="User Code Service" />
+      <item value="Verification Code Service" />
+      <item value="Error creating bean with name 'dysmsUtil' defined in class path resource [com/rx/f3d/common/conf/CommonWebConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.rx.f3d.common.util.DysmsUtil]: Factory method 'dysmsUtil' threw exception; nested exception is java.lang.NoClassDefFoundError: com/aliyuncs/exceptions/ClientException" />
       <item value="Send Sms Response" />
       <item value="dysms Util" />
       <item value="Aliyun SMS Util" />
@@ -48,9 +51,6 @@
       <item value="推送" />
       <item value="bet" />
       <item value="@ Payload" />
-      <item value="cur Try Num" />
-      <item value="/** * Configure the {@link org.springframework.scheduling.TaskScheduler} to * use for providing heartbeat support. Setting this property also sets the * {@link #setHeartbeatValue heartbeatValue} to &quot;10000, 10000&quot;. * &lt;p&gt;By default this is not set. * @since 4.2 */" />
-      <item value="stomp Endpoint Registry" />
     </histories>
   </component>
 </application>
