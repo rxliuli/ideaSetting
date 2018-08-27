@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="verify" />
       <item value="User Code Service" />
       <item value="Verification Code Service" />
       <item value="Error creating bean with name 'dysmsUtil' defined in class path resource [com/rx/f3d/common/conf/CommonWebConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.rx.f3d.common.util.DysmsUtil]: Factory method 'dysmsUtil' threw exception; nested exception is java.lang.NoClassDefFoundError: com/aliyuncs/exceptions/ClientException" />
@@ -50,7 +51,6 @@
       <item value="get Pull" />
       <item value="推送" />
       <item value="bet" />
-      <item value="@ Payload" />
     </histories>
   </component>
 </application>
