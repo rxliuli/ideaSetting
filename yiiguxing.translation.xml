@@ -1,6 +1,26 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Web Socket Annotation Method Message Handler" />
+      <item value="Web Socket Stomp Client" />
+      <item value="Sub Protocol Handler" />
+      <item value="Stomp Sub Protocol Error Handler" />
+      <item value="Session Unsubscribe Event" />
+      <item value="Session Subscribe Event" />
+      <item value="Default Simp User Registry" />
+      <item value="Abstract Sub Protocol Event" />
+      <item value="Session Disconnect Event" />
+      <item value="A connected event represents the server response to a client's connect request. * See {@link org.springframework.web.socket.messaging.SessionConnectEvent}. *" />
+      <item value="Event raised when a new WebSocket client using a Simple Messaging Protocol * (e.g. STOMP) as the WebSocket sub-protocol issues a connect request. *" />
+      <item value="STOMP Connect Event Listener" />
+      <item value="Copy On Write Array Set" />
+      <item value="get Native Header" />
+      <item value="login get from browser" />
+      <item value="on Application Event" />
+      <item value="Custom Hand Shake Interceptor" />
+      <item value="/** * Send a message to the given user. * @param user the user that should receive the message. * @param destination the destination to send the message to. * @param payload the payload to send */" />
+      <item value="scheduled Broadcasting" />
+      <item value="Unidirectional Broadcasting Socket" />
       <item value="Incorrect column count: expected 1, actual 4" />
       <item value="org . springframework . jdbc . Incorrect Result Set Column Count Exception" />
       <item value="scheduled Push" />
@@ -31,26 +51,6 @@
       <item value="uriVariables the variables to expand the template" />
       <item value="stderr" />
       <item value="Choose" />
-      <item value="[2018-03-13 10:59:31] Unable to find rebel.xml in artifact Interview:war. This file is required to enable JRebel reloading." />
-      <item value="call Super" />
-      <item value="Platform Transaction Manager" />
-      <item value="Illegal State Exception" />
-      <item value="Failed to retrieve PlatformTransactionManager" />
-      <item value="org.springframework.aop.aspectj.AspectJExpressionPointcut-PointcutExpression matching rejected target method" />
-      <item value="Expected" />
-      <item value="expected" />
-      <item value="Bean Not Of Required Type Exception" />
-      <item value="SUPPORTS" />
-      <item value="defined" />
-      <item value="mtuil" />
-      <item value="mutil" />
-      <item value="stop Key" />
-      <item value="Some problems were encountered while processing the POMs:" />
-      <item value="log" />
-      <item value="slow" />
-      <item value="always Active Profile" />
-      <item value="profile &quot;alwaysActiveProfile&quot; could not be activated because it does not exist." />
-      <item value="No bean named 'mailSender' available" />
     </histories>
   </component>
 </application>
