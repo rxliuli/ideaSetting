@@ -96,4 +96,9 @@
       <option name="SQL" value="true" />
     </context>
   </template>
+  <template name="logCreate" value="private final Logger log = LoggerFactory.getLogger(getClass());&#10;" description="Create a logger object for slf4j(logback)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
 </templateSet>

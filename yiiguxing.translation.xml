@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Send Sms Response" />
+      <item value="dysms Util" />
+      <item value="Aliyun SMS Util" />
+      <item value="Ali SMS Util" />
       <item value="write dates as timestamps" />
       <item value="com.fasterxml.jackson.databind.JsonMappingException: Can not construct instance of java.io.Serializable: abstract types either need to be mapped to concrete types, have custom deserializer, or contain additional type information" />
       <item value="com.fasterxml.jackson.databind.JsonMappingException: Can not construct instance of com.rx.f3d.common.web.JsonResult: no boolean/Boolean-argument constructor/factory method to deserialize from boolean value (true) at [Source: {&quot;code&quot;:200,&quot;message&quot;:null,&quot;data&quot;:true}; line: 1, column: 35] (through reference chain: com.rx.f3d.common.web.JsonResult[&quot;data&quot;])" />
@@ -47,10 +51,6 @@
       <item value="cur Try Num" />
       <item value="/** * Configure the {@link org.springframework.scheduling.TaskScheduler} to * use for providing heartbeat support. Setting this property also sets the * {@link #setHeartbeatValue heartbeatValue} to &quot;10000, 10000&quot;. * &lt;p&gt;By default this is not set. * @since 4.2 */" />
       <item value="stomp Endpoint Registry" />
-      <item value="endpoint Sang" />
-      <item value="Execute SQL：UPDATE user_record SET gameId=1032887928499130369, userId=1031817873640329217, keyCount=57, incomeAmountCount=0 WHERE id=1032890321483780098" />
-      <item value="JDWP exit error JVMTI_ERROR_NONE(0): getting frame location [stepControl.c:641]" />
-      <item value="GAME STATU HAS ENDED" />
     </histories>
   </component>
 </application>
