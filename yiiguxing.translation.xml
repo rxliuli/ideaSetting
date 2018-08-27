@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Serialization Inclusion" />
       <item value="10.1151313" />
       <item value="promotion Amount" />
       <item value="platform Amount" />
@@ -50,7 +51,6 @@
       <item value="subscribe" />
       <item value="add Endpoint" />
       <item value="set Application Destination Prefixes" />
-      <item value="simulated delay" />
     </histories>
   </component>
 </application>
