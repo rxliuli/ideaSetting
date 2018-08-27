@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="verify Password" />
       <item value="is Any Blank" />
       <item value="verify" />
       <item value="User Code Service" />
@@ -50,7 +51,6 @@
       <item value="广播游戏信息到所有连接的客户端" />
       <item value="刷新" />
       <item value="get Pull" />
-      <item value="推送" />
     </histories>
   </component>
 </application>
