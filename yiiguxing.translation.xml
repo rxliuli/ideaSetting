@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="about Me" />
+      <item value="中心" />
       <item value="last Updated Date" />
       <item value="last Uupdated Date" />
       <item value="updated" />
@@ -49,8 +51,6 @@
       <item value="set Serialization Inclusion" />
       <item value="10.1151313" />
       <item value="promotion Amount" />
-      <item value="platform Amount" />
-      <item value="get Disbursement Amount Count" />
     </histories>
   </component>
 </application>
