@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bi Consumer" />
+      <item value="Represents an operation that accepts two input arguments and returns no * result. This is the two-arity specialization of {@link Consumer}. * Unlike most other functional interfaces, {@code BiConsumer} is expected * to operate via side-effects." />
+      <item value="direct Tourist" />
+      <item value="tourist" />
+      <item value="游客" />
+      <item value="web Agent Session Registry" />
       <item value="Stomp Header Accessor" />
       <item value="broadcasting" />
       <item value="Temporal Unit" />
@@ -45,12 +51,6 @@
       <item value="MILLIS" />
       <item value="MILLENNIA" />
       <item value="dividend Amount" />
-      <item value="set Airdrop Prize Pool" />
-      <item value="enable Simple Broker" />
-      <item value="speak" />
-      <item value="Annotation that binds a method parameter to the payload of a message. Can also * be used to associate a payload to a method invocation. The payload may be passed * through a {@link MessageConverter} to convert it from serialized form with a * specific MIME type to an Object matching the target method parameter. *" />
-      <item value="send" />
-      <item value="talk" />
     </histories>
   </component>
 </application>
