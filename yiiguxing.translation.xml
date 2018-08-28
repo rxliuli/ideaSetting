@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="False" />
+      <item value="fixed False" />
+      <item value="True" />
+      <item value="fixed True" />
       <item value="description" />
       <item value="comment" />
       <item value="desc" />
@@ -47,10 +51,6 @@
       <item value="set Prize Pool Amount Count" />
       <item value="airdrop Amount" />
       <item value="is Before" />
-      <item value="last Bet Record" />
-      <item value="current Game" />
-      <item value="time Lengthen" />
-      <item value="lengthen" />
     </histories>
   </component>
 </application>
