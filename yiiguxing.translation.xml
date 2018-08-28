@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="max Time Left Hours" />
       <item value="java . util . Linked Hash Map" />
       <item value="is an instance of com.rx.f3d.module.entity.sys.SysDict" />
       <item value="about Me" />
@@ -50,7 +51,6 @@
       <item value="check Phone" />
       <item value="Verification Code Controller" />
       <item value="验证码" />
-      <item value="set Serialization Inclusion" />
     </histories>
   </component>
 </application>
