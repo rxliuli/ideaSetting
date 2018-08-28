@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="java . util . Linked Hash Map" />
+      <item value="is an instance of com.rx.f3d.module.entity.sys.SysDict" />
       <item value="about Me" />
       <item value="中心" />
       <item value="last Updated Date" />
@@ -49,8 +51,6 @@
       <item value="Verification Code Controller" />
       <item value="验证码" />
       <item value="set Serialization Inclusion" />
-      <item value="10.1151313" />
-      <item value="promotion Amount" />
     </histories>
   </component>
 </application>
