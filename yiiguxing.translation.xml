@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bilateral" />
+      <item value="output" />
       <item value="Bi Consumer" />
       <item value="Represents an operation that accepts two input arguments and returns no * result. This is the two-arity specialization of {@link Consumer}. * Unlike most other functional interfaces, {@code BiConsumer} is expected * to operate via side-effects." />
       <item value="direct Tourist" />
@@ -49,8 +51,6 @@
       <item value="差值" />
       <item value="差" />
       <item value="MILLIS" />
-      <item value="MILLENNIA" />
-      <item value="dividend Amount" />
     </histories>
   </component>
 </application>
