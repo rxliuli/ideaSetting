@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set User Destination Prefix" />
       <item value="bilateral" />
       <item value="output" />
       <item value="Bi Consumer" />
@@ -50,7 +51,6 @@
       <item value="get Purchase Amount" />
       <item value="差值" />
       <item value="差" />
-      <item value="MILLIS" />
     </histories>
   </component>
 </application>
