@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="30" />
+      <item value="get Time Lengthen" />
       <item value="max Time Left Hours" />
       <item value="java . util . Linked Hash Map" />
       <item value="is an instance of com.rx.f3d.module.entity.sys.SysDict" />
@@ -49,8 +51,6 @@
       <item value="check User Is Exists By Phone" />
       <item value="check User By Phone" />
       <item value="check Phone" />
-      <item value="Verification Code Controller" />
-      <item value="验证码" />
     </histories>
   </component>
 </application>
