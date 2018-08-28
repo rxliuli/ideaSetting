@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="put If Absent" />
       <item value="Web Socket Annotation Method Message Handler" />
       <item value="Web Socket Stomp Client" />
       <item value="Sub Protocol Handler" />
@@ -50,7 +51,6 @@
       <item value="Create a new resource by POSTing the given object to the URI template, * and returns the representation found in the response. * &lt;p&gt;URI Template variables are expanded using the given map. * &lt;p&gt;The {@code request} parameter can be a {@link HttpEntity} in order to * add additional HTTP headers to the request." />
       <item value="uriVariables the variables to expand the template" />
       <item value="stderr" />
-      <item value="Choose" />
     </histories>
   </component>
 </application>
