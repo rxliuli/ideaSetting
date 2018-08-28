@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Annotation which indicates that a method parameter should be bound to a URI template * variable. Supported for {@link RequestMapping} annotated handler methods in Servlet * environments." />
       <item value="False" />
       <item value="fixed False" />
       <item value="True" />
@@ -50,7 +51,6 @@
       <item value="set Purchase Amount Count" />
       <item value="set Prize Pool Amount Count" />
       <item value="airdrop Amount" />
-      <item value="is Before" />
     </histories>
   </component>
 </application>
