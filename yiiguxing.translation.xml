@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Temporal Unit" />
+      <item value="{@code OffsetDateTime} is an immutable representation of a date-time with an offset. * This class stores all date and time fields, to a precision of nanoseconds, * as well as the offset from UTC/Greenwich. For example, the value * &quot;2nd October 2007 at 13:45.30.123456789 +02:00&quot; can be stored in an {@code OffsetDateTime}. * &lt;p&gt;" />
+      <item value="A date-time with an offset from UTC/Greenwich in the ISO-8601 calendar system, * such as {@code 2007-12-03T10:15:30+01:00}. * &lt;p&gt;" />
       <item value="win" />
       <item value="verify Password" />
       <item value="is Any Blank" />
@@ -48,9 +51,6 @@
       <item value="send" />
       <item value="talk" />
       <item value="Talk To Client Controller" />
-      <item value="广播" />
-      <item value="广播游戏信息到所有连接的客户端" />
-      <item value="刷新" />
     </histories>
   </component>
 </application>
