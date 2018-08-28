@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="description" />
+      <item value="comment" />
+      <item value="desc" />
+      <item value="menu i 18 n" />
       <item value="set User Destination Prefix" />
       <item value="bilateral" />
       <item value="output" />
@@ -47,10 +51,6 @@
       <item value="current Game" />
       <item value="time Lengthen" />
       <item value="lengthen" />
-      <item value="延长" />
-      <item value="get Purchase Amount" />
-      <item value="差值" />
-      <item value="差" />
     </histories>
   </component>
 </application>
