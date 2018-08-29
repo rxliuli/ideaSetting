@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Copy On Write Array List" />
+      <item value="Returns a sequential {@code LongStream} containing a single element." />
       <item value="generator Random String" />
       <item value="generator Random Str" />
       <item value="随机的字符串元字符集合" />
@@ -49,8 +51,6 @@
       <item value="A date-time with an offset from UTC/Greenwich in the ISO-8601 calendar system, * such as {@code 2007-12-03T10:15:30+01:00}. * &lt;p&gt;" />
       <item value="win" />
       <item value="verify Password" />
-      <item value="is Any Blank" />
-      <item value="verify" />
     </histories>
   </component>
 </application>
