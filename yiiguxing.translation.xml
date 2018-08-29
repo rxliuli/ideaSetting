@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sys Dict Name Constants" />
+      <item value="关于我们" />
+      <item value="help And About" />
       <item value="复杂" />
       <item value="30" />
       <item value="get Time Lengthen" />
@@ -48,9 +51,6 @@
       <item value="Ali SMS Util" />
       <item value="write dates as timestamps" />
       <item value="com.fasterxml.jackson.databind.JsonMappingException: Can not construct instance of java.io.Serializable: abstract types either need to be mapped to concrete types, have custom deserializer, or contain additional type information" />
-      <item value="com.fasterxml.jackson.databind.JsonMappingException: Can not construct instance of com.rx.f3d.common.web.JsonResult: no boolean/Boolean-argument constructor/factory method to deserialize from boolean value (true) at [Source: {&quot;code&quot;:200,&quot;message&quot;:null,&quot;data&quot;:true}; line: 1, column: 35] (through reference chain: com.rx.f3d.common.web.JsonResult[&quot;data&quot;])" />
-      <item value="check User Is Exists By Phone" />
-      <item value="check User By Phone" />
     </histories>
   </component>
 </application>
