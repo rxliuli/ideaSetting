@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.binding.BindingException: Parameter 'array' not found. Available parameters are [dictNames, param1]" />
       <item value="Sys Dict Name Constants" />
       <item value="关于我们" />
       <item value="help And About" />
@@ -50,7 +51,6 @@
       <item value="Aliyun SMS Util" />
       <item value="Ali SMS Util" />
       <item value="write dates as timestamps" />
-      <item value="com.fasterxml.jackson.databind.JsonMappingException: Can not construct instance of java.io.Serializable: abstract types either need to be mapped to concrete types, have custom deserializer, or contain additional type information" />
     </histories>
   </component>
 </application>
