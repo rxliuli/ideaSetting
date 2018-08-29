@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Chrono Unit" />
+      <item value="A standard set of date periods units. * &lt;p&gt;" />
+      <item value="更大" />
+      <item value="This returns a {@code ChronoLocalDateTime} formed from this date at the specified time. * All possible combinations of date and time are valid." />
+      <item value="Combines this date with a time to create a {@code ChronoLocalDateTime}." />
+      <item value="at Time" />
+      <item value="minus" />
       <item value="put If Absent" />
       <item value="Web Socket Annotation Method Message Handler" />
       <item value="Web Socket Stomp Client" />
@@ -44,13 +51,6 @@
       <item value="Has been loaded by XML or SqlProvider, ignoring the injection of the SQL." />
       <item value="add Allowed Origin" />
       <item value="throttle" />
-      <item value="debounce" />
-      <item value="delay" />
-      <item value="str Some" />
-      <item value="Cannot execute request on any known server" />
-      <item value="Create a new resource by POSTing the given object to the URI template, * and returns the representation found in the response. * &lt;p&gt;URI Template variables are expanded using the given map. * &lt;p&gt;The {@code request} parameter can be a {@link HttpEntity} in order to * add additional HTTP headers to the request." />
-      <item value="uriVariables the variables to expand the template" />
-      <item value="stderr" />
     </histories>
   </component>
 </application>
