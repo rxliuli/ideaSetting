@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="generator Random String" />
+      <item value="generator Random Str" />
+      <item value="随机的字符串元字符集合" />
+      <item value="随机的字符串集合" />
+      <item value="Code Generator Util" />
+      <item value="Code Genterator Util" />
       <item value="the upper bound (not included)" />
       <item value="Coffee Script" />
       <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.binding.BindingException: Parameter 'array' not found. Available parameters are [dictNames, param1]" />
@@ -45,12 +51,6 @@
       <item value="verify Password" />
       <item value="is Any Blank" />
       <item value="verify" />
-      <item value="User Code Service" />
-      <item value="Verification Code Service" />
-      <item value="Error creating bean with name 'dysmsUtil' defined in class path resource [com/rx/f3d/common/conf/CommonWebConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.rx.f3d.common.util.DysmsUtil]: Factory method 'dysmsUtil' threw exception; nested exception is java.lang.NoClassDefFoundError: com/aliyuncs/exceptions/ClientException" />
-      <item value="Send Sms Response" />
-      <item value="dysms Util" />
-      <item value="Aliyun SMS Util" />
     </histories>
   </component>
 </application>
