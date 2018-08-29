@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Coffee Script" />
       <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.binding.BindingException: Parameter 'array' not found. Available parameters are [dictNames, param1]" />
       <item value="Sys Dict Name Constants" />
       <item value="关于我们" />
@@ -50,7 +51,6 @@
       <item value="dysms Util" />
       <item value="Aliyun SMS Util" />
       <item value="Ali SMS Util" />
-      <item value="write dates as timestamps" />
     </histories>
   </component>
 </application>
