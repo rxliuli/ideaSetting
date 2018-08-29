@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="description" />
       <item value="Team" />
       <item value="get Current Invited List" />
       <item value="get Current Bind List" />
@@ -36,7 +37,6 @@
       <item value="fixed False" />
       <item value="True" />
       <item value="fixed True" />
-      <item value="description" />
       <item value="comment" />
       <item value="desc" />
       <item value="menu i 18 n" />
