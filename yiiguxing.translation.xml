@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Team" />
       <item value="get Current Invited List" />
       <item value="get Current Bind List" />
       <item value="get Current Bind" />
@@ -50,7 +51,6 @@
       <item value="web Agent Session Registry" />
       <item value="Stomp Header Accessor" />
       <item value="broadcasting" />
-      <item value="Temporal Unit" />
     </histories>
   </component>
 </application>
