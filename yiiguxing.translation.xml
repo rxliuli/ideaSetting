@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Current Bind" />
       <item value="Atomically adds the given value to the current value." />
       <item value="Copy On Write Array List" />
       <item value="Returns a sequential {@code LongStream} containing a single element." />
@@ -50,7 +51,6 @@
       <item value="Temporal Unit" />
       <item value="{@code OffsetDateTime} is an immutable representation of a date-time with an offset. * This class stores all date and time fields, to a precision of nanoseconds, * as well as the offset from UTC/Greenwich. For example, the value * &quot;2nd October 2007 at 13:45.30.123456789 +02:00&quot; can be stored in an {@code OffsetDateTime}. * &lt;p&gt;" />
       <item value="A date-time with an offset from UTC/Greenwich in the ISO-8601 calendar system, * such as {@code 2007-12-03T10:15:30+01:00}. * &lt;p&gt;" />
-      <item value="win" />
     </histories>
   </component>
 </application>
