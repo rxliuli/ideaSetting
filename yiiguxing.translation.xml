@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="商" />
       <item value="pow" />
       <item value="Binary Conversion" />
       <item value="进制转换" />
@@ -50,7 +51,6 @@
       <item value="Represents an operation that accepts two input arguments and returns no * result. This is the two-arity specialization of {@link Consumer}. * Unlike most other functional interfaces, {@code BiConsumer} is expected * to operate via side-effects." />
       <item value="direct Tourist" />
       <item value="tourist" />
-      <item value="游客" />
     </histories>
   </component>
 </application>
