@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="统计" />
       <item value="set Airdrop Prize Pool" />
       <item value="get Disbursement Amount Count" />
       <item value="set Disbursement Amount Count" />
@@ -50,7 +51,6 @@
       <item value="get Current Bind List" />
       <item value="get Current Bind" />
       <item value="Atomically adds the given value to the current value." />
-      <item value="Copy On Write Array List" />
     </histories>
   </component>
 </application>
