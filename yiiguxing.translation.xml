@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Purchase Amount" />
+      <item value="get Promotion Amount" />
       <item value="set Promotion Amount" />
       <item value="set Airdrop Amount" />
       <item value="update Batch Income" />
@@ -49,8 +51,6 @@
       <item value="随机的字符串元字符集合" />
       <item value="随机的字符串集合" />
       <item value="Code Generator Util" />
-      <item value="Code Genterator Util" />
-      <item value="the upper bound (not included)" />
     </histories>
   </component>
 </application>
