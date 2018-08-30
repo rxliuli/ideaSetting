@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="insert New User" />
       <item value="register Balance" />
       <item value="set Purchase Amount Count" />
       <item value="set Prize Pool Amount Count" />
@@ -50,7 +51,6 @@
       <item value="fixed True" />
       <item value="comment" />
       <item value="desc" />
-      <item value="menu i 18 n" />
     </histories>
   </component>
 </application>
