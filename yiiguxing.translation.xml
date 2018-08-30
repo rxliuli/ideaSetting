@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="send Scoket Message For Last Bet Record" />
       <item value="计算" />
       <item value="calculation Agent" />
       <item value="计算代理" />
@@ -50,7 +51,6 @@
       <item value="help And About" />
       <item value="复杂" />
       <item value="30" />
-      <item value="get Time Lengthen" />
     </histories>
   </component>
 </application>
