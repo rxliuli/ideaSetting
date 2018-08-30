@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="register Balance" />
       <item value="set Purchase Amount Count" />
       <item value="set Prize Pool Amount Count" />
       <item value="基数" />
@@ -50,7 +51,6 @@
       <item value="comment" />
       <item value="desc" />
       <item value="menu i 18 n" />
-      <item value="set User Destination Prefix" />
     </histories>
   </component>
 </application>
