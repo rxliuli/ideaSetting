@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Promotion Amount" />
+      <item value="set Airdrop Amount" />
       <item value="update Batch Income" />
       <item value="get Dividend Amount" />
       <item value="sub" />
@@ -49,8 +51,6 @@
       <item value="Code Generator Util" />
       <item value="Code Genterator Util" />
       <item value="the upper bound (not included)" />
-      <item value="Coffee Script" />
-      <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.binding.BindingException: Parameter 'array' not found. Available parameters are [dictNames, param1]" />
     </histories>
   </component>
 </application>
