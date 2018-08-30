@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Dividend Amount" />
+      <item value="sub" />
+      <item value="Returns a {@code Collector} which applies an {@code int}-producing * mapping function to each input element, and returns summary statistics * for the resulting values." />
+      <item value="find Last Bet Record By Game Id" />
+      <item value="allocation Amount" />
       <item value="send Scoket Message For Last Bet Record" />
       <item value="计算" />
       <item value="calculation Agent" />
@@ -11,7 +16,6 @@
       <item value="dividend" />
       <item value="分红" />
       <item value="update Game For Bet" />
-      <item value="allocation Amount" />
       <item value="allocation Account" />
       <item value="allocation" />
       <item value="分配金额" />
@@ -47,10 +51,6 @@
       <item value="Coffee Script" />
       <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.binding.BindingException: Parameter 'array' not found. Available parameters are [dictNames, param1]" />
       <item value="Sys Dict Name Constants" />
-      <item value="关于我们" />
-      <item value="help And About" />
-      <item value="复杂" />
-      <item value="30" />
     </histories>
   </component>
 </application>
