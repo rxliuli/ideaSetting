@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Promotion Amount" />
       <item value="统计" />
       <item value="set Airdrop Prize Pool" />
       <item value="get Disbursement Amount Count" />
@@ -10,7 +11,6 @@
       <item value="game Time Left Max Hours" />
       <item value="get Purchase Amount" />
       <item value="get Promotion Amount" />
-      <item value="set Promotion Amount" />
       <item value="set Airdrop Amount" />
       <item value="update Batch Income" />
       <item value="get Dividend Amount" />
