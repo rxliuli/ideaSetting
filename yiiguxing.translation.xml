@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Rounding mode to round towards positive infinity. If the * result is positive, behaves as for {@code RoundingMode.UP}; * if negative, behaves as for {@code RoundingMode.DOWN}. Note * that this rounding mode never decreases the calculated value." />
+      <item value="CEILING" />
+      <item value="&lt;p&gt;The new {@link #divide(BigDecimal, RoundingMode)} method * should be used in preference to this legacy method." />
+      <item value="* &lt;p&gt;The new {@link #divide(BigDecimal, RoundingMode)} method * should be used in preference to this legacy method." />
+      <item value="Returns a {@code BigDecimal} whose value is {@code (this / * divisor)}, and whose scale is {@code this.scale()}. If * rounding must be performed to generate a result with the given * scale, the specified rounding mode is applied." />
+      <item value="rounding mode to apply" />
       <item value="set Promotion Amount" />
       <item value="统计" />
       <item value="set Airdrop Prize Pool" />
@@ -45,12 +51,6 @@
       <item value="pow" />
       <item value="Binary Conversion" />
       <item value="进制转换" />
-      <item value="description" />
-      <item value="Team" />
-      <item value="get Current Invited List" />
-      <item value="get Current Bind List" />
-      <item value="get Current Bind" />
-      <item value="Atomically adds the given value to the current value." />
     </histories>
   </component>
 </application>
