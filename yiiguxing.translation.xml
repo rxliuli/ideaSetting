@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Airdrop Prize Pool" />
+      <item value="get Disbursement Amount Count" />
+      <item value="set Disbursement Amount Count" />
       <item value="get Time Lengthen" />
       <item value="延长" />
       <item value="game Time Left Max Hours" />
@@ -48,9 +51,6 @@
       <item value="get Current Bind" />
       <item value="Atomically adds the given value to the current value." />
       <item value="Copy On Write Array List" />
-      <item value="Returns a sequential {@code LongStream} containing a single element." />
-      <item value="generator Random String" />
-      <item value="generator Random Str" />
     </histories>
   </component>
 </application>
