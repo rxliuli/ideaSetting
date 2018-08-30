@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="update Batch Income" />
       <item value="get Dividend Amount" />
       <item value="sub" />
       <item value="Returns a {@code Collector} which applies an {@code int}-producing * mapping function to each input element, and returns summary statistics * for the resulting values." />
@@ -50,7 +51,6 @@
       <item value="the upper bound (not included)" />
       <item value="Coffee Script" />
       <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.binding.BindingException: Parameter 'array' not found. Available parameters are [dictNames, param1]" />
-      <item value="Sys Dict Name Constants" />
     </histories>
   </component>
 </application>
