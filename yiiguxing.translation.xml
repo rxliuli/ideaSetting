@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pow" />
+      <item value="Binary Conversion" />
+      <item value="进制转换" />
       <item value="description" />
       <item value="Team" />
       <item value="get Current Invited List" />
@@ -48,9 +51,6 @@
       <item value="direct Tourist" />
       <item value="tourist" />
       <item value="游客" />
-      <item value="web Agent Session Registry" />
-      <item value="Stomp Header Accessor" />
-      <item value="broadcasting" />
     </histories>
   </component>
 </application>
