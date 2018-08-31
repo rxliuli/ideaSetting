@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Prime" />
+      <item value="素数检查" />
+      <item value="Prime Check" />
       <item value="Rounding mode to round towards positive infinity. If the * result is positive, behaves as for {@code RoundingMode.UP}; * if negative, behaves as for {@code RoundingMode.DOWN}. Note * that this rounding mode never decreases the calculated value." />
       <item value="CEILING" />
       <item value="&lt;p&gt;The new {@link #divide(BigDecimal, RoundingMode)} method * should be used in preference to this legacy method." />
@@ -48,9 +51,6 @@
       <item value="九" />
       <item value="9" />
       <item value="商" />
-      <item value="pow" />
-      <item value="Binary Conversion" />
-      <item value="进制转换" />
     </histories>
   </component>
 </application>
