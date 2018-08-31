@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="calculation Prize Pool Allocation" />
+      <item value="分配" />
+      <item value="calculation Prize Pool" />
       <item value="phone Last Four" />
       <item value="后四位" />
       <item value="phone 后四位" />
@@ -48,9 +51,6 @@
       <item value="find Last Bet Record By Game Id" />
       <item value="allocation Amount" />
       <item value="send Scoket Message For Last Bet Record" />
-      <item value="计算" />
-      <item value="calculation Agent" />
-      <item value="计算代理" />
     </histories>
   </component>
 </application>
