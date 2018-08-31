@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="time Lengthen" />
       <item value="ERROR org.springframework.scheduling.support.TaskUtils$LoggingErrorHandler.handleError - Unexpected error occurred in scheduled task." />
       <item value="2018-08-31 19:27:07,174 [main] DEBUG org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter.report - Application failed to start due to an exception" />
       <item value="send Win Bet Record" />
@@ -50,7 +51,6 @@
       <item value="get Promotion Amount" />
       <item value="set Airdrop Amount" />
       <item value="update Batch Income" />
-      <item value="get Dividend Amount" />
     </histories>
   </component>
 </application>
