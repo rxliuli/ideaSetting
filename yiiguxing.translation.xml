@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="结束" />
+      <item value="寻找" />
       <item value="Prime" />
       <item value="素数检查" />
       <item value="Prime Check" />
@@ -49,8 +51,6 @@
       <item value="基数" />
       <item value="nine" />
       <item value="九" />
-      <item value="9" />
-      <item value="商" />
     </histories>
   </component>
 </application>
