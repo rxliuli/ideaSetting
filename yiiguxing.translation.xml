@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="3000000000" />
       <item value="结束" />
       <item value="寻找" />
       <item value="Prime" />
@@ -50,7 +51,6 @@
       <item value="set Prize Pool Amount Count" />
       <item value="基数" />
       <item value="nine" />
-      <item value="九" />
     </histories>
   </component>
 </application>
