@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ERROR org.springframework.scheduling.support.TaskUtils$LoggingErrorHandler.handleError - Unexpected error occurred in scheduled task." />
+      <item value="2018-08-31 19:27:07,174 [main] DEBUG org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter.report - Application failed to start due to an exception" />
       <item value="send Win Bet Record" />
       <item value="set Time Lengthen" />
       <item value="GAME STATU HAS ENDED" />
@@ -49,8 +51,6 @@
       <item value="set Airdrop Amount" />
       <item value="update Batch Income" />
       <item value="get Dividend Amount" />
-      <item value="sub" />
-      <item value="Returns a {@code Collector} which applies an {@code int}-producing * mapping function to each input element, and returns summary statistics * for the resulting values." />
     </histories>
   </component>
 </application>
