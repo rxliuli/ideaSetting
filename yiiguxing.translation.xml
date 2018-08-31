@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="WRITE BIGDECIMAL AS PLAIN" />
+      <item value="{@link com.fasterxml.jackson.core.JsonGenerator.Feature#WRITE_BIGDECIMAL_AS_PLAIN} instead * (using {@link ObjectWriter#with(com.fasterxml.jackson.core.JsonGenerator.Feature)})." />
+      <item value="Feature that determines whether {@link java.math.BigDecimal} entries are * serialized using {@link java.math.BigDecimal#toPlainString()} to prevent * values to be written using scientific notation. *&lt;p&gt; * NOTE: since this feature typically requires use of * {@link com.fasterxml.jackson.core.JsonGenerator#writeNumber(String)} * it may cause compatibility problems since not all {@link com.fasterxml.jackson.core.JsonGenerator} * implementations support such mode of output: usually only text-based formats * support it. *&lt;p&gt; * Feature is disabled by default. * * @deprecated Since 2.5: use {@link com.fasterxml.jackson.core.JsonGenerator.Feature#WRITE_BIGDECIMAL_AS_PLAIN} instead * (using {@link ObjectWriter#with(com.fasterxml.jackson.core.JsonGenerator.Feature)})." />
+      <item value="Feature is disabled by default." />
+      <item value="* {@link com.fasterxml.jackson.core.JsonGenerator#writeNumber(String)} * it may cause compatibility problems since not all {@link com.fasterxml.jackson.core.JsonGenerator} * implementations support such mode of output: usually only text-based formats * support it." />
+      <item value="NOTE: since this feature typically requires use of" />
+      <item value="Feature that determines whether {@link java.math.BigDecimal} entries are * serialized using {@link java.math.BigDecimal#toPlainString()} to prevent * values to be written using scientific notation. *&lt;p&gt;" />
       <item value="count Bet Key By User Record And Team" />
       <item value="statu" />
       <item value="bet Key By Team" />
@@ -44,13 +51,6 @@
       <item value="calc Agent" />
       <item value="compiler" />
       <item value="compile" />
-      <item value="dividend" />
-      <item value="分红" />
-      <item value="update Game For Bet" />
-      <item value="allocation Account" />
-      <item value="allocation" />
-      <item value="分配金额" />
-      <item value="分配" />
     </histories>
   </component>
 </application>
