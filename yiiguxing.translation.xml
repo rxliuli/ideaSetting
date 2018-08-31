@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="send Win Bet Record" />
+      <item value="set Time Lengthen" />
+      <item value="GAME STATU HAS ENDED" />
       <item value="calculation Prize Pool Allocation" />
       <item value="分配" />
       <item value="calculation Prize Pool" />
@@ -48,9 +51,6 @@
       <item value="get Dividend Amount" />
       <item value="sub" />
       <item value="Returns a {@code Collector} which applies an {@code int}-producing * mapping function to each input element, and returns summary statistics * for the resulting values." />
-      <item value="find Last Bet Record By Game Id" />
-      <item value="allocation Amount" />
-      <item value="send Scoket Message For Last Bet Record" />
     </histories>
   </component>
 </application>
