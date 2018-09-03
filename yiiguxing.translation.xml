@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="now Even Bigger" />
+      <item value="local Time Plus Hour One" />
       <item value="time Lengthen" />
       <item value="ERROR org.springframework.scheduling.support.TaskUtils$LoggingErrorHandler.handleError - Unexpected error occurred in scheduled task." />
       <item value="2018-08-31 19:27:07,174 [main] DEBUG org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter.report - Application failed to start due to an exception" />
@@ -49,8 +51,6 @@
       <item value="game Time Left Max Hours" />
       <item value="get Purchase Amount" />
       <item value="get Promotion Amount" />
-      <item value="set Airdrop Amount" />
-      <item value="update Batch Income" />
     </histories>
   </component>
 </application>
