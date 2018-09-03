@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="time To Live Seconds" />
       <item value="time To Idle Seconds" />
+      <item value="time To Live Seconds" />
       <item value="1000" />
       <item value="max Elements In Memory" />
       <item value="The bean name of the custom {@link org.springframework.cache.interceptor.KeyGenerator} * to use. * &lt;p&gt;Mutually exclusive with the {@link #key} attribute." />
