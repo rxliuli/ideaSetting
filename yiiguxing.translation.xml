@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A date-time with an offset from UTC/Greenwich in the ISO-8601 calendar system, * such as {@code 2007-12-03T10:15:30+01:00}. * &lt;p&gt;" />
+      <item value="at Zone Same Instant" />
+      <item value="A date-time with an offset from UTC/Greenwich in the ISO-8601 calendar system, * such as {@code 2007-12-03T10:15:30+01:00}." />
+      <item value="to Zoned Date Time" />
+      <item value="Offset Date Time" />
       <item value="time To Idle Seconds" />
       <item value="time To Live Seconds" />
       <item value="1000" />
@@ -46,11 +51,6 @@
       <item value="CEILING" />
       <item value="&lt;p&gt;The new {@link #divide(BigDecimal, RoundingMode)} method * should be used in preference to this legacy method." />
       <item value="* &lt;p&gt;The new {@link #divide(BigDecimal, RoundingMode)} method * should be used in preference to this legacy method." />
-      <item value="Returns a {@code BigDecimal} whose value is {@code (this / * divisor)}, and whose scale is {@code this.scale()}. If * rounding must be performed to generate a result with the given * scale, the specified rounding mode is applied." />
-      <item value="rounding mode to apply" />
-      <item value="set Promotion Amount" />
-      <item value="统计" />
-      <item value="set Airdrop Prize Pool" />
     </histories>
   </component>
 </application>
