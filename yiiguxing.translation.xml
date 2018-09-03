@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="time To Live Seconds" />
+      <item value="300" />
+      <item value="The dependencies of some of the beans in the application context form a cycle:" />
       <item value="now Even Bigger" />
       <item value="local Time Plus Hour One" />
       <item value="time Lengthen" />
@@ -48,9 +51,6 @@
       <item value="set Disbursement Amount Count" />
       <item value="get Time Lengthen" />
       <item value="延长" />
-      <item value="game Time Left Max Hours" />
-      <item value="get Purchase Amount" />
-      <item value="get Promotion Amount" />
     </histories>
   </component>
 </application>
