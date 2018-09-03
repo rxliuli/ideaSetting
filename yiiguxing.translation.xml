@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="java.time.temporal.UnsupportedTemporalTypeException: Unsupported unit: Millis" />
+      <item value="An instantaneous point on the time-line. * &lt;p&gt; * This class models a single instantaneous point on the time-line. * This might be used to record event time-stamps in the application. * &lt;p&gt;" />
       <item value="datacenter Id Bits" />
       <item value="get Datacenter Id" />
       <item value="Alias For" />
@@ -49,8 +51,6 @@
       <item value="statu" />
       <item value="bet Key By Team" />
       <item value="Or, by using a builder accessible via static methods:" />
-      <item value="Can also be used in Spring MVC, as the return value from a @Controller method:" />
-      <item value="&lt;pre class=&quot;code&quot;&gt; * ResponseEntity&amp;lt;String&amp;gt; entity = template.getForEntity(&quot;http://example.com&quot;, String.class); * String body = entity.getBody(); * MediaType contentType = entity.getHeaders().getContentType(); * HttpStatus statusCode = entity.getStatusCode(); * &lt;/pre&gt;" />
     </histories>
   </component>
 </application>
