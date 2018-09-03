@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Here for backwards compatibility with MM.MySQL" />
       <item value="Chrono Unit" />
       <item value="A standard set of date periods units. * &lt;p&gt;" />
       <item value="更大" />
@@ -50,7 +51,6 @@
       <item value="Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'custom.rootFilePath' in value &quot;${custom.rootFilePath}&quot;" />
       <item value="Has been loaded by XML or SqlProvider, ignoring the injection of the SQL." />
       <item value="add Allowed Origin" />
-      <item value="throttle" />
     </histories>
   </component>
 </application>
