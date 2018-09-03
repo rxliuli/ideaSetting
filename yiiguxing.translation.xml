@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.dao.EmptyResultDataAccessException: Incorrect result size: expected 1, actual 0" />
+      <item value="org.springframework.dao.TransientDataAccessResourceException: PreparedStatementCallback; SQL [select * from user where id = #{id}]; Parameter index out of range (1 &gt; number of parameters, which is 0).; nested exception is java.sql.SQLException: Parameter index out of range (1 &gt; number of parameters, which is 0)." />
+      <item value="Failed to execute SQL script statement" />
+      <item value="Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory" />
+      <item value="Failed to load ApplicationContext" />
       <item value="Here for backwards compatibility with MM.MySQL" />
       <item value="Chrono Unit" />
       <item value="A standard set of date periods units. * &lt;p&gt;" />
@@ -46,11 +51,6 @@
       <item value="databind" />
       <item value="will Decode" />
       <item value="get Reason Phrase" />
-      <item value="java.lang.IllegalStateException: Content has not been provided" />
-      <item value="java.lang.IllegalStateException: Failed to load property source from location 'classpath:/application-dev.yml' at org.springframework.boot.context.config.ConfigFileApplicationListener$Loader.loadIntoGroup" />
-      <item value="Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'custom.rootFilePath' in value &quot;${custom.rootFilePath}&quot;" />
-      <item value="Has been loaded by XML or SqlProvider, ignoring the injection of the SQL." />
-      <item value="add Allowed Origin" />
     </histories>
   </component>
 </application>
