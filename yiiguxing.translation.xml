@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="time To Live Seconds" />
+      <item value="time To Idle Seconds" />
+      <item value="1000" />
       <item value="max Elements In Memory" />
       <item value="The bean name of the custom {@link org.springframework.cache.interceptor.KeyGenerator} * to use. * &lt;p&gt;Mutually exclusive with the {@link #key} attribute." />
-      <item value="time To Live Seconds" />
       <item value="300" />
       <item value="The dependencies of some of the beans in the application context form a cycle:" />
       <item value="now Even Bigger" />
@@ -49,8 +51,6 @@
       <item value="set Promotion Amount" />
       <item value="统计" />
       <item value="set Airdrop Prize Pool" />
-      <item value="get Disbursement Amount Count" />
-      <item value="set Disbursement Amount Count" />
     </histories>
   </component>
 </application>
