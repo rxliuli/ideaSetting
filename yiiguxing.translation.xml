@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="game Time Left" />
+      <item value="distance Remaining At The End" />
+      <item value="DISTANCE REMAINING TIME" />
+      <item value="time To Live Seconds" />
+      <item value="time To Idle Seconds" />
       <item value="java.time.temporal.UnsupportedTemporalTypeException: Unsupported unit: Millis" />
       <item value="An instantaneous point on the time-line. * &lt;p&gt; * This class models a single instantaneous point on the time-line. * This might be used to record event time-stamps in the application. * &lt;p&gt;" />
       <item value="datacenter Id Bits" />
@@ -19,8 +24,6 @@
       <item value="A date-time with an offset from UTC/Greenwich in the ISO-8601 calendar system, * such as {@code 2007-12-03T10:15:30+01:00}." />
       <item value="to Zoned Date Time" />
       <item value="Offset Date Time" />
-      <item value="time To Idle Seconds" />
-      <item value="time To Live Seconds" />
       <item value="1000" />
       <item value="max Elements In Memory" />
       <item value="The bean name of the custom {@link org.springframework.cache.interceptor.KeyGenerator} * to use. * &lt;p&gt;Mutually exclusive with the {@link #key} attribute." />
@@ -48,9 +51,6 @@
       <item value="NOTE: since this feature typically requires use of" />
       <item value="Feature that determines whether {@link java.math.BigDecimal} entries are * serialized using {@link java.math.BigDecimal#toPlainString()} to prevent * values to be written using scientific notation. *&lt;p&gt;" />
       <item value="count Bet Key By User Record And Team" />
-      <item value="statu" />
-      <item value="bet Key By Team" />
-      <item value="Or, by using a builder accessible via static methods:" />
     </histories>
   </component>
 </application>
