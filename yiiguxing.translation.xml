@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Alias For" />
       <item value="before Handshake" />
       <item value="计算" />
       <item value="list Bet Key Count By Team Map By User Record" />
@@ -50,7 +51,6 @@
       <item value="&lt;pre class=&quot;code&quot;&gt; * ResponseEntity&amp;lt;String&amp;gt; entity = template.getForEntity(&quot;http://example.com&quot;, String.class); * String body = entity.getBody(); * MediaType contentType = entity.getHeaders().getContentType(); * HttpStatus statusCode = entity.getStatusCode(); * &lt;/pre&gt;" />
       <item value="Extension of {@link HttpEntity} that adds a {@link HttpStatus} status code. * Used in {@code RestTemplate} as well {@code @Controller} methods." />
       <item value="3000000000" />
-      <item value="结束" />
     </histories>
   </component>
 </application>
