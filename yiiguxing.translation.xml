@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="before Handshake" />
       <item value="计算" />
       <item value="list Bet Key Count By Team Map By User Record" />
       <item value="Feature is disabled by default, so default output mode is used; this generally * depends on how {@link BigDecimal} has been created." />
@@ -50,7 +51,6 @@
       <item value="Extension of {@link HttpEntity} that adds a {@link HttpStatus} status code. * Used in {@code RestTemplate} as well {@code @Controller} methods." />
       <item value="3000000000" />
       <item value="结束" />
-      <item value="寻找" />
     </histories>
   </component>
 </application>
