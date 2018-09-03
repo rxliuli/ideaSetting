@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Feature is disabled by default, so default output mode is used; this generally * depends on how {@link BigDecimal} has been created." />
+      <item value="Feature that determines whether {@link java.math.BigDecimal} entries are * serialized using {@link java.math.BigDecimal#toPlainString()} to prevent * values to be written using scientific notation." />
+      <item value="Feature that determines whether {@link java.math.BigDecimal} entries are * serialized using {@link java.math.BigDecimal#toPlainString()} to prevent * values to be written using scientific notation. *&lt;p&gt; * Feature is disabled by default, so default output mode is used; this generally * depends on how {@link BigDecimal} has been created." />
+      <item value="Feature that determines whether {@link java.math.BigDecimal} entries are * serialized using {@link java.math.BigDecimal#toPlainString()} to prevent * values to be written using scientific notation. *&lt;p&gt; * Feature is disabled by default, so default output mode is used; this generally * depends on how {@link BigDecimal} has been created. * * @since 2.3" />
+      <item value="enable" />
       <item value="A date-time with an offset from UTC/Greenwich in the ISO-8601 calendar system, * such as {@code 2007-12-03T10:15:30+01:00}. * &lt;p&gt;" />
       <item value="at Zone Same Instant" />
       <item value="A date-time with an offset from UTC/Greenwich in the ISO-8601 calendar system, * such as {@code 2007-12-03T10:15:30+01:00}." />
@@ -46,11 +51,6 @@
       <item value="寻找" />
       <item value="Prime" />
       <item value="素数检查" />
-      <item value="Prime Check" />
-      <item value="Rounding mode to round towards positive infinity. If the * result is positive, behaves as for {@code RoundingMode.UP}; * if negative, behaves as for {@code RoundingMode.DOWN}. Note * that this rounding mode never decreases the calculated value." />
-      <item value="CEILING" />
-      <item value="&lt;p&gt;The new {@link #divide(BigDecimal, RoundingMode)} method * should be used in preference to this legacy method." />
-      <item value="* &lt;p&gt;The new {@link #divide(BigDecimal, RoundingMode)} method * should be used in preference to this legacy method." />
     </histories>
   </component>
 </application>
