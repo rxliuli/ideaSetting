@@ -1,13 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="airdrop Lottery Amount Count" />
+      <item value="lottery Amount Count" />
+      <item value="dividend Amount Sum" />
+      <item value="dividend Amount Count" />
+      <item value="promotion Amount Count" />
       <item value="airdrop Big Lottery Amount Count" />
       <item value="抽奖" />
       <item value="airdrop Amount Count" />
       <item value="m" />
-      <item value="promotion Amount Count" />
       <item value="income Amount Count" />
-      <item value="dividend Amount Count" />
       <item value="check Already Login" />
       <item value="已经" />
       <item value="check Alerady Login" />
@@ -48,9 +51,6 @@
       <item value="set Time Lengthen" />
       <item value="GAME STATU HAS ENDED" />
       <item value="calculation Prize Pool Allocation" />
-      <item value="分配" />
-      <item value="calculation Prize Pool" />
-      <item value="phone Last Four" />
     </histories>
   </component>
 </application>
