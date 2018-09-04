@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="抽奖" />
+      <item value="airdrop Amount Count" />
+      <item value="m" />
       <item value="promotion Amount Count" />
       <item value="income Amount Count" />
       <item value="dividend Amount Count" />
@@ -48,9 +51,6 @@
       <item value="calculation Prize Pool" />
       <item value="phone Last Four" />
       <item value="后四位" />
-      <item value="phone 后四位" />
-      <item value="WRITE BIGDECIMAL AS PLAIN" />
-      <item value="{@link com.fasterxml.jackson.core.JsonGenerator.Feature#WRITE_BIGDECIMAL_AS_PLAIN} instead * (using {@link ObjectWriter#with(com.fasterxml.jackson.core.JsonGenerator.Feature)})." />
     </histories>
   </component>
 </application>
