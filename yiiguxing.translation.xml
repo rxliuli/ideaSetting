@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the clone if the object implements {@link Cloneable} otherwise {@code null}" />
+      <item value="the object to clone, null returns null" />
+      <item value="clone" />
+      <item value="java.lang.ClassCastException: com.rx.f3d.module.entity.user.User cannot be cast to com.rx.f3d.module.vo.user.UserVO" />
+      <item value="Lower Case Test" />
+      <item value="promotion Amount Count" />
+      <item value="dividend Amount" />
       <item value="update Batch By Id" />
       <item value="promotion Amount" />
       <item value="推广" />
@@ -10,7 +17,6 @@
       <item value="lottery Amount Count" />
       <item value="dividend Amount Sum" />
       <item value="dividend Amount Count" />
-      <item value="promotion Amount Count" />
       <item value="airdrop Big Lottery Amount Count" />
       <item value="抽奖" />
       <item value="airdrop Amount Count" />
@@ -45,12 +51,6 @@
       <item value="1000" />
       <item value="max Elements In Memory" />
       <item value="The bean name of the custom {@link org.springframework.cache.interceptor.KeyGenerator} * to use. * &lt;p&gt;Mutually exclusive with the {@link #key} attribute." />
-      <item value="300" />
-      <item value="The dependencies of some of the beans in the application context form a cycle:" />
-      <item value="now Even Bigger" />
-      <item value="local Time Plus Hour One" />
-      <item value="time Lengthen" />
-      <item value="ERROR org.springframework.scheduling.support.TaskUtils$LoggingErrorHandler.handleError - Unexpected error occurred in scheduled task." />
     </histories>
   </component>
 </application>
