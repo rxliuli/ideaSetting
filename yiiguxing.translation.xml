@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="airdrop Big Lottery Amount Count" />
       <item value="抽奖" />
       <item value="airdrop Amount Count" />
       <item value="m" />
@@ -50,7 +51,6 @@
       <item value="分配" />
       <item value="calculation Prize Pool" />
       <item value="phone Last Four" />
-      <item value="后四位" />
     </histories>
   </component>
 </application>
