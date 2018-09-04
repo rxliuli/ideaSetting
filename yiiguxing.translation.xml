@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="update Batch By Id" />
+      <item value="promotion Amount" />
+      <item value="推广" />
+      <item value="promotion record" />
+      <item value="bind Id" />
       <item value="airdrop Lottery Amount Count" />
       <item value="lottery Amount Count" />
       <item value="dividend Amount Sum" />
@@ -46,11 +51,6 @@
       <item value="local Time Plus Hour One" />
       <item value="time Lengthen" />
       <item value="ERROR org.springframework.scheduling.support.TaskUtils$LoggingErrorHandler.handleError - Unexpected error occurred in scheduled task." />
-      <item value="2018-08-31 19:27:07,174 [main] DEBUG org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter.report - Application failed to start due to an exception" />
-      <item value="send Win Bet Record" />
-      <item value="set Time Lengthen" />
-      <item value="GAME STATU HAS ENDED" />
-      <item value="calculation Prize Pool Allocation" />
     </histories>
   </component>
 </application>
