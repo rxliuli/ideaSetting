@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="check Already Login" />
+      <item value="已经" />
+      <item value="check Alerady Login" />
       <item value="game Time Left" />
       <item value="distance Remaining At The End" />
       <item value="DISTANCE REMAINING TIME" />
@@ -48,9 +51,6 @@
       <item value="Feature that determines whether {@link java.math.BigDecimal} entries are * serialized using {@link java.math.BigDecimal#toPlainString()} to prevent * values to be written using scientific notation. *&lt;p&gt; * NOTE: since this feature typically requires use of * {@link com.fasterxml.jackson.core.JsonGenerator#writeNumber(String)} * it may cause compatibility problems since not all {@link com.fasterxml.jackson.core.JsonGenerator} * implementations support such mode of output: usually only text-based formats * support it. *&lt;p&gt; * Feature is disabled by default. * * @deprecated Since 2.5: use {@link com.fasterxml.jackson.core.JsonGenerator.Feature#WRITE_BIGDECIMAL_AS_PLAIN} instead * (using {@link ObjectWriter#with(com.fasterxml.jackson.core.JsonGenerator.Feature)})." />
       <item value="Feature is disabled by default." />
       <item value="* {@link com.fasterxml.jackson.core.JsonGenerator#writeNumber(String)} * it may cause compatibility problems since not all {@link com.fasterxml.jackson.core.JsonGenerator} * implementations support such mode of output: usually only text-based formats * support it." />
-      <item value="NOTE: since this feature typically requires use of" />
-      <item value="Feature that determines whether {@link java.math.BigDecimal} entries are * serialized using {@link java.math.BigDecimal#toPlainString()} to prevent * values to be written using scientific notation. *&lt;p&gt;" />
-      <item value="count Bet Key By User Record And Team" />
     </histories>
   </component>
 </application>
