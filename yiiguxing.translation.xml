@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="allocation Win Amount For Next Game Init" />
+      <item value="allocation Win Amount For Next Game Remining" />
+      <item value="allocation Win Amount For Next Game" />
       <item value="calculation Prize Pool Allocation" />
       <item value="Interrupted Exception" />
       <item value="max Thread Pool Size" />
@@ -48,9 +51,6 @@
       <item value="Feature is disabled by default, so default output mode is used; this generally * depends on how {@link BigDecimal} has been created." />
       <item value="Feature that determines whether {@link java.math.BigDecimal} entries are * serialized using {@link java.math.BigDecimal#toPlainString()} to prevent * values to be written using scientific notation." />
       <item value="Feature that determines whether {@link java.math.BigDecimal} entries are * serialized using {@link java.math.BigDecimal#toPlainString()} to prevent * values to be written using scientific notation. *&lt;p&gt; * Feature is disabled by default, so default output mode is used; this generally * depends on how {@link BigDecimal} has been created." />
-      <item value="Feature that determines whether {@link java.math.BigDecimal} entries are * serialized using {@link java.math.BigDecimal#toPlainString()} to prevent * values to be written using scientific notation. *&lt;p&gt; * Feature is disabled by default, so default output mode is used; this generally * depends on how {@link BigDecimal} has been created. * * @since 2.3" />
-      <item value="enable" />
-      <item value="A date-time with an offset from UTC/Greenwich in the ISO-8601 calendar system, * such as {@code 2007-12-03T10:15:30+01:00}. * &lt;p&gt;" />
     </histories>
   </component>
 </application>
