@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Interrupted Exception" />
+      <item value="max Thread Pool Size" />
+      <item value="Stop Watch" />
+      <item value="Expected" />
       <item value="规则" />
       <item value="get Invited" />
       <item value="the clone if the object implements {@link Cloneable} otherwise {@code null}" />
@@ -47,10 +51,6 @@
       <item value="enable" />
       <item value="A date-time with an offset from UTC/Greenwich in the ISO-8601 calendar system, * such as {@code 2007-12-03T10:15:30+01:00}. * &lt;p&gt;" />
       <item value="at Zone Same Instant" />
-      <item value="A date-time with an offset from UTC/Greenwich in the ISO-8601 calendar system, * such as {@code 2007-12-03T10:15:30+01:00}." />
-      <item value="to Zoned Date Time" />
-      <item value="Offset Date Time" />
-      <item value="1000" />
     </histories>
   </component>
 </application>
