@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="规则" />
+      <item value="get Invited" />
       <item value="the clone if the object implements {@link Cloneable} otherwise {@code null}" />
       <item value="the object to clone, null returns null" />
       <item value="clone" />
@@ -49,8 +51,6 @@
       <item value="to Zoned Date Time" />
       <item value="Offset Date Time" />
       <item value="1000" />
-      <item value="max Elements In Memory" />
-      <item value="The bean name of the custom {@link org.springframework.cache.interceptor.KeyGenerator} * to use. * &lt;p&gt;Mutually exclusive with the {@link #key} attribute." />
     </histories>
   </component>
 </application>
