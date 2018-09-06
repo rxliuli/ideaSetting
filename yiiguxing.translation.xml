@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
+      <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server" />
       <item value="update Or Init User Record" />
       <item value="insert Nest" />
       <item value="insert Next" />
@@ -49,8 +51,6 @@
       <item value="datacenter Id Bits" />
       <item value="get Datacenter Id" />
       <item value="Alias For" />
-      <item value="before Handshake" />
-      <item value="计算" />
     </histories>
   </component>
 </application>
