@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Generates the next pseudorandom number. Subclasses should * override this, as this is used by all other methods." />
+      <item value="bits random bits" />
+      <item value="the random double" />
+      <item value="Returns a random double within 0 - Double.MAX_VALUE &lt;/p&gt;" />
+      <item value="probability" />
+      <item value="概率" />
+      <item value="probabling" />
+      <item value="random Val" />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server" />
       <item value="update Or Init User Record" />
@@ -43,14 +51,6 @@
       <item value="check Alerady Login" />
       <item value="game Time Left" />
       <item value="distance Remaining At The End" />
-      <item value="DISTANCE REMAINING TIME" />
-      <item value="time To Live Seconds" />
-      <item value="time To Idle Seconds" />
-      <item value="java.time.temporal.UnsupportedTemporalTypeException: Unsupported unit: Millis" />
-      <item value="An instantaneous point on the time-line. * &lt;p&gt; * This class models a single instantaneous point on the time-line. * This might be used to record event time-stamps in the application. * &lt;p&gt;" />
-      <item value="datacenter Id Bits" />
-      <item value="get Datacenter Id" />
-      <item value="Alias For" />
     </histories>
   </component>
 </application>
