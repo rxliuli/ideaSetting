@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="update Or Init User Record" />
       <item value="insert Nest" />
       <item value="insert Next" />
       <item value="set Income Amount Count" />
@@ -50,7 +51,6 @@
       <item value="Alias For" />
       <item value="before Handshake" />
       <item value="计算" />
-      <item value="list Bet Key Count By Team Map By User Record" />
     </histories>
   </component>
 </application>
