@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="wrap" />
       <item value="strip Trailing Zeros" />
       <item value="update Balance" />
       <item value="operate Uri" />
@@ -50,7 +51,6 @@
       <item value="update Batch By Id" />
       <item value="promotion Amount" />
       <item value="推广" />
-      <item value="promotion record" />
     </histories>
   </component>
 </application>
