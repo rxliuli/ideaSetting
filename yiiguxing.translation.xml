@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="operate Uri" />
+      <item value="oper Uri" />
+      <item value="description" />
+      <item value="descript" />
+      <item value="admin log" />
+      <item value="admin opera log" />
+      <item value="is Enable" />
+      <item value="is Active" />
       <item value="Factory method 'sqlSessionFactory' threw exception; nested exception is com.baomidou.mybatisplus.exceptions.MybatisPlusException: not find typeAliasesPackage:classpath*:com/rx/f3d/module/entity/**/*/*.class" />
       <item value="Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: No cache manager could be auto-configured, check your configuration (caching type is 'EHCACHE')" />
       <item value="model Version" />
@@ -43,14 +51,6 @@
       <item value="promotion record" />
       <item value="bind Id" />
       <item value="airdrop Lottery Amount Count" />
-      <item value="lottery Amount Count" />
-      <item value="dividend Amount Sum" />
-      <item value="dividend Amount Count" />
-      <item value="airdrop Big Lottery Amount Count" />
-      <item value="抽奖" />
-      <item value="airdrop Amount Count" />
-      <item value="m" />
-      <item value="income Amount Count" />
     </histories>
   </component>
 </application>
