@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="中奖" />
       <item value="winning" />
       <item value="Generates the next pseudorandom number. Subclasses should * override this, as this is used by all other methods." />
       <item value="bits random bits" />
@@ -50,7 +51,6 @@
       <item value="check Already Login" />
       <item value="已经" />
       <item value="check Alerady Login" />
-      <item value="game Time Left" />
     </histories>
   </component>
 </application>
