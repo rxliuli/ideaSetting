@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="strip Trailing Zeros" />
+      <item value="update Balance" />
       <item value="operate Uri" />
       <item value="oper Uri" />
       <item value="description" />
@@ -49,8 +51,6 @@
       <item value="promotion Amount" />
       <item value="推广" />
       <item value="promotion record" />
-      <item value="bind Id" />
-      <item value="airdrop Lottery Amount Count" />
     </histories>
   </component>
 </application>
