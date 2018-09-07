@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Offset" />
+      <item value="get Offset" />
+      <item value="String orderByField" />
       <item value="PROPAGATE TRANSIENT MARKER" />
       <item value="wrap" />
       <item value="strip Trailing Zeros" />
@@ -48,9 +51,6 @@
       <item value="java.lang.ClassCastException: com.rx.f3d.module.entity.user.User cannot be cast to com.rx.f3d.module.vo.user.UserVO" />
       <item value="Lower Case Test" />
       <item value="promotion Amount Count" />
-      <item value="dividend Amount" />
-      <item value="update Batch By Id" />
-      <item value="promotion Amount" />
     </histories>
   </component>
 </application>
