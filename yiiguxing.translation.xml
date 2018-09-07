@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PROPAGATE TRANSIENT MARKER" />
       <item value="wrap" />
       <item value="strip Trailing Zeros" />
       <item value="update Balance" />
@@ -50,7 +51,6 @@
       <item value="dividend Amount" />
       <item value="update Batch By Id" />
       <item value="promotion Amount" />
-      <item value="推广" />
     </histories>
   </component>
 </application>
