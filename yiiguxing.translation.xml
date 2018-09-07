@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="toggle Active" />
+      <item value="toggle" />
+      <item value="disable Or Enable" />
       <item value="Custom Properties Config" />
       <item value="fill Properties" />
       <item value="Convenient utility methods for loading of {@code java.util.Properties}, * performing standard handling of input streams." />
@@ -48,9 +51,6 @@
       <item value="calculation Prize Pool Allocation" />
       <item value="Interrupted Exception" />
       <item value="max Thread Pool Size" />
-      <item value="Stop Watch" />
-      <item value="Expected" />
-      <item value="规则" />
     </histories>
   </component>
 </application>
