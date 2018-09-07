@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Custom Properties Config" />
+      <item value="fill Properties" />
+      <item value="Convenient utility methods for loading of {@code java.util.Properties}, * performing standard handling of input streams." />
       <item value="is Active" />
       <item value="disable" />
       <item value="refresh" />
@@ -48,9 +51,6 @@
       <item value="Stop Watch" />
       <item value="Expected" />
       <item value="规则" />
-      <item value="get Invited" />
-      <item value="the clone if the object implements {@link Cloneable} otherwise {@code null}" />
-      <item value="the object to clone, null returns null" />
     </histories>
   </component>
 </application>
