@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Active" />
+      <item value="disable" />
       <item value="refresh" />
       <item value="get Browser" />
       <item value="Duplicate key [1]" />
@@ -18,7 +20,6 @@
       <item value="admin log" />
       <item value="admin opera log" />
       <item value="is Enable" />
-      <item value="is Active" />
       <item value="Factory method 'sqlSessionFactory' threw exception; nested exception is com.baomidou.mybatisplus.exceptions.MybatisPlusException: not find typeAliasesPackage:classpath*:com/rx/f3d/module/entity/**/*/*.class" />
       <item value="Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: No cache manager could be auto-configured, check your configuration (caching type is 'EHCACHE')" />
       <item value="model Version" />
@@ -50,7 +51,6 @@
       <item value="get Invited" />
       <item value="the clone if the object implements {@link Cloneable} otherwise {@code null}" />
       <item value="the object to clone, null returns null" />
-      <item value="clone" />
     </histories>
   </component>
 </application>
