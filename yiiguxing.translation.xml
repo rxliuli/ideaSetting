@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Wx Mp Message Router" />
+      <item value="Kf Session Handler" />
+      <item value="Wx Mp Service" />
       <item value="portal" />
       <item value="Create a new resource by POSTing the given object to the URI template, * and returns the response as {@link ResponseEntity}. * &lt;p&gt;URI Template variables are expanded using the given URI variables, if any. * &lt;p&gt;The {@code request} parameter can be a {@link HttpEntity} in order to * add additional HTTP headers to the request." />
       <item value="the Object to be POSTed" />
@@ -48,9 +51,6 @@
       <item value="probability" />
       <item value="概率" />
       <item value="probabling" />
-      <item value="random Val" />
-      <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
-      <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server" />
     </histories>
   </component>
 </application>
