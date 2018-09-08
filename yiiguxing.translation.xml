@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Create a new resource by POSTing the given object to the URI template, * and returns the response as {@link ResponseEntity}. * &lt;p&gt;URI Template variables are expanded using the given URI variables, if any. * &lt;p&gt;The {@code request} parameter can be a {@link HttpEntity} in order to * add additional HTTP headers to the request." />
+      <item value="the Object to be POSTed" />
+      <item value="* @param request" />
+      <item value="the Object to be POSTed (may be {@code null})" />
       <item value="any Blank" />
       <item value="get Echostr" />
       <item value="Shortcut for {@code newHasher().putObject(instance, funnel).hash()}. The implementation * &lt;i&gt;might&lt;/i&gt; perform better than its longhand equivalent, but should not perform worse." />
@@ -47,10 +51,6 @@
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server" />
       <item value="update Or Init User Record" />
-      <item value="insert Nest" />
-      <item value="insert Next" />
-      <item value="set Income Amount Count" />
-      <item value="allocation Win Amount For Next Game Init" />
     </histories>
   </component>
 </application>
