@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Wx Mp Conditional Menu" />
+      <item value="private List&lt;WxMenuButton&gt; buttons;" />
       <item value="DEVICE TEXT" />
       <item value="TRANSFER CUSTOMER SERVICE" />
       <item value="SCAN" />
@@ -49,8 +51,6 @@
       <item value="String orderByField" />
       <item value="PROPAGATE TRANSIENT MARKER" />
       <item value="wrap" />
-      <item value="strip Trailing Zeros" />
-      <item value="update Balance" />
     </histories>
   </component>
 </application>
