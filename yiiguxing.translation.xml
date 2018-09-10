@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Enable Configuration Properties" />
       <item value="Wx Mp Message Router" />
       <item value="Kf Session Handler" />
       <item value="Wx Mp Service" />
@@ -50,7 +51,6 @@
       <item value="Returns a random double within 0 - Double.MAX_VALUE &lt;/p&gt;" />
       <item value="probability" />
       <item value="概率" />
-      <item value="probabling" />
     </histories>
   </component>
 </application>
