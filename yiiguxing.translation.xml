@@ -1,12 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="echostr" />
+      <item value="nonce" />
+      <item value="timestamp" />
+      <item value="portal" />
       <item value="processor" />
       <item value="Enable Configuration Properties" />
       <item value="Wx Mp Message Router" />
       <item value="Kf Session Handler" />
       <item value="Wx Mp Service" />
-      <item value="portal" />
       <item value="Create a new resource by POSTing the given object to the URI template, * and returns the response as {@link ResponseEntity}. * &lt;p&gt;URI Template variables are expanded using the given URI variables, if any. * &lt;p&gt;The {@code request} parameter can be a {@link HttpEntity} in order to * add additional HTTP headers to the request." />
       <item value="the Object to be POSTed" />
       <item value="* @param request" />
@@ -48,9 +51,6 @@
       <item value="winning" />
       <item value="Generates the next pseudorandom number. Subclasses should * override this, as this is used by all other methods." />
       <item value="bits random bits" />
-      <item value="the random double" />
-      <item value="Returns a random double within 0 - Double.MAX_VALUE &lt;/p&gt;" />
-      <item value="probability" />
     </histories>
   </component>
 </application>
