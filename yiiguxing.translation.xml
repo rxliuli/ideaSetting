@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="menu Create Default" />
       <item value="Wx Mp Conditional Menu" />
       <item value="private List&lt;WxMenuButton&gt; buttons;" />
       <item value="DEVICE TEXT" />
@@ -50,7 +51,6 @@
       <item value="get Offset" />
       <item value="String orderByField" />
       <item value="PROPAGATE TRANSIENT MARKER" />
-      <item value="wrap" />
     </histories>
   </component>
 </application>
