@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DEVICE TEXT" />
+      <item value="TRANSFER CUSTOMER SERVICE" />
+      <item value="SCAN" />
+      <item value="MASS SEND JOB FINISH" />
+      <item value="SCANCODE PUSH" />
+      <item value="SCANCODE WAITMSG" />
+      <item value="PIC WEIXIN" />
+      <item value="LOCATION SELECT" />
+      <item value="TEMPLATE SEND JOB FINISH" />
+      <item value="TEMPLATESENDJOBFINISH" />
+      <item value="enter agent" />
+      <item value="Handler" />
+      <item value="Msg Handler" />
       <item value="on project f3d-server-play: Execution default-cli of goal org.springframework.boot:spring-boot-maven-plugin:1.5.12.RELEASE:repackage failed: Source file must be provided -&gt; [Help 1]" />
       <item value="echostr" />
       <item value="nonce" />
@@ -38,19 +51,6 @@
       <item value="wrap" />
       <item value="strip Trailing Zeros" />
       <item value="update Balance" />
-      <item value="operate Uri" />
-      <item value="oper Uri" />
-      <item value="description" />
-      <item value="descript" />
-      <item value="admin log" />
-      <item value="admin opera log" />
-      <item value="is Enable" />
-      <item value="Factory method 'sqlSessionFactory' threw exception; nested exception is com.baomidou.mybatisplus.exceptions.MybatisPlusException: not find typeAliasesPackage:classpath*:com/rx/f3d/module/entity/**/*/*.class" />
-      <item value="Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: No cache manager could be auto-configured, check your configuration (caching type is 'EHCACHE')" />
-      <item value="model Version" />
-      <item value="中奖" />
-      <item value="winning" />
-      <item value="Generates the next pseudorandom number. Subclasses should * override this, as this is used by all other methods." />
     </histories>
   </component>
 </application>
