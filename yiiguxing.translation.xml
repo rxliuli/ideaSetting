@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on project f3d-server-play: Execution default-cli of goal org.springframework.boot:spring-boot-maven-plugin:1.5.12.RELEASE:repackage failed: Source file must be provided -&gt; [Help 1]" />
       <item value="echostr" />
       <item value="nonce" />
       <item value="timestamp" />
@@ -50,7 +51,6 @@
       <item value="中奖" />
       <item value="winning" />
       <item value="Generates the next pseudorandom number. Subclasses should * override this, as this is used by all other methods." />
-      <item value="bits random bits" />
     </histories>
   </component>
 </application>
