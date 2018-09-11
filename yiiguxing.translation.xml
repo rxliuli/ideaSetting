@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Protocol" />
       <item value="Subscribe Handler" />
       <item value="oauth 2 build Authorization Url" />
       <item value="menu Create Default" />
@@ -50,7 +51,6 @@
       <item value="get Browser" />
       <item value="Duplicate key [1]" />
       <item value="Offset" />
-      <item value="get Offset" />
     </histories>
   </component>
 </application>
