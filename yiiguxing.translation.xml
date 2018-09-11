@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Subscribe Handler" />
       <item value="oauth 2 build Authorization Url" />
       <item value="menu Create Default" />
       <item value="Wx Mp Conditional Menu" />
@@ -50,7 +51,6 @@
       <item value="Duplicate key [1]" />
       <item value="Offset" />
       <item value="get Offset" />
-      <item value="String orderByField" />
     </histories>
   </component>
 </application>
