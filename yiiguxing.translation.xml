@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="oauth 2 build Authorization Url" />
       <item value="menu Create Default" />
       <item value="Wx Mp Conditional Menu" />
       <item value="private List&lt;WxMenuButton&gt; buttons;" />
@@ -50,7 +51,6 @@
       <item value="Offset" />
       <item value="get Offset" />
       <item value="String orderByField" />
-      <item value="PROPAGATE TRANSIENT MARKER" />
     </histories>
   </component>
 </application>
