@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reply" />
+      <item value="回复" />
+      <item value="Thumb" />
+      <item value="get Thumb Media Id" />
+      <item value="Media" />
+      <item value="edia" />
+      <item value="Wx Mp Media Temp Api" />
       <item value="media Id" />
       <item value="msg Signature" />
       <item value="sans - serif" />
@@ -44,13 +51,6 @@
       <item value="Shortcut for {@code newHasher().putObject(instance, funnel).hash()}. The implementation * &lt;i&gt;might&lt;/i&gt; perform better than its longhand equivalent, but should not perform worse." />
       <item value="If you must interoperate with a system that requires SHA-1, then use this method, * despite its deprecation. But if you can choose your hash function, avoid SHA-1, which is * neither fast nor secure. As of January 2017, we suggest: * &lt;ul&gt; * &lt;li&gt;For security: * {@link Hashing#sha256} or a higher-level API. * &lt;li&gt;For speed: {@link Hashing#goodFastHash}, though see its docs for caveats. * &lt;/ul&gt;" />
       <item value="Returns a hash function implementing the SHA-1 algorithm (160 hash bits)." />
-      <item value="toggle Active" />
-      <item value="toggle" />
-      <item value="disable Or Enable" />
-      <item value="Custom Properties Config" />
-      <item value="fill Properties" />
-      <item value="Convenient utility methods for loading of {@code java.util.Properties}, * performing standard handling of input streams." />
-      <item value="is Active" />
     </histories>
   </component>
 </application>
