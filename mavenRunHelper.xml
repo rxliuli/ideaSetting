@@ -34,6 +34,9 @@
             <Goal>
               <option name="commandLine" value="validate" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="clean install -D maven.test.skip=true" />
+            </Goal>
           </list>
         </option>
       </Goals>

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failure to find com.rx.f3d:f3d-parent:pom:2.0.0 in https://repo.maven.apache.org/maven2 was cached in the local repository" />
       <item value="ERROR org.springframework.boot.SpringApplication.reportFailure - Application startup failed" />
       <item value="Conditional On Missing Bean" />
       <item value="reply" />
@@ -50,7 +51,6 @@
       <item value="the Object to be POSTed (may be {@code null})" />
       <item value="any Blank" />
       <item value="get Echostr" />
-      <item value="Shortcut for {@code newHasher().putObject(instance, funnel).hash()}. The implementation * &lt;i&gt;might&lt;/i&gt; perform better than its longhand equivalent, but should not perform worse." />
     </histories>
   </component>
 </application>
