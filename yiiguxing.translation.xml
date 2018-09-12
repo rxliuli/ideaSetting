@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ERROR org.springframework.boot.SpringApplication.reportFailure - Application startup failed" />
       <item value="Conditional On Missing Bean" />
       <item value="reply" />
       <item value="回复" />
@@ -50,7 +51,6 @@
       <item value="any Blank" />
       <item value="get Echostr" />
       <item value="Shortcut for {@code newHasher().putObject(instance, funnel).hash()}. The implementation * &lt;i&gt;might&lt;/i&gt; perform better than its longhand equivalent, but should not perform worse." />
-      <item value="If you must interoperate with a system that requires SHA-1, then use this method, * despite its deprecation. But if you can choose your hash function, avoid SHA-1, which is * neither fast nor secure. As of January 2017, we suggest: * &lt;ul&gt; * &lt;li&gt;For security: * {@link Hashing#sha256} or a higher-level API. * &lt;li&gt;For speed: {@link Hashing#goodFastHash}, though see its docs for caveats. * &lt;/ul&gt;" />
     </histories>
   </component>
 </application>
