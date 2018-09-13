@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="list Current Team Type" />
       <item value="max" />
       <item value="non-compatible bean definition of same name and class [com.rx.common.conf.CommonWebConfig]" />
       <item value="Application startup failed" />
@@ -50,7 +51,6 @@
       <item value="Wx Mp Service" />
       <item value="Create a new resource by POSTing the given object to the URI template, * and returns the response as {@link ResponseEntity}. * &lt;p&gt;URI Template variables are expanded using the given URI variables, if any. * &lt;p&gt;The {@code request} parameter can be a {@link HttpEntity} in order to * add additional HTTP headers to the request." />
       <item value="the Object to be POSTed" />
-      <item value="* @param request" />
     </histories>
   </component>
 </application>
