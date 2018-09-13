@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="My Paper By Map" />
       <item value="choice Pen" />
       <item value="pen Color" />
       <item value="Paper" />
@@ -50,7 +51,6 @@
       <item value="processor" />
       <item value="Enable Configuration Properties" />
       <item value="Wx Mp Message Router" />
-      <item value="Kf Session Handler" />
     </histories>
   </component>
 </application>
