@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="non-compatible bean definition of same name and class [com.rx.common.conf.CommonWebConfig]" />
+      <item value="Application startup failed" />
       <item value="Failure to find com.rx.f3d:f3d-parent:pom:2.0.0 in https://repo.maven.apache.org/maven2 was cached in the local repository" />
       <item value="ERROR org.springframework.boot.SpringApplication.reportFailure - Application startup failed" />
       <item value="Conditional On Missing Bean" />
@@ -49,8 +51,6 @@
       <item value="the Object to be POSTed" />
       <item value="* @param request" />
       <item value="the Object to be POSTed (may be {@code null})" />
-      <item value="any Blank" />
-      <item value="get Echostr" />
     </histories>
   </component>
 </application>
