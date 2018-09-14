@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="distance Remaining At The End" />
       <item value="My Paper By Map" />
       <item value="choice Pen" />
       <item value="pen Color" />
@@ -50,7 +51,6 @@
       <item value="portal" />
       <item value="processor" />
       <item value="Enable Configuration Properties" />
-      <item value="Wx Mp Message Router" />
     </histories>
   </component>
 </application>
