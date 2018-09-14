@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Instance Holder" />
+      <item value="period" />
+      <item value="System Clock" />
+      <item value="schedule Clock Updating" />
+      <item value="daemon" />
+      <item value="naming Pattern" />
+      <item value="Basic Thread Factory" />
+      <item value="Scheduled Thread Pool Executor" />
+      <item value="set Daemon" />
+      <item value="Atomic Long" />
+      <item value="schedule At Fixed Rate" />
+      <item value="test Clock" />
+      <item value="差" />
       <item value="unified" />
       <item value="parse Refund Notify Result" />
       <item value="Non - resolvable" />
@@ -38,19 +51,6 @@
       <item value="sans - serif" />
       <item value="/** * Returns a canonical representation for the string object. * &lt;p&gt; * A pool of strings, initially empty, is maintained privately by the * class {@code String}. * &lt;p&gt; * When the intern method is invoked, if the pool already contains a * string equal to this {@code String} object as determined by * the {@link #equals(Object)} method, then the string from the pool is * returned. Otherwise, this {@code String} object is added to the * pool and a reference to this {@code String} object is returned. * &lt;p&gt; * It follows that for any two strings {@code s} and {@code t}, * {@code s.intern() == t.intern()} is {@code true} * if and only if {@code s.equals(t)} is {@code true}. * &lt;p&gt; * All literal strings and string-valued constant expressions are * interned. String literals are defined in section 3.10.5 of the * &lt;cite&gt;The Java&amp;trade; Language Specification&lt;/cite&gt;. * * @return a string that has the same contents as this string, but is * guaranteed to be from a pool of unique strings. */" />
       <item value="intern" />
-      <item value="get Protocol" />
-      <item value="Subscribe Handler" />
-      <item value="oauth 2 build Authorization Url" />
-      <item value="menu Create Default" />
-      <item value="Wx Mp Conditional Menu" />
-      <item value="private List&lt;WxMenuButton&gt; buttons;" />
-      <item value="DEVICE TEXT" />
-      <item value="TRANSFER CUSTOMER SERVICE" />
-      <item value="SCAN" />
-      <item value="MASS SEND JOB FINISH" />
-      <item value="SCANCODE PUSH" />
-      <item value="SCANCODE WAITMSG" />
-      <item value="PIC WEIXIN" />
     </histories>
   </component>
 </application>
