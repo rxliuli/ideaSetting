@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unified" />
+      <item value="parse Refund Notify Result" />
       <item value="Non - resolvable" />
       <item value="Failure to find com.rx.f3d:f3d-parent:pom:2.0.0 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced and 'parent.relativePath' points at wrong local POM @ line 5, column 13" />
       <item value="Non-resolvable parent POM for com.rx:rx-common:[unknown-version]:" />
@@ -49,8 +51,6 @@
       <item value="SCANCODE PUSH" />
       <item value="SCANCODE WAITMSG" />
       <item value="PIC WEIXIN" />
-      <item value="LOCATION SELECT" />
-      <item value="TEMPLATE SEND JOB FINISH" />
     </histories>
   </component>
 </application>
