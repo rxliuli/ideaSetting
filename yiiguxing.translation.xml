@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="platform" />
+      <item value="airdrop Proportion" />
+      <item value="promotion" />
+      <item value="prize Pool Dividend Proportion" />
+      <item value="prize Pool Dividend" />
+      <item value="比例" />
       <item value="distance Remaining At The End" />
       <item value="My Paper By Map" />
       <item value="choice Pen" />
@@ -45,12 +51,6 @@
       <item value="Handler" />
       <item value="Msg Handler" />
       <item value="on project f3d-server-play: Execution default-cli of goal org.springframework.boot:spring-boot-maven-plugin:1.5.12.RELEASE:repackage failed: Source file must be provided -&gt; [Help 1]" />
-      <item value="echostr" />
-      <item value="nonce" />
-      <item value="timestamp" />
-      <item value="portal" />
-      <item value="processor" />
-      <item value="Enable Configuration Properties" />
     </histories>
   </component>
 </application>
