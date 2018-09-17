@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="An object reference that may be updated atomically. See the {@link * java.util.concurrent.atomic} package specification for description * of the properties of atomic variables. * @since 1.5 * @author Doug Lea * @param &lt;V&gt; The type of object referred to by this reference" />
+      <item value="An object reference that may be updated atomically. See the {@link" />
       <item value="Resume" />
       <item value="Returns the next pseudorandom, uniformly distributed * {@code double} value between {@code 0.0} and * {@code 1.0} from this random number generator's sequence." />
       <item value="Returns the next pseudorandom, uniformly distributed * {@code boolean} value from this random number generator's * sequence. The general contract of {@code nextBoolean} is that one * {@code boolean} value is pseudorandomly generated and returned. The * values {@code true} and {@code false} are produced with * (approximately) equal probability." />
@@ -49,8 +51,6 @@
       <item value="distance Remaining At The End" />
       <item value="My Paper By Map" />
       <item value="choice Pen" />
-      <item value="pen Color" />
-      <item value="Paper" />
     </histories>
   </component>
 </application>
