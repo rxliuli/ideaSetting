@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="build Success" />
+      <item value="help And About" />
       <item value="notify Sms Template" />
       <item value="session Key" />
       <item value="Handler Method Argument Resolver" />
@@ -49,8 +51,6 @@
       <item value="max" />
       <item value="non-compatible bean definition of same name and class [com.rx.common.conf.CommonWebConfig]" />
       <item value="Application startup failed" />
-      <item value="Failure to find com.rx.f3d:f3d-parent:pom:2.0.0 in https://repo.maven.apache.org/maven2 was cached in the local repository" />
-      <item value="ERROR org.springframework.boot.SpringApplication.reportFailure - Application startup failed" />
     </histories>
   </component>
 </application>
