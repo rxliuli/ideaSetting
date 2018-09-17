@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The {@code Desktop} class allows a Java application to launch * associated applications registered on the native desktop to handle * a {@link java.net.URI} or a file." />
+      <item value="Tests whether this class is supported on the current platform. * If it's supported, use {@link #getDesktop()} to retrieve an * instance. *" />
+      <item value="is Desktop Supported" />
+      <item value="文件夹" />
+      <item value="Open Floder" />
       <item value="the access &lt;a href=&quot;#mode&quot;&gt;mode&lt;/a&gt;" />
       <item value="seek" />
       <item value="&lt;code&gt;true&lt;/code&gt; if and only if the directory was created, * along with all necessary parent directories; &lt;code&gt;false&lt;/code&gt; * otherwise" />
@@ -46,11 +51,6 @@
       <item value="login get from browser" />
       <item value="on Application Event" />
       <item value="Custom Hand Shake Interceptor" />
-      <item value="/** * Send a message to the given user. * @param user the user that should receive the message. * @param destination the destination to send the message to. * @param payload the payload to send */" />
-      <item value="scheduled Broadcasting" />
-      <item value="Unidirectional Broadcasting Socket" />
-      <item value="Incorrect column count: expected 1, actual 4" />
-      <item value="org . springframework . jdbc . Incorrect Result Set Column Count Exception" />
     </histories>
   </component>
 </application>
