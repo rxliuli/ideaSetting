@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Resume" />
       <item value="Returns the next pseudorandom, uniformly distributed * {@code double} value between {@code 0.0} and * {@code 1.0} from this random number generator's sequence." />
       <item value="Returns the next pseudorandom, uniformly distributed * {@code boolean} value from this random number generator's * sequence. The general contract of {@code nextBoolean} is that one * {@code boolean} value is pseudorandomly generated and returned. The * values {@code true} and {@code false} are produced with * (approximately) equal probability." />
       <item value="Returns the next pseudorandom, uniformly distributed {@code int} * value from this random number generator's sequence. The general * contract of {@code nextInt} is that one {@code int} value is * pseudorandomly generated and returned. All 2&lt;sup&gt;32&lt;/sup&gt; possible * {@code int} values are produced with (approximately) equal probability." />
@@ -50,7 +51,6 @@
       <item value="choice Pen" />
       <item value="pen Color" />
       <item value="Paper" />
-      <item value="list Current Team Type" />
     </histories>
   </component>
 </application>
