@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="session Key" />
+      <item value="Handler Method Argument Resolver" />
+      <item value="Issue" />
       <item value="thread Count" />
       <item value="log Interval" />
       <item value="loop Count" />
@@ -48,9 +51,6 @@
       <item value="Failure to find com.rx.f3d:f3d-parent:pom:2.0.0 in https://repo.maven.apache.org/maven2 was cached in the local repository" />
       <item value="ERROR org.springframework.boot.SpringApplication.reportFailure - Application startup failed" />
       <item value="Conditional On Missing Bean" />
-      <item value="reply" />
-      <item value="回复" />
-      <item value="Thumb" />
     </histories>
   </component>
 </application>
