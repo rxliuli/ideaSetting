@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="register" />
+      <item value="regist" />
       <item value="An object reference that may be updated atomically. See the {@link * java.util.concurrent.atomic} package specification for description * of the properties of atomic variables. * @since 1.5 * @author Doug Lea * @param &lt;V&gt; The type of object referred to by this reference" />
       <item value="An object reference that may be updated atomically. See the {@link" />
       <item value="Resume" />
@@ -49,8 +51,6 @@
       <item value="prize Pool Dividend" />
       <item value="比例" />
       <item value="distance Remaining At The End" />
-      <item value="My Paper By Map" />
-      <item value="choice Pen" />
     </histories>
   </component>
 </application>
