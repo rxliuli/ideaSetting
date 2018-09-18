@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Price" />
+      <item value="create" />
+      <item value="/ order / create" />
+      <item value="pay" />
+      <item value="Pay Controller" />
+      <item value="Pseudo-terminal will not be allocated because stdin is not a terminal. ssh: Could not resolve hostname serveo.net: Name or service not known" />
       <item value="state" />
       <item value="recharge" />
       <item value="充值" />
@@ -45,12 +51,6 @@
       <item value="Issue" />
       <item value="thread Count" />
       <item value="log Interval" />
-      <item value="loop Count" />
-      <item value="build Task In Thread" />
-      <item value="timestamp Left Shift" />
-      <item value="of Epoch Milli" />
-      <item value="Atomic Long" />
-      <item value="the period between successive executions" />
     </histories>
   </component>
 </application>
