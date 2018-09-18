@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Ui Type" />
       <item value="money" />
       <item value="register" />
       <item value="regist" />
@@ -50,7 +51,6 @@
       <item value="promotion" />
       <item value="prize Pool Dividend Proportion" />
       <item value="prize Pool Dividend" />
-      <item value="比例" />
     </histories>
   </component>
 </application>
