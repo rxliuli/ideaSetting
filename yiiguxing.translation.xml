@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="if some property of the specified key * or value prevents it from being stored in this map" />
+      <item value="if the specified key or value is null * and this map does not permit null keys or values" />
+      <item value="if the class of the specified key or value * prevents it from being stored in this map" />
+      <item value="if the &lt;tt&gt;put&lt;/tt&gt; operation * is not supported by this map" />
+      <item value="put If Absent" />
       <item value="nonce" />
       <item value="nonce str" />
       <item value="and content type [application/octet-stream]" />
@@ -46,11 +51,6 @@
       <item value="naming Pattern" />
       <item value="Basic Thread Factory" />
       <item value="Scheduled Thread Pool Executor" />
-      <item value="set Daemon" />
-      <item value="schedule At Fixed Rate" />
-      <item value="test Clock" />
-      <item value="差" />
-      <item value="unified" />
     </histories>
   </component>
 </application>
