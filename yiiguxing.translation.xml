@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="and content type [application/octet-stream]" />
+      <item value="Create a new resource by POSTing the given object to the URL, * and returns the response as {@link ResponseEntity}. * &lt;p&gt;The {@code request} parameter can be a {@link HttpEntity} in order to * add additional HTTP headers to the request." />
+      <item value="the converted object" />
+      <item value="Could not extract response: no suitable HttpMessageConverter found for response type [class java.util.HashMap] and content type [application/octet-stream]" />
+      <item value="request the Object to be POSTed (may be {@code null})" />
+      <item value="org.springframework.web.client.RestClientException: Could not extract response: no suitable HttpMessageConverter found for response type [class java.util.HashMap] and content type [application/octet-stream]" />
+      <item value="Could not extract response:" />
+      <item value="no suitable HttpMessageConverter found for response type [class java.lang.Object] and content type [application/octet-stream]" />
+      <item value="Could not extract response" />
       <item value="set Ui Type" />
       <item value="money" />
       <item value="register" />
@@ -42,15 +51,6 @@
       <item value="unified" />
       <item value="parse Refund Notify Result" />
       <item value="Non - resolvable" />
-      <item value="Failure to find com.rx.f3d:f3d-parent:pom:2.0.0 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced and 'parent.relativePath' points at wrong local POM @ line 5, column 13" />
-      <item value="Non-resolvable parent POM for com.rx:rx-common:[unknown-version]:" />
-      <item value="Non-resolvable parent POM for" />
-      <item value="Some problems were encountered while processing the POMs:" />
-      <item value="platform" />
-      <item value="airdrop Proportion" />
-      <item value="promotion" />
-      <item value="prize Pool Dividend Proportion" />
-      <item value="prize Pool Dividend" />
     </histories>
   </component>
 </application>
