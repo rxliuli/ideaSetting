@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="state" />
+      <item value="recharge" />
+      <item value="充值" />
+      <item value="description" />
+      <item value="goods" />
+      <item value="commodity" />
+      <item value="商品" />
+      <item value="shop" />
       <item value="Http Message Not Readable Exception" />
       <item value="JSON parse error: Unrecognized token 'fail': was expecting 'null', 'true', 'false' or NaN; nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'fail': was expecting 'null', 'true', 'false' or NaN at [Source: java.io.PushbackInputStream@77ce8bc5; line: 1, column: 9]" />
       <item value="if some property of the specified key * or value prevents it from being stored in this map" />
@@ -43,14 +51,6 @@
       <item value="of Epoch Milli" />
       <item value="Atomic Long" />
       <item value="the period between successive executions" />
-      <item value="the time to delay first execution" />
-      <item value="initial Delay" />
-      <item value="period" />
-      <item value="Instance Holder" />
-      <item value="System Clock" />
-      <item value="schedule Clock Updating" />
-      <item value="daemon" />
-      <item value="naming Pattern" />
     </histories>
   </component>
 </application>
