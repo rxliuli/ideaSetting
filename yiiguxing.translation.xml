@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="connect Failed" />
+      <item value="Socket Timeout Exception" />
+      <item value="Note that this method may be called a second time for a single HTTP response if the response * includes a trailer. For this obscure HTTP feature, {@code cookies} contains only the trailer's * cookies." />
+      <item value="Saves {@code cookies} from an HTTP response to this store according to this jar's policy." />
       <item value="The {@code Desktop} class allows a Java application to launch * associated applications registered on the native desktop to handle * a {@link java.net.URI} or a file." />
       <item value="Tests whether this class is supported on the current platform. * If it's supported, use {@link #getDesktop()} to retrieve an * instance. *" />
       <item value="is Desktop Supported" />
@@ -47,10 +51,6 @@
       <item value="Event raised when a new WebSocket client using a Simple Messaging Protocol * (e.g. STOMP) as the WebSocket sub-protocol issues a connect request. *" />
       <item value="STOMP Connect Event Listener" />
       <item value="Copy On Write Array Set" />
-      <item value="get Native Header" />
-      <item value="login get from browser" />
-      <item value="on Application Event" />
-      <item value="Custom Hand Shake Interceptor" />
     </histories>
   </component>
 </application>
