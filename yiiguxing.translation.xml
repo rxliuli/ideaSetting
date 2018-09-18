@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="statu Fail" />
+      <item value="通知" />
       <item value="get Price" />
       <item value="create" />
       <item value="/ order / create" />
@@ -49,8 +51,6 @@
       <item value="session Key" />
       <item value="Handler Method Argument Resolver" />
       <item value="Issue" />
-      <item value="thread Count" />
-      <item value="log Interval" />
     </histories>
   </component>
 </application>
