@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="nonce" />
+      <item value="nonce str" />
       <item value="and content type [application/octet-stream]" />
       <item value="Create a new resource by POSTing the given object to the URL, * and returns the response as {@link ResponseEntity}. * &lt;p&gt;The {@code request} parameter can be a {@link HttpEntity} in order to * add additional HTTP headers to the request." />
       <item value="the converted object" />
@@ -49,8 +51,6 @@
       <item value="test Clock" />
       <item value="差" />
       <item value="unified" />
-      <item value="parse Refund Notify Result" />
-      <item value="Non - resolvable" />
     </histories>
   </component>
 </application>
