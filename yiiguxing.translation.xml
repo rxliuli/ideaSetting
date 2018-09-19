@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bet Amount Count By Team Map" />
+      <item value="list Current Team Type" />
+      <item value="current User Record" />
+      <item value="daemon" />
+      <item value="team Statistics" />
+      <item value="统计信息" />
+      <item value="team Statics" />
+      <item value="Asynchronous Completion Task" />
       <item value="time Gen" />
       <item value="til Next Millis" />
       <item value="complete Time" />
@@ -43,14 +51,6 @@
       <item value="nonce" />
       <item value="nonce str" />
       <item value="and content type [application/octet-stream]" />
-      <item value="Create a new resource by POSTing the given object to the URL, * and returns the response as {@link ResponseEntity}. * &lt;p&gt;The {@code request} parameter can be a {@link HttpEntity} in order to * add additional HTTP headers to the request." />
-      <item value="the converted object" />
-      <item value="Could not extract response: no suitable HttpMessageConverter found for response type [class java.util.HashMap] and content type [application/octet-stream]" />
-      <item value="request the Object to be POSTed (may be {@code null})" />
-      <item value="org.springframework.web.client.RestClientException: Could not extract response: no suitable HttpMessageConverter found for response type [class java.util.HashMap] and content type [application/octet-stream]" />
-      <item value="Could not extract response:" />
-      <item value="no suitable HttpMessageConverter found for response type [class java.lang.Object] and content type [application/octet-stream]" />
-      <item value="Could not extract response" />
     </histories>
   </component>
 </application>
