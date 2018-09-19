@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="complete Time" />
+      <item value="完成" />
+      <item value="Download Info" />
+      <item value="File Info" />
       <item value="then Accept Both Async" />
       <item value="The {@code Void} class is an uninstantiable placeholder class to hold a * reference to the {@code Class} object representing the Java keyword * void." />
       <item value="Simple Immutable Entry" />
@@ -47,10 +51,6 @@
       <item value="Could not extract response" />
       <item value="set Ui Type" />
       <item value="money" />
-      <item value="register" />
-      <item value="regist" />
-      <item value="An object reference that may be updated atomically. See the {@link * java.util.concurrent.atomic} package specification for description * of the properties of atomic variables. * @since 1.5 * @author Doug Lea * @param &lt;V&gt; The type of object referred to by this reference" />
-      <item value="An object reference that may be updated atomically. See the {@link" />
     </histories>
   </component>
 </application>
