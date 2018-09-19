@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a new CompletionStage that, when this stage completes * normally, is executed using this stage's default asynchronous * execution facility, with this stage's result as the argument to * the supplied action." />
+      <item value="then Accept Async" />
       <item value="get Purchase Amount Count" />
       <item value="nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLTransactionRollbackException: Lock wait timeout exceeded; try restarting transaction" />
       <item value="Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLTransactionRollbackException: Lock wait timeout exceeded; try restarting transaction" />
@@ -49,8 +51,6 @@
       <item value="shop" />
       <item value="Http Message Not Readable Exception" />
       <item value="JSON parse error: Unrecognized token 'fail': was expecting 'null', 'true', 'false' or NaN; nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'fail': was expecting 'null', 'true', 'false' or NaN at [Source: java.io.PushbackInputStream@77ce8bc5; line: 1, column: 9]" />
-      <item value="if some property of the specified key * or value prevents it from being stored in this map" />
-      <item value="if the specified key or value is null * and this map does not permit null keys or values" />
     </histories>
   </component>
 </application>
