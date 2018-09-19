@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="time Gen" />
+      <item value="til Next Millis" />
       <item value="complete Time" />
       <item value="完成" />
       <item value="Download Info" />
@@ -49,8 +51,6 @@
       <item value="Could not extract response:" />
       <item value="no suitable HttpMessageConverter found for response type [class java.lang.Object] and content type [application/octet-stream]" />
       <item value="Could not extract response" />
-      <item value="set Ui Type" />
-      <item value="money" />
     </histories>
   </component>
 </application>
