@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ERROR org.springframework.scheduling.support.TaskUtils$LoggingErrorHandler.handleError - Unexpected error occurred in scheduled task." />
       <item value="Income Amount Count" />
       <item value="Copy the property values of the given source bean into the target bean. * &lt;p&gt;Note: The source and target classes do not have to match or even be derived * from each other, as long as the properties match. Any bean properties that the * source bean exposes but the target bean does not will silently be ignored. * &lt;p&gt;This is just a convenience method. For more complex transfer needs, * consider using a full BeanWrapper." />
       <item value="bet Amount Count By Team Map" />
@@ -50,7 +51,6 @@
       <item value="if the class of the specified key or value * prevents it from being stored in this map" />
       <item value="if the &lt;tt&gt;put&lt;/tt&gt; operation * is not supported by this map" />
       <item value="put If Absent" />
-      <item value="nonce" />
     </histories>
   </component>
 </application>
