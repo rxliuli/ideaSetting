@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="元组" />
       <item value="Returns a new CompletionStage that, when this stage completes * normally, is executed using this stage's default asynchronous * execution facility, with this stage's result as the argument to * the supplied action." />
       <item value="then Accept Async" />
       <item value="get Purchase Amount Count" />
@@ -50,7 +51,6 @@
       <item value="商品" />
       <item value="shop" />
       <item value="Http Message Not Readable Exception" />
-      <item value="JSON parse error: Unrecognized token 'fail': was expecting 'null', 'true', 'false' or NaN; nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'fail': was expecting 'null', 'true', 'false' or NaN at [Source: java.io.PushbackInputStream@77ce8bc5; line: 1, column: 9]" />
     </histories>
   </component>
 </application>
