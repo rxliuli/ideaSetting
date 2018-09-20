@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PROPAGATE TRANSIENT MARKER" />
+      <item value="Rounding mode to round towards {@literal &quot;nearest neighbor&quot;} * unless both neighbors are equidistant, in which case round up. * Behaves as for {@code ROUND_UP} if the discarded fraction is * &amp;ge; 0.5; otherwise, behaves as for {@code ROUND_DOWN}. Note * that this is the rounding mode that most of us were taught in * grade school." />
+      <item value="Feature that determines whether {@link java.math.BigDecimal} entries are * serialized using {@link java.math.BigDecimal#toPlainString()} to prevent * values to be written using scientific notation. *&lt;p&gt; * Feature is disabled by default, so default output mode is used; this generally * depends on how {@link BigDecimal} has been created." />
+      <item value="WRITE BIGDECIMAL AS PLAIN" />
+      <item value="ROUND HALF UP" />
+      <item value="CEILING" />
       <item value="元组" />
       <item value="Returns a new CompletionStage that, when this stage completes * normally, is executed using this stage's default asynchronous * execution facility, with this stage's result as the argument to * the supplied action." />
       <item value="then Accept Async" />
@@ -45,12 +51,6 @@
       <item value="state" />
       <item value="recharge" />
       <item value="充值" />
-      <item value="description" />
-      <item value="goods" />
-      <item value="commodity" />
-      <item value="商品" />
-      <item value="shop" />
-      <item value="Http Message Not Readable Exception" />
     </histories>
   </component>
 </application>
