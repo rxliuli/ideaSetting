@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="分段" />
       <item value="connect Failed" />
       <item value="Socket Timeout Exception" />
       <item value="Note that this method may be called a second time for a single HTTP response if the response * includes a trailer. For this obscure HTTP feature, {@code cookies} contains only the trailer's * cookies." />
@@ -50,7 +51,6 @@
       <item value="A connected event represents the server response to a client's connect request. * See {@link org.springframework.web.socket.messaging.SessionConnectEvent}. *" />
       <item value="Event raised when a new WebSocket client using a Simple Messaging Protocol * (e.g. STOMP) as the WebSocket sub-protocol issues a connect request. *" />
       <item value="STOMP Connect Event Listener" />
-      <item value="Copy On Write Array Set" />
     </histories>
   </component>
 </application>
