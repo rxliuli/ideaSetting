@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* @return the maximum number of processors available to the virtual * machine; never smaller than one" />
+      <item value="Returns the number of processors available to the Java virtual machine. * * &lt;p&gt; This value may change during a particular invocation of the virtual * machine. Applications that are sensitive to the number of available * processors should therefore occasionally poll this property and adjust * their resource usage appropriately. &lt;/p&gt;" />
+      <item value="the parallelism level. For default value, * use {@link java.lang.Runtime#availableProcessors}." />
+      <item value="Creates a {@code ForkJoinPool} with the given parameters." />
+      <item value="Creates a {@code ForkJoinPool} with the given parameters, without * any security checks or parameter validation. Invoked directly by * makeCommonPool." />
+      <item value="the parallelism level" />
+      <item value="parallelism" />
+      <item value="MAX CAP" />
+      <item value="Creates a {@code ForkJoinPool} with parallelism equal to {@link * java.lang.Runtime#availableProcessors}, using the {@linkplain * #defaultForkJoinWorkerThreadFactory default thread factory}, * no UncaughtExceptionHandler, and non-async LIFO processing mode." />
       <item value="Intercepts concurrent request handling, where the concurrent result is * obtained by executing a {@link Callable} on behalf of the application with * an {@link AsyncTaskExecutor}. * * &lt;p&gt;A {@code CallableProcessingInterceptor} is invoked before and after the * invocation of the {@code Callable} task in the asynchronous thread, as well * as on timeout from a container thread, or after completing for any reason * including a timeout or network error. * * &lt;p&gt;As a general rule exceptions raised by interceptor methods will cause * async processing to resume by dispatching back to the container and using * the Exception instance as the concurrent result. Such exceptions will then * be processed through the {@code HandlerExceptionResolver} mechanism. *" />
       <item value="Configure lifecycle interceptors with callbacks around concurrent request * execution that starts when a controller returns a" />
       <item value="supply Async" />
@@ -42,20 +51,11 @@
       <item value="org.springframework.dao.TransientDataAccessResourceException: PreparedStatementCallback; SQL [select * from user where id = #{id}]; Parameter index out of range (1 &gt; number of parameters, which is 0).; nested exception is java.sql.SQLException: Parameter index out of range (1 &gt; number of parameters, which is 0)." />
       <item value="Failed to execute SQL script statement" />
       <item value="Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory" />
-      <item value="Failed to load ApplicationContext" />
-      <item value="Here for backwards compatibility with MM.MySQL" />
-      <item value="Chrono Unit" />
-      <item value="A standard set of date periods units. * &lt;p&gt;" />
-      <item value="更大" />
-      <item value="This returns a {@code ChronoLocalDateTime} formed from this date at the specified time. * All possible combinations of date and time are valid." />
-      <item value="Combines this date with a time to create a {@code ChronoLocalDateTime}." />
-      <item value="at Time" />
-      <item value="minus" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
