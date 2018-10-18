@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Intercepts concurrent request handling, where the concurrent result is * obtained by executing a {@link Callable} on behalf of the application with * an {@link AsyncTaskExecutor}. * * &lt;p&gt;A {@code CallableProcessingInterceptor} is invoked before and after the * invocation of the {@code Callable} task in the asynchronous thread, as well * as on timeout from a container thread, or after completing for any reason * including a timeout or network error. * * &lt;p&gt;As a general rule exceptions raised by interceptor methods will cause * async processing to resume by dispatching back to the container and using * the Exception instance as the concurrent result. Such exceptions will then * be processed through the {@code HandlerExceptionResolver} mechanism. *" />
+      <item value="Configure lifecycle interceptors with callbacks around concurrent request * execution that starts when a controller returns a" />
+      <item value="supply Async" />
       <item value="production Tip" />
       <item value="java.sql.SQLException: The server time zone value 'ÖÐ¹ú±ê×¼Ê±¼ä' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support." />
       <item value="The driver has not received any packets from the server." />
@@ -48,9 +51,12 @@
       <item value="Combines this date with a time to create a {@code ChronoLocalDateTime}." />
       <item value="at Time" />
       <item value="minus" />
-      <item value="put If Absent" />
-      <item value="Web Socket Annotation Method Message Handler" />
-      <item value="Web Socket Stomp Client" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
+      </map>
+    </option>
   </component>
 </application>

@@ -2,6 +2,7 @@
   <component name="SonarLintGlobalSettings">
     <option name="excludedRules">
       <set>
+        <option value="squid:RedundantThrowsDeclarationCheck" />
         <option value="squid:S106" />
       </set>
     </option>
