@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not resolve all files for configuration" />
       <item value="* @return the maximum number of processors available to the virtual * machine; never smaller than one" />
       <item value="Returns the number of processors available to the Java virtual machine. * * &lt;p&gt; This value may change during a particular invocation of the virtual * machine. Applications that are sensitive to the number of available * processors should therefore occasionally poll this property and adjust * their resource usage appropriately. &lt;/p&gt;" />
       <item value="the parallelism level. For default value, * use {@link java.lang.Runtime#availableProcessors}." />
@@ -50,12 +51,11 @@
       <item value="org.springframework.dao.EmptyResultDataAccessException: Incorrect result size: expected 1, actual 0" />
       <item value="org.springframework.dao.TransientDataAccessResourceException: PreparedStatementCallback; SQL [select * from user where id = #{id}]; Parameter index out of range (1 &gt; number of parameters, which is 0).; nested exception is java.sql.SQLException: Parameter index out of range (1 &gt; number of parameters, which is 0)." />
       <item value="Failed to execute SQL script statement" />
-      <item value="Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
