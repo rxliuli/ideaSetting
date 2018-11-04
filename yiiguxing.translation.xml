@@ -1,7 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MEMBER" />
       <item value="PREMIUM MEMBER" />
+      <item value="AUTHENTICATION" />
+      <item value="JWT TOKEN EXPIRED" />
       <item value="Invalid username and password." />
       <item value="Could not resolve all files for configuration" />
       <item value="* @return the maximum number of processors available to the virtual * machine; never smaller than one" />
@@ -48,14 +51,11 @@
       <item value="range" />
       <item value="Gets the set of units supported by this duration. * &lt;p&gt; * The supported units are {@link ChronoUnit#SECONDS SECONDS}, * and {@link ChronoUnit#NANOS NANOS}. * They are returned in the order seconds, nanos. * &lt;p&gt; * This set can be used in conjunction with {@link #get(TemporalUnit)} * to access the entire state of the duration." />
       <item value="Gets the set of units supported by this duration." />
-      <item value="Gets the value of the requested unit. * &lt;p&gt; * This returns a value for each of the two supported units, * {@link ChronoUnit#SECONDS SECONDS} and {@link ChronoUnit#NANOS NANOS}. * All other units throw an exception. * * @param unit the {@code TemporalUnit} for which to return the value * @return the long value of the unit * @throws DateTimeException if the unit is not supported * @throws UnsupportedTemporalTypeException if the unit is not supported" />
-      <item value="Unsupported unit: Hours" />
-      <item value="org.springframework.dao.EmptyResultDataAccessException: Incorrect result size: expected 1, actual 0" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
