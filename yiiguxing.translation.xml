@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PREMIUM MEMBER" />
+      <item value="Invalid username and password." />
       <item value="Could not resolve all files for configuration" />
       <item value="* @return the maximum number of processors available to the virtual * machine; never smaller than one" />
       <item value="Returns the number of processors available to the Java virtual machine. * * &lt;p&gt; This value may change during a particular invocation of the virtual * machine. Applications that are sensitive to the number of available * processors should therefore occasionally poll this property and adjust * their resource usage appropriately. &lt;/p&gt;" />
@@ -49,13 +51,11 @@
       <item value="Gets the value of the requested unit. * &lt;p&gt; * This returns a value for each of the two supported units, * {@link ChronoUnit#SECONDS SECONDS} and {@link ChronoUnit#NANOS NANOS}. * All other units throw an exception. * * @param unit the {@code TemporalUnit} for which to return the value * @return the long value of the unit * @throws DateTimeException if the unit is not supported * @throws UnsupportedTemporalTypeException if the unit is not supported" />
       <item value="Unsupported unit: Hours" />
       <item value="org.springframework.dao.EmptyResultDataAccessException: Incorrect result size: expected 1, actual 0" />
-      <item value="org.springframework.dao.TransientDataAccessResourceException: PreparedStatementCallback; SQL [select * from user where id = #{id}]; Parameter index out of range (1 &gt; number of parameters, which is 0).; nested exception is java.sql.SQLException: Parameter index out of range (1 &gt; number of parameters, which is 0)." />
-      <item value="Failed to execute SQL script statement" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
