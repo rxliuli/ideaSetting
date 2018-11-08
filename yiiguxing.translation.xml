@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Corresponds to the `produces` field of the operation. * &lt;p&gt; * Takes in comma-separated values of content types. * For example, &quot;application/json, application/xml&quot; would suggest this operation * generates JSON and XML output. * &lt;p&gt; * For JAX-RS resources, this would automatically take the value of the {@code @Produces} * annotation if such exists. It can also be used to override the {@code @Produces} values * for the Swagger documentation." />
+      <item value="Takes in comma-separated values of content types. * For example, &quot;application/json, application/xml&quot; would suggest this operation * generates JSON and XML output." />
+      <item value="Corresponds to the `produces` field of the operation." />
       <item value="Use the overload that takes in a contact instead" />
       <item value="contact information" />
       <item value="Updates contact information for the person responsible for this API" />
@@ -48,14 +51,11 @@
       <item value="Saves {@code cookies} from an HTTP response to this store according to this jar's policy." />
       <item value="The {@code Desktop} class allows a Java application to launch * associated applications registered on the native desktop to handle * a {@link java.net.URI} or a file." />
       <item value="Tests whether this class is supported on the current platform. * If it's supported, use {@link #getDesktop()} to retrieve an * instance. *" />
-      <item value="is Desktop Supported" />
-      <item value="文件夹" />
-      <item value="Open Floder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="35" />
       </map>
     </option>
   </component>
