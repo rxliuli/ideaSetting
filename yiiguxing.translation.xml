@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the value of the specified request header as a &lt;code&gt;long&lt;/code&gt;" />
       <item value="artifact Id" />
       <item value="group Id" />
       <item value="MEMBER" />
@@ -50,12 +51,11 @@
       <item value="A field of date-time, such as month-of-year or hour-of-minute. * &lt;p&gt; * Date and time is expressed using fields which partition the time-line into something * meaningful for humans. Implementations of this interface represent those fields. * &lt;p&gt;" />
       <item value="A standard set of fields. * &lt;p&gt; * This set of fields provide field-based access to manipulate a date, time or date-time. * The standard set of fields can be extended by implementing {@link TemporalField}. * &lt;p&gt; * These fields are intended to be applicable in multiple calendar systems. * For example, most non-ISO calendar systems define dates as a year, month and day, * just with slightly different rules. * The documentation of each field explains how it operates. *" />
       <item value="The hour-of-day. * &lt;p&gt; * This counts the hour within the day, from 0 to 23. * This is the hour that would be observed on a standard 24-hour digital clock. * This field has the same meaning for all calendar systems. * &lt;p&gt; * When parsing this field it behaves equivalent to the following: * The value is validated in strict and smart mode but not in lenient mode. * The field is combined with {@code MINUTE_OF_HOUR}, {@code SECOND_OF_MINUTE} and * {@code NANO_OF_SECOND} to produce a {@code LocalTime}. * In lenient mode, any excess days are added to the parsed date, or * made available via {@link java.time.format.DateTimeFormatter#parsedExcessDays()}." />
-      <item value="range" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="CHINESE" value="21" />
+        <entry key="ENGLISH" value="22" />
       </map>
     </option>
   </component>
