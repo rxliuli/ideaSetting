@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Use the overload that takes in a contact instead" />
+      <item value="contact information" />
+      <item value="Updates contact information for the person responsible for this API" />
+      <item value="contact" />
+      <item value="terms Of Service Url" />
       <item value="There is no getter for property named 'statement' in 'class org.apache.tomcat.jdbc.pool.StatementFacade$StatementProxy'" />
       <item value="cannot be cast to com.rxliuli.interview.user.server.service.user.dao.UserDao" />
       <item value="appraise" />
@@ -46,16 +51,11 @@
       <item value="is Desktop Supported" />
       <item value="文件夹" />
       <item value="Open Floder" />
-      <item value="the access &lt;a href=&quot;#mode&quot;&gt;mode&lt;/a&gt;" />
-      <item value="seek" />
-      <item value="&lt;code&gt;true&lt;/code&gt; if and only if the directory was created, * along with all necessary parent directories; &lt;code&gt;false&lt;/code&gt; * otherwise" />
-      <item value="Returns the current time in milliseconds. Note that * while the unit of time of the return value is a millisecond, * the granularity of the value depends on the underlying * operating system and may be larger. For example, many * operating systems measure time in units of tens of * milliseconds." />
-      <item value="java.time.DateTimeException: Unable to obtain LocalDateTime from TemporalAccessor: 2018-09-04T23:03:55.715Z of type java.time.Instant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="31" />
       </map>
     </option>
   </component>
