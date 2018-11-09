@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remerber Me" />
+      <item value="remeber Me" />
+      <item value="Token" />
       <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.rxliuli.interview.user.server.service.user.dao.UserDao.findByUsernameOrEmail" />
       <item value="increment" />
       <item value="Creates a new {@link Jackson2JsonRedisSerializer} for the given target {@link Class}." />
@@ -48,14 +51,12 @@
       <item value="MAX CAP" />
       <item value="Creates a {@code ForkJoinPool} with parallelism equal to {@link * java.lang.Runtime#availableProcessors}, using the {@linkplain * #defaultForkJoinWorkerThreadFactory default thread factory}, * no UncaughtExceptionHandler, and non-async LIFO processing mode." />
       <item value="Intercepts concurrent request handling, where the concurrent result is * obtained by executing a {@link Callable} on behalf of the application with * an {@link AsyncTaskExecutor}. * * &lt;p&gt;A {@code CallableProcessingInterceptor} is invoked before and after the * invocation of the {@code Callable} task in the asynchronous thread, as well * as on timeout from a container thread, or after completing for any reason * including a timeout or network error. * * &lt;p&gt;As a general rule exceptions raised by interceptor methods will cause * async processing to resume by dispatching back to the container and using * the Exception instance as the concurrent result. Such exceptions will then * be processed through the {@code HandlerExceptionResolver} mechanism. *" />
-      <item value="Configure lifecycle interceptors with callbacks around concurrent request * execution that starts when a controller returns a" />
-      <item value="supply Async" />
-      <item value="production Tip" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="53" />
+        <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="2" />
         <entry key="GREEK" value="1" />
       </map>
