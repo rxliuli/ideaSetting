@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="user default avatar" />
+      <item value="user Gender Woman" />
+      <item value="user Gender Wuman" />
+      <item value="user Gender Wo Man" />
+      <item value="user Gender Wu Man" />
+      <item value="user Gender Man" />
+      <item value="user Gender Unknown" />
+      <item value="未知" />
+      <item value="Unkonwn" />
+      <item value="user Gender Unkonwn" />
       <item value="Calculates the SHA-512 digest and returns the value as a hex string. * &lt;p&gt; * Throws a &lt;code&gt;RuntimeException&lt;/code&gt; on JRE versions prior to 1.4.0. * &lt;/p&gt;" />
       <item value="sha 512 Hex" />
       <item value="Corresponds to the `produces` field of the operation. * &lt;p&gt; * Takes in comma-separated values of content types. * For example, &quot;application/json, application/xml&quot; would suggest this operation * generates JSON and XML output. * &lt;p&gt; * For JAX-RS resources, this would automatically take the value of the {@code @Produces} * annotation if such exists. It can also be used to override the {@code @Produces} values * for the Swagger documentation." />
@@ -41,21 +51,13 @@
       <item value="The driver has not received any packets from the server." />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
       <item value="Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
-      <item value="com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server." />
-      <item value="My SQL Non Transient Connection Exception" />
-      <item value="Mon Oct 15 15:57:51 CST 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification." />
-      <item value="The last packet sent successfully to the server was 736 milliseconds ago." />
-      <item value="Communications link failure" />
-      <item value="分段" />
-      <item value="connect Failed" />
-      <item value="Socket Timeout Exception" />
-      <item value="Note that this method may be called a second time for a single HTTP response if the response * includes a trailer. For this obscure HTTP feature, {@code cookies} contains only the trailer's * cookies." />
-      <item value="Saves {@code cookies} from an HTTP response to this store according to this jar's policy." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="47" />
+        <entry key="JAPANESE" value="2" />
+        <entry key="GREEK" value="1" />
       </map>
     </option>
   </component>
