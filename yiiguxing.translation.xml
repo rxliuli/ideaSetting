@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Allows overriding the name of the property." />
+      <item value="A brief description of this property" />
       <item value="fail" />
       <item value="already" />
       <item value="已经" />
@@ -49,13 +51,11 @@
       <item value="PREMIUM MEMBER" />
       <item value="AUTHENTICATION" />
       <item value="JWT TOKEN EXPIRED" />
-      <item value="Invalid username and password." />
-      <item value="Could not resolve all files for configuration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="65" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="2" />
         <entry key="GREEK" value="1" />
