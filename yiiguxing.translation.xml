@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Data truncation: Truncated incorrect DOUBLE value:" />
+      <item value="Data truncation: Truncated incorrect DOUBLE value: '内容 '" />
       <item value="the upper bound (not included)" />
       <item value="the smallest value that can be returned, must be non-negative" />
       <item value="statu" />
@@ -49,13 +51,11 @@
       <item value="Updates contact information for the person responsible for this API" />
       <item value="contact" />
       <item value="terms Of Service Url" />
-      <item value="There is no getter for property named 'statement' in 'class org.apache.tomcat.jdbc.pool.StatementFacade$StatementProxy'" />
-      <item value="cannot be cast to com.rxliuli.interview.user.server.service.user.dao.UserDao" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="71" />
         <entry key="FRENCH" value="1" />
         <entry key="CORSICAN" value="5" />
         <entry key="PORTUGUESE" value="1" />
