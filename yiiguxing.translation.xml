@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="statu" />
+      <item value="status Un Verify" />
+      <item value="statu Unverify" />
+      <item value="statu Un Verify" />
+      <item value="Review" />
+      <item value="statu Un Review" />
+      <item value="statu Unreview" />
       <item value="Allows overriding the name of the property." />
       <item value="A brief description of this property" />
       <item value="fail" />
@@ -44,18 +51,13 @@
       <item value="cannot be cast to com.rxliuli.interview.user.server.service.user.dao.UserDao" />
       <item value="appraise" />
       <item value="Return the property value associated with the given key, * or {@code null} if the key cannot be resolved." />
-      <item value="Returns the value of the specified request header as a &lt;code&gt;long&lt;/code&gt;" />
-      <item value="artifact Id" />
-      <item value="group Id" />
-      <item value="MEMBER" />
-      <item value="PREMIUM MEMBER" />
-      <item value="AUTHENTICATION" />
-      <item value="JWT TOKEN EXPIRED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="65" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="67" />
+        <entry key="FRENCH" value="1" />
+        <entry key="CORSICAN" value="5" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="2" />
         <entry key="GREEK" value="1" />
