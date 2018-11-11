@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Any Empty" />
+      <item value="the validated collection (never {@code null} method for chaining)" />
+      <item value="the array to check, validated not null by this method" />
+      <item value="The message in the exception is &amp;quot;The validated array is" />
+      <item value="Validate that the specified argument array is neither {@code null}" />
+      <item value="nor a length of zero (no elements); otherwise throwing an exception." />
+      <item value="&lt;p&gt;Validate that the specified argument array is neither {@code null}" />
       <item value="statu Procesing" />
       <item value="statu Complete" />
       <item value="statu Compiler" />
@@ -44,18 +51,11 @@
       <item value="user Gender Wuman" />
       <item value="user Gender Wo Man" />
       <item value="user Gender Wu Man" />
-      <item value="user Gender Man" />
-      <item value="user Gender Unknown" />
-      <item value="未知" />
-      <item value="Unkonwn" />
-      <item value="user Gender Unkonwn" />
-      <item value="Calculates the SHA-512 digest and returns the value as a hex string. * &lt;p&gt; * Throws a &lt;code&gt;RuntimeException&lt;/code&gt; on JRE versions prior to 1.4.0. * &lt;/p&gt;" />
-      <item value="sha 512 Hex" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="FRENCH" value="1" />
         <entry key="CORSICAN" value="9" />
         <entry key="PORTUGUESE" value="1" />
