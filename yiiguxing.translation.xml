@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="statu Procesing" />
+      <item value="statu Complete" />
+      <item value="statu Compiler" />
+      <item value="Compile" />
+      <item value="statu Compile" />
       <item value="Data truncation: Truncated incorrect DOUBLE" />
       <item value="[22001][1292] Data truncation: Truncated incorrect DOUBLE value:" />
       <item value="[22001][1292] Data truncation: Truncated incorrect DOUBLE value: '内容" />
@@ -46,18 +51,13 @@
       <item value="user Gender Unkonwn" />
       <item value="Calculates the SHA-512 digest and returns the value as a hex string. * &lt;p&gt; * Throws a &lt;code&gt;RuntimeException&lt;/code&gt; on JRE versions prior to 1.4.0. * &lt;/p&gt;" />
       <item value="sha 512 Hex" />
-      <item value="Corresponds to the `produces` field of the operation. * &lt;p&gt; * Takes in comma-separated values of content types. * For example, &quot;application/json, application/xml&quot; would suggest this operation * generates JSON and XML output. * &lt;p&gt; * For JAX-RS resources, this would automatically take the value of the {@code @Produces} * annotation if such exists. It can also be used to override the {@code @Produces} values * for the Swagger documentation." />
-      <item value="Takes in comma-separated values of content types. * For example, &quot;application/json, application/xml&quot; would suggest this operation * generates JSON and XML output." />
-      <item value="Corresponds to the `produces` field of the operation." />
-      <item value="Use the overload that takes in a contact instead" />
-      <item value="contact information" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="75" />
         <entry key="FRENCH" value="1" />
-        <entry key="CORSICAN" value="5" />
+        <entry key="CORSICAN" value="9" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="2" />
         <entry key="GREEK" value="1" />
