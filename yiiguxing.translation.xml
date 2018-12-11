@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Scheduled Executor Service" />
+      <item value="A delayed result-bearing action that can be cancelled. * Usually a scheduled future is the result of scheduling * a task with a {@link ScheduledExecutorService}." />
+      <item value="A delayed result-bearing action that can be cancelled. * Usually a scheduled future is the result of scheduling" />
+      <item value="set Daemon" />
       <item value="the number of threads to keep in the pool, * even if they are idle" />
       <item value="通知" />
       <item value="Invalid character found in method name. HTTP method names must be tokens" />
@@ -47,15 +51,11 @@
       <item value="Data truncation: Truncated incorrect DOUBLE value: '内容 '" />
       <item value="the upper bound (not included)" />
       <item value="the smallest value that can be returned, must be non-negative" />
-      <item value="statu" />
-      <item value="status Un Verify" />
-      <item value="statu Unverify" />
-      <item value="statu Un Verify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="108" />
         <entry key="FRENCH" value="1" />
         <entry key="CORSICAN" value="20" />
         <entry key="PORTUGUESE" value="1" />
