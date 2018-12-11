@@ -38,7 +38,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -119,6 +119,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'TopicServiceTest.existsById'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'UserDaoTest.listForAll'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'UserDaoTest.listForAll'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'tomcat'">
