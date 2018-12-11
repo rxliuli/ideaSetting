@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '...\src\main\java\com\rxliuli\interview\user\server\interviewuserserver\module\topic\service\impl\TopicServiceImpl.java [interview-user-server]'" />
-    <option name="defaultScopeName" value="File '...\src\main\java\com\rxliuli\interview\user\server\interviewuserserver\module\topic\service\impl\TopicServiceImpl.java [interview-user-server]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
@@ -10,6 +10,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\src\main\java\com\rxliuli\interview\user\server\interviewuserserver\module\topic\service\impl\TopicServiceImpl.java [interview-user-server]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
