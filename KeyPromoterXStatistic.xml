@@ -161,6 +161,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ScheduledExecutorServiceTest.schedule'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ScheduledExecutorServiceTest.schedule'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SysDictServiceTest.selectById'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
