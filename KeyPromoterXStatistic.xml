@@ -38,7 +38,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>24</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -199,6 +199,14 @@
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
           <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Type Declaration">
+        <Item>
+          <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Button1 Click' or 'Ctrl+Alt+B'</ShortCut>
+          <Description>Type Declaration</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
