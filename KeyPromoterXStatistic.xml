@@ -14,7 +14,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+F9'</ShortCut>
           <Description>Debug with JRebel 'InterviewUserServerApplication'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug with JRebel 'TopicServiceTest.existsById'">
