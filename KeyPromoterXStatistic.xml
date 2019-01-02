@@ -9,6 +9,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug with JRebel 'FiveIdeaApplication'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+F9'</ShortCut>
+          <Description>Debug with JRebel 'FiveIdeaApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug with JRebel 'InterviewUserServerApplication'">
         <Item>
           <IdeaActionID>JRebel Debug</IdeaActionID>
@@ -38,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>52</Count>
+          <Count>69</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -89,6 +97,14 @@
           <Count>30</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'FiveIdeaApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'FiveIdeaApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'InterviewUserServerApplication'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -103,6 +119,14 @@
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
           <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'FiveIdeaApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'FiveIdeaApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'InterviewUserServerApplication'">
@@ -161,6 +185,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'FiveIdeaApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'FiveIdeaApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'InterviewUserServerApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -214,7 +246,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>48</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
