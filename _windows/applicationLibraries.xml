@@ -31,6 +31,18 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="index" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_core-js-bundle@3.0.0-beta.8_index.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_core-js-bundle@3.0.0-beta.8_index.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="jQuery-2.0.0" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
@@ -55,6 +67,18 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_materialize_1.0.0-alpha.3_js_materialize.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="minified" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_core-js-bundle@3.0.0-beta.8_minified.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_core-js-bundle@3.0.0-beta.8_minified.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
