@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DUPLICATE DATA ERROR" />
       <item value="Too Many Results Exception" />
       <item value="children" />
       <item value="Error attempting to get column 'NAME' from result set" />
@@ -50,12 +51,11 @@
       <item value="通知" />
       <item value="Invalid character found in method name. HTTP method names must be tokens" />
       <item value="Failed to unregister the JMX name: org.apache.commons.dbcp2:name=dataSource,type=BasicDataSource" />
-      <item value="duration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="CHINESE" value="147" />
+        <entry key="ENGLISH" value="149" />
         <entry key="FRENCH" value="1" />
         <entry key="CORSICAN" value="20" />
         <entry key="PORTUGUESE" value="1" />
