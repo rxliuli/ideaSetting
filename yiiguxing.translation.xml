@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="camel To Underline" />
+      <item value="underline To Camel 2" />
+      <item value="Sys Domain Category" />
+      <item value="Sys Domain Catetry" />
+      <item value="Sys Domain Catetory" />
+      <item value="slabel" />
+      <item value="permission" />
+      <item value="keyword" />
+      <item value="priority" />
       <item value="standard" />
       <item value="business Type" />
       <item value="setmode" />
@@ -42,24 +51,17 @@
       <item value="exam" />
       <item value="成绩" />
       <item value="科目" />
-      <item value="Removes the mapping for a key from this map if it is present * (optional operation). More formally, if this map contains a mapping * from key &lt;tt&gt;k&lt;/tt&gt; to value &lt;tt&gt;v&lt;/tt&gt; such that * &lt;code&gt;(key==null ? k==null : key.equals(k))&lt;/code&gt;, that mapping * is removed. (The map can contain at most one such mapping.)" />
-      <item value="An optionally-bounded {@linkplain BlockingDeque blocking deque} based on * linked nodes." />
-      <item value="The result type returned by this Future's {@code get} method" />
-      <item value="Attempts to cancel execution of this task. This attempt will * fail if the task has already completed, has already been cancelled, * or could not be cancelled for some other reason. If successful, * and this task has not started when {@code cancel} is called, * this task should never run. If the task has already started, * then the {@code mayInterruptIfRunning} parameter determines * whether the thread executing this task should be interrupted in * an attempt to stop the task." />
-      <item value="if the thread executing this * task should be interrupted; otherwise, in-progress tasks are allowed * to complete" />
-      <item value="additional nanoseconds to sleep" />
-      <item value="Sometimes several tests need to share computationally expensive setup * (like logging into a database). While this can compromise the independence of * tests, sometimes it is a necessary optimization. Annotating a &lt;code&gt;public static void&lt;/code&gt; no-arg method * with &lt;code&gt;@BeforeClass&lt;/code&gt; causes it to be run once before any of * the test methods in the class. The &lt;code&gt;@BeforeClass&lt;/code&gt; methods of superclasses * will be run before those of the current class, unless they are shadowed in the current class. * &lt;p&gt;" />
-      <item value="Waits if necessary for at most the given time for the computation * to complete, and then retrieves its result, if available." />
-      <item value="Waits if necessary for the computation to complete, and then * retrieves its result." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="174" />
-        <entry key="ENGLISH" value="175" />
+        <entry key="CHINESE" value="183" />
+        <entry key="ENGLISH" value="184" />
         <entry key="FRENCH" value="1" />
+        <entry key="GALICIAN" value="1" />
         <entry key="CORSICAN" value="20" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="2" />
+        <entry key="SLOVENIAN" value="1" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
