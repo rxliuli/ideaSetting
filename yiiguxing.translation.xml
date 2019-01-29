@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Base House Shold Info" />
+      <item value="Base House Should Info" />
+      <item value="Shold" />
+      <item value="distribute Time" />
+      <item value="email" />
+      <item value="emial" />
       <item value="DUPLICATE DATA ERROR" />
       <item value="Too Many Results Exception" />
       <item value="children" />
@@ -45,17 +51,11 @@
       <item value="schedule At Fixed Rate" />
       <item value="Scheduled Executor Service" />
       <item value="A delayed result-bearing action that can be cancelled. * Usually a scheduled future is the result of scheduling * a task with a {@link ScheduledExecutorService}." />
-      <item value="A delayed result-bearing action that can be cancelled. * Usually a scheduled future is the result of scheduling" />
-      <item value="set Daemon" />
-      <item value="the number of threads to keep in the pool, * even if they are idle" />
-      <item value="通知" />
-      <item value="Invalid character found in method name. HTTP method names must be tokens" />
-      <item value="Failed to unregister the JMX name: org.apache.commons.dbcp2:name=dataSource,type=BasicDataSource" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="CHINESE" value="154" />
+        <entry key="ENGLISH" value="156" />
         <entry key="FRENCH" value="1" />
         <entry key="CORSICAN" value="20" />
         <entry key="PORTUGUESE" value="1" />
