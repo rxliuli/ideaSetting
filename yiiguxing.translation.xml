@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The Tomcat connector configured to listen on port 8080 failed to start. The port may already be in use or the connector may be misconfigured." />
+      <item value="Unable to start web server; nested exception is org.springframework.context.ApplicationContextException: Unable to start ServletWebServerApplicationContext due to missing ServletWebServerFactory bean." />
       <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
       <item value="Caused by: org.apache.ibatis.reflection.ReflectionException: Could not set property 'id' of 'class com.zx.idc.ds.base.cus.entity.BaseCustomer' with value '1090194151883444226' Cause: java.lang.IllegalArgumentException: argument type mismatch" />
       <item value="with value '1090194151883444226' Cause: java.lang.IllegalArgumentException: argument type mismatch" />
@@ -49,13 +51,11 @@
       <item value="org.springframework.dao.DataIntegrityViolationException: Error attempting to get column 'NAME' from result set. Cause: org.h2.jdbc.JdbcSQLException: Data conversion error converting &quot;高能物理&quot; [22018-197]&#10;; SQL []; Data conversion error converting &quot;高能物理&quot; [22018-197]; nested exception is org.h2.jdbc.JdbcSQLException: Data conversion error converting &quot;高能物理&quot; [22018-197]" />
       <item value="select Recursive" />
       <item value="递归" />
-      <item value="select Recivesive" />
-      <item value="salt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="191" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="193" />
+        <entry key="ENGLISH" value="194" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CORSICAN" value="20" />
