@@ -96,9 +96,7 @@
       <SOURCES />
     </library>
     <library name="react" type="javaScript">
-      <CLASSES>
-        <root url="file://D:/Text/HTML/框架&amp;类库/react-0.14.3/build" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
