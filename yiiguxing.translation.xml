@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
       <item value="Caused by: org.apache.ibatis.reflection.ReflectionException: Could not set property 'id' of 'class com.zx.idc.ds.base.cus.entity.BaseCustomer' with value '1090194151883444226' Cause: java.lang.IllegalArgumentException: argument type mismatch" />
       <item value="with value '1090194151883444226' Cause: java.lang.IllegalArgumentException: argument type mismatch" />
       <item value="Illegal Argument Exception" />
@@ -50,12 +51,11 @@
       <item value="递归" />
       <item value="select Recivesive" />
       <item value="salt" />
-      <item value="key whose mapping is to be removed from the map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="190" />
-        <entry key="ENGLISH" value="191" />
+        <entry key="CHINESE" value="191" />
+        <entry key="ENGLISH" value="192" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CORSICAN" value="20" />
