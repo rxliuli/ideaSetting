@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="marshal Send And Receive" />
+      <item value="No unmarshaller registered. Check configuration of WebServiceTemplate." />
+      <item value="org.springframework.ws.client.Web Service Transport Exception" />
+      <item value="org.springframework.oxm.UncategorizedMappingException: Unknown JAXB exception; nested exception is javax.xml.bind.JAXBException: class com.howtodoinjava.xml.school.StudentDetailRequest以及其任何超类对此上下文都是未知的。" />
+      <item value="after Properties Set" />
       <item value="No endpoint mapping found for [SaajSoapMessage {http://www.howtodoinjava.com/xml/school}StudentDetailRequest]" />
       <item value="Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: class path resource [student.xsd] has no targetNamespace" />
       <item value="java.lang.IllegalArgumentException: class path resource [student.xsd] has no targetNamespace" />
@@ -46,16 +51,11 @@
       <item value="Creates a new sequential or parallel {@code IntStream} from a * {@code Spliterator.OfInt}." />
       <item value="load" />
       <item value="frequency" />
-      <item value="频率" />
-      <item value="Payload Root" />
-      <item value="Response Payload" />
-      <item value="Country Repository" />
-      <item value="Country Endpoint" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="241" />
-        <entry key="ENGLISH" value="242" />
+        <entry key="CHINESE" value="246" />
+        <entry key="ENGLISH" value="247" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CORSICAN" value="20" />
