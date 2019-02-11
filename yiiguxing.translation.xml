@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="plain" />
+      <item value="linkplain" />
       <item value="* The returned formatter has no override chronology or zone. * It uses {@link ResolverStyle#SMART SMART} resolver style." />
       <item value="the pattern to use, not null" />
       <item value="* Creates a formatter using the specified pattern. * &lt;p&gt; * This method will create a formatter based on a simple * &lt;a href=&quot;#patterns&quot;&gt;pattern of letters and symbols&lt;/a&gt; * as described in the class documentation. * For example, {@code d MMM uuuu} will format 2011-12-03 as '3 Dec 2011'." />
@@ -49,13 +51,11 @@
       <item value="underline To Camel 2" />
       <item value="Sys Domain Category" />
       <item value="Sys Domain Catetry" />
-      <item value="Sys Domain Catetory" />
-      <item value="slabel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="225" />
-        <entry key="ENGLISH" value="226" />
+        <entry key="CHINESE" value="227" />
+        <entry key="ENGLISH" value="228" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CORSICAN" value="20" />
