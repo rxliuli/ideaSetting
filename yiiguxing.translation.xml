@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* The returned formatter has no override chronology or zone. * It uses {@link ResolverStyle#SMART SMART} resolver style." />
+      <item value="the pattern to use, not null" />
+      <item value="* Creates a formatter using the specified pattern. * &lt;p&gt; * This method will create a formatter based on a simple * &lt;a href=&quot;#patterns&quot;&gt;pattern of letters and symbols&lt;/a&gt; * as described in the class documentation. * For example, {@code d MMM uuuu} will format 2011-12-03 as '3 Dec 2011'." />
+      <item value="Creates a formatter using the specified pattern. * &lt;p&gt; * This method will create a formatter based on a simple * &lt;a href=&quot;#patterns&quot;&gt;pattern of letters and symbols&lt;/a&gt; * as described in the class documentation. * For example, {@code d MMM uuuu} will format 2011-12-03 as '3 Dec 2011'. * &lt;p&gt;" />
+      <item value="java.time.format.DateTimeParseException: Text '2018-12-11 10:11:12' could not be parsed: Unable to obtain LocalDateTime from TemporalAccessor: {MilliOfSecond=0, MicroOfSecond=0, SecondOfMinute=12, MinuteOfHour=11, NanoOfSecond=0, HourOfAmPm=10},ISO resolved to 2018-12-11 of type java.time.format.Parsed" />
+      <item value="pattern" />
+      <item value="Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2018-12-11 10:11:12'; nested exception is java.lang.IllegalArgumentException" />
+      <item value="java.lang.AssertionError: Expecting actual not to be null" />
+      <item value="birthday" />
+      <item value="balance" />
+      <item value="余额" />
+      <item value="remerming" />
+      <item value="remaming" />
       <item value="Failed to retrieve PlatformTransactionManager for @Transactional test:" />
       <item value="Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test" />
       <item value="A common Spring annotation to declare that annotated elements can be {@code null} under * some circumstance. Leverages JSR 305 meta-annotations to indicate nullability in Java * to common tools with JSR 305 support and used by Kotlin to infer nullability of Spring API." />
@@ -38,24 +51,11 @@
       <item value="Sys Domain Catetry" />
       <item value="Sys Domain Catetory" />
       <item value="slabel" />
-      <item value="permission" />
-      <item value="keyword" />
-      <item value="priority" />
-      <item value="standard" />
-      <item value="business Type" />
-      <item value="setmode" />
-      <item value="security Owner" />
-      <item value="Security Owner" />
-      <item value="安全责任人" />
-      <item value="安全" />
-      <item value="securre People" />
-      <item value="securres People" />
-      <item value="securres" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="213" />
-        <entry key="ENGLISH" value="214" />
+        <entry key="CHINESE" value="225" />
+        <entry key="ENGLISH" value="226" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CORSICAN" value="20" />
