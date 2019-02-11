@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to retrieve PlatformTransactionManager for @Transactional test:" />
+      <item value="Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test" />
       <item value="A common Spring annotation to declare that annotated elements can be {@code null} under * some circumstance. Leverages JSR 305 meta-annotations to indicate nullability in Java * to common tools with JSR 305 support and used by Kotlin to infer nullability of Spring API." />
       <item value="Return the property value associated with the given key, converted to the given * targetType (never {@code null})." />
       <item value="Return the property value associated with the given key, * or {@code defaultValue} if the key cannot be resolved." />
@@ -49,13 +51,11 @@
       <item value="securre People" />
       <item value="securres People" />
       <item value="securres" />
-      <item value="people" />
-      <item value="espeople" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="211" />
-        <entry key="ENGLISH" value="212" />
+        <entry key="CHINESE" value="213" />
+        <entry key="ENGLISH" value="214" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CORSICAN" value="20" />
