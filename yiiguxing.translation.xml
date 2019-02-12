@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="local Part" />
+      <item value="Failed to execute goal org.codehaus.mojo:jaxb2-maven-plugin:1.6:xjc (default-cli) on project spring-soap-webservice: Could not process schema files in directory D:\Text\spring-boot\spring-soap-webservice\src\main\resources" />
+      <item value="Error creating bean with name 'countriesSchema' defined in com.rxliuli.example.springsoapwebservice.config.WebServiceConfig: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: xsd 'class path resource [*.xsd]' does not exist" />
       <item value="set Port Type Name" />
       <item value="Default Wsdl 11 Definition" />
       <item value="Servlet Registration Bean" />
@@ -48,14 +51,11 @@
       <item value="* Creates a formatter using the specified pattern. * &lt;p&gt; * This method will create a formatter based on a simple * &lt;a href=&quot;#patterns&quot;&gt;pattern of letters and symbols&lt;/a&gt; * as described in the class documentation. * For example, {@code d MMM uuuu} will format 2011-12-03 as '3 Dec 2011'." />
       <item value="Creates a formatter using the specified pattern. * &lt;p&gt; * This method will create a formatter based on a simple * &lt;a href=&quot;#patterns&quot;&gt;pattern of letters and symbols&lt;/a&gt; * as described in the class documentation. * For example, {@code d MMM uuuu} will format 2011-12-03 as '3 Dec 2011'. * &lt;p&gt;" />
       <item value="java.time.format.DateTimeParseException: Text '2018-12-11 10:11:12' could not be parsed: Unable to obtain LocalDateTime from TemporalAccessor: {MilliOfSecond=0, MicroOfSecond=0, SecondOfMinute=12, MinuteOfHour=11, NanoOfSecond=0, HourOfAmPm=10},ISO resolved to 2018-12-11 of type java.time.format.Parsed" />
-      <item value="pattern" />
-      <item value="Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2018-12-11 10:11:12'; nested exception is java.lang.IllegalArgumentException" />
-      <item value="java.lang.AssertionError: Expecting actual not to be null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="269" />
-        <entry key="ENGLISH" value="270" />
+        <entry key="CHINESE" value="272" />
+        <entry key="ENGLISH" value="273" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CORSICAN" value="20" />
