@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Autowired Annotation Bean Post Processor" />
+      <item value="Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'domain.traffic.blocker.port' in value &quot;${domain.traffic.blocker.port}&quot;" />
+      <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'ApplicationConfiguration': Injection of autowired dependencies failed; nested exception is java.lang" />
+      <item value="eligible" />
+      <item value="2019-02-13 18:24:13.741 INFO 7308 --- [ main] trationDelegate$BeanPostProcessorChecker : Bean 'transactionAspect' of type [com.zx.idc.ds.common.aspect.TransactionAspect$$EnhancerBySpringCGLIB$$98a036ea] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)" />
+      <item value="Bean 'dataSource' of type [com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceWrapper] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)" />
+      <item value="Bean 'dataSource' of type [com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceWrapper] is not eligible for getting processed by all" />
+      <item value="Error creating bean with name 'ApplicationConfiguration': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'domain.traffic.blocker.host' in value &quot;${domain.traffic.blocker.host}&quot;" />
+      <item value="To display the conditions report re-run your application with 'debug' enabled." />
+      <item value="test While Idle" />
+      <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'ApplicationConfiguration': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'domain.traffic.blocker.port' in value &quot;${domain.traffic.blocker.port}&quot;" />
+      <item value="Error creating bean with name 'ApplicationConfiguration': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'domain.traffic.blocker.port' in value &quot;${domain.traffic.blocker.port}&quot;" />
+      <item value="[ main] o.s.test.context.TestContextManager : Caught exception while allowing TestExecutionListener [org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@1b8a29df] to prepare test instance [com.zx.idc.ds.base.cus.dao.BaseCustomerDaoTest@7b8b43c7]" />
+      <item value="2019-02-13 18:15:17.312 ERROR 15328 --- [ main] o.s.test.context.TestContextManager : Caught exception while allowing TestExecutionListener [org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@1b8a29df] to prepare test instance [com.zx.idc.ds.base.cus.dao.BaseCustomerDaoTest@7b8b43c7]" />
+      <item value="Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'domain.traffic.blocker.host' in value &quot;${domain.traffic.blocker.host}&quot;" />
+      <item value="Failed to load ApplicationContext" />
       <item value="set Control Encoding" />
       <item value="partitioning By" />
       <item value="parallel" />
@@ -35,27 +51,11 @@
       <item value="java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test" />
       <item value="Base packages to scan for annotated components. Use {@link #scanBasePackageClasses} * for a type-safe alternative to String-based package names. * @return base packages to scan" />
       <item value="set Test On Borrow" />
-      <item value="set Min Evictable Idle Time Millis" />
-      <item value="set Time Between Eviction Runs Millis" />
-      <item value="set Test While Idle" />
-      <item value="Generic Keyed Object Pool Config" />
-      <item value="trans Type" />
-      <item value="FTP response 421 received. Server closed connection." />
-      <item value="required Query Dir List" />
-      <item value="already Queried File List" />
-      <item value="already Queried Dir List" />
-      <item value="query All Children Dir And Children File" />
-      <item value="Generate a directory listing for the current directory using the MLSD command." />
-      <item value="mlist Dir" />
-      <item value="make Directory" />
-      <item value="A convenience method to send the FTP MKD command to the server, * receive the reply, and return the reply code." />
-      <item value="write Temp File Path" />
-      <item value="java.io.IOException: File 'D:\test.xsd' exists but is a directory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="322" />
-        <entry key="ENGLISH" value="323" />
+        <entry key="CHINESE" value="339" />
+        <entry key="ENGLISH" value="340" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
