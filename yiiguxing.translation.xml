@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test" />
+      <item value="Base packages to scan for annotated components. Use {@link #scanBasePackageClasses} * for a type-safe alternative to String-based package names. * @return base packages to scan" />
+      <item value="set Test On Borrow" />
+      <item value="set Min Evictable Idle Time Millis" />
+      <item value="set Time Between Eviction Runs Millis" />
+      <item value="set Test While Idle" />
+      <item value="Generic Keyed Object Pool Config" />
+      <item value="trans Type" />
+      <item value="FTP response 421 received. Server closed connection." />
       <item value="required Query Dir List" />
       <item value="already Queried File List" />
       <item value="already Queried Dir List" />
@@ -42,20 +51,11 @@
       <item value="No unmarshaller registered. Check configuration of WebServiceTemplate." />
       <item value="org.springframework.ws.client.Web Service Transport Exception" />
       <item value="org.springframework.oxm.UncategorizedMappingException: Unknown JAXB exception; nested exception is javax.xml.bind.JAXBException: class com.howtodoinjava.xml.school.StudentDetailRequest以及其任何超类对此上下文都是未知的。" />
-      <item value="after Properties Set" />
-      <item value="No endpoint mapping found for [SaajSoapMessage {http://www.howtodoinjava.com/xml/school}StudentDetailRequest]" />
-      <item value="Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: class path resource [student.xsd] has no targetNamespace" />
-      <item value="java.lang.IllegalArgumentException: class path resource [student.xsd] has no targetNamespace" />
-      <item value="The specified user settings file does not exist: D:\Program\Apache\Maven\.m2\settings.xml" />
-      <item value="wsdl 4 j" />
-      <item value="Properties rootFilePath can not empty" />
-      <item value="Properties" />
-      <item value="rootFilePath can not empty" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="286" />
-        <entry key="ENGLISH" value="287" />
+        <entry key="CHINESE" value="295" />
+        <entry key="ENGLISH" value="296" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
