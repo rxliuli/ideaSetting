@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="substring After Last" />
+      <item value="retrieve File" />
       <item value="Non" />
       <item value="download Nonsuffix File" />
       <item value="successful" />
@@ -49,13 +51,11 @@
       <item value="java.lang.ClassCastException: javax.xml.bind.JAXBElement cannot be cast to com.rxliuli.example.springsoapwebservice.entity.GetActiveStateResponse" />
       <item value="com.sun.xml.messaging.saaj.soap : SAAJ0537: Content-Type 无效。可以是错误消息, 但不能是 SOAP 消息" />
       <item value="Signifies the namespace of the payload root element handled by the annotated method." />
-      <item value="Marks an endpoint method as the handler for an incoming request. The annotation values signify the request * payload root element that is handled by the method." />
-      <item value="Marks an endpoint method as the handler for an incoming request. The annotation values signify the request" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="306" />
-        <entry key="ENGLISH" value="306" />
+        <entry key="CHINESE" value="307" />
+        <entry key="ENGLISH" value="308" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
