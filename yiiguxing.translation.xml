@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Control Encoding" />
       <item value="partitioning By" />
       <item value="parallel" />
       <item value="判断" />
@@ -50,12 +51,11 @@
       <item value="A convenience method to send the FTP MKD command to the server, * receive the reply, and return the reply code." />
       <item value="write Temp File Path" />
       <item value="java.io.IOException: File 'D:\test.xsd' exists but is a directory" />
-      <item value="relative Path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="321" />
-        <entry key="ENGLISH" value="322" />
+        <entry key="CHINESE" value="322" />
+        <entry key="ENGLISH" value="323" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
