@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="recursive" />
+      <item value="recurs" />
+      <item value="recursive Download Dir" />
       <item value="java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test" />
       <item value="Base packages to scan for annotated components. Use {@link #scanBasePackageClasses} * for a type-safe alternative to String-based package names. * @return base packages to scan" />
       <item value="set Test On Borrow" />
@@ -48,17 +51,15 @@
       <item value="java.time.format.DateTimeParseException: Text '2017-12-11 10:11:05' could not be parsed: Unable to obtain LocalDateTime from TemporalAccessor: {MinuteOfHour=11, MilliOfSecond=0, MicroOfSecond=0, SecondOfMinute=5, HourOfAmPm=10, NanoOfSecond=0},ISO resolved to 2017-12-11 of type java.time.format.Parsed" />
       <item value="&quot;http://localhost:&quot; + port + uri, request" />
       <item value="Unsatisfied dependency expressed through field 'servletRegistrationBean'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'org.springframework.boot.web.servlet.ServletRegistrationBean&lt;?&gt;' available: expected single matching bean but found 2: messageDispatcherServlet,dispatcherServletRegistration" />
-      <item value="No unmarshaller registered. Check configuration of WebServiceTemplate." />
-      <item value="org.springframework.ws.client.Web Service Transport Exception" />
-      <item value="org.springframework.oxm.UncategorizedMappingException: Unknown JAXB exception; nested exception is javax.xml.bind.JAXBException: class com.howtodoinjava.xml.school.StudentDetailRequest以及其任何超类对此上下文都是未知的。" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="295" />
-        <entry key="ENGLISH" value="296" />
+        <entry key="CHINESE" value="297" />
+        <entry key="ENGLISH" value="298" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
+        <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="20" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="2" />
