@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The list of file information contained in the given path in * the format determined by the autodetection mechanism" />
+      <item value="This information is obtained through the LIST command. The contents of * the returned array is determined by the&lt;code&gt; FTPFileEntryParser &lt;/code&gt; * used" />
+      <item value="Using the default system autodetect mechanism, obtain a * list of file information for the current working directory * or for just a single file." />
       <item value="real Deleted Blank Dir Or File" />
       <item value="dest Dir Exist" />
       <item value="点" />
@@ -48,14 +51,11 @@
       <item value="Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.xml.xsd.XsdSchemaCollection]: Factory method 'countriesSchemaCollection' threw exception; nested exception is java.lang.NoClassDefFoundError: org/apache/ws/commons/schema/XmlSchemaCollection" />
       <item value="Unsatisfied dependency expressed through method 'defaultWsdl11Definition' parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'countriesSchemaCollection' defined in class path resource" />
       <item value="Default Wsdl 11 Definition" />
-      <item value="local Part" />
-      <item value="Failed to execute goal org.codehaus.mojo:jaxb2-maven-plugin:1.6:xjc (default-cli) on project spring-soap-webservice: Could not process schema files in directory D:\Text\spring-boot\spring-soap-webservice\src\main\resources" />
-      <item value="Error creating bean with name 'countriesSchema' defined in com.rxliuli.example.springsoapwebservice.config.WebServiceConfig: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: xsd 'class path resource [*.xsd]' does not exist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="316" />
-        <entry key="ENGLISH" value="317" />
+        <entry key="CHINESE" value="319" />
+        <entry key="ENGLISH" value="320" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
