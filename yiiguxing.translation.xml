@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Non" />
+      <item value="download Nonsuffix File" />
+      <item value="successful" />
+      <item value="success" />
+      <item value="sucuess" />
+      <item value="sucuessful" />
       <item value="Note: EnterpriseUnixFTPEntryParser can only be instantiated through the * DefaultFTPParserFactory by classname. It will not be chosen * by the autodetection scheme." />
       <item value="Parser for the Connect Enterprise Unix FTP Server From Sterling Commerce. * Here is a sample of the sort of output line this parser processes: * &quot;-C--E-----FTP B QUA1I1 18128 41 Aug 12 13:56 QUADTEST&quot;" />
       <item value="Returns the integer value of the reply code of the last FTP reply." />
@@ -45,17 +51,11 @@
       <item value="Signifies the namespace of the payload root element handled by the annotated method." />
       <item value="Marks an endpoint method as the handler for an incoming request. The annotation values signify the request * payload root element that is handled by the method." />
       <item value="Marks an endpoint method as the handler for an incoming request. The annotation values signify the request" />
-      <item value="marshal" />
-      <item value="Implementations can execute any number of operations on the message, such as set the contents of the message, or set" />
-      <item value="Generic callback interface for code that operates on a {@link WebServiceMessage}" />
-      <item value="marshal Send And Receive" />
-      <item value="org.springframework.ws.soap.SoapMessageCreationException: Could not create message from InputStream: Invalid Content-Type:text/html. Is this an error message instead of a SOAP response?; nested exception is com.sun.xml.messaging.saaj.SOAPExceptionImpl: Invalid Content-Type:text/html. Is this an error message instead of a SOAP response?" />
-      <item value="All letters 'A' to 'Z' and 'a' to 'z' are reserved as pattern letters. The * following pattern letters are defined:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="300" />
-        <entry key="ENGLISH" value="301" />
+        <entry key="CHINESE" value="306" />
+        <entry key="ENGLISH" value="306" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
@@ -65,6 +65,7 @@
         <entry key="JAPANESE" value="2" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="GREEK" value="1" />
+        <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
