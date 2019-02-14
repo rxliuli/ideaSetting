@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ls Entry" />
+      <item value="Strict Host Key Checking" />
+      <item value="Copyright (c) 2002-2018 ymnk, JCraft,Inc. All rights reserved. Redistribution and use in source and binary forms, with or without&#10;modification, are permitted provided that the following conditions are met: 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. 3. The names of the authors may not be used to endorse or promote products derived from this software without specific prior written permission." />
+      <item value="Channel Sftp" />
+      <item value="Basic" />
       <item value="where to read input from" />
       <item value="destination" />
       <item value="Read bytes from an input stream. * This implementation guarantees that it will read as many bytes * as possible before giving up; this may not always be the case for * subclasses of {@link InputStream}." />
@@ -46,22 +51,18 @@
       <item value="fiald" />
       <item value="substring After Last" />
       <item value="retrieve File" />
-      <item value="Non" />
-      <item value="download Nonsuffix File" />
-      <item value="success" />
-      <item value="sucuess" />
-      <item value="sucuessful" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="350" />
-        <entry key="ENGLISH" value="351" />
+        <entry key="CHINESE" value="355" />
+        <entry key="ENGLISH" value="355" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="20" />
         <entry key="KURDISH" value="1" />
+        <entry key="LATVIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="2" />
         <entry key="SLOVENIAN" value="1" />
