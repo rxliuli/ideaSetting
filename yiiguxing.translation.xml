@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="where to read input from" />
+      <item value="destination" />
+      <item value="Read bytes from an input stream. * This implementation guarantees that it will read as many bytes * as possible before giving up; this may not always be the case for * subclasses of {@link InputStream}." />
+      <item value="successful" />
+      <item value="JSch open ssh session success" />
+      <item value="Sftp connection successful" />
+      <item value="Sftp connection failed" />
+      <item value="failed" />
+      <item value="Calls the &lt;tt&gt;Hashtable&lt;/tt&gt; method {@code put}. Provided for * parallelism with the &lt;tt&gt;getProperty&lt;/tt&gt; method. Enforces use of * strings for property keys and values. The value returned is the * result of the &lt;tt&gt;Hashtable&lt;/tt&gt; call to {@code put}." />
       <item value="get Datacenter Id" />
       <item value="get Max Worker Id" />
       <item value="Autowired Annotation Bean Post Processor" />
@@ -30,7 +39,6 @@
       <item value="dest Dir Exist" />
       <item value="点" />
       <item value="DOT STR" />
-      <item value="failed" />
       <item value="faild" />
       <item value="fail" />
       <item value="失败fail" />
@@ -40,22 +48,14 @@
       <item value="retrieve File" />
       <item value="Non" />
       <item value="download Nonsuffix File" />
-      <item value="successful" />
       <item value="success" />
       <item value="sucuess" />
       <item value="sucuessful" />
-      <item value="Note: EnterpriseUnixFTPEntryParser can only be instantiated through the * DefaultFTPParserFactory by classname. It will not be chosen * by the autodetection scheme." />
-      <item value="Parser for the Connect Enterprise Unix FTP Server From Sterling Commerce. * Here is a sample of the sort of output line this parser processes: * &quot;-C--E-----FTP B QUA1I1 18128 41 Aug 12 13:56 QUADTEST&quot;" />
-      <item value="Returns the integer value of the reply code of the last FTP reply." />
-      <item value="recursive" />
-      <item value="recurs" />
-      <item value="recursive Download Dir" />
-      <item value="java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="341" />
-        <entry key="ENGLISH" value="342" />
+        <entry key="CHINESE" value="350" />
+        <entry key="ENGLISH" value="351" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
