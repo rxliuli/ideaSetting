@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="plain" />
+      <item value="linkplain" />
       <item value="Injection of autowired dependencies failed; nested exception is java.lang.IllegalStateException: TypeExcludeFilter class org.springframework.boot.test.context.filter.TestTypeExcludeFilter has not implemented equals" />
       <item value="Caught exception while allowing TestExecutionListener [org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@4313f5bc] to prepare test instance [com.zx.idc.common.ftp.sftp.SftpSpringConfigTest@6e4784bc]" />
       <item value="strict Host Key Checking" />
@@ -49,13 +51,11 @@
       <item value="Error creating bean with name 'ApplicationConfiguration': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'domain.traffic.blocker.port' in value &quot;${domain.traffic.blocker.port}&quot;" />
       <item value="[ main] o.s.test.context.TestContextManager : Caught exception while allowing TestExecutionListener [org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@1b8a29df] to prepare test instance [com.zx.idc.ds.base.cus.dao.BaseCustomerDaoTest@7b8b43c7]" />
       <item value="2019-02-13 18:15:17.312 ERROR 15328 --- [ main] o.s.test.context.TestContextManager : Caught exception while allowing TestExecutionListener [org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@1b8a29df] to prepare test instance [com.zx.idc.ds.base.cus.dao.BaseCustomerDaoTest@7b8b43c7]" />
-      <item value="Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'domain.traffic.blocker.host' in value &quot;${domain.traffic.blocker.host}&quot;" />
-      <item value="Failed to load ApplicationContext" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="373" />
-        <entry key="ENGLISH" value="374" />
+        <entry key="CHINESE" value="375" />
+        <entry key="ENGLISH" value="376" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
