@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pipe closed" />
+      <item value="the number of bytes copied, or -1 if &amp;gt; Integer.MAX_VALUE" />
+      <item value="Copy bytes from an &lt;code&gt;InputStream&lt;/code&gt; to an * &lt;code&gt;OutputStream&lt;/code&gt;. * &lt;p&gt; * This method buffers the input internally, so there is no need to use a * &lt;code&gt;BufferedInputStream&lt;/code&gt;. * &lt;p&gt; * Large streams (over 2GB) will return a bytes copied value of * &lt;code&gt;-1&lt;/code&gt; after the copy has completed since the correct * number of bytes cannot be returned as an int. For large streams * use the &lt;code&gt;copyLarge(InputStream, OutputStream)&lt;/code&gt; method." />
+      <item value="The channel is not connected" />
+      <item value="The channel is not connecte" />
+      <item value="com.jcraft.jsch.SftpException: Bad message" />
+      <item value="com.jcraft.jsch.SftpException: No such file" />
+      <item value="Permission denied" />
+      <item value="rmdir" />
+      <item value="operation" />
       <item value="is Connected" />
       <item value="com.jcraft.jsch.ChannelSftp cannot be cast to com.zx.idc.common.ftp.sftp.BasicChannelSftp" />
       <item value="Ls Entry" />
@@ -41,21 +51,11 @@
       <item value="判断" />
       <item value="The list of file information contained in the given path in * the format determined by the autodetection mechanism" />
       <item value="This information is obtained through the LIST command. The contents of * the returned array is determined by the&lt;code&gt; FTPFileEntryParser &lt;/code&gt; * used" />
-      <item value="Using the default system autodetect mechanism, obtain a * list of file information for the current working directory * or for just a single file." />
-      <item value="real Deleted Blank Dir Or File" />
-      <item value="dest Dir Exist" />
-      <item value="点" />
-      <item value="DOT STR" />
-      <item value="faild" />
-      <item value="fail" />
-      <item value="失败fail" />
-      <item value="失败" />
-      <item value="fiald" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="356" />
-        <entry key="ENGLISH" value="357" />
+        <entry key="CHINESE" value="366" />
+        <entry key="ENGLISH" value="367" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
