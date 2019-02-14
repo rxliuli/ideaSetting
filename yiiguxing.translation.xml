@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="com.jcraft.jsch.SftpException: No such directory" />
+      <item value="10. Changes from previous protocol versions The SSH File Transfer Protocol has changed over time, before it's standardization. The following is a description of the incompatible changes between different versions.&#10;10.1 Changes between versions 3 and 2 o The SSH_FXP_READLINK and SSH_FXP_SYMLINK messages were added. o The SSH_FXP_EXTENDED and SSH_FXP_EXTENDED_REPLY messages were added. o The SSH_FXP_STATUS message was changed to include fields `error message' and `language tag'.&#10;10.2 Changes between versions 2 and 1 o The SSH_FXP_RENAME message was added.&#10;10.3 Changes between versions 1 and 0 o Implementation changes, no actual protocol changes." />
+      <item value="lstat" />
       <item value="plain" />
       <item value="linkplain" />
       <item value="Injection of autowired dependencies failed; nested exception is java.lang.IllegalStateException: TypeExcludeFilter class org.springframework.boot.test.context.filter.TestTypeExcludeFilter has not implemented equals" />
@@ -48,14 +51,11 @@
       <item value="To display the conditions report re-run your application with 'debug' enabled." />
       <item value="test While Idle" />
       <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'ApplicationConfiguration': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'domain.traffic.blocker.port' in value &quot;${domain.traffic.blocker.port}&quot;" />
-      <item value="Error creating bean with name 'ApplicationConfiguration': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'domain.traffic.blocker.port' in value &quot;${domain.traffic.blocker.port}&quot;" />
-      <item value="[ main] o.s.test.context.TestContextManager : Caught exception while allowing TestExecutionListener [org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@1b8a29df] to prepare test instance [com.zx.idc.ds.base.cus.dao.BaseCustomerDaoTest@7b8b43c7]" />
-      <item value="2019-02-13 18:15:17.312 ERROR 15328 --- [ main] o.s.test.context.TestContextManager : Caught exception while allowing TestExecutionListener [org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@1b8a29df] to prepare test instance [com.zx.idc.ds.base.cus.dao.BaseCustomerDaoTest@7b8b43c7]" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="375" />
-        <entry key="ENGLISH" value="376" />
+        <entry key="CHINESE" value="378" />
+        <entry key="ENGLISH" value="379" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
