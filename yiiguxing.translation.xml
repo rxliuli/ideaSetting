@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Connected" />
       <item value="com.jcraft.jsch.ChannelSftp cannot be cast to com.zx.idc.common.ftp.sftp.BasicChannelSftp" />
       <item value="Ls Entry" />
       <item value="Strict Host Key Checking" />
@@ -50,12 +51,11 @@
       <item value="失败fail" />
       <item value="失败" />
       <item value="fiald" />
-      <item value="substring After Last" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="355" />
-        <entry key="ENGLISH" value="356" />
+        <entry key="CHINESE" value="356" />
+        <entry key="ENGLISH" value="357" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
