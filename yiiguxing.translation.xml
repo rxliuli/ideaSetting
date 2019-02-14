@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="strict Host Key Checking" />
+      <item value="Maps the specified &lt;code&gt;key&lt;/code&gt; to the specified * &lt;code&gt;value&lt;/code&gt; in this hashtable. Neither the key nor the * value can be &lt;code&gt;null&lt;/code&gt;. &lt;p&gt; * * The value can be retrieved by calling the &lt;code&gt;get&lt;/code&gt; method * with a key that is equal to the original key." />
+      <item value="aps the specified &lt;code&gt;key&lt;/code&gt; to the specified * &lt;code&gt;value&lt;/code&gt; in this hashtable. Neither the key nor the * value can be &lt;code&gt;null&lt;/code&gt;. &lt;p&gt; * * The value can be retrieved by calling the &lt;code&gt;get&lt;/code&gt; method * with a key that is equal to the original key." />
+      <item value="host" />
       <item value="Pipe closed" />
       <item value="the number of bytes copied, or -1 if &amp;gt; Integer.MAX_VALUE" />
       <item value="Copy bytes from an &lt;code&gt;InputStream&lt;/code&gt; to an * &lt;code&gt;OutputStream&lt;/code&gt;. * &lt;p&gt; * This method buffers the input internally, so there is no need to use a * &lt;code&gt;BufferedInputStream&lt;/code&gt;. * &lt;p&gt; * Large streams (over 2GB) will return a bytes copied value of * &lt;code&gt;-1&lt;/code&gt; after the copy has completed since the correct * number of bytes cannot be returned as an int. For large streams * use the &lt;code&gt;copyLarge(InputStream, OutputStream)&lt;/code&gt; method." />
@@ -47,15 +51,11 @@
       <item value="Failed to load ApplicationContext" />
       <item value="set Control Encoding" />
       <item value="partitioning By" />
-      <item value="parallel" />
-      <item value="判断" />
-      <item value="The list of file information contained in the given path in * the format determined by the autodetection mechanism" />
-      <item value="This information is obtained through the LIST command. The contents of * the returned array is determined by the&lt;code&gt; FTPFileEntryParser &lt;/code&gt; * used" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="366" />
-        <entry key="ENGLISH" value="367" />
+        <entry key="CHINESE" value="369" />
+        <entry key="ENGLISH" value="370" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
