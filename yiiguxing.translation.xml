@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns an infinite sequential ordered {@code Stream} produced by iterative * application of a function {@code f} to an initial element {@code seed}, * producing a {@code Stream} consisting of {@code seed}, {@code f(seed)}, * {@code f(f(seed))}, etc." />
+      <item value="the {@code Comparator} used to compare the sort key" />
+      <item value="the function used to extract the sort key" />
+      <item value="the function used to extract the {@link * Comparable} sort key" />
+      <item value="Represents an operation that accepts an object-valued and a * {@code int}-valued argument, and returns no result. This is the * {@code (reference, int)} specialization of {@link BiConsumer}. * Unlike most other functional interfaces, {@code ObjIntConsumer} is * expected to operate via side-effects." />
+      <item value="Represents an operation upon two operands of the same type, producing a result * of the same type as the operands. This is a specialization of * {@link BiFunction} for the case where the operands and the result are all of * the same type." />
+      <item value="the initial element" />
       <item value="Type parameters of functional interfaces can be specialized to * primitives with additional type prefixes. To specialize the return type * for a type that has both generic return type and generic arguments, we * prefix {@code ToXxx}, as in {@link java.util.function.ToIntFunction}. * Otherwise, type arguments are specialized left-to-right, as in * {@link java.util.function.DoubleConsumer} * or {@link java.util.function.ObjIntConsumer}. * (The type prefix {@code Obj} is used to indicate that we don't want to * specialize this parameter, but want to move on to the next parameter, * as in {@link java.util.function.ObjIntConsumer}.) * These schemes can be combined, as in {@code IntToDoubleFunction}. * &lt;/li&gt;" />
       <item value="Binary Operator" />
       <item value="Represents an operation on a single operand that produces a result of the * same type as its operand. This is a specialization of {@code Function} for * the case where the operand and result are of the same type. *" />
@@ -44,18 +51,11 @@
       <item value="Implementation of BeanDefinitionRegistry interface" />
       <item value="register Bean Definition" />
       <item value="get Bean Definition" />
-      <item value="Unsupported ftp type" />
-      <item value="using" />
-      <item value="Stat" />
-      <item value="com.jcraft.jsch.SftpException: No such directory" />
-      <item value="10. Changes from previous protocol versions The SSH File Transfer Protocol has changed over time, before it's standardization. The following is a description of the incompatible changes between different versions.&#10;10.1 Changes between versions 3 and 2 o The SSH_FXP_READLINK and SSH_FXP_SYMLINK messages were added. o The SSH_FXP_EXTENDED and SSH_FXP_EXTENDED_REPLY messages were added. o The SSH_FXP_STATUS message was changed to include fields `error message' and `language tag'.&#10;10.2 Changes between versions 2 and 1 o The SSH_FXP_RENAME message was added.&#10;10.3 Changes between versions 1 and 0 o Implementation changes, no actual protocol changes." />
-      <item value="lstat" />
-      <item value="plain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="424" />
-        <entry key="ENGLISH" value="425" />
+        <entry key="CHINESE" value="432" />
+        <entry key="ENGLISH" value="433" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
