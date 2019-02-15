@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="c.z.i.common.ftp.sftp.SftpSpringConfig : Read the sftp configuration exception, read the configuration: username null, host null, password null, port: Optional.empty, strictHostKeyChecking Optional.empty, encoding, Optional.empty" />
+      <item value="Deprecated" />
       <item value="Read the ftp and sftp configuration exception, read the configuration: username null, host null, password null, port: Optional.empty" />
       <item value="Caught exception while allowing TestExecutionListener [org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@15d49048] to prepare test instance [com.zx.idc.common.ftp2.FtpSpringConfigTest@471a9022]" />
       <item value="Base Ftp Oerator Factory.get Instance" />
@@ -49,13 +51,11 @@
       <item value="There are additional derived function shapes which extend the basic * function shapes, including {@link java.util.function.UnaryOperator} * (extends {@code Function}) and {@link java.util.function.BinaryOperator} * (extends {@code BiFunction})." />
       <item value="Unary Operator" />
       <item value="To Int Function" />
-      <item value="&lt;li&gt;There are additional derived function shapes which extend the basic * function shapes, including {@link java.util.function.UnaryOperator} * (extends {@code Function}) and {@link java.util.function.BinaryOperator} * (extends {@code BiFunction}). * &lt;/li&gt;" />
-      <item value="(binary function from {@code T} and" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="476" />
-        <entry key="ENGLISH" value="477" />
+        <entry key="CHINESE" value="478" />
+        <entry key="ENGLISH" value="479" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
