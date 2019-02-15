@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="separate File Path" />
+      <item value="spearate File Path" />
       <item value="Returns the integer value of the reply code of the last FTP reply. * You will usually only use this method after you connect to the * FTP server to check that the connection was successful since * &lt;code&gt; connect &lt;/code&gt; is of type void." />
       <item value="The integer value of the reply code of the last FTP reply." />
       <item value="* Tests if this input stream supports the &lt;code&gt;mark&lt;/code&gt; and * &lt;code&gt;reset&lt;/code&gt; methods. Whether or not &lt;code&gt;mark&lt;/code&gt; and * &lt;code&gt;reset&lt;/code&gt; are supported is an invariant property of a * particular input stream instance. The &lt;code&gt;markSupported&lt;/code&gt; method * of &lt;code&gt;InputStream&lt;/code&gt; returns &lt;code&gt;false&lt;/code&gt;." />
@@ -49,13 +51,11 @@
       <item value="rmdir" />
       <item value="operation" />
       <item value="is Connected" />
-      <item value="com.jcraft.jsch.ChannelSftp cannot be cast to com.zx.idc.common.ftp.sftp.BasicChannelSftp" />
-      <item value="Ls Entry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="404" />
-        <entry key="ENGLISH" value="405" />
+        <entry key="CHINESE" value="406" />
+        <entry key="ENGLISH" value="407" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
