@@ -1,6 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Type parameters of functional interfaces can be specialized to * primitives with additional type prefixes. To specialize the return type * for a type that has both generic return type and generic arguments, we * prefix {@code ToXxx}, as in {@link java.util.function.ToIntFunction}. * Otherwise, type arguments are specialized left-to-right, as in * {@link java.util.function.DoubleConsumer} * or {@link java.util.function.ObjIntConsumer}. * (The type prefix {@code Obj} is used to indicate that we don't want to * specialize this parameter, but want to move on to the next parameter, * as in {@link java.util.function.ObjIntConsumer}.) * These schemes can be combined, as in {@code IntToDoubleFunction}. * &lt;/li&gt;" />
+      <item value="Binary Operator" />
+      <item value="Represents an operation on a single operand that produces a result of the * same type as its operand. This is a specialization of {@code Function} for * the case where the operand and result are of the same type. *" />
+      <item value="There are additional derived function shapes which extend the basic * function shapes, including {@link java.util.function.UnaryOperator} * (extends {@code Function}) and {@link java.util.function.BinaryOperator} * (extends {@code BiFunction})." />
+      <item value="Unary Operator" />
+      <item value="To Int Function" />
+      <item value="&lt;li&gt;There are additional derived function shapes which extend the basic * function shapes, including {@link java.util.function.UnaryOperator} * (extends {@code Function}) and {@link java.util.function.BinaryOperator} * (extends {@code BiFunction}). * &lt;/li&gt;" />
+      <item value="(binary function from {@code T} and" />
+      <item value="nilary" />
+      <item value="(nilary function to {@code R})." />
+      <item value="(unary function from {@code T} to {@code boolean})," />
+      <item value="(unary function from {@code T} to {@code void})," />
+      <item value="(unary function from {@code T} to {@code R})," />
+      <item value="Function" />
+      <item value="Functional Interface" />
+      <item value="&lt;em&gt;Functional interfaces&lt;/em&gt; provide target types for lambda expressions * and method references. Each functional interface has a single abstract * method, called the &lt;em&gt;functional method&lt;/em&gt; for that functional interface, * to which the lambda expression's parameter and return types are matched or * adapted. Functional interfaces can provide a target type in multiple * contexts, such as assignment context, method invocation, or cast context: *" />
+      <item value="Copyright (c) 2011, 2013, Oracle and/or its affiliates. All rights reserved. * DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS FILE HEADER. * * This code is free software; you can redistribute it and/or modify it * under the terms of the GNU General Public License version 2 only, as * published by the Free Software Foundation. Oracle designates this * particular file as subject to the &quot;Classpath&quot; exception as provided * by Oracle in the LICENSE file that accompanied this code. * * This code is distributed in the hope that it will be useful, but WITHOUT * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or * FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License * version 2 for more details (a copy is included in the LICENSE file that * accompanied this code). * * You should have received a copy of the GNU General Public License version * 2 along with this work; if not, write to the Free Software Foundation, * Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA. * * Please contact Oracle, 500 Oracle Parkway, Redwood Shores, CA 94065 USA * or visit www.oracle.com if you need additional information or have any * questions." />
       <item value="separate File Path" />
       <item value="spearate File Path" />
       <item value="Returns the integer value of the reply code of the last FTP reply. * You will usually only use this method after you connect to the * FTP server to check that the connection was successful since * &lt;code&gt; connect &lt;/code&gt; is of type void." />
@@ -34,28 +51,11 @@
       <item value="10. Changes from previous protocol versions The SSH File Transfer Protocol has changed over time, before it's standardization. The following is a description of the incompatible changes between different versions.&#10;10.1 Changes between versions 3 and 2 o The SSH_FXP_READLINK and SSH_FXP_SYMLINK messages were added. o The SSH_FXP_EXTENDED and SSH_FXP_EXTENDED_REPLY messages were added. o The SSH_FXP_STATUS message was changed to include fields `error message' and `language tag'.&#10;10.2 Changes between versions 2 and 1 o The SSH_FXP_RENAME message was added.&#10;10.3 Changes between versions 1 and 0 o Implementation changes, no actual protocol changes." />
       <item value="lstat" />
       <item value="plain" />
-      <item value="linkplain" />
-      <item value="Caught exception while allowing TestExecutionListener [org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@4313f5bc] to prepare test instance [com.zx.idc.common.ftp.sftp.SftpSpringConfigTest@6e4784bc]" />
-      <item value="strict Host Key Checking" />
-      <item value="Maps the specified &lt;code&gt;key&lt;/code&gt; to the specified * &lt;code&gt;value&lt;/code&gt; in this hashtable. Neither the key nor the * value can be &lt;code&gt;null&lt;/code&gt;. &lt;p&gt; * * The value can be retrieved by calling the &lt;code&gt;get&lt;/code&gt; method * with a key that is equal to the original key." />
-      <item value="aps the specified &lt;code&gt;key&lt;/code&gt; to the specified * &lt;code&gt;value&lt;/code&gt; in this hashtable. Neither the key nor the * value can be &lt;code&gt;null&lt;/code&gt;. &lt;p&gt; * * The value can be retrieved by calling the &lt;code&gt;get&lt;/code&gt; method * with a key that is equal to the original key." />
-      <item value="host" />
-      <item value="Pipe closed" />
-      <item value="the number of bytes copied, or -1 if &amp;gt; Integer.MAX_VALUE" />
-      <item value="Copy bytes from an &lt;code&gt;InputStream&lt;/code&gt; to an * &lt;code&gt;OutputStream&lt;/code&gt;. * &lt;p&gt; * This method buffers the input internally, so there is no need to use a * &lt;code&gt;BufferedInputStream&lt;/code&gt;. * &lt;p&gt; * Large streams (over 2GB) will return a bytes copied value of * &lt;code&gt;-1&lt;/code&gt; after the copy has completed since the correct * number of bytes cannot be returned as an int. For large streams * use the &lt;code&gt;copyLarge(InputStream, OutputStream)&lt;/code&gt; method." />
-      <item value="The channel is not connected" />
-      <item value="The channel is not connecte" />
-      <item value="com.jcraft.jsch.SftpException: Bad message" />
-      <item value="com.jcraft.jsch.SftpException: No such file" />
-      <item value="Permission denied" />
-      <item value="rmdir" />
-      <item value="operation" />
-      <item value="is Connected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="406" />
-        <entry key="ENGLISH" value="407" />
+        <entry key="CHINESE" value="424" />
+        <entry key="ENGLISH" value="425" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
@@ -64,6 +64,7 @@
         <entry key="KURDISH" value="1" />
         <entry key="LATVIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="MALAGASY" value="3" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="2" />
         <entry key="SLOVENIAN" value="1" />
