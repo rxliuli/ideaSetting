@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Issue the FTP STAT command to the server. * &lt;p&gt; * @return The status information returned by the server. * @exception FTPConnectionClosedException * If the FTP server prematurely closes the connection as a result * of the client being idle or some other reason causing the server * to send FTP reply code 421. This exception may be caught either * as an IOException or independently as itself." />
+      <item value="The integer value of the reply code of the fetched FTP reply." />
+      <item value="Only use this * method if you are implementing your own FTP client or if you need to * fetch a secondary response from the FTP server." />
+      <item value="Fetches a reply from the FTP server and returns the integer reply * code. After calling this method, the actual reply text can be accessed * from either calling {@link #getReplyString getReplyString } or" />
+      <item value="Issue the FTP STAT command to the server for a given pathname. This * should produce a listing of the file or directory." />
       <item value="&lt;p&gt;No delimiter is added before or after the list. * {@code null} elements and separator are treated as empty Strings (&quot;&quot;).&lt;/p&gt;" />
       <item value="Joins the elements of the provided varargs into a * single String containing the provided elements.&lt;/p&gt;" />
       <item value="Seporator" />
@@ -46,16 +51,11 @@
       <item value="Read bytes from an input stream. * This implementation guarantees that it will read as many bytes * as possible before giving up; this may not always be the case for * subclasses of {@link InputStream}." />
       <item value="successful" />
       <item value="JSch open ssh session success" />
-      <item value="Sftp connection successful" />
-      <item value="Sftp connection failed" />
-      <item value="failed" />
-      <item value="Calls the &lt;tt&gt;Hashtable&lt;/tt&gt; method {@code put}. Provided for * parallelism with the &lt;tt&gt;getProperty&lt;/tt&gt; method. Enforces use of * strings for property keys and values. The value returned is the * result of the &lt;tt&gt;Hashtable&lt;/tt&gt; call to {@code put}." />
-      <item value="get Datacenter Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="389" />
-        <entry key="ENGLISH" value="390" />
+        <entry key="CHINESE" value="394" />
+        <entry key="ENGLISH" value="395" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
