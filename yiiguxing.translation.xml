@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the integer value of the reply code of the last FTP reply. * You will usually only use this method after you connect to the * FTP server to check that the connection was successful since * &lt;code&gt; connect &lt;/code&gt; is of type void." />
+      <item value="The integer value of the reply code of the last FTP reply." />
+      <item value="* Tests if this input stream supports the &lt;code&gt;mark&lt;/code&gt; and * &lt;code&gt;reset&lt;/code&gt; methods. Whether or not &lt;code&gt;mark&lt;/code&gt; and * &lt;code&gt;reset&lt;/code&gt; are supported is an invariant property of a * particular input stream instance. The &lt;code&gt;markSupported&lt;/code&gt; method * of &lt;code&gt;InputStream&lt;/code&gt; returns &lt;code&gt;false&lt;/code&gt;." />
+      <item value="mark Supported" />
       <item value="IOException caught while copying." />
       <item value="Software caused connection abort: socket write error" />
       <item value="The name to give the remote file." />
@@ -47,15 +51,11 @@
       <item value="is Connected" />
       <item value="com.jcraft.jsch.ChannelSftp cannot be cast to com.zx.idc.common.ftp.sftp.BasicChannelSftp" />
       <item value="Ls Entry" />
-      <item value="Strict Host Key Checking" />
-      <item value="Copyright (c) 2002-2018 ymnk, JCraft,Inc. All rights reserved. Redistribution and use in source and binary forms, with or without&#10;modification, are permitted provided that the following conditions are met: 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. 3. The names of the authors may not be used to endorse or promote products derived from this software without specific prior written permission." />
-      <item value="Channel Sftp" />
-      <item value="Basic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="400" />
-        <entry key="ENGLISH" value="401" />
+        <entry key="CHINESE" value="404" />
+        <entry key="ENGLISH" value="405" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
