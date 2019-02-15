@@ -97,7 +97,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="log" value="  private final Logger log = LoggerFactory.getLogger(getClass());&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="log" value="  private final Logger log = LoggerFactory.getLogger(getClass());&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
