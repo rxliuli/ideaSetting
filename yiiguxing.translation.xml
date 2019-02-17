@@ -1,6 +1,36 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Incorporate a new double value using Kahan summation / * compensation summation." />
+      <item value="sum With Compensation" />
+      <item value="summarizing Double" />
+      <item value="summarizing Int" />
+      <item value="Returns a {@code Collector} which applies an {@code int}-producing * mapping function to each input element, and returns summary statistics * for the resulting values." />
+      <item value="Returns a {@code Collector} which partitions the input elements according * to a {@code Predicate}, and organizes them into a * {@code Map&lt;Boolean, List&lt;T&gt;&gt;}." />
+      <item value="partitioning By" />
+      <item value="grouping By Concurrent" />
+      <item value="box Supplier" />
+      <item value="averaging Int" />
+      <item value="compute Final Sum" />
+      <item value="Compensation" />
+      <item value="double tmp = value - intermediateSum[1]; double sum = intermediateSum[0]; double velvel = sum + tmp; // Little wolf of rounding error intermediateSum[1] = (velvel - sum) - tmp; intermediateSum[0] = velvel; return intermediateSum;" />
+      <item value="High-order bits of the sum are in intermediateSum[0], low-order * bits of the sum are in intermediateSum[1], any additional * elements are application-specific." />
+      <item value="igh-order bits of the sum are in intermediateSum[0], low-order * bits of the sum are in intermediateSum[1], any additional * elements are application-specific." />
+      <item value="summing Int" />
+      <item value="counting" />
+      <item value="unmodifiable List" />
+      <item value="Adapts a {@code Collector} to perform an additional finishing * transformation. For example, one could adapt the {@link #toList()} * collector to always produce an immutable list with: * &lt;pre&gt;{@code * List&lt;String&gt; people * = people.stream().collect(collectingAndThen(toList(), Collections::unmodifiableList));" />
+      <item value="type of elements accepted by downstream collector" />
+      <item value="the type of the input elements" />
+      <item value="Adapts a {@code Collector} accepting elements of type {@code U} to one * accepting elements of type {@code T} by applying a mapping function to * each input element before accumulation." />
+      <item value="{@code BinaryOperator&lt;Map&gt;} that merges the contents of its right * argument into its left argument, using the provided merge function to * handle duplicate keys." />
+      <item value="Returns a {@code Collector} that accumulates the input elements into a * new {@code Collection}, in encounter order. The {@code Collection} is * created by the provided factory." />
+      <item value="casting Identity" />
+      <item value="* Returns a merge function, suitable for use in * {@link Map#merge(Object, Object, BiFunction) Map.merge()} or * {@link #toMap(Function, Function, BinaryOperator) toMap()}, which always * throws {@code IllegalStateException}. This can be used to enforce the * assumption that the elements being collected are distinct. *" />
+      <item value="Returns a merge function, suitable for use in * {@link Map#merge(Object, Object, BiFunction) Map.merge()} or * {@link #toMap(Function, Function, BinaryOperator) toMap()}, which always * throws {@code IllegalStateException}. This can be used to enforce the * assumption that the elements being collected are distinct." />
+      <item value="throwing Merger" />
+      <item value="Returns an equivalent stream that is parallel. May return * itself, either because the stream was already parallel, or because * the underlying stream state was modified to be parallel." />
+      <item value="parallel" />
       <item value="Caused by: org.apache.ibatis.reflection.ReflectionException: Could not set property 'id' of 'class com.zx.idc.ds.base.cus.entity.BaseCustomer' with value '1090194151883444226' Cause: java.lang.IllegalArgumentException: argument type mismatch" />
       <item value="with value '1090194151883444226' Cause: java.lang.IllegalArgumentException: argument type mismatch" />
       <item value="Illegal Argument Exception" />
@@ -21,41 +51,11 @@
       <item value="business Type" />
       <item value="setmode" />
       <item value="security Owner" />
-      <item value="Security Owner" />
-      <item value="安全责任人" />
-      <item value="安全" />
-      <item value="securre People" />
-      <item value="securres People" />
-      <item value="securres" />
-      <item value="people" />
-      <item value="espeople" />
-      <item value="Respeop" />
-      <item value="Respeople" />
-      <item value="secur Respeople" />
-      <item value="emergency Contact" />
-      <item value="poration" />
-      <item value="company Corporation" />
-      <item value="Base House Shold Info" />
-      <item value="Base House Should Info" />
-      <item value="Shold" />
-      <item value="distribute Time" />
-      <item value="email" />
-      <item value="emial" />
-      <item value="DUPLICATE DATA ERROR" />
-      <item value="Too Many Results Exception" />
-      <item value="children" />
-      <item value="Error attempting to get column 'NAME' from result set" />
-      <item value="org.springframework.dao.DataIntegrityViolationException: Error attempting to get column 'NAME' from result set. Cause: org.h2.jdbc.JdbcSQLException: Data conversion error converting &quot;高能物理&quot; [22018-197]&#10;; SQL []; Data conversion error converting &quot;高能物理&quot; [22018-197]; nested exception is org.h2.jdbc.JdbcSQLException: Data conversion error converting &quot;高能物理&quot; [22018-197]" />
-      <item value="select Recursive" />
-      <item value="递归" />
-      <item value="select Recivesive" />
-      <item value="salt" />
-      <item value="key whose mapping is to be removed from the map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="190" />
-        <entry key="ENGLISH" value="191" />
+        <entry key="CHINESE" value="230" />
+        <entry key="ENGLISH" value="231" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CORSICAN" value="20" />
