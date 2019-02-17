@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="distinct" />
       <item value="Incorporate a new double value using Kahan summation / * compensation summation." />
       <item value="sum With Compensation" />
       <item value="summarizing Double" />
@@ -50,12 +51,11 @@
       <item value="standard" />
       <item value="business Type" />
       <item value="setmode" />
-      <item value="security Owner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="230" />
-        <entry key="ENGLISH" value="231" />
+        <entry key="CHINESE" value="231" />
+        <entry key="ENGLISH" value="232" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CORSICAN" value="20" />
