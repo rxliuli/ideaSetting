@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="url Instruction Service" />
+      <item value="unblock Domains Test" />
       <item value="Unsatisfied dependency expressed through field" />
       <item value="Consider the following: If you want an embedded database (H2, HSQL or Derby), please put it on the classpath. If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active)." />
       <item value="Reason: Failed to determine a suitable driver class" />
@@ -49,13 +51,11 @@
       <item value="The {@code identity} value must be an identity for the combiner * function. This means that for all {@code u}, {@code combiner(identity, u)} * is equal to {@code u}. Additionally, the {@code combiner} function * must be compatible with the {@code accumulator} function; for all * {@code u} and {@code t}, the following must hold: * &lt;pre&gt;{@code * combiner.apply(u, accumulator.apply(identity, t)) == accumulator.apply(u, t)" />
       <item value="but is not constrained to execute sequentially." />
       <item value="Performs a &lt;a href=&quot;package-summary.html#Reduction&quot;&gt;reduction&lt;/a&gt; on the * elements of this stream, using the provided identity, accumulation and * combining functions. This is equivalent to:" />
-      <item value="The generator function takes an integer, which is the size of the * desired array, and produces an array of the desired size. This can be * concisely expressed with an array constructor reference:" />
-      <item value="This is a &lt;a href=&quot;package-summary.html#StreamOps&quot;&gt;terminal * operation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="505" />
-        <entry key="ENGLISH" value="506" />
+        <entry key="CHINESE" value="507" />
+        <entry key="ENGLISH" value="508" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
