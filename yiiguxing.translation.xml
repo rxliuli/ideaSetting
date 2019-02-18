@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns an array containing {@code Method} objects reflecting all the * public methods of the class or interface represented by this {@code * Class} object, including those declared by the class or interface and * those inherited from superclasses and superinterfaces." />
+      <item value="Returns an array containing {@code Method} objects reflecting all the * declared methods of the class or interface represented by this {@code * Class} object, including public, protected, default (package) * access, and private methods, but excluding inherited methods." />
+      <item value="get Declared Methods" />
+      <item value="Returns an array of {@code Field} objects reflecting all the fields * declared by the class or interface represented by this * {@code Class} object. This includes public, protected, default * (package) access, and private fields, but excludes inherited fields." />
+      <item value="get Declared Fields" />
       <item value="c.z.i.common.ftp.sftp.SftpSpringConfig : Read the sftp configuration exception, read the configuration: username null, host null, password null, port: Optional.empty, strictHostKeyChecking Optional.empty, encoding, Optional.empty" />
       <item value="Deprecated" />
       <item value="Read the ftp and sftp configuration exception, read the configuration: username null, host null, password null, port: Optional.empty" />
@@ -46,16 +51,11 @@
       <item value="Represents an operation upon two operands of the same type, producing a result * of the same type as the operands. This is a specialization of * {@link BiFunction} for the case where the operands and the result are all of * the same type." />
       <item value="the initial element" />
       <item value="Type parameters of functional interfaces can be specialized to * primitives with additional type prefixes. To specialize the return type * for a type that has both generic return type and generic arguments, we * prefix {@code ToXxx}, as in {@link java.util.function.ToIntFunction}. * Otherwise, type arguments are specialized left-to-right, as in * {@link java.util.function.DoubleConsumer} * or {@link java.util.function.ObjIntConsumer}. * (The type prefix {@code Obj} is used to indicate that we don't want to * specialize this parameter, but want to move on to the next parameter, * as in {@link java.util.function.ObjIntConsumer}.) * These schemes can be combined, as in {@code IntToDoubleFunction}. * &lt;/li&gt;" />
-      <item value="Binary Operator" />
-      <item value="Represents an operation on a single operand that produces a result of the * same type as its operand. This is a specialization of {@code Function} for * the case where the operand and result are of the same type. *" />
-      <item value="There are additional derived function shapes which extend the basic * function shapes, including {@link java.util.function.UnaryOperator} * (extends {@code Function}) and {@link java.util.function.BinaryOperator} * (extends {@code BiFunction})." />
-      <item value="Unary Operator" />
-      <item value="To Int Function" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="478" />
-        <entry key="ENGLISH" value="479" />
+        <entry key="CHINESE" value="483" />
+        <entry key="ENGLISH" value="484" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
