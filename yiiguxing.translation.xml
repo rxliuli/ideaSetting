@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unsatisfied dependency expressed through field" />
+      <item value="Consider the following: If you want an embedded database (H2, HSQL or Derby), please put it on the classpath. If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active)." />
+      <item value="Reason: Failed to determine a suitable driver class" />
+      <item value="The web application [ROOT] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:" />
+      <item value="ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'logQueryControllerImpl': Unsatisfied dependency expressed through field 'logQueryService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'logQueryServiceImpl': Unsatisfied dependency expressed through field 'baseMapper'; nested exception is org.springframework.beans.factory" />
       <item value="Returns a sequential ordered stream whose elements are the specified values." />
       <item value="a {@code Spliterator.OfInt} describing the stream elements" />
       <item value="The spliterator is only traversed, split, or queried for estimated size * after the terminal operation of the stream pipeline commences." />
@@ -46,16 +51,11 @@
       <item value="Performs a &lt;a href=&quot;package-summary.html#Reduction&quot;&gt;reduction&lt;/a&gt; on the * elements of this stream, using the provided identity, accumulation and * combining functions. This is equivalent to:" />
       <item value="The generator function takes an integer, which is the size of the * desired array, and produces an array of the desired size. This can be * concisely expressed with an array constructor reference:" />
       <item value="This is a &lt;a href=&quot;package-summary.html#StreamOps&quot;&gt;terminal * operation" />
-      <item value="Returns an array containing the elements of this stream, using the * provided {@code generator} function to allocate the returned array, as * well as any additional arrays that might be required for a partitioned * execution or for resizing." />
-      <item value="performing the action for subsequent elements, but for any given element, * the action may be performed in whatever thread the library chooses." />
-      <item value="This operation processes the elements one at a time, in encounter * order if one exists. Performing the action for one element * &lt;a href=&quot;../concurrent/package-summary.html#MemoryVisibility&quot;&gt;&lt;i&gt;happens-before&lt;/i&gt;&lt;/a&gt;" />
-      <item value="Performs an action for each element of this stream, in the encounter * order of the stream if the stream has a defined encounter order." />
-      <item value="Returns a stream consisting of the remaining elements of this stream * after discarding the first {@code n} elements of the stream. * If this stream contains fewer than {@code n} elements then an * empty stream will be returned." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="500" />
-        <entry key="ENGLISH" value="501" />
+        <entry key="CHINESE" value="505" />
+        <entry key="ENGLISH" value="506" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
