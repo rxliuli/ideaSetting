@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="defined in class path resource [com/zx/idc/common/ftp/FtpSpringConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zx.idc.common.ftp.FtpOperator]: Factory method 'basicFtpOperator' threw exception; nested exception is java.lang.RuntimeException: ftp operator create failed, config is null" />
+      <item value="ftp operator create failed, config is null" />
+      <item value="java.lang.IllegalStateException: Failed to load ApplicationContext" />
+      <item value="Initial Bean sftpOperator failed, basic ftp client config is null!" />
+      <item value="Initial Bean basicFtpOperator failed, basic ftp client config is null!" />
+      <item value="Caught exception while allowing TestExecutionListener [org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@1cf56a1c] to prepare test instance [com.zx.idc.ds.base.cus.service.IBaseCustomerServiceTest@651aed93]" />
+      <item value="Factory method 'basicFtpOperator' threw exception; nested exception is java.lang.RuntimeException: ftp operator create failed, config is null" />
+      <item value="java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test" />
+      <item value="exists By Id" />
       <item value="Returns an array containing {@code Method} objects reflecting all the * public methods of the class or interface represented by this {@code * Class} object, including those declared by the class or interface and * those inherited from superclasses and superinterfaces." />
       <item value="Returns an array containing {@code Method} objects reflecting all the * declared methods of the class or interface represented by this {@code * Class} object, including public, protected, default (package) * access, and private methods, but excluding inherited methods." />
       <item value="get Declared Methods" />
@@ -42,20 +51,11 @@
       <item value="This is an &lt;a href=&quot;package-summary.html#StreamOps&quot;&gt;intermediate * operation" />
       <item value="For parallel stream pipelines, the action may be called at * whatever time and in whatever thread the element is made available by the * upstream operation. If the action modifies shared state, * it is responsible for providing the required synchronization." />
       <item value="Returns a stream consisting of the elements of this stream, sorted * according to natural order. If the elements of this stream are not * {@code Comparable}, a {@code java.lang.ClassCastException} may be thrown * when the terminal operation is executed." />
-      <item value="Returns a stream consisting of the distinct elements (according to * {@link Object#equals(Object)}) of this stream." />
-      <item value="Returns a stream consisting of the results of replacing each element of * this stream with the contents of a mapped stream produced by applying * the provided mapping function to each element. Each mapped stream is * {@link java.util.stream.BaseStream#close() closed} after its contents * have been placed into this stream. (If a mapped stream is {@code null} * an empty stream is used, instead.)" />
-      <item value="the {@code Comparator} used to compare the sort key" />
-      <item value="the function used to extract the sort key" />
-      <item value="the function used to extract the {@link * Comparable} sort key" />
-      <item value="Represents an operation that accepts an object-valued and a * {@code int}-valued argument, and returns no result. This is the * {@code (reference, int)} specialization of {@link BiConsumer}. * Unlike most other functional interfaces, {@code ObjIntConsumer} is * expected to operate via side-effects." />
-      <item value="Represents an operation upon two operands of the same type, producing a result * of the same type as the operands. This is a specialization of * {@link BiFunction} for the case where the operands and the result are all of * the same type." />
-      <item value="the initial element" />
-      <item value="Type parameters of functional interfaces can be specialized to * primitives with additional type prefixes. To specialize the return type * for a type that has both generic return type and generic arguments, we * prefix {@code ToXxx}, as in {@link java.util.function.ToIntFunction}. * Otherwise, type arguments are specialized left-to-right, as in * {@link java.util.function.DoubleConsumer} * or {@link java.util.function.ObjIntConsumer}. * (The type prefix {@code Obj} is used to indicate that we don't want to * specialize this parameter, but want to move on to the next parameter, * as in {@link java.util.function.ObjIntConsumer}.) * These schemes can be combined, as in {@code IntToDoubleFunction}. * &lt;/li&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="483" />
-        <entry key="ENGLISH" value="484" />
+        <entry key="CHINESE" value="494" />
+        <entry key="ENGLISH" value="495" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
