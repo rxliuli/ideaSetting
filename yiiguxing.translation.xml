@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cloning" />
       <item value="listener" />
       <item value="监听函数" />
       <item value="监听" />
@@ -50,12 +51,11 @@
       <item value="This is a &lt;a href=&quot;package-summary.html#StreamOps&quot;&gt;short-circuiting * terminal operation" />
       <item value="none" />
       <item value="Returns whether no elements of this stream match the provided predicate. * May not evaluate the predicate on all elements if not necessary for * determining the result. If the stream is empty then {@code true} is * returned and the predicate is not evaluated." />
-      <item value="none Match" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="513" />
-        <entry key="ENGLISH" value="514" />
+        <entry key="CHINESE" value="514" />
+        <entry key="ENGLISH" value="515" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
