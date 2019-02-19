@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="The encoding can not be changed for this sftp server." />
+      <item value="com.jcraft.jsch.SftpException: No such file" />
       <item value="No such file" />
       <item value="Factory method 'basicFtpOperator' threw exception; nested exception is java.lang.NullPointerException" />
       <item value="Ftp Watch Pool" />
@@ -50,12 +51,11 @@
       <item value="监听函数" />
       <item value="监听" />
       <item value="watch" />
-      <item value="watch Fn" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="558" />
-        <entry key="ENGLISH" value="559" />
+        <entry key="CHINESE" value="561" />
+        <entry key="ENGLISH" value="562" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
