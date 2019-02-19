@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="加密" />
+      <item value="SSH FXP HANDLE" />
+      <item value="send OPENDIR" />
+      <item value="If pattern has included '*' or '?', we need to convert" />
+      <item value="to UTF-8 string before globbing." />
+      <item value="pattern has wildcard" />
       <item value="encode will bin invoked in write with synchronization." />
       <item value="The encoding can not be changed for this sftp server." />
       <item value="com.jcraft.jsch.SftpException: No such file" />
@@ -45,17 +51,11 @@
       <item value="schedule With Fixed Delay" />
       <item value="schedule At Fixed Rate" />
       <item value="Static convenience methods for JavaBeans: for instantiating beans, * checking bean property types, copying bean properties, etc. * * &lt;p&gt;Mainly for use within the framework, but to some degree also * useful for application classes." />
-      <item value="delete" />
-      <item value="Create" />
-      <item value="cloning" />
-      <item value="listener" />
-      <item value="监听函数" />
-      <item value="监听" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="562" />
-        <entry key="ENGLISH" value="563" />
+        <entry key="CHINESE" value="568" />
+        <entry key="ENGLISH" value="568" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
