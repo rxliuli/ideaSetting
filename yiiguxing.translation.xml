@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns &lt;tt&gt;true&lt;/tt&gt; if this set contains the specified element. * More formally, returns &lt;tt&gt;true&lt;/tt&gt; if and only if this set * contains an element &lt;tt&gt;e&lt;/tt&gt; such that * &lt;tt&gt;(o==null&amp;nbsp;?&amp;nbsp;e==null&amp;nbsp;:&amp;nbsp;o.equals(e))&lt;/tt&gt;." />
+      <item value="Expecting: &lt;[]&gt;" />
+      <item value="java.lang.AssertionError: Expecting:" />
       <item value="start Watch" />
       <item value="critical" />
       <item value="critical Condition" />
@@ -48,14 +51,11 @@
       <item value="Unsatisfied dependency expressed through field" />
       <item value="Consider the following: If you want an embedded database (H2, HSQL or Derby), please put it on the classpath. If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active)." />
       <item value="Reason: Failed to determine a suitable driver class" />
-      <item value="The web application [ROOT] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:" />
-      <item value="ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'logQueryControllerImpl': Unsatisfied dependency expressed through field 'logQueryService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'logQueryServiceImpl': Unsatisfied dependency expressed through field 'baseMapper'; nested exception is org.springframework.beans.factory" />
-      <item value="Returns a sequential ordered stream whose elements are the specified values." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="547" />
-        <entry key="ENGLISH" value="548" />
+        <entry key="CHINESE" value="550" />
+        <entry key="ENGLISH" value="551" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
