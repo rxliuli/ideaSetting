@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Completed Future Test" />
       <item value="listener Map" />
       <item value="contains Only Once" />
       <item value="Returns &lt;tt&gt;true&lt;/tt&gt; if this set contains the specified element. * More formally, returns &lt;tt&gt;true&lt;/tt&gt; if and only if this set * contains an element &lt;tt&gt;e&lt;/tt&gt; such that * &lt;tt&gt;(o==null&amp;nbsp;?&amp;nbsp;e==null&amp;nbsp;:&amp;nbsp;o.equals(e))&lt;/tt&gt;." />
@@ -50,12 +51,11 @@
       <item value="A clock providing access to the current instant, date and time using a time-zone." />
       <item value="url Instruction Service" />
       <item value="unblock Domains Test" />
-      <item value="Unsatisfied dependency expressed through field" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="552" />
-        <entry key="ENGLISH" value="553" />
+        <entry key="CHINESE" value="553" />
+        <entry key="ENGLISH" value="554" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
