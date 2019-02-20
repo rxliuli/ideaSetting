@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Expecting all elements of: &lt;[@com.zx.idc.common.annotation.ComponentDemo(value=test)]&gt;&#10;to match given predicate but this element did not: &lt;@com.zx.idc.common.annotation.ComponentDemo(value=test)&gt;" />
+      <item value="With" />
+      <item value="scan Annotation With" />
       <item value="递归" />
       <item value="recursive" />
       <item value="get Declared Annotations By Type" />
@@ -48,14 +51,11 @@
       <item value="Concurrent Skip List Map" />
       <item value="present only if flag SSH_FILEXFER_ATTR_SIZE uint32 uid present only if flag SSH_FILEXFER_ATTR_UIDGID uint32 gid present only if flag SSH_FILEXFER_ATTR_UIDGID uint32 permissions present only if flag SSH_FILEXFER_ATTR_PERMISSIONS uint32 atime present only if flag SSH_FILEXFER_ACMODTIME uint32 mtime present only if flag SSH_FILEXFER_ACMODTIME uint32 extended_count present only if flag SSH_FILEXFER_ATTR_EXTENDED" />
       <item value="present only if flag SSH_FILEXFER_ATTR_EXTENDED" />
-      <item value="present only if flag SSH_FILEXFER_ACMODTIME" />
-      <item value="get A Time" />
-      <item value="get Timestamp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="592" />
-        <entry key="ENGLISH" value="592" />
+        <entry key="CHINESE" value="594" />
+        <entry key="ENGLISH" value="595" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
