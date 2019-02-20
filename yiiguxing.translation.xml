@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Factory method 'basicFtpOperator' threw exception; nested exception is java.lang.RuntimeException: java.net.ConnectException: Connection refused: connect" />
+      <item value="Caused by: java.net.ConnectException: Connection refused: connect" />
+      <item value="get Beans With Annotation" />
+      <item value="Find all beans whose {@code Class} has the supplied {@link Annotation} type, * returning a Map of bean names with corresponding bean instances." />
+      <item value="Return all interfaces that the given instance implements as an array, * including ones implemented by superclasses." />
+      <item value="get All Interfaces" />
+      <item value="Given an input class object, return a string which consists of the * class's package name as a pathname, i.e., all dots ('.') are replaced by * slashes ('/'). Neither a leading nor trailing slash is added. The result * could be concatenated with a slash and the name of a resource and fed * directly to {@code ClassLoader.getResource()}. For it to be fed to * {@code Class.getResource} instead, a leading slash would also have * to be prepended to the returned value." />
+      <item value="class Package As Resource Path" />
+      <item value="Application Event" />
+      <item value="recursive" />
+      <item value="find And Add Classes In Package By File" />
+      <item value="The common interface extended by all annotation types. Note that an * interface that manually extends this one does &lt;i&gt;not&lt;/i&gt; define * an annotation type. Also note that this interface does not itself * define an annotation type." />
       <item value="Returns &lt;tt&gt;true&lt;/tt&gt; if this list contains the specified element. * More formally, returns &lt;tt&gt;true&lt;/tt&gt; if and only if this list contains * at least one element &lt;tt&gt;e&lt;/tt&gt; such that * &lt;tt&gt;(o==null&amp;nbsp;?&amp;nbsp;e==null&amp;nbsp;:&amp;nbsp;o.equals(e))&lt;/tt&gt;." />
       <item value="Index Out Of Bounds Exception" />
       <item value="reverse Order" />
@@ -39,23 +51,11 @@
       <item value="get Timestamp" />
       <item value="Deque" />
       <item value="Concurrent Linked Deque" />
-      <item value="独有" />
-      <item value="different" />
-      <item value="共同的" />
-      <item value="simultaneously" />
-      <item value="occur " />
-      <item value="occur simultaneously" />
-      <item value="交集" />
-      <item value="union" />
-      <item value="intersection" />
-      <item value="A {@code TimeUnit} represents time durations at a given unit of * granularity and provides utility methods to convert across units, * and to perform timing and delay operations in these units. A * {@code TimeUnit} does not maintain time information, but only * helps organize and use time representations that may be maintained * separately across various contexts. A nanosecond is defined as one * thousandth of a microsecond, a microsecond as one thousandth of a * millisecond, a millisecond as one thousandth of a second, a minute * as sixty seconds, an hour as sixty minutes, and a day as twenty four * hours." />
-      <item value="check Valid Int Value" />
-      <item value="the delay between the termination of one * execution and the commencement of the next" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="576" />
-        <entry key="ENGLISH" value="577" />
+        <entry key="CHINESE" value="589" />
+        <entry key="ENGLISH" value="590" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
