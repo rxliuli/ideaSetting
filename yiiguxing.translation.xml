@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Contain If Self" />
       <item value="Spring Bus" />
       <item value="Camel" />
       <item value="Camelhump" />
@@ -50,12 +51,11 @@
       <item value="encode will bin invoked in write with synchronization." />
       <item value="The encoding can not be changed for this sftp server." />
       <item value="com.jcraft.jsch.SftpException: No such file" />
-      <item value="No such file" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="610" />
-        <entry key="ENGLISH" value="611" />
+        <entry key="CHINESE" value="611" />
+        <entry key="ENGLISH" value="612" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
