@@ -1,8 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Pascal Case" />
+      <item value="Converter Factory" />
       <item value="Pascal" />
+      <item value="Camel" />
+      <item value="Returns a stream consisting of the remaining elements of this stream * after discarding the first {@code n} elements of the stream. * If this stream contains fewer than {@code n} elements then an * empty stream will be returned." />
+      <item value="skip" />
+      <item value="Pascal Case" />
       <item value="Lower Camel" />
       <item value="Upper Camel" />
       <item value="Kebab" />
@@ -19,7 +23,6 @@
       <item value="Returns a {@code Collector} implementing a cascaded &quot;group by&quot; operation * on input elements of type {@code T}, grouping elements according to a * classification function, and then performing a reduction operation on * the values associated with a given key using the specified downstream" />
       <item value="is Contain If Self" />
       <item value="Spring Bus" />
-      <item value="Camel" />
       <item value="Camelhump" />
       <item value="Interceptor" />
       <item value="Phase Interceptor Chain" />
@@ -48,16 +51,13 @@
       <item value="Given an input class object, return a string which consists of the * class's package name as a pathname, i.e., all dots ('.') are replaced by * slashes ('/'). Neither a leading nor trailing slash is added. The result * could be concatenated with a slash and the name of a resource and fed * directly to {@code ClassLoader.getResource()}. For it to be fed to * {@code Class.getResource} instead, a leading slash would also have * to be prepended to the returned value." />
       <item value="class Package As Resource Path" />
       <item value="Application Event" />
-      <item value="find And Add Classes In Package By File" />
-      <item value="The common interface extended by all annotation types. Note that an * interface that manually extends this one does &lt;i&gt;not&lt;/i&gt; define * an annotation type. Also note that this interface does not itself * define an annotation type." />
-      <item value="Returns &lt;tt&gt;true&lt;/tt&gt; if this list contains the specified element. * More formally, returns &lt;tt&gt;true&lt;/tt&gt; if and only if this list contains * at least one element &lt;tt&gt;e&lt;/tt&gt; such that * &lt;tt&gt;(o==null&amp;nbsp;?&amp;nbsp;e==null&amp;nbsp;:&amp;nbsp;o.equals(e))&lt;/tt&gt;." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="627" />
-        <entry key="ENGLISH" value="628" />
+        <entry key="CHINESE" value="631" />
+        <entry key="ENGLISH" value="632" />
         <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="5" />
+        <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="20" />
