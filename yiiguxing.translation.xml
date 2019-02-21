@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Camel" />
+      <item value="Camelhump" />
+      <item value="Interceptor" />
+      <item value="Phase Interceptor Chain" />
+      <item value="IdcCommand has thrown exception, unwinding now" />
       <item value="风格" />
       <item value="[D:\Project\IDCSecuritySystem\code\IDCSecureSystem\ExternalAPI\target\classes\com\zx\idc\api\ws\common\scan\WebServicePublishScan.class]: 'webServicePublishScan' depends on missing bean 'springBeanUtil'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'springBeanUtil' available" />
       <item value="nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'springBeanUtil' available" />
@@ -46,16 +51,11 @@
       <item value="com.jcraft.jsch.SftpException: No such file" />
       <item value="No such file" />
       <item value="Factory method 'basicFtpOperator' threw exception; nested exception is java.lang.NullPointerException" />
-      <item value="Ftp Watch Pool" />
-      <item value="Completed Future Test" />
-      <item value="listener Map" />
-      <item value="contains Only Once" />
-      <item value="Returns &lt;tt&gt;true&lt;/tt&gt; if this set contains the specified element. * More formally, returns &lt;tt&gt;true&lt;/tt&gt; if and only if this set * contains an element &lt;tt&gt;e&lt;/tt&gt; such that * &lt;tt&gt;(o==null&amp;nbsp;?&amp;nbsp;e==null&amp;nbsp;:&amp;nbsp;o.equals(e))&lt;/tt&gt;." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="605" />
-        <entry key="ENGLISH" value="605" />
+        <entry key="CHINESE" value="609" />
+        <entry key="ENGLISH" value="610" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
