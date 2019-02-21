@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pascal Case" />
+      <item value="Pascal" />
+      <item value="Lower Camel" />
+      <item value="Upper Camel" />
+      <item value="Kebab" />
+      <item value="b" />
+      <item value="snake" />
+      <item value="screaming Snake" />
+      <item value="pascal" />
+      <item value="camel" />
       <item value="splice String" />
       <item value="the target bean" />
       <item value="the source bean" />
@@ -41,23 +51,13 @@
       <item value="find And Add Classes In Package By File" />
       <item value="The common interface extended by all annotation types. Note that an * interface that manually extends this one does &lt;i&gt;not&lt;/i&gt; define * an annotation type. Also note that this interface does not itself * define an annotation type." />
       <item value="Returns &lt;tt&gt;true&lt;/tt&gt; if this list contains the specified element. * More formally, returns &lt;tt&gt;true&lt;/tt&gt; if and only if this list contains * at least one element &lt;tt&gt;e&lt;/tt&gt; such that * &lt;tt&gt;(o==null&amp;nbsp;?&amp;nbsp;e==null&amp;nbsp;:&amp;nbsp;o.equals(e))&lt;/tt&gt;." />
-      <item value="Index Out Of Bounds Exception" />
-      <item value="reverse Order" />
-      <item value="is Equal To Comparing Field By Field Recursively" />
-      <item value="but some elements were not found:" />
-      <item value="to contain only once:" />
-      <item value="Expecting:" />
-      <item value="Array Index Out Of Bounds Exception" />
-      <item value="加密" />
-      <item value="SSH FXP HANDLE" />
-      <item value="send OPENDIR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="617" />
-        <entry key="ENGLISH" value="618" />
+        <entry key="CHINESE" value="627" />
+        <entry key="ENGLISH" value="628" />
         <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="1" />
+        <entry key="FRENCH" value="5" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="20" />
