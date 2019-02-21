@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The classification function maps elements to some key type {@code K}. * The downstream collector operates on elements of type {@code T} and * produces a result of type {@code D}. The resulting collector produces a * {@code Map&lt;K, D&gt;}." />
+      <item value="Returns a {@code Collector} implementing a cascaded &quot;group by&quot; operation * on input elements of type {@code T}, grouping elements according to a * classification function, and then performing a reduction operation on * the values associated with a given key using the specified downstream" />
       <item value="is Contain If Self" />
       <item value="Spring Bus" />
       <item value="Camel" />
@@ -49,13 +51,11 @@
       <item value="to UTF-8 string before globbing." />
       <item value="pattern has wildcard" />
       <item value="encode will bin invoked in write with synchronization." />
-      <item value="The encoding can not be changed for this sftp server." />
-      <item value="com.jcraft.jsch.SftpException: No such file" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="611" />
-        <entry key="ENGLISH" value="612" />
+        <entry key="CHINESE" value="613" />
+        <entry key="ENGLISH" value="614" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
