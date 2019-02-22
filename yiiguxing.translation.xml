@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="集成 mongodb" />
       <item value="com.zaxxer.hikari.util.DriverDataSource : Registered driver with driverClassName=org.gjt.mm.mysql.Driver was not found, trying direct instantiation." />
       <item value="com.mongodb.MongoSocketOpenException: Exception opening socket" />
       <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'codeListServiceImpl': Unsatisfied dependency expressed through field 'baseMapper'" />
@@ -50,11 +51,10 @@
       <item value="Context Closed Event" />
       <item value="endpoint Interface" />
       <item value="Expecting all elements of: &lt;[@com.zx.idc.common.annotation.ComponentDemo(value=test)]&gt;&#10;to match given predicate but this element did not: &lt;@com.zx.idc.common.annotation.ComponentDemo(value=test)&gt;" />
-      <item value="With" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="645" />
+        <entry key="CHINESE" value="646" />
         <entry key="ENGLISH" value="646" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
