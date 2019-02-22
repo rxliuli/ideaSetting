@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="com.zaxxer.hikari.util.DriverDataSource : Registered driver with driverClassName=org.gjt.mm.mysql.Driver was not found, trying direct instantiation." />
+      <item value="com.mongodb.MongoSocketOpenException: Exception opening socket" />
+      <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'codeListServiceImpl': Unsatisfied dependency expressed through field 'baseMapper'" />
+      <item value="Failed to determine a suitable driver class" />
+      <item value="Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class" />
+      <item value="Caused by: org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'commandServiceImpl' for bean class [com.zx.idc.ds.api.ws.management.Infosecurity.violationwebsite.monitor.service.impl.CommandServiceImpl] conflicts with existing, non-compatible bean definition of same name and class [com.zx.idc.ds.api.ws.management.Infosecurity.violationwebsite.filter.service.impl.CommandServiceImpl]" />
       <item value="com.mongodb.MongoCommandException: Command failed with error 13: 'command insert requires authentication'" />
       <item value="ZIP Compression Impl" />
       <item value="Not Compression Impl" />
@@ -45,17 +51,11 @@
       <item value="endpoint Interface" />
       <item value="Expecting all elements of: &lt;[@com.zx.idc.common.annotation.ComponentDemo(value=test)]&gt;&#10;to match given predicate but this element did not: &lt;@com.zx.idc.common.annotation.ComponentDemo(value=test)&gt;" />
       <item value="With" />
-      <item value="scan Annotation With" />
-      <item value="递归" />
-      <item value="recursive" />
-      <item value="get Declared Annotations By Type" />
-      <item value="Factory method 'basicFtpOperator' threw exception; nested exception is java.lang.RuntimeException: java.net.ConnectException: Connection refused: connect" />
-      <item value="Caused by: java.net.ConnectException: Connection refused: connect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="637" />
-        <entry key="ENGLISH" value="638" />
+        <entry key="CHINESE" value="645" />
+        <entry key="ENGLISH" value="646" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
