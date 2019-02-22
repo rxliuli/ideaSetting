@@ -90,6 +90,10 @@
           <option name="url" value="https://github.com/svlada/springboot-security-jwt" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:rxliuli/spring-boot-mybatis-plus-mongo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Text\SpringBoot\example" />
