@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.zx.idc.ds.base.cus.mongodb.dao.UserInfoRepository.findByName" />
+      <item value="Creates a criterion using the {@literal $gte} operator." />
+      <item value="Creates a criterion using a {@literal $regex} operator." />
+      <item value="Creates a criterion using the given object as a pattern." />
+      <item value="{@link Query} implementation to be used to for performing full text searches." />
+      <item value="Custom {@link Query} implementation to setup a basic query from some arbitrary JSON query string." />
+      <item value="by Example" />
+      <item value="Interface that specifies a basic set of MongoDB operations. Implemented by {@link MongoTemplate}. Not often used but * a useful option for extensibility and testability (as it can be easily mocked, stubbed, or be the target of a JDK * proxy)." />
       <item value="集成 mongodb" />
       <item value="com.zaxxer.hikari.util.DriverDataSource : Registered driver with driverClassName=org.gjt.mm.mysql.Driver was not found, trying direct instantiation." />
       <item value="com.mongodb.MongoSocketOpenException: Exception opening socket" />
@@ -43,19 +51,11 @@
       <item value="IdcCommand has thrown exception, unwinding now" />
       <item value="风格" />
       <item value="[D:\Project\IDCSecuritySystem\code\IDCSecureSystem\ExternalAPI\target\classes\com\zx\idc\api\ws\common\scan\WebServicePublishScan.class]: 'webServicePublishScan' depends on missing bean 'springBeanUtil'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'springBeanUtil' available" />
-      <item value="nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'springBeanUtil' available" />
-      <item value="Invocation of init method failed; nested exception is java.lang.NullPointerException" />
-      <item value="&gt;Returns either the passed in CharSequence, or if the CharSequence is * whitespace, empty (&quot;&quot;) or {@code null}, the value of {@code defaultStr}.&lt;/p&gt;" />
-      <item value="Exception thrown from ApplicationListener handling ContextClosedEvent" />
-      <item value="GenericWebApplicationContext : Exception thrown from ApplicationListener handling ContextClosedEvent" />
-      <item value="Context Closed Event" />
-      <item value="endpoint Interface" />
-      <item value="Expecting all elements of: &lt;[@com.zx.idc.common.annotation.ComponentDemo(value=test)]&gt;&#10;to match given predicate but this element did not: &lt;@com.zx.idc.common.annotation.ComponentDemo(value=test)&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="646" />
-        <entry key="ENGLISH" value="646" />
+        <entry key="CHINESE" value="653" />
+        <entry key="ENGLISH" value="654" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
