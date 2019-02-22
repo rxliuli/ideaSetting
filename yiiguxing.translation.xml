@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="com.mongodb.MongoCommandException: Command failed with error 13: 'command insert requires authentication'" />
       <item value="ZIP Compression Impl" />
       <item value="Not Compression Impl" />
       <item value="发布 Endpoint 成功 。注册到 Spring 容器中成功" />
@@ -50,12 +51,11 @@
       <item value="get Declared Annotations By Type" />
       <item value="Factory method 'basicFtpOperator' threw exception; nested exception is java.lang.RuntimeException: java.net.ConnectException: Connection refused: connect" />
       <item value="Caused by: java.net.ConnectException: Connection refused: connect" />
-      <item value="get Beans With Annotation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="636" />
-        <entry key="ENGLISH" value="637" />
+        <entry key="CHINESE" value="637" />
+        <entry key="ENGLISH" value="638" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
