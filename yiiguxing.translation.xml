@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Annotation to activate MongoDB repositories. If no base package is configured through either {@link #value()}, * {@link #basePackages()} or {@link #basePackageClasses()} it will trigger scanning of the package of annotated class." />
+      <item value="Enable Mongo Repositories" />
+      <item value="Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.zx.idc.ds.base.cus.mongodb.repository.UserInfoRepository' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
+      <item value="Caused by: org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'java.lang.Object' available: expected single matching bean but found 3: baseDao,baseMongoDao,systemEnvironment" />
+      <item value="No qualifying bean of type 'com.zx.idc.ds.base.cus.mongodb.repository.UserInfoRepository' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
       <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.zx.idc.ds.base.cus.mongodb.dao.UserInfoRepository.findByName" />
       <item value="Creates a criterion using the {@literal $gte} operator." />
       <item value="Creates a criterion using a {@literal $regex} operator." />
@@ -46,16 +51,11 @@
       <item value="is Contain If Self" />
       <item value="Spring Bus" />
       <item value="Camelhump" />
-      <item value="Interceptor" />
-      <item value="Phase Interceptor Chain" />
-      <item value="IdcCommand has thrown exception, unwinding now" />
-      <item value="风格" />
-      <item value="[D:\Project\IDCSecuritySystem\code\IDCSecureSystem\ExternalAPI\target\classes\com\zx\idc\api\ws\common\scan\WebServicePublishScan.class]: 'webServicePublishScan' depends on missing bean 'springBeanUtil'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'springBeanUtil' available" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="653" />
-        <entry key="ENGLISH" value="654" />
+        <entry key="CHINESE" value="658" />
+        <entry key="ENGLISH" value="659" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
