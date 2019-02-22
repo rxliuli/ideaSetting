@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Annotation to activate MongoDB repositories. If no base package is configured through either {@link #value()}, * {@link #basePackages()} or {@link #basePackageClasses()} it will trigger scanning of the package of annotated class." />
+      <item value="Enable Mongo Repositories" />
+      <item value="defined in file [D:\Text\spring-boot\spring-boot-mybatis-plus-mongo\out\production\classes\com\rxliuli\example\springbootmybatisplusmongo\repository\UserInfoLogRepository.class]] bound" />
+      <item value="Caused by: org.springframework.beans.factory.support.BeanDefinitionOverrideException: Invalid bean definition with name 'userInfoLogRepository' defined in null" />
+      <item value="2019-02-22 16:35:18 JRebel: ERROR Class 'net.bytebuddy.dynamic.loading.ClassInjector$UsingReflection' could not be processed by org.zeroturnaround.javarebel.integration.proxy.bytebuddy.ClassInjectorUsingCBP@null: org.zeroturnaround.bundled.javassist.NotFoundException: inject(..) is not found in net.bytebuddy.dynamic.loading.ClassInjector$UsingReflection" />
       <item value="Caused by: org.h2.jdbc.JdbcSQLException: Unique index or primary key violation: &quot;PRIMARY KEY ON SPRING_BOOT_MYBATIS_PLUS_MONGO.USER_INFO(ID)&quot;; SQL statement:" />
       <item value="create table user_info ( id bigint primary key not null comment '用户 id', name varchar(20) not null comment '名字', age tinyint not null comment '年龄', sex bool not null comment '性别' ) comment '用户表' [42001-197]" />
       <item value="Caused by: org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement &quot;CREATE DATABASE[*] SPRING_BOOT_MYBATIS_PLUS_MONGO &quot;; expected &quot;OR, FORCE, VIEW, ALIAS, SEQUENCE, USER, TRIGGER, ROLE, SCHEMA, CONSTANT, DOMAIN, TYPE, DATATYPE, AGGREGATE, LINKED, MEMORY, CACHED, LOCAL, GLOBAL, TEMP, TEMPORARY, TABLE, SYNONYM, PRIMARY, UNIQUE, HASH, SPATIAL, INDEX&quot;; SQL statement:" />
@@ -24,8 +29,6 @@
       <item value="then Accept" />
       <item value="then Accept Async" />
       <item value="Implementing this interface allows an object to be the target of * the &quot;for-each loop&quot; statement. See" />
-      <item value="Annotation to activate MongoDB repositories. If no base package is configured through either {@link #value()}, * {@link #basePackages()} or {@link #basePackageClasses()} it will trigger scanning of the package of annotated class." />
-      <item value="Enable Mongo Repositories" />
       <item value="Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.zx.idc.ds.base.cus.mongodb.repository.UserInfoRepository' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
       <item value="Caused by: org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'java.lang.Object' available: expected single matching bean but found 3: baseDao,baseMongoDao,systemEnvironment" />
       <item value="No qualifying bean of type 'com.zx.idc.ds.base.cus.mongodb.repository.UserInfoRepository' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
@@ -48,14 +51,11 @@
       <item value="ZIP Compression Impl" />
       <item value="Not Compression Impl" />
       <item value="发布 Endpoint 成功 。注册到 Spring 容器中成功" />
-      <item value="The package that needs to be scanned is not configured, Endpoint will not be published and registered" />
-      <item value="The" />
-      <item value="未配置需要扫描的包，Endpoint 将不会发布和注册" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="680" />
-        <entry key="ENGLISH" value="681" />
+        <entry key="CHINESE" value="685" />
+        <entry key="ENGLISH" value="686" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
