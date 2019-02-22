@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ZIP Compression Impl" />
+      <item value="Not Compression Impl" />
       <item value="发布 Endpoint 成功 。注册到 Spring 容器中成功" />
       <item value="The package that needs to be scanned is not configured, Endpoint will not be published and registered" />
       <item value="The" />
@@ -49,13 +51,11 @@
       <item value="Factory method 'basicFtpOperator' threw exception; nested exception is java.lang.RuntimeException: java.net.ConnectException: Connection refused: connect" />
       <item value="Caused by: java.net.ConnectException: Connection refused: connect" />
       <item value="get Beans With Annotation" />
-      <item value="Find all beans whose {@code Class} has the supplied {@link Annotation} type, * returning a Map of bean names with corresponding bean instances." />
-      <item value="Return all interfaces that the given instance implements as an array, * including ones implemented by superclasses." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="635" />
-        <entry key="ENGLISH" value="635" />
+        <entry key="CHINESE" value="636" />
+        <entry key="ENGLISH" value="637" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
