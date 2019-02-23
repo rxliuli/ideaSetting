@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Takes a MongoDB JSON string to define the actual query to be executed. This one will take precedence over the * method name then." />
+      <item value="akes a MongoDB JSON string to define the actual query to be executed. This one will take precedence over the * method name then." />
+      <item value="Defines the fields that should be returned for the given query. Note that only these fields will make it into the * domain object returned." />
       <item value="Returns a copy of this {@link ExampleMatcher} with the specified {@code propertyPaths}. This instance is immutable * and unaffected by this method call." />
       <item value="java.lang.AssertionError: Expecting actual not to be empty" />
       <item value="org.springframework.data.repository.query.ParameterOutOfBoundsException: Invalid parameter index! You seem to have declared too little query method parameters!" />
@@ -48,14 +51,11 @@
       <item value="Creates a criterion using the {@literal $gte} operator." />
       <item value="Creates a criterion using a {@literal $regex} operator." />
       <item value="Creates a criterion using the given object as a pattern." />
-      <item value="{@link Query} implementation to be used to for performing full text searches." />
-      <item value="Custom {@link Query} implementation to setup a basic query from some arbitrary JSON query string." />
-      <item value="by Example" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="698" />
-        <entry key="ENGLISH" value="699" />
+        <entry key="CHINESE" value="701" />
+        <entry key="ENGLISH" value="702" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
