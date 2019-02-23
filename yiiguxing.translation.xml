@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a copy of this {@link ExampleMatcher} with the specified {@code propertyPaths}. This instance is immutable * and unaffected by this method call." />
+      <item value="java.lang.AssertionError: Expecting actual not to be empty" />
       <item value="org.springframework.data.repository.query.ParameterOutOfBoundsException: Invalid parameter index! You seem to have declared too little query method parameters!" />
       <item value="Greater Than Equal" />
       <item value="find User Info Log By User Id Equals And Log Time Greater Than Equal" />
@@ -49,13 +51,11 @@
       <item value="{@link Query} implementation to be used to for performing full text searches." />
       <item value="Custom {@link Query} implementation to setup a basic query from some arbitrary JSON query string." />
       <item value="by Example" />
-      <item value="Interface that specifies a basic set of MongoDB operations. Implemented by {@link MongoTemplate}. Not often used but * a useful option for extensibility and testability (as it can be easily mocked, stubbed, or be the target of a JDK * proxy)." />
-      <item value="集成 mongodb" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="695" />
-        <entry key="ENGLISH" value="696" />
+        <entry key="CHINESE" value="698" />
+        <entry key="ENGLISH" value="699" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
