@@ -1,6 +1,27 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Checks the given objects for equality. Handles {@link Pattern} and arrays correctly." />
+      <item value="Creates an 'and' criteria using the $and operator for all of the provided criteria. * &lt;p&gt; * Note that mongodb doesn't support an $and operator to be wrapped in a $not operator. * &lt;p&gt;" />
+      <item value="Creates a criterion using the {@literal $elemMatch} operator" />
+      <item value="Creates a 'nor' criteria using the $nor operator for all of the provided criteria. * &lt;p&gt; * Note that mongodb doesn't support an $nor operator to be wrapped in a $not operator. * &lt;p&gt;" />
+      <item value="nor Operator" />
+      <item value="Criteria" />
+      <item value="Creates an 'or' criteria using the $or operator for all of the provided criteria * &lt;p&gt; * Note that mongodb doesn't support an $or operator to be wrapped in a $not operator. * &lt;p&gt;" />
+      <item value="Creates an 'or' criteria using the $or operator for all of the provided criteria * &lt;p&gt;" />
+      <item value="max Distance" />
+      <item value="Creates a geospatial criterion using a {@literal $near} operation." />
+      <item value="* Creates a geospatial criterion using a {@literal $geoWithin $centerSphere} operation. This is only available for * Mongo 2.4 and higher." />
+      <item value="Creates a criterion using the {@literal $not} meta operator which affects the clause directly following" />
+      <item value="reates a criterion using the {@literal $type} operator." />
+      <item value="Creates a criterion using the {@literal $type} operator." />
+      <item value="Creates a criterion using the {@literal $exists} operator" />
+      <item value="Creates a criterion using the {@literal $size} operator." />
+      <item value="Creates a criterion using the {@literal $all} operator." />
+      <item value="Creates a criterion using the {@literal $mod} operator." />
+      <item value="Creates a criterion using the {@literal $ne} operator." />
+      <item value="last Operator Was Not" />
+      <item value="Static factory method to create a Criteria using the provided key" />
       <item value="Takes a MongoDB JSON string to define the actual query to be executed. This one will take precedence over the * method name then." />
       <item value="akes a MongoDB JSON string to define the actual query to be executed. This one will take precedence over the * method name then." />
       <item value="Defines the fields that should be returned for the given query. Note that only these fields will make it into the * domain object returned." />
@@ -30,32 +51,11 @@
       <item value="Caused by: org.springframework.jdbc.datasource.init.ScriptStatementFailedException: Failed to execute SQL script statement #1 of class path resource [db/schema-h2.sql]: use spring_boot_mybatis_plus_mongo; nested exception is org.h2.jdbc.JdbcSQLException: Schema &quot;SPRING_BOOT_MYBATIS_PLUS_MONGO&quot; not found; SQL statement:" />
       <item value="tiny" />
       <item value="small" />
-      <item value="smallint" />
-      <item value="tinyint" />
-      <item value="操作" />
-      <item value="operation" />
-      <item value="compile" />
-      <item value="implementation" />
-      <item value="An {@link ExecutorService} for running {@link ForkJoinTask}s. * A {@code ForkJoinPool} provides the entry point for submissions * from non-{@code ForkJoinTask} clients, as well as management and * monitoring operations." />
-      <item value="additional nanoseconds to sleep" />
-      <item value="nanos" />
-      <item value="Returns a new CompletionStage that, when this stage completes * normally, is executed using this stage's default asynchronous * execution facility, with this stage's result as the argument to * the supplied function." />
-      <item value="then Apply Async" />
-      <item value="then Accept" />
-      <item value="then Accept Async" />
-      <item value="Implementing this interface allows an object to be the target of * the &quot;for-each loop&quot; statement. See" />
-      <item value="Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.zx.idc.ds.base.cus.mongodb.repository.UserInfoRepository' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
-      <item value="Caused by: org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'java.lang.Object' available: expected single matching bean but found 3: baseDao,baseMongoDao,systemEnvironment" />
-      <item value="No qualifying bean of type 'com.zx.idc.ds.base.cus.mongodb.repository.UserInfoRepository' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
-      <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.zx.idc.ds.base.cus.mongodb.dao.UserInfoRepository.findByName" />
-      <item value="Creates a criterion using the {@literal $gte} operator." />
-      <item value="Creates a criterion using a {@literal $regex} operator." />
-      <item value="Creates a criterion using the given object as a pattern." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="701" />
-        <entry key="ENGLISH" value="702" />
+        <entry key="CHINESE" value="727" />
+        <entry key="ENGLISH" value="728" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
