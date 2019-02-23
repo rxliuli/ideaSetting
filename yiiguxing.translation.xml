@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No corresponding converter found" />
+      <item value="get Instance" />
+      <item value="Screaming" />
       <item value="Concurrent Skip List Set" />
       <item value="没有找到相应的转换器" />
       <item value="com.mongodb.MongoSocketOpenException: Exception opening socket" />
@@ -48,14 +51,11 @@
       <item value="defined in file [D:\Text\spring-boot\spring-boot-mybatis-plus-mongo\out\production\classes\com\rxliuli\example\springbootmybatisplusmongo\repository\UserInfoLogRepository.class]] bound" />
       <item value="Caused by: org.springframework.beans.factory.support.BeanDefinitionOverrideException: Invalid bean definition with name 'userInfoLogRepository' defined in null" />
       <item value="2019-02-22 16:35:18 JRebel: ERROR Class 'net.bytebuddy.dynamic.loading.ClassInjector$UsingReflection' could not be processed by org.zeroturnaround.javarebel.integration.proxy.bytebuddy.ClassInjectorUsingCBP@null: org.zeroturnaround.bundled.javassist.NotFoundException: inject(..) is not found in net.bytebuddy.dynamic.loading.ClassInjector$UsingReflection" />
-      <item value="Caused by: org.h2.jdbc.JdbcSQLException: Unique index or primary key violation: &quot;PRIMARY KEY ON SPRING_BOOT_MYBATIS_PLUS_MONGO.USER_INFO(ID)&quot;; SQL statement:" />
-      <item value="create table user_info ( id bigint primary key not null comment '用户 id', name varchar(20) not null comment '名字', age tinyint not null comment '年龄', sex bool not null comment '性别' ) comment '用户表' [42001-197]" />
-      <item value="Caused by: org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement &quot;CREATE DATABASE[*] SPRING_BOOT_MYBATIS_PLUS_MONGO &quot;; expected &quot;OR, FORCE, VIEW, ALIAS, SEQUENCE, USER, TRIGGER, ROLE, SCHEMA, CONSTANT, DOMAIN, TYPE, DATATYPE, AGGREGATE, LINKED, MEMORY, CACHED, LOCAL, GLOBAL, TEMP, TEMPORARY, TABLE, SYNONYM, PRIMARY, UNIQUE, HASH, SPATIAL, INDEX&quot;; SQL statement:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="732" />
-        <entry key="ENGLISH" value="733" />
+        <entry key="CHINESE" value="735" />
+        <entry key="ENGLISH" value="736" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
