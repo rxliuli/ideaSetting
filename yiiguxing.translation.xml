@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="base house shold info" />
       <item value="No underlying data query instruction type of type %d found" />
       <item value="found" />
       <item value="没有找到类型为 %d 的基础数据查询指令类型" />
@@ -50,12 +51,11 @@
       <item value="java.lang.AssertionError: Expecting actual not to be empty" />
       <item value="org.springframework.data.repository.query.ParameterOutOfBoundsException: Invalid parameter index! You seem to have declared too little query method parameters!" />
       <item value="Greater Than Equal" />
-      <item value="find User Info Log By User Id Equals And Log Time Greater Than Equal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="745" />
-        <entry key="ENGLISH" value="746" />
+        <entry key="CHINESE" value="746" />
+        <entry key="ENGLISH" value="747" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
