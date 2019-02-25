@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Idc Info Manage" />
+      <item value="Code List Service" />
       <item value="No corresponding converter found" />
       <item value="get Instance" />
       <item value="Screaming" />
@@ -49,13 +51,11 @@
       <item value="Annotation to activate MongoDB repositories. If no base package is configured through either {@link #value()}, * {@link #basePackages()} or {@link #basePackageClasses()} it will trigger scanning of the package of annotated class." />
       <item value="Enable Mongo Repositories" />
       <item value="defined in file [D:\Text\spring-boot\spring-boot-mybatis-plus-mongo\out\production\classes\com\rxliuli\example\springbootmybatisplusmongo\repository\UserInfoLogRepository.class]] bound" />
-      <item value="Caused by: org.springframework.beans.factory.support.BeanDefinitionOverrideException: Invalid bean definition with name 'userInfoLogRepository' defined in null" />
-      <item value="2019-02-22 16:35:18 JRebel: ERROR Class 'net.bytebuddy.dynamic.loading.ClassInjector$UsingReflection' could not be processed by org.zeroturnaround.javarebel.integration.proxy.bytebuddy.ClassInjectorUsingCBP@null: org.zeroturnaround.bundled.javassist.NotFoundException: inject(..) is not found in net.bytebuddy.dynamic.loading.ClassInjector$UsingReflection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="735" />
-        <entry key="ENGLISH" value="736" />
+        <entry key="CHINESE" value="737" />
+        <entry key="ENGLISH" value="738" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
