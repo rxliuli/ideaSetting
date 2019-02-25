@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Preserving stability for {@code distinct()} in parallel pipelines is * relatively expensive (requires that the operation act as a full barrier, * with substantial buffering overhead), and stability is often not needed. * Using an unordered stream source (such as {@link #generate(Supplier)}) * or removing the ordering constraint with {@link #unordered()} may result * in significantly more efficient execution for {@code distinct()} in parallel * pipelines, if the semantics of your situation permit. If consistency * with encounter order is required, and you are experiencing poor performance * or memory utilization with {@code distinct()} in parallel pipelines, * switching to sequential execution with {@link #sequential()} may improve * performance." />
+      <item value="For ordered streams, the selection of distinct elements is stable * (for duplicated elements, the element appearing first in the encounter * order is preserved.) For unordered streams, no stability guarantees * are made." />
+      <item value="Returns a stream consisting of the distinct elements (according to * {@link Object#equals(Object)}) of this stream." />
+      <item value="distinct" />
       <item value="上报" />
       <item value="nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'insAccesslogQueryMapper' defined in file" />
       <item value="Unsatisfied dependency expressed through field 'iInsAccesslogQueryService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException" />
@@ -47,15 +51,11 @@
       <item value="Creates a criterion using the {@literal $ne} operator." />
       <item value="last Operator Was Not" />
       <item value="Static factory method to create a Criteria using the provided key" />
-      <item value="Takes a MongoDB JSON string to define the actual query to be executed. This one will take precedence over the * method name then." />
-      <item value="akes a MongoDB JSON string to define the actual query to be executed. This one will take precedence over the * method name then." />
-      <item value="Defines the fields that should be returned for the given query. Note that only these fields will make it into the * domain object returned." />
-      <item value="Returns a copy of this {@link ExampleMatcher} with the specified {@code propertyPaths}. This instance is immutable * and unaffected by this method call." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="749" />
-        <entry key="ENGLISH" value="749" />
+        <entry key="CHINESE" value="753" />
+        <entry key="ENGLISH" value="754" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
