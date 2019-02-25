@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Return the contained value, if present, otherwise throw an exception * to be created by the provided supplier." />
       <item value="Basic Data Monitor Error" />
       <item value="Basic Data Monitor Abnormalities" />
       <item value="监测异常" />
@@ -50,12 +51,11 @@
       <item value="Constant for default style pattern. Its value is MEDIUM." />
       <item value="Caused by: java.lang.IllegalArgumentException: Illegal pattern character 'T'" />
       <item value="Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Handler dispatch failed; nested exception is java.lang.ExceptionInInitializerError] with root cause" />
-      <item value="Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Handler dispatch failed; nested exception is java.lang.NoClassDefFoundError: Could not initialize class com.rxliuli.example.springbootmybatisplusmongo.util.JsonUtil] with root cause" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="739" />
-        <entry key="ENGLISH" value="740" />
+        <entry key="CHINESE" value="740" />
+        <entry key="ENGLISH" value="741" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
