@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'insAccesslogQueryMapper' defined in file" />
+      <item value="Unsatisfied dependency expressed through field 'iInsAccesslogQueryService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException" />
       <item value="base house shold info" />
       <item value="No underlying data query instruction type of type %d found" />
       <item value="found" />
@@ -49,13 +51,11 @@
       <item value="Defines the fields that should be returned for the given query. Note that only these fields will make it into the * domain object returned." />
       <item value="Returns a copy of this {@link ExampleMatcher} with the specified {@code propertyPaths}. This instance is immutable * and unaffected by this method call." />
       <item value="java.lang.AssertionError: Expecting actual not to be empty" />
-      <item value="org.springframework.data.repository.query.ParameterOutOfBoundsException: Invalid parameter index! You seem to have declared too little query method parameters!" />
-      <item value="Greater Than Equal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="746" />
-        <entry key="ENGLISH" value="747" />
+        <entry key="CHINESE" value="748" />
+        <entry key="ENGLISH" value="749" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
