@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Tests if this input stream supports the &lt;code&gt;mark&lt;/code&gt; and * &lt;code&gt;reset&lt;/code&gt; methods. Whether or not &lt;code&gt;mark&lt;/code&gt; and * &lt;code&gt;reset&lt;/code&gt; are supported is an invariant property of a * particular input stream instance. The &lt;code&gt;markSupported&lt;/code&gt; method * of &lt;code&gt;InputStream&lt;/code&gt; returns &lt;code&gt;false&lt;/code&gt;." />
+      <item value="mark Supported" />
+      <item value="Pipe closed" />
+      <item value="File does not exist" />
       <item value="Put file failed" />
       <item value="(The system cannot find the file specified)" />
       <item value="Returns the integer value of the reply code of the last FTP reply. * You will usually only use this method after you connect to the * FTP server to check that the connection was successful since * &lt;code&gt; connect &lt;/code&gt; is of type void." />
@@ -47,15 +51,11 @@
       <item value="Screaming" />
       <item value="Concurrent Skip List Set" />
       <item value="没有找到相应的转换器" />
-      <item value="com.mongodb.MongoSocketOpenException: Exception opening socket" />
-      <item value="implementation that obtains an already available value." />
-      <item value="Creates a 'nor' criteria using the $nor operator for all of the provided criteria. * &lt;p&gt; * Note that mongodb doesn't support an $nor operator to be wrapped in a $not operator. * &lt;p&gt; *" />
-      <item value="Creates a 'nor' criteria using the $nor operator for all of the provided criteria. * &lt;p&gt; * Note" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="779" />
-        <entry key="ENGLISH" value="781" />
+        <entry key="CHINESE" value="783" />
+        <entry key="ENGLISH" value="785" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
