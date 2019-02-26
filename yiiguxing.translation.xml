@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="connection is closed by foreign host" />
+      <item value="sftp get operation failed: {}" />
       <item value="小于" />
       <item value="If not already completed, completes this CompletableFuture with * a {@link CancellationException}. Dependent CompletableFutures * that have not already completed will also complete * exceptionally, with a {@link CompletionException} caused by * this {@code CancellationException}." />
       <item value="this value has no effect in this * implementation because interrupts are not used to control * processing." />
@@ -49,13 +51,11 @@
       <item value="Creates an 'and' criteria using the $and operator for all of the provided criteria. * &lt;p&gt; * Note that mongodb doesn't support an $and operator to be wrapped in a $not operator. * &lt;p&gt;" />
       <item value="Creates a criterion using the {@literal $elemMatch} operator" />
       <item value="Creates a 'nor' criteria using the $nor operator for all of the provided criteria. * &lt;p&gt; * Note that mongodb doesn't support an $nor operator to be wrapped in a $not operator. * &lt;p&gt;" />
-      <item value="nor Operator" />
-      <item value="Criteria" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="773" />
-        <entry key="ENGLISH" value="773" />
+        <entry key="CHINESE" value="774" />
+        <entry key="ENGLISH" value="775" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
