@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If not already completed, completes this CompletableFuture with * a {@link CancellationException}. Dependent CompletableFutures * that have not already completed will also complete * exceptionally, with a {@link CompletionException} caused by * this {@code CancellationException}." />
+      <item value="this value has no effect in this * implementation because interrupts are not used to control * processing." />
+      <item value="现在的时间" />
+      <item value="循环中" />
+      <item value="before" />
+      <item value="completed" />
+      <item value="while' statement cannot complete without throwing an exception less... (Ctrl+F1) Reports for, while, or do statements which can only exit by throwing an exception. While such statements may be correct, they are often a symptom of coding errors" />
       <item value="Caused by: org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'ew' in 'class com.zx.idc.ds.base.cus.entity.BaseCustomer'" />
       <item value="Cause: org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'ew' in 'class com.zx.idc.ds.base.cus.entity.BaseCustomer'" />
       <item value="Error querying database. Cause: org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'ew' in 'class com.zx.idc.ds.base.cus.entity.BaseCustomer'" />
@@ -44,18 +51,11 @@
       <item value="nor Operator" />
       <item value="Criteria" />
       <item value="Creates an 'or' criteria using the $or operator for all of the provided criteria * &lt;p&gt; * Note that mongodb doesn't support an $or operator to be wrapped in a $not operator. * &lt;p&gt;" />
-      <item value="Creates an 'or' criteria using the $or operator for all of the provided criteria * &lt;p&gt;" />
-      <item value="max Distance" />
-      <item value="Creates a geospatial criterion using a {@literal $near} operation." />
-      <item value="* Creates a geospatial criterion using a {@literal $geoWithin $centerSphere} operation. This is only available for * Mongo 2.4 and higher." />
-      <item value="Creates a criterion using the {@literal $not} meta operator which affects the clause directly following" />
-      <item value="reates a criterion using the {@literal $type} operator." />
-      <item value="Creates a criterion using the {@literal $type} operator." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="760" />
-        <entry key="ENGLISH" value="761" />
+        <entry key="CHINESE" value="772" />
+        <entry key="ENGLISH" value="773" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
