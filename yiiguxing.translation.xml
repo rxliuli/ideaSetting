@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Deprecated" />
+      <item value="critical" />
+      <item value="你没有配置文件监听器" />
       <item value="await Termination" />
       <item value="condition" />
       <item value="条件" />
@@ -48,14 +51,11 @@
       <item value="underline To Camel 2" />
       <item value="Sys Domain Category" />
       <item value="Sys Domain Catetry" />
-      <item value="Sys Domain Catetory" />
-      <item value="slabel" />
-      <item value="permission" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="235" />
-        <entry key="ENGLISH" value="236" />
+        <entry key="CHINESE" value="237" />
+        <entry key="ENGLISH" value="238" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CORSICAN" value="20" />
