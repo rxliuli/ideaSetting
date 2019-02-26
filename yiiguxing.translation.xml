@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Company" />
+      <item value="Base Oper Company" />
+      <item value="hold" />
+      <item value="Shold" />
+      <item value="人员信息" />
       <item value="get Bound Sql" />
       <item value="Cause: org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'ew' in 'class com.zx.idc.ds.base.cus.entity.BaseCustomer'" />
       <item value="Tests if this input stream supports the &lt;code&gt;mark&lt;/code&gt; and * &lt;code&gt;reset&lt;/code&gt; methods. Whether or not &lt;code&gt;mark&lt;/code&gt; and * &lt;code&gt;reset&lt;/code&gt; are supported is an invariant property of a * particular input stream instance. The &lt;code&gt;markSupported&lt;/code&gt; method * of &lt;code&gt;InputStream&lt;/code&gt; returns &lt;code&gt;false&lt;/code&gt;." />
@@ -46,16 +51,11 @@
       <item value="Basic Data Monitor Abnormalities" />
       <item value="监测异常" />
       <item value="Idc Info Manage" />
-      <item value="Code List Service" />
-      <item value="No corresponding converter found" />
-      <item value="get Instance" />
-      <item value="Screaming" />
-      <item value="Concurrent Skip List Set" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="785" />
-        <entry key="ENGLISH" value="787" />
+        <entry key="CHINESE" value="789" />
+        <entry key="ENGLISH" value="790" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
