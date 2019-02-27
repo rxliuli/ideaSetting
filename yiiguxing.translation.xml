@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="监听目录变化调度任务发生异常" />
+      <item value="Failed to instantiate [com.zx.idc.common.ftp.FtpOperator]: Factory method 'sftpOperator' threw exception; nested exception is java.lang.RuntimeException: 2: File does not exist" />
+      <item value="File does not exist" />
       <item value="oper Name" />
       <item value="company Corporation" />
       <item value="sql Select" />
@@ -14,7 +17,6 @@
       <item value="Tests if this input stream supports the &lt;code&gt;mark&lt;/code&gt; and * &lt;code&gt;reset&lt;/code&gt; methods. Whether or not &lt;code&gt;mark&lt;/code&gt; and * &lt;code&gt;reset&lt;/code&gt; are supported is an invariant property of a * particular input stream instance. The &lt;code&gt;markSupported&lt;/code&gt; method * of &lt;code&gt;InputStream&lt;/code&gt; returns &lt;code&gt;false&lt;/code&gt;." />
       <item value="mark Supported" />
       <item value="Pipe closed" />
-      <item value="File does not exist" />
       <item value="Put file failed" />
       <item value="(The system cannot find the file specified)" />
       <item value="Returns the integer value of the reply code of the last FTP reply. * You will usually only use this method after you connect to the * FTP server to check that the connection was successful since * &lt;code&gt; connect &lt;/code&gt; is of type void." />
@@ -49,13 +51,11 @@
       <item value="java.lang.ClassCastException: sun.reflect.generics.reflectiveObjects.TypeVariableImpl cannot be cast to java.lang.Class" />
       <item value="get Generic Superclass" />
       <item value="get Type Params" />
-      <item value="Return the contained value, if present, otherwise throw an exception * to be created by the provided supplier." />
-      <item value="Basic Data Monitor Error" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="792" />
-        <entry key="ENGLISH" value="793" />
+        <entry key="CHINESE" value="795" />
+        <entry key="ENGLISH" value="795" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
