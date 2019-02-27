@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="override" />
+      <item value="same" />
       <item value="oper Name" />
       <item value="Corporation" />
       <item value="Corp" />
@@ -49,13 +51,11 @@
       <item value="Unsatisfied dependency expressed through field 'iInsAccesslogQueryService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException" />
       <item value="base house shold info" />
       <item value="No underlying data query instruction type of type %d found" />
-      <item value="found" />
-      <item value="没有找到类型为 %d 的基础数据查询指令类型" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="801" />
-        <entry key="ENGLISH" value="802" />
+        <entry key="CHINESE" value="803" />
+        <entry key="ENGLISH" value="804" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
