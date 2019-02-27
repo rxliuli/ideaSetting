@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="gender" />
+      <item value="职务" />
+      <item value="薪水" />
+      <item value="grade" />
+      <item value="老师" />
+      <item value="员工" />
+      <item value="Employ" />
       <item value="override" />
       <item value="same" />
       <item value="oper Name" />
@@ -44,18 +51,11 @@
       <item value="Caused by: org.apache.ibatis.exceptions.PersistenceException: ### Error querying database. Cause: org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'ew' in 'class com.zx.idc.ds.base.cus.entity.BaseCustomer'" />
       <item value="Preserving stability for {@code distinct()} in parallel pipelines is * relatively expensive (requires that the operation act as a full barrier, * with substantial buffering overhead), and stability is often not needed. * Using an unordered stream source (such as {@link #generate(Supplier)}) * or removing the ordering constraint with {@link #unordered()} may result * in significantly more efficient execution for {@code distinct()} in parallel * pipelines, if the semantics of your situation permit. If consistency * with encounter order is required, and you are experiencing poor performance * or memory utilization with {@code distinct()} in parallel pipelines, * switching to sequential execution with {@link #sequential()} may improve * performance." />
       <item value="For ordered streams, the selection of distinct elements is stable * (for duplicated elements, the element appearing first in the encounter * order is preserved.) For unordered streams, no stability guarantees * are made." />
-      <item value="Returns a stream consisting of the distinct elements (according to * {@link Object#equals(Object)}) of this stream." />
-      <item value="distinct" />
-      <item value="上报" />
-      <item value="nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'insAccesslogQueryMapper' defined in file" />
-      <item value="Unsatisfied dependency expressed through field 'iInsAccesslogQueryService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException" />
-      <item value="base house shold info" />
-      <item value="No underlying data query instruction type of type %d found" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="803" />
-        <entry key="ENGLISH" value="804" />
+        <entry key="CHINESE" value="808" />
+        <entry key="ENGLISH" value="809" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
