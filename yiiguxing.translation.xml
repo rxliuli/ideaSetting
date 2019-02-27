@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get All Declared Field" />
       <item value="gender" />
       <item value="职务" />
       <item value="薪水" />
@@ -50,12 +51,11 @@
       <item value="Error: Cannot execute insertBatch Method. Cause" />
       <item value="Caused by: org.apache.ibatis.exceptions.PersistenceException: ### Error querying database. Cause: org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'ew' in 'class com.zx.idc.ds.base.cus.entity.BaseCustomer'" />
       <item value="Preserving stability for {@code distinct()} in parallel pipelines is * relatively expensive (requires that the operation act as a full barrier, * with substantial buffering overhead), and stability is often not needed. * Using an unordered stream source (such as {@link #generate(Supplier)}) * or removing the ordering constraint with {@link #unordered()} may result * in significantly more efficient execution for {@code distinct()} in parallel * pipelines, if the semantics of your situation permit. If consistency * with encounter order is required, and you are experiencing poor performance * or memory utilization with {@code distinct()} in parallel pipelines, * switching to sequential execution with {@link #sequential()} may improve * performance." />
-      <item value="For ordered streams, the selection of distinct elements is stable * (for duplicated elements, the element appearing first in the encounter * order is preserved.) For unordered streams, no stability guarantees * are made." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="808" />
-        <entry key="ENGLISH" value="809" />
+        <entry key="CHINESE" value="809" />
+        <entry key="ENGLISH" value="810" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
