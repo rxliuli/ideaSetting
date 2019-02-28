@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Stream Source" />
+      <item value="If the system property * &lt;code&gt;&quot;javax.xml.validation.SchemaFactory:&lt;i&gt;schemaLanguage&lt;/i&gt;&quot;&lt;/code&gt; * is present (where &lt;i&gt;schemaLanguage&lt;/i&gt; is the parameter * to this method), then its value is read * as a class name. The method will try to * create a new instance of this class by using the class loader, * and returns it if it is successfully created." />
+      <item value="Specifies the schema language which the returned * SchemaFactory will understand. See * &lt;a href=&quot;#schemaLanguage&quot;&gt;the list of available * schema languages&lt;/a&gt; for the possible values." />
       <item value="Officer" />
       <item value="java.lang.UnsupportedClassVersionError: org/joor/Reflect has been compiled by a more recent version of the Java Runtime (class file version 53.0), this version of the Java Runtime only recognizes class file versions up to 52.0" />
       <item value="get All Declared Field" />
@@ -48,14 +51,11 @@
       <item value="while' statement cannot complete without throwing an exception less... (Ctrl+F1) Reports for, while, or do statements which can only exit by throwing an exception. While such statements may be correct, they are often a symptom of coding errors" />
       <item value="Caused by: org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'ew' in 'class com.zx.idc.ds.base.cus.entity.BaseCustomer'" />
       <item value="Error querying database. Cause: org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'ew' in 'class com.zx.idc.ds.base.cus.entity.BaseCustomer'" />
-      <item value="Persistence Exception" />
-      <item value="Caused by: org.apache.ibatis.exceptions.PersistenceException:" />
-      <item value="Error: Cannot execute insertBatch Method. Cause" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="811" />
-        <entry key="ENGLISH" value="812" />
+        <entry key="CHINESE" value="814" />
+        <entry key="ENGLISH" value="815" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
