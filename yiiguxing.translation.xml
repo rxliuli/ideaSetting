@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Officer" />
       <item value="java.lang.UnsupportedClassVersionError: org/joor/Reflect has been compiled by a more recent version of the Java Runtime (class file version 53.0), this version of the Java Runtime only recognizes class file versions up to 52.0" />
       <item value="get All Declared Field" />
       <item value="gender" />
@@ -50,12 +51,11 @@
       <item value="Persistence Exception" />
       <item value="Caused by: org.apache.ibatis.exceptions.PersistenceException:" />
       <item value="Error: Cannot execute insertBatch Method. Cause" />
-      <item value="Caused by: org.apache.ibatis.exceptions.PersistenceException: ### Error querying database. Cause: org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'ew' in 'class com.zx.idc.ds.base.cus.entity.BaseCustomer'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="810" />
-        <entry key="ENGLISH" value="811" />
+        <entry key="CHINESE" value="811" />
+        <entry key="ENGLISH" value="812" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
