@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You don't have a profile listener" />
       <item value="base House Link Info List" />
       <item value="base House Info List" />
       <item value="already Reported" />
@@ -50,12 +51,11 @@
       <item value="Shold" />
       <item value="人员信息" />
       <item value="get Bound Sql" />
-      <item value="Cause: org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'ew' in 'class com.zx.idc.ds.base.cus.entity.BaseCustomer'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="831" />
-        <entry key="ENGLISH" value="832" />
+        <entry key="CHINESE" value="832" />
+        <entry key="ENGLISH" value="833" />
         <entry key="BULGARIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
