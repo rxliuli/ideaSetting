@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="处理中" />
+      <item value="Processing" />
+      <item value="other Exception Of Processing" />
+      <item value="other Exception Of Reupload" />
+      <item value="file Content Exception Of Node Missing" />
+      <item value="缺漏" />
+      <item value="file Content Exception Of Node Type" />
+      <item value="文件格式异常" />
+      <item value="file Uncompression" />
+      <item value="文件解压缩失败" />
+      <item value="file Decryption Failed" />
+      <item value="文件解密失败" />
+      <item value="completed" />
+      <item value="coompleted" />
+      <item value="coomplete" />
       <item value="then Run Async" />
       <item value="Failed to report data using ftp" />
       <item value="使用 ftp 上报数据失败" />
@@ -36,26 +51,11 @@
       <item value="grade" />
       <item value="老师" />
       <item value="员工" />
-      <item value="Employ" />
-      <item value="override" />
-      <item value="same" />
-      <item value="oper Name" />
-      <item value="Corporation" />
-      <item value="Corp" />
-      <item value="company Corporation" />
-      <item value="n" />
-      <item value="监听目录变化调度任务发生异常" />
-      <item value="Failed to instantiate [com.zx.idc.common.ftp.FtpOperator]: Factory method 'sftpOperator' threw exception; nested exception is java.lang.RuntimeException: 2: File does not exist" />
-      <item value="File does not exist" />
-      <item value="sql Select" />
-      <item value="Company" />
-      <item value="Base Oper Company" />
-      <item value="hold" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="834" />
-        <entry key="ENGLISH" value="835" />
+        <entry key="CHINESE" value="846" />
+        <entry key="ENGLISH" value="846" />
         <entry key="BULGARIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
