@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to report data using ftp" />
+      <item value="使用 ftp 上报数据失败" />
       <item value="You don't have a profile listener" />
       <item value="base House Link Info List" />
       <item value="base House Info List" />
@@ -49,13 +51,11 @@
       <item value="Base Oper Company" />
       <item value="hold" />
       <item value="Shold" />
-      <item value="人员信息" />
-      <item value="get Bound Sql" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="832" />
-        <entry key="ENGLISH" value="833" />
+        <entry key="CHINESE" value="833" />
+        <entry key="ENGLISH" value="834" />
         <entry key="BULGARIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
