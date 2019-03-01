@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="already Reported" />
+      <item value="已经" />
+      <item value="未上报" />
       <item value="删除已上报的数据失败" />
       <item value="set Report Status" />
       <item value="active Reporting" />
@@ -48,14 +51,11 @@
       <item value="Cause: org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'ew' in 'class com.zx.idc.ds.base.cus.entity.BaseCustomer'" />
       <item value="Tests if this input stream supports the &lt;code&gt;mark&lt;/code&gt; and * &lt;code&gt;reset&lt;/code&gt; methods. Whether or not &lt;code&gt;mark&lt;/code&gt; and * &lt;code&gt;reset&lt;/code&gt; are supported is an invariant property of a * particular input stream instance. The &lt;code&gt;markSupported&lt;/code&gt; method * of &lt;code&gt;InputStream&lt;/code&gt; returns &lt;code&gt;false&lt;/code&gt;." />
       <item value="mark Supported" />
-      <item value="Pipe closed" />
-      <item value="Put file failed" />
-      <item value="(The system cannot find the file specified)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="826" />
-        <entry key="ENGLISH" value="826" />
+        <entry key="CHINESE" value="829" />
+        <entry key="ENGLISH" value="830" />
         <entry key="BULGARIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
