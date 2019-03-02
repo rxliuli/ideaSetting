@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Caught exception while allowing TestExecutionListener [org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@5cee5251] to prepare test instance [com.zx.idc.common.ftp.FtpSpringConfigTest@c267ef4]" />
+      <item value="java.lang.IllegalStateException: Failed to load ApplicationContext" />
+      <item value="channel is not opened." />
+      <item value="Caused by: java.lang.RuntimeException: com.jcraft.jsch.JSchException: channel is not opened." />
       <item value="count Down" />
       <item value="Count Down Latch" />
       <item value="java.lang.AssertionError: time outfailed with exception(s)[java.lang.InterruptedException" />
@@ -25,7 +29,6 @@
       <item value="Bounded Blocking Pool" />
       <item value="invalidate" />
       <item value="org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under 'logging.level' to java.util.Map&lt;java.lang.String, java.lang.String&gt;" />
-      <item value="Caught exception while allowing TestExecutionListener [org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@5cee5251] to prepare test instance [com.zx.idc.common.ftp.FtpSpringConfigTest@c267ef4]" />
       <item value="Initial Bean sftpOperator failed, basic ftp client config is null!" />
       <item value="Failed to load ApplicationContext" />
       <item value="处理中" />
@@ -48,14 +51,11 @@
       <item value="使用 ftp 上报数据失败" />
       <item value="You don't have a profile listener" />
       <item value="base House Link Info List" />
-      <item value="base House Info List" />
-      <item value="already Reported" />
-      <item value="已经" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="876" />
-        <entry key="ENGLISH" value="877" />
+        <entry key="CHINESE" value="880" />
+        <entry key="ENGLISH" value="881" />
         <entry key="BULGARIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
