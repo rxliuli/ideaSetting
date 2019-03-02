@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="shutdown Called" />
+      <item value="volatile" />
+      <item value="Bounded Blocking Pool" />
+      <item value="invalidate" />
       <item value="org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under 'logging.level' to java.util.Map&lt;java.lang.String, java.lang.String&gt;" />
       <item value="Caught exception while allowing TestExecutionListener [org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@5cee5251] to prepare test instance [com.zx.idc.common.ftp.FtpSpringConfigTest@c267ef4]" />
       <item value="Initial Bean sftpOperator failed, basic ftp client config is null!" />
@@ -47,15 +51,11 @@
       <item value="If the system property * &lt;code&gt;&quot;javax.xml.validation.SchemaFactory:&lt;i&gt;schemaLanguage&lt;/i&gt;&quot;&lt;/code&gt; * is present (where &lt;i&gt;schemaLanguage&lt;/i&gt; is the parameter * to this method), then its value is read * as a class name. The method will try to * create a new instance of this class by using the class loader, * and returns it if it is successfully created." />
       <item value="Specifies the schema language which the returned * SchemaFactory will understand. See * &lt;a href=&quot;#schemaLanguage&quot;&gt;the list of available * schema languages&lt;/a&gt; for the possible values." />
       <item value="Officer" />
-      <item value="java.lang.UnsupportedClassVersionError: org/joor/Reflect has been compiled by a more recent version of the Java Runtime (class file version 53.0), this version of the Java Runtime only recognizes class file versions up to 52.0" />
-      <item value="get All Declared Field" />
-      <item value="gender" />
-      <item value="职务" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="849" />
-        <entry key="ENGLISH" value="850" />
+        <entry key="CHINESE" value="855" />
+        <entry key="ENGLISH" value="856" />
         <entry key="BULGARIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
