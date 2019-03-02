@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under 'logging.level' to java.util.Map&lt;java.lang.String, java.lang.String&gt;" />
+      <item value="Caught exception while allowing TestExecutionListener [org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@5cee5251] to prepare test instance [com.zx.idc.common.ftp.FtpSpringConfigTest@c267ef4]" />
       <item value="Initial Bean sftpOperator failed, basic ftp client config is null!" />
       <item value="Failed to load ApplicationContext" />
       <item value="处理中" />
@@ -49,13 +51,11 @@
       <item value="get All Declared Field" />
       <item value="gender" />
       <item value="职务" />
-      <item value="薪水" />
-      <item value="grade" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="847" />
-        <entry key="ENGLISH" value="848" />
+        <entry key="CHINESE" value="849" />
+        <entry key="ENGLISH" value="850" />
         <entry key="BULGARIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
