@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to load ApplicationContext" />
       <item value="处理中" />
       <item value="Processing" />
       <item value="other Exception Of Processing" />
@@ -50,12 +51,11 @@
       <item value="薪水" />
       <item value="grade" />
       <item value="老师" />
-      <item value="员工" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="846" />
-        <entry key="ENGLISH" value="846" />
+        <entry key="ENGLISH" value="847" />
         <entry key="BULGARIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
