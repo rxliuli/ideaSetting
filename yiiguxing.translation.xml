@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sftp session 不能为空" />
+      <item value="session don't is null" />
       <item value="is Closed" />
       <item value="is Connected" />
       <item value="disconnect" />
@@ -49,13 +51,11 @@
       <item value="主动上报" />
       <item value="report" />
       <item value="active Resources" />
-      <item value="report NA" />
-      <item value="get Deal Status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="868" />
-        <entry key="ENGLISH" value="869" />
+        <entry key="CHINESE" value="870" />
+        <entry key="ENGLISH" value="870" />
         <entry key="BULGARIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
