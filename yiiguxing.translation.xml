@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="count Down" />
+      <item value="Count Down Latch" />
       <item value="java.lang.AssertionError: time outfailed with exception(s)[java.lang.InterruptedException" />
       <item value="max Timeout Seconds" />
       <item value="max Thread Pool Size" />
@@ -49,13 +51,11 @@
       <item value="base House Info List" />
       <item value="already Reported" />
       <item value="已经" />
-      <item value="未上报" />
-      <item value="删除已上报的数据失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="874" />
-        <entry key="ENGLISH" value="875" />
+        <entry key="CHINESE" value="876" />
+        <entry key="ENGLISH" value="877" />
         <entry key="BULGARIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
