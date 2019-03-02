@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Closed" />
+      <item value="is Connected" />
+      <item value="disconnect" />
+      <item value="The object pool is shutdown" />
+      <item value="shutdown" />
+      <item value="对象池已经关闭了" />
+      <item value="对象池已经关掉了" />
+      <item value="poll" />
+      <item value="take" />
+      <item value="interrupt" />
       <item value="shutdown Called" />
       <item value="volatile" />
       <item value="Bounded Blocking Pool" />
@@ -41,21 +51,11 @@
       <item value="active Resources" />
       <item value="report NA" />
       <item value="get Deal Status" />
-      <item value="Bean named 'sftpOperator' is expected to be of type 'com.zx.idc.common.ftp.FtpOperator' but was actually of type 'org.springframework.beans.factory.support.NullBean'" />
-      <item value="ftp template initialize failed: {}" />
-      <item value="failed" />
-      <item value="initialize" />
-      <item value="Idc Officer" />
-      <item value="Emergency Contact" />
-      <item value="Stream Source" />
-      <item value="If the system property * &lt;code&gt;&quot;javax.xml.validation.SchemaFactory:&lt;i&gt;schemaLanguage&lt;/i&gt;&quot;&lt;/code&gt; * is present (where &lt;i&gt;schemaLanguage&lt;/i&gt; is the parameter * to this method), then its value is read * as a class name. The method will try to * create a new instance of this class by using the class loader, * and returns it if it is successfully created." />
-      <item value="Specifies the schema language which the returned * SchemaFactory will understand. See * &lt;a href=&quot;#schemaLanguage&quot;&gt;the list of available * schema languages&lt;/a&gt; for the possible values." />
-      <item value="Officer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="855" />
-        <entry key="ENGLISH" value="856" />
+        <entry key="CHINESE" value="868" />
+        <entry key="ENGLISH" value="869" />
         <entry key="BULGARIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
