@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="activating" />
+      <item value="激活activating" />
+      <item value="激活" />
+      <item value="activeting" />
+      <item value="initial Side Navigation" />
       <item value="Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateInputException: An error happened during template parsing (template: &quot;class path resource [templates//jianguanzhiling/admin_commandfilter.html]&quot; - line 61, col 25)] with root cause" />
       <item value="Error resolving template [/index2], template might not exist or might not be accessible by any of the configured Template Resolvers" />
       <item value="template might not exist or might not be accessible by any of the configured Template Resolvers" />
@@ -46,16 +51,11 @@
       <item value="file Content Exception Of Node Type" />
       <item value="文件格式异常" />
       <item value="file Uncompression" />
-      <item value="文件解压缩失败" />
-      <item value="file Decryption Failed" />
-      <item value="文件解密失败" />
-      <item value="completed" />
-      <item value="coompleted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="886" />
-        <entry key="ENGLISH" value="887" />
+        <entry key="CHINESE" value="889" />
+        <entry key="ENGLISH" value="890" />
         <entry key="BULGARIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
