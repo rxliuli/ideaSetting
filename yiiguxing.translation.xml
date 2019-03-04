@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="2019-03-04 11:04:18.151 ERROR 10680 --- [nio-8080-exec-3] o.a.c.c.C.[.[.[/].[dispatcherServlet] : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateInputException: An error happened during template parsing (template: &quot;class path resource [templates//jichushuju/admin_idcinfo.html]&quot;)] with root cause" />
+      <item value="side-navigation-bar" />
       <item value="Blocking Queue" />
       <item value="Caught exception while allowing TestExecutionListener [org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@5cee5251] to prepare test instance [com.zx.idc.common.ftp.FtpSpringConfigTest@c267ef4]" />
       <item value="java.lang.IllegalStateException: Failed to load ApplicationContext" />
@@ -49,13 +51,11 @@
       <item value="coomplete" />
       <item value="then Run Async" />
       <item value="Failed to report data using ftp" />
-      <item value="使用 ftp 上报数据失败" />
-      <item value="You don't have a profile listener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="881" />
-        <entry key="ENGLISH" value="882" />
+        <entry key="CHINESE" value="883" />
+        <entry key="ENGLISH" value="884" />
         <entry key="BULGARIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
