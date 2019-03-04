@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateInputException: An error happened during template parsing (template: &quot;class path resource [templates//jianguanzhiling/admin_commandfilter.html]&quot; - line 61, col 25)] with root cause" />
       <item value="Error resolving template [/index2], template might not exist or might not be accessible by any of the configured Template Resolvers" />
       <item value="template might not exist or might not be accessible by any of the configured Template Resolvers" />
       <item value="2019-03-04 11:04:18.151 ERROR 10680 --- [nio-8080-exec-3] o.a.c.c.C.[.[.[/].[dispatcherServlet] : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateInputException: An error happened during template parsing (template: &quot;class path resource [templates//jichushuju/admin_idcinfo.html]&quot;)] with root cause" />
@@ -50,12 +51,11 @@
       <item value="文件解密失败" />
       <item value="completed" />
       <item value="coompleted" />
-      <item value="coomplete" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="885" />
-        <entry key="ENGLISH" value="886" />
+        <entry key="CHINESE" value="886" />
+        <entry key="ENGLISH" value="887" />
         <entry key="BULGARIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
