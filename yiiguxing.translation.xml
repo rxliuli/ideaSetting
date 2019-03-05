@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="网络" />
+      <item value="interface" />
+      <item value="security" />
+      <item value="报表统计" />
+      <item value="非法监控" />
+      <item value="admin visitlog" />
+      <item value="monitor" />
+      <item value="监管指令" />
       <item value="The value may indicate a suggestion for a logical component name, * to be turned into a Spring bean in case of an autodetected component. * @return the suggested component name, if any (or empty String otherwise)" />
       <item value="r Secure Log Week" />
       <item value="registry" />
@@ -43,21 +51,14 @@
       <item value="disconnect" />
       <item value="The object pool is shutdown" />
       <item value="shutdown" />
-      <item value="对象池已经关闭了" />
-      <item value="对象池已经关掉了" />
-      <item value="poll" />
-      <item value="take" />
-      <item value="interrupt" />
-      <item value="shutdown Called" />
-      <item value="volatile" />
-      <item value="Bounded Blocking Pool" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="900" />
-        <entry key="ENGLISH" value="901" />
+        <entry key="CHINESE" value="907" />
+        <entry key="ENGLISH" value="907" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
+        <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
