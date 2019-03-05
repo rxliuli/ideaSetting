@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="maintlt" />
       <item value="protocol" />
       <item value="协议" />
       <item value="protocal" />
@@ -50,12 +51,12 @@
       <item value="other Exception Of Processing" />
       <item value="other Exception Of Reupload" />
       <item value="file Content Exception Of Node Missing" />
-      <item value="缺漏" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="891" />
+        <entry key="CHINESE" value="892" />
         <entry key="ENGLISH" value="892" />
+        <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
