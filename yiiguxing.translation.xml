@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="status Disable" />
       <item value="java.lang.AssertionError: Content type not set" />
       <item value="com.zx.idc.backend.gui.common.Result cannot be cast to com.zx.idc.ds.base.oper.entity.BaseOperCompany" />
       <item value="SELECT id AS id,idcId,operName,companyCorporation,securityOwner,emergencyContact,zipCode,address,createTime,updateTime,reportStatus FROM base_oper_company WHERE id='1102822666579853313'" />
@@ -50,12 +51,11 @@
       <item value="defined in class path resource [com/zx/idc/common/ftp/FtpSpringConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zx.idc.common.ftp.FtpOperator]: Factory method 'sftpOperator' threw exception; nested exception is java.lang.IllegalArgumentException: Sftp session cannot be null!" />
       <item value="sftp session 不能为空" />
       <item value="session don't is null" />
-      <item value="is Closed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="910" />
-        <entry key="ENGLISH" value="911" />
+        <entry key="CHINESE" value="911" />
+        <entry key="ENGLISH" value="912" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
