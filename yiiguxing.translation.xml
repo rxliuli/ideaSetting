@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="floor" />
       <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'companyCorporationName' in 'class com.zx.idc.ds.base.oper.vo.BaseOperCompanyVo'" />
       <item value="'idcId' not found. Available parameters are [entity, param1]" />
       <item value="security Owner Count" />
@@ -50,12 +51,11 @@
       <item value="激活activating" />
       <item value="激活" />
       <item value="activeting" />
-      <item value="initial Side Navigation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="929" />
-        <entry key="ENGLISH" value="930" />
+        <entry key="CHINESE" value="930" />
+        <entry key="ENGLISH" value="931" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
