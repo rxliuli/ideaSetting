@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="syntax" />
+      <item value="styntax" />
+      <item value="stynex" />
+      <item value="措辞错误" />
+      <item value="语法错误" />
+      <item value="语法" />
+      <item value="stynx" />
       <item value="security Owner Name" />
       <item value="floor" />
       <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'companyCorporationName' in 'class com.zx.idc.ds.base.oper.vo.BaseOperCompanyVo'" />
@@ -44,18 +51,11 @@
       <item value="An implementation of {@link WebMvcConfigurer} with empty methods allowing * subclasses to override only the methods they're interested in." />
       <item value="logging" />
       <item value="记录日志" />
-      <item value="maintlt" />
-      <item value="protocol" />
-      <item value="协议" />
-      <item value="protocal" />
-      <item value="activating" />
-      <item value="激活activating" />
-      <item value="激活" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="931" />
-        <entry key="ENGLISH" value="932" />
+        <entry key="CHINESE" value="937" />
+        <entry key="ENGLISH" value="938" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
