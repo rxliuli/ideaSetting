@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sheet" />
       <item value="trigger" />
       <item value="trgger" />
       <item value="Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateInputException: An error happened during template parsing (template: &quot;class path resource [templates/index.html]&quot;)] with root cause" />
@@ -50,12 +51,11 @@
       <item value="pre Handle" />
       <item value="status Disable" />
       <item value="java.lang.AssertionError: Content type not set" />
-      <item value="com.zx.idc.backend.gui.common.Result cannot be cast to com.zx.idc.ds.base.oper.entity.BaseOperCompany" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="954" />
-        <entry key="ENGLISH" value="955" />
+        <entry key="CHINESE" value="955" />
+        <entry key="ENGLISH" value="956" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
