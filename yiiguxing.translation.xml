@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="java.lang.NoSuchMethodException: java.util.List.&lt;init&gt;()" />
       <item value="Symbol" />
       <item value="The layout:decorator/data-layout-decorator processor has been deprecated and will be removed in the next major version of the layout dialect. Please use layout:decorate/data-layout-decorate instead to future-proof your code. See https://github.com/ultraq/thymeleaf-layout-dialect/issues/95 for more information." />
       <item value="Sheet" />
@@ -50,12 +51,11 @@
       <item value="nested exception is java.io.IOException: org.apache.tomcat.util.http.fileupload.FileUploadException: the request was rejected because no multipart boundary was found] with root cause" />
       <item value="exclude Path Patterns" />
       <item value="Intercept the execution of a handler. Called after HandlerMapping determined * an appropriate handler object, but before HandlerAdapter invokes the handler. * &lt;p&gt;DispatcherServlet processes a handler in an execution chain, consisting * of any number of interceptors, with the handler itself at the end. * With this method, each interceptor can decide to abort the execution chain, * typically sending a HTTP error or writing a custom response. * &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; special considerations apply for asynchronous * request processing. For more details see" />
-      <item value="pre Handle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="957" />
-        <entry key="ENGLISH" value="958" />
+        <entry key="CHINESE" value="958" />
+        <entry key="ENGLISH" value="959" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
