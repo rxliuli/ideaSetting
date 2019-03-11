@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interfaceConfiguration' depends on missing bean 'initialConfig'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'initialConfig' available" />
       <item value="Interface to be implemented by any object that wishes to be notified * of the {@link ApplicationContext} that it runs in. * * &lt;p&gt;Implementing this interface makes sense for example when an object * requires access to a set of collaborating beans. Note that configuration * via bean references is preferable to implementing this interface just * for bean lookup purposes." />
       <item value="Set the ApplicationContext that this object runs in. * Normally this call will be used to initialize the object. * &lt;p&gt;Invoked after population of normal bean properties but before an init callback such" />
       <item value="get Generic Class Service" />
@@ -50,12 +51,11 @@
       <item value="java.lang.NoSuchMethodError: com.zx.idc.backend.gui.base.oper.BaseOperCompanyController.page(Lcom/baomidou/mybatisplus/plugins/Page;)Lcom/zx/idc/backend/gui/common/Result; at com.zeroturnaround.jrebelbase.facade.s.throwWrappedNoSuchMethodError(SourceFile:171) ~[na:201807040958]" />
       <item value=": Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.web.multipart.MultipartException: Failed to parse multipart servlet request; nested exception is java.io.IOException: The temporary upload location [C:\Users\rxliuli\AppData\Local\Temp\tomcat.1938809054210500723.8080\work\Tomcat\localhost\ROOT] is not valid] with root cause" />
       <item value="search Condition Show" />
-      <item value="form" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="962" />
-        <entry key="ENGLISH" value="963" />
+        <entry key="CHINESE" value="963" />
+        <entry key="ENGLISH" value="964" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
