@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&lt;p&gt;If the superclass is a parameterized type, the {@code Type} * object returned must accurately reflect the actual type * parameters used in the source code. The parameterized type * representing the superclass is created if it had not been * created before. See the declaration of {@link * java.lang.reflect.ParameterizedType ParameterizedType} for the * semantics of the creation process for parameterized types. If * this {@code Class} represents either the {@code Object} * class, an interface, a primitive type, or void, then null is * returned. If this object represents an array class then the * {@code Class} object representing the {@code Object} class is * returned." />
+      <item value="Returns the {@code Type} representing the direct superclass of * the entity (class, interface, primitive type or void) represented by * this {@code Class}." />
+      <item value="Returns the {@code Class} representing the superclass of the entity * (class, interface, primitive type or void) represented by this * {@code Class}. If this {@code Class} represents either the * {@code Object} class, an interface, a primitive type, or void, then * null is returned. If this object represents an array class then the * {@code Class} object representing the {@code Object} class is" />
       <item value="递归" />
       <item value="java.lang.AssertionError: JSON path &quot;$.data&quot; Expected :true&#10;Actual :false" />
       <item value="java.lang.AssertionError: Expecting actual not to be null" />
@@ -48,14 +51,11 @@
       <item value="security Owner Count" />
       <item value="Monitor" />
       <item value="base Monitor Device Count Map" />
-      <item value="org.assertj.core.util.introspection.IntrospectionError: Can't find any field or property with name 'startTime'." />
-      <item value="is Equal To Ignoring Null Fields" />
-      <item value="Slog Abnormal Ip" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="969" />
-        <entry key="ENGLISH" value="969" />
+        <entry key="CHINESE" value="971" />
+        <entry key="ENGLISH" value="972" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
