@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="递归" />
+      <item value="java.lang.AssertionError: JSON path &quot;$.data&quot; Expected :true&#10;Actual :false" />
       <item value="java.lang.AssertionError: Expecting actual not to be null" />
       <item value="No mapping found for HTTP request with URI [/api/baseOperCompany/1102822666579853313] in DispatcherServlet with name ''" />
       <item value="java.lang.AssertionError: Content type not set" />
@@ -49,13 +51,11 @@
       <item value="org.assertj.core.util.introspection.IntrospectionError: Can't find any field or property with name 'startTime'." />
       <item value="is Equal To Ignoring Null Fields" />
       <item value="Slog Abnormal Ip" />
-      <item value="Abnormal" />
-      <item value="Slog Abnor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="967" />
-        <entry key="ENGLISH" value="968" />
+        <entry key="CHINESE" value="969" />
+        <entry key="ENGLISH" value="969" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
