@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field &quot;pages&quot; (class com.baomidou.mybatisplus.plugins.Page), not marked as ignorable (4 known properties: &quot;size&quot;, &quot;records&quot;, &quot;total&quot;, &quot;current&quot;])" />
+      <item value="java.lang.AssertionError: No value at JSON path &quot;$.data.data&quot;" />
       <item value="依赖注入" />
       <item value="If this object represents a primitive type or void, the method * returns an array of length 0." />
       <item value="&lt;p&gt; If this {@code Class} object represents an array type, the * interfaces {@code Cloneable} and {@code java.io.Serializable} are * returned in that order. *" />
@@ -49,13 +51,11 @@
       <item value="语法" />
       <item value="stynx" />
       <item value="security Owner Name" />
-      <item value="floor" />
-      <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'companyCorporationName' in 'class com.zx.idc.ds.base.oper.vo.BaseOperCompanyVo'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="975" />
-        <entry key="ENGLISH" value="975" />
+        <entry key="CHINESE" value="976" />
+        <entry key="ENGLISH" value="977" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
