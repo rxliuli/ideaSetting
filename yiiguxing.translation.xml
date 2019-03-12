@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="java.lang.AssertionError: Expecting actual not to be null" />
+      <item value="No mapping found for HTTP request with URI [/api/baseOperCompany/1102822666579853313] in DispatcherServlet with name ''" />
+      <item value="java.lang.AssertionError: Content type not set" />
       <item value="java.lang.IllegalArgumentException: Error: entityList must not be empty" />
       <item value="interfaceConfiguration' depends on missing bean 'initialConfig'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'initialConfig' available" />
       <item value="Interface to be implemented by any object that wishes to be notified * of the {@link ApplicationContext} that it runs in. * * &lt;p&gt;Implementing this interface makes sense for example when an object * requires access to a set of collaborating beans. Note that configuration * via bean references is preferable to implementing this interface just * for bean lookup purposes." />
@@ -48,14 +51,11 @@
       <item value="Slog Abnormal Ip" />
       <item value="Abnormal" />
       <item value="Slog Abnor" />
-      <item value="pagation" />
-      <item value="java.lang.NoSuchMethodError: com.zx.idc.backend.gui.base.oper.BaseOperCompanyController.page(Lcom/baomidou/mybatisplus/plugins/Page;)Lcom/zx/idc/backend/gui/common/Result; at com.zeroturnaround.jrebelbase.facade.s.throwWrappedNoSuchMethodError(SourceFile:171) ~[na:201807040958]" />
-      <item value=": Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.web.multipart.MultipartException: Failed to parse multipart servlet request; nested exception is java.io.IOException: The temporary upload location [C:\Users\rxliuli\AppData\Local\Temp\tomcat.1938809054210500723.8080\work\Tomcat\localhost\ROOT] is not valid] with root cause" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="964" />
-        <entry key="ENGLISH" value="965" />
+        <entry key="CHINESE" value="967" />
+        <entry key="ENGLISH" value="968" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
