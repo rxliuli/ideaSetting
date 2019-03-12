@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="依赖注入" />
       <item value="If this object represents a primitive type or void, the method * returns an array of length 0." />
       <item value="&lt;p&gt; If this {@code Class} object represents an array type, the * interfaces {@code Cloneable} and {@code java.io.Serializable} are * returned in that order. *" />
       <item value="* * &lt;p&gt; If this object represents a class, the return value is an array * containing objects representing all interfaces implemented by the * class. The order of the interface objects in the array corresponds to * the order of the interface names in the {@code implements} clause * of the declaration of the class represented by this object. For * example, given the declaration: * &lt;blockquote&gt;" />
@@ -50,11 +51,10 @@
       <item value="security Owner Name" />
       <item value="floor" />
       <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'companyCorporationName' in 'class com.zx.idc.ds.base.oper.vo.BaseOperCompanyVo'" />
-      <item value="'idcId' not found. Available parameters are [entity, param1]" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="974" />
+        <entry key="CHINESE" value="975" />
         <entry key="ENGLISH" value="975" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
