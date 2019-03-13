@@ -1,8 +1,8 @@
 <application>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="26" />
-    <option name="FONT_FAMILY" value="Iosevka" />
-    <option name="SECONDARY_FONT_FAMILY" value="YouYuan" />
+    <option name="FONT_FAMILY" value="Sarasa Mono CL" />
+    <option name="SECONDARY_FONT_FAMILY" value="Sarasa Mono SC" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
