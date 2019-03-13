@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Table Fill List" />
       <item value="unit Name" />
       <item value="READ DATE TIMESTAMPS AS NANOSECONDS" />
       <item value="Feature that determines whether encountering of unknown * properties (ones that do not map to a property, and there is * no &quot;any setter&quot; or handler that can handle it) * should result in a failure (by throwing a * {@link JsonMappingException}) or not. * This setting only takes effect after all other handling * methods for unknown properties have been tried, and * property remains unhandled. *&lt;p&gt; * Feature is enabled by default (meaning that a * {@link JsonMappingException} will be thrown if an unknown property * is encountered). */" />
@@ -50,12 +51,11 @@
       <item value="The layout:decorator/data-layout-decorator processor has been deprecated and will be removed in the next major version of the layout dialect. Please use layout:decorate/data-layout-decorate instead to future-proof your code. See https://github.com/ultraq/thymeleaf-layout-dialect/issues/95 for more information." />
       <item value="Sheet" />
       <item value="trigger" />
-      <item value="trgger" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="998" />
-        <entry key="ENGLISH" value="999" />
+        <entry key="CHINESE" value="999" />
+        <entry key="ENGLISH" value="1000" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
