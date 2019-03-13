@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Feature that determines whether encountering of unknown * properties (ones that do not map to a property, and there is * no &quot;any setter&quot; or handler that can handle it) * should result in a failure (by throwing a * {@link JsonMappingException}) or not. * This setting only takes effect after all other handling * methods for unknown properties have been tried, and * property remains unhandled. *&lt;p&gt; * Feature is enabled by default (meaning that a * {@link JsonMappingException} will be thrown if an unknown property * is encountered). */" />
+      <item value="Note that support for this feature is implemented by individual data format * module, if (and only if) it makes sense for the format in question. For JSON, * for example, this feature has no effect as properties need not be pre-defined. *&lt;p&gt; * Feature is disabled by default, meaning that if the underlying data format * requires knowledge of all properties to output, attempts to read an unknown * property will result in a {@link JsonProcessingException}" />
+      <item value="Feature that determines what to do if the underlying data format requires knowledge * of all properties to decode (usually via a Schema), and if no definition is * found for a property that input content contains. * Typically most textual data formats do NOT require schema information (although * some do, such as CSV), whereas many binary data formats do require definitions * (such as Avro, protobuf), although not all (Smile, CBOR, BSON and MessagePack do not). * Further note that some formats that do require schema information will not be able * to ignore undefined properties: for example, Avro is fully positional and there is * no possibility of undefined data. This leaves formats like Protobuf that have identifiers * that may or may not map; and as such Protobuf format does make use of this feature. *&lt;p&gt;" />
+      <item value="Typically most textual data formats do NOT require schema information (although * some do, such as CSV), whereas many binary data formats do require definitions * (such as Avro, protobuf), although not all (Smile, CBOR, BSON and MessagePack do not). *&lt;p&gt; * Note that support for this feature is implemented by individual data format * module, if (and only if) it makes sense for the format in question. For JSON, * for example, this feature has no effect as properties need not be pre-defined. *&lt;p&gt; * Feature is disabled by default, meaning that if the underlying data format * requires knowledge of all properties to output, attempts to write an unknown * property will result in a {@link JsonProcessingException}" />
+      <item value="Feature that determines what to do if the underlying data format requires knowledge * of all properties to output, and if no definition is found for a property that * caller tries to write. If enabled, such properties will be quietly ignored; * if disabled, a {@link JsonProcessingException} will be thrown to indicate the * problem." />
+      <item value="IGNORE UNKNOWN" />
+      <item value="IGNORE UNDEFINED" />
       <item value="Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'baseHouseInfoController' method" />
       <item value="pronum" />
       <item value="num" />
@@ -44,18 +51,11 @@
       <item value="trgger" />
       <item value="Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateInputException: An error happened during template parsing (template: &quot;class path resource [templates/index.html]&quot;)] with root cause" />
       <item value="pagaition" />
-      <item value="分页pagi" />
-      <item value="分页" />
-      <item value="Try parse date failed:" />
-      <item value="failed" />
-      <item value="尝试" />
-      <item value="should" />
-      <item value="exact Date Length" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="989" />
-        <entry key="ENGLISH" value="990" />
+        <entry key="CHINESE" value="996" />
+        <entry key="ENGLISH" value="997" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
