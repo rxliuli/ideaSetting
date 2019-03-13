@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unit Name" />
       <item value="READ DATE TIMESTAMPS AS NANOSECONDS" />
       <item value="Feature that determines whether encountering of unknown * properties (ones that do not map to a property, and there is * no &quot;any setter&quot; or handler that can handle it) * should result in a failure (by throwing a * {@link JsonMappingException}) or not. * This setting only takes effect after all other handling * methods for unknown properties have been tried, and * property remains unhandled. *&lt;p&gt; * Feature is enabled by default (meaning that a * {@link JsonMappingException} will be thrown if an unknown property * is encountered). */" />
       <item value="Note that support for this feature is implemented by individual data format * module, if (and only if) it makes sense for the format in question. For JSON, * for example, this feature has no effect as properties need not be pre-defined. *&lt;p&gt; * Feature is disabled by default, meaning that if the underlying data format * requires knowledge of all properties to output, attempts to read an unknown * property will result in a {@link JsonProcessingException}" />
@@ -50,12 +51,11 @@
       <item value="Sheet" />
       <item value="trigger" />
       <item value="trgger" />
-      <item value="Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateInputException: An error happened during template parsing (template: &quot;class path resource [templates/index.html]&quot;)] with root cause" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="997" />
-        <entry key="ENGLISH" value="998" />
+        <entry key="CHINESE" value="998" />
+        <entry key="ENGLISH" value="999" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
