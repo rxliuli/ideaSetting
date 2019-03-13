@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pronum" />
+      <item value="num" />
+      <item value="pro" />
+      <item value="modicon list" />
+      <item value="midicon" />
+      <item value="midicon list" />
+      <item value="tlt" />
+      <item value="main" />
+      <item value="maintlt" />
+      <item value="sectiontitle" />
+      <item value="container" />
+      <item value="containter" />
       <item value="summary Statistics" />
       <item value="parallel" />
       <item value="com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field &quot;pages&quot; (class com.baomidou.mybatisplus.plugins.Page), not marked as ignorable (4 known properties: &quot;size&quot;, &quot;records&quot;, &quot;total&quot;, &quot;current&quot;])" />
@@ -39,37 +51,26 @@
       <item value="should" />
       <item value="exact Date Length" />
       <item value="Date Time Formatter.ISO OFFSET DATE" />
-      <item value="allow Empty" />
-      <item value="Parse the Date from the given text, using the specified DateFormat." />
-      <item value="nested exception is java.lang.IllegalArgumentException: Parse attempt failed for valu" />
-      <item value="write Declared Field" />
-      <item value="base Oper Company" />
-      <item value="019-03-09 09:38:31.788 ERROR 3844 --- [nio-8080-exec-6] o.a.c.c.C.[.[.[/].[dispatcherServlet] : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateInputException: An error happened during template parsing (template: &quot;class path resource [templates/index.html]&quot;)] with root cause" />
-      <item value="syntax" />
-      <item value="styntax" />
-      <item value="stynex" />
-      <item value="措辞错误" />
-      <item value="语法错误" />
-      <item value="语法" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="979" />
-        <entry key="ENGLISH" value="980" />
-        <entry key="IRISH" value="1" />
+        <entry key="CHINESE" value="988" />
+        <entry key="ENGLISH" value="988" />
+        <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
+        <entry key="CZECH" value="1" />
         <entry key="CORSICAN" value="20" />
         <entry key="KURDISH" value="1" />
-        <entry key="LATIN" value="2" />
+        <entry key="LATIN" value="5" />
         <entry key="LATVIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAGASY" value="3" />
-        <entry key="PORTUGUESE" value="1" />
+        <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="2" />
         <entry key="SWEDISH" value="1" />
         <entry key="SLOVAK" value="1" />
@@ -77,6 +78,7 @@
         <entry key="CEBUANO" value="1" />
         <entry key="GREEK" value="1" />
         <entry key="ITALIAN" value="2" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
