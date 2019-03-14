@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="checked Service Content" />
+      <item value="checkbox Service Content" />
+      <item value="checkboxservice Content" />
       <item value="Base Houses Hold Info" />
       <item value="is being wrapped as a Thymeleaf 3 fragment expression (~{...}) for backwards compatibility purposes. This wrapping will be dropped in the next major version of the expression processor, so please rewrite as a Thymeleaf 3 fragment expression to future-proof your code. See https://github.com/thymeleaf/thymeleaf/issues/451 for more information." />
       <item value="update Customer" />
@@ -48,14 +51,11 @@
       <item value="Interface to be implemented by any object that wishes to be notified * of the {@link ApplicationContext} that it runs in. * * &lt;p&gt;Implementing this interface makes sense for example when an object * requires access to a set of collaborating beans. Note that configuration * via bean references is preferable to implementing this interface just * for bean lookup purposes." />
       <item value="Set the ApplicationContext that this object runs in. * Normally this call will be used to initialize the object. * &lt;p&gt;Invoked after population of normal bean properties but before an init callback such" />
       <item value="get Generic Class Service" />
-      <item value="Cannot construct instance of `java.io.Serializable` (no Creators, like default construct, exist): abstract types either need to be mapped to concrete types, have custom deserializer, or contain additional type information at [Source: (PushbackInputStream); line: 1, column: 2] (through reference chain: java.util.ArrayList[0])" />
-      <item value="java.lang.NoSuchMethodException: java.util.List.&lt;init&gt;()" />
-      <item value="Symbol" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1003" />
-        <entry key="ENGLISH" value="1004" />
+        <entry key="CHINESE" value="1007" />
+        <entry key="ENGLISH" value="1008" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
