@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is being wrapped as a Thymeleaf 3 fragment expression (~{...}) for backwards compatibility purposes. This wrapping will be dropped in the next major version of the expression processor, so please rewrite as a Thymeleaf 3 fragment expression to future-proof your code. See https://github.com/thymeleaf/thymeleaf/issues/451 for more information." />
       <item value="Base Houses Hold Info" />
       <item value="update Customer" />
       <item value="set Table Fill List" />
@@ -50,12 +51,11 @@
       <item value="Cannot construct instance of `java.io.Serializable` (no Creators, like default construct, exist): abstract types either need to be mapped to concrete types, have custom deserializer, or contain additional type information at [Source: (PushbackInputStream); line: 1, column: 2] (through reference chain: java.util.ArrayList[0])" />
       <item value="java.lang.NoSuchMethodException: java.util.List.&lt;init&gt;()" />
       <item value="Symbol" />
-      <item value="The layout:decorator/data-layout-decorator processor has been deprecated and will be removed in the next major version of the layout dialect. Please use layout:decorate/data-layout-decorate instead to future-proof your code. See https://github.com/ultraq/thymeleaf-layout-dialect/issues/95 for more information." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1001" />
-        <entry key="ENGLISH" value="1002" />
+        <entry key="CHINESE" value="1002" />
+        <entry key="ENGLISH" value="1003" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
