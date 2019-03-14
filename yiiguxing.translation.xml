@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="is being wrapped as a Thymeleaf 3 fragment expression (~{...}) for backwards compatibility purposes. This wrapping will be dropped in the next major version of the expression processor, so please rewrite as a Thymeleaf 3 fragment expression to future-proof your code. See https://github.com/thymeleaf/thymeleaf/issues/451 for more information." />
       <item value="Base Houses Hold Info" />
+      <item value="is being wrapped as a Thymeleaf 3 fragment expression (~{...}) for backwards compatibility purposes. This wrapping will be dropped in the next major version of the expression processor, so please rewrite as a Thymeleaf 3 fragment expression to future-proof your code. See https://github.com/thymeleaf/thymeleaf/issues/451 for more information." />
       <item value="update Customer" />
       <item value="set Table Fill List" />
       <item value="unit Name" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1002" />
-        <entry key="ENGLISH" value="1003" />
+        <entry key="CHINESE" value="1003" />
+        <entry key="ENGLISH" value="1004" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />

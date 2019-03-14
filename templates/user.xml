@@ -107,4 +107,9 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="vo" value="    // region 公共字段&#10;    // endregion&#10;    &#10;    // region 参数字段&#10;    // endregion&#10;    &#10;    // region 返回值字段&#10;    // endregion" description="Generate region for Vo Entity" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
 </templateSet>
