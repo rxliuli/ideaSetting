@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="confirm Add Base Customer" />
+      <item value="confirm Add Base Consumer" />
+      <item value="confirm Add Base Costomer" />
+      <item value="confirm Add Base Constomer" />
+      <item value="confirm" />
+      <item value="config" />
       <item value="checked Service Content" />
       <item value="checkbox Service Content" />
       <item value="checkboxservice Content" />
@@ -45,17 +51,11 @@
       <item value="java.lang.AssertionError: JSON path &quot;$.data&quot; Expected :true&#10;Actual :false" />
       <item value="java.lang.AssertionError: Expecting actual not to be null" />
       <item value="No mapping found for HTTP request with URI [/api/baseOperCompany/1102822666579853313] in DispatcherServlet with name ''" />
-      <item value="java.lang.AssertionError: Content type not set" />
-      <item value="java.lang.IllegalArgumentException: Error: entityList must not be empty" />
-      <item value="interfaceConfiguration' depends on missing bean 'initialConfig'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'initialConfig' available" />
-      <item value="Interface to be implemented by any object that wishes to be notified * of the {@link ApplicationContext} that it runs in. * * &lt;p&gt;Implementing this interface makes sense for example when an object * requires access to a set of collaborating beans. Note that configuration * via bean references is preferable to implementing this interface just * for bean lookup purposes." />
-      <item value="Set the ApplicationContext that this object runs in. * Normally this call will be used to initialize the object. * &lt;p&gt;Invoked after population of normal bean properties but before an init callback such" />
-      <item value="get Generic Class Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1007" />
-        <entry key="ENGLISH" value="1008" />
+        <entry key="CHINESE" value="1012" />
+        <entry key="ENGLISH" value="1013" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
@@ -70,7 +70,7 @@
         <entry key="LATVIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAGASY" value="3" />
-        <entry key="PORTUGUESE" value="2" />
+        <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
         <entry key="SWEDISH" value="1" />
         <entry key="SLOVAK" value="1" />
