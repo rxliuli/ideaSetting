@@ -8,5 +8,6 @@
     <resource url="http://www.puppycrawl.com/dtds/configuration_1_3.dtd" location="$USER_HOME$/.IntelliJIdea2017.3/system/extResources/1524e8b2_configuration_1_3.dtd" />
     <resource url="http://www.thymeleaf.org/xsd/thymeleaf-extras-dialect-2.1.xsd" location="$APPLICATION_HOME_DIR$/.IntelliJIdea/system/extResources/26499efe_thymeleaf-extras-dialect-2.1.xsd" />
     <resource url="https://raw.githubusercontent.com/ultraq/thymeleaf-layout-dialect/master/source/nz/net/ultraq/thymeleaf/LayoutDialect.xml" location="$APPLICATION_HOME_DIR$/.IntelliJIdea/system/extResources/ee03de9f_LayoutDialect.xml" />
+    <ignored-resource url="http://www.ultraq.net.nz/thymeleaf/layout" />
   </component>
 </application>
