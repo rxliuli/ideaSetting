@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="manual Pagination" />
+      <item value="分页" />
+      <item value="manual Page" />
+      <item value="manual" />
+      <item value="手动" />
       <item value="avatar" />
       <item value="post" />
       <item value="essay post" />
@@ -46,16 +51,11 @@
       <item value="main" />
       <item value="maintlt" />
       <item value="sectiontitle" />
-      <item value="container" />
-      <item value="containter" />
-      <item value="summary Statistics" />
-      <item value="parallel" />
-      <item value="com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field &quot;pages&quot; (class com.baomidou.mybatisplus.plugins.Page), not marked as ignorable (4 known properties: &quot;size&quot;, &quot;records&quot;, &quot;total&quot;, &quot;current&quot;])" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1024" />
-        <entry key="ENGLISH" value="1024" />
+        <entry key="CHINESE" value="1028" />
+        <entry key="ENGLISH" value="1029" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
