@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Error updating database. Cause: java.sql.SQLException: Field 'officer' doesn't have a default value&#10;### The error may involve com.zx.idc.ds.base.cus.dao.BaseCustomerMapper.insert-Inline&#10;### The error occurred while setting parameters" />
+      <item value="Error updating database. Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'id' cannot be null&#10;### The error may involve com.zx.idc.ds.base.cus.dao.BaseCustomerMapper.insert-Inline" />
+      <item value="INSERT INTO base_customer ( id, unitName, unitNature, idType, idNumber, address, zipCode, userType ) VALUES ( ?, ?, ?, ?, ?, ?, ?, ? )" />
       <item value="manual Pagination" />
       <item value="分页" />
       <item value="manual Page" />
@@ -48,14 +51,11 @@
       <item value="midicon" />
       <item value="midicon list" />
       <item value="tlt" />
-      <item value="main" />
-      <item value="maintlt" />
-      <item value="sectiontitle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1028" />
-        <entry key="ENGLISH" value="1029" />
+        <entry key="CHINESE" value="1031" />
+        <entry key="ENGLISH" value="1032" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
