@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="row-hover-color" />
+      <item value="is-vertical-resize" />
       <item value="register Custom Editor" />
       <item value="com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `com.zx.idc.backend.gui.common.SingleObjectUtilTest$Demo` (although at least one Creator exists): can only instantiate non-static inner class by using default, no-argument constructor" />
       <item value="LOCAL DATE TIME FORMATTER FOR SPACE SEPARATED" />
@@ -49,13 +51,11 @@
       <item value="confirm" />
       <item value="config" />
       <item value="checked Service Content" />
-      <item value="checkbox Service Content" />
-      <item value="checkboxservice Content" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1052" />
-        <entry key="ENGLISH" value="1053" />
+        <entry key="CHINESE" value="1054" />
+        <entry key="ENGLISH" value="1055" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
