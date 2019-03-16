@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Align" />
       <item value="row-hover-color" />
       <item value="is-vertical-resize" />
       <item value="register Custom Editor" />
@@ -50,12 +51,11 @@
       <item value="confirm Add Base Constomer" />
       <item value="confirm" />
       <item value="config" />
-      <item value="checked Service Content" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1054" />
-        <entry key="ENGLISH" value="1055" />
+        <entry key="CHINESE" value="1055" />
+        <entry key="ENGLISH" value="1056" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
