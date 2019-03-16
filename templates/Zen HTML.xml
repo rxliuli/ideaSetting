@@ -4,4 +4,7 @@
     <variable name="method" expression="" defaultValue="&quot;post&quot;" alwaysStopAt="false" />
     <context />
   </template>
+  <template name="script" value="&lt;script !src=&quot;&quot;&gt;$END$&lt;/script&gt;" description="&lt;script&gt;...&lt;/script&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
 </templateSet>
