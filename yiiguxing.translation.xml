@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `com.zx.idc.backend.gui.common.SingleObjectUtilTest$Demo` (although at least one Creator exists): can only instantiate non-static inner class by using default, no-argument constructor" />
       <item value="LOCAL DATE TIME FORMATTER FOR SPACE SEPARATED" />
       <item value="Local Date Time Formatter For Spece Separated" />
       <item value="空格分隔" />
@@ -50,12 +51,11 @@
       <item value="checkbox Service Content" />
       <item value="checkboxservice Content" />
       <item value="Base Houses Hold Info" />
-      <item value="is being wrapped as a Thymeleaf 3 fragment expression (~{...}) for backwards compatibility purposes. This wrapping will be dropped in the next major version of the expression processor, so please rewrite as a Thymeleaf 3 fragment expression to future-proof your code. See https://github.com/thymeleaf/thymeleaf/issues/451 for more information." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1050" />
-        <entry key="ENGLISH" value="1051" />
+        <entry key="CHINESE" value="1051" />
+        <entry key="ENGLISH" value="1052" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
