@@ -102,7 +102,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="vueTemplate" value="const app = new Vue({&#10;    el: '#app',&#10;    data: {&#10;        &#10;    },&#10;    methods: {&#10;        &#10;    },&#10;    computed: {&#10;        &#10;    },&#10;    mounted() {&#10;&#10;    },&#10;})" description="Generator a base vue template" toReformat="false" toShortenFQNames="true">
+  <template name="vueTemplate" value="const app = new Vue({&#10;    el: '#app',&#10;    data: {&#10;        &#10;    },&#10;    methods: {&#10;        &#10;    },&#10;    computed: {&#10;        &#10;    },&#10;    async mounted() {&#10;&#10;    },&#10;})" description="Generator a base vue template" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JS_STATEMENT" value="true" />
     </context>
