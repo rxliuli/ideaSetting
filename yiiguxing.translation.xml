@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'assignUseTimeStart' in 'where clause'&#10;; bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'assignUseTimeStart' in 'where clause'] with root cause" />
       <item value="ACCURATE" />
       <item value="Param Constant" />
       <item value="assign Use Time" />
@@ -50,12 +51,11 @@
       <item value="post" />
       <item value="essay post" />
       <item value="essay" />
-      <item value="文章" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1068" />
-        <entry key="ENGLISH" value="1069" />
+        <entry key="CHINESE" value="1069" />
+        <entry key="ENGLISH" value="1070" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
