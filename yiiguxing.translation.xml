@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'baseFrameInfoController' method public default com.zx.idc.backend.gui.common.Result&lt;java.lang.Boolean&gt; com.zx.idc.backend.gui.common.base.BaseAddApi.add(Entity)&#10;to {[/api/baseFrameInfo/add],methods=[POST]}: There is already 'baseFrameInfoController' bean method" />
+      <item value="public default com.zx.idc.backend.gui.common.Result&lt;java.lang.Boolean&gt; com.zx.idc.backend.gui.common.base.BaseAddApi.add(Entity)&#10;to {[/api/baseFrameInfo/add],methods=[POST]}: There is already 'baseFrameInfoController' bean method" />
+      <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'baseFrameInfoController' method" />
       <item value="com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '; ) TOTAL" />
       <item value="base Ip Address Info Form" />
       <item value="show-vertical-border" />
@@ -48,14 +51,11 @@
       <item value="Variable" />
       <item value="Unresolved" />
       <item value="JS Unresolved Variable" />
-      <item value="confirm Add Base Customer" />
-      <item value="confirm Add Base Consumer" />
-      <item value="confirm Add Base Costomer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1058" />
-        <entry key="ENGLISH" value="1059" />
+        <entry key="CHINESE" value="1061" />
+        <entry key="ENGLISH" value="1062" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
