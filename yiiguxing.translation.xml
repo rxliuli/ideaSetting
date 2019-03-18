@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assign Company" />
+      <item value="There is no getter for property named 'userCompany' in 'class com.zx.idc.ds.base.ip.vo.BaseIpAddressInfoVo'" />
       <item value="Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'assignUseTimeStart' in 'where clause'&#10;; bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'assignUseTimeStart' in 'where clause'] with root cause" />
       <item value="ACCURATE" />
       <item value="Param Constant" />
@@ -49,13 +51,11 @@
       <item value="手动" />
       <item value="avatar" />
       <item value="post" />
-      <item value="essay post" />
-      <item value="essay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1069" />
-        <entry key="ENGLISH" value="1070" />
+        <entry key="CHINESE" value="1071" />
+        <entry key="ENGLISH" value="1072" />
         <entry key="IRISH" value="2" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
